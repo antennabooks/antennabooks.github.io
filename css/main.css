@@ -1,0 +1,33 @@
+/* card */
+
+@media (min-width: 0px) {
+  .card-columns {
+    column-count: 1;
+  }
+}
+
+@media (min-width: 768px) {
+  .card-columns {
+    column-count: 2;
+  }
+}
+
+@media (min-width: 992px) {
+  .card-columns {
+    column-count: 3;
+  }
+}
+
+.card-title {
+  font-size: 1.1rem;
+}
+
+.popover {
+  max-width: 200%;
+}
+
+/* form */
+
+.form-group {
+  margin-bottom: 0.5rem;
+}
