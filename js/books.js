@@ -26,7 +26,7 @@ function ordinalSuffix(i) {
 }
 
 function createBookCards(books) {
-  $.get('/old/database/api/v1', function(user) {
+  // $.get('/old/database/api/v1', function(user) {
     $('.grid__item').remove()
     $('.content__item').remove()
     var sortedBooks = books.sort(function(b1, b2) {
@@ -128,31 +128,31 @@ function createBookCards(books) {
       var el2_ul = document.createElement('ul')
       el2_ul.className = 'ui list'
       el2_ul.setAttribute('file', book.file)
-      book.chapters.forEach(function(chapter) {
-        if (chapter.level <= book.chapterDisplayLevel || (user && user.username == 'hsyn')) {
-          if (chapter.level == 1) {
-            var el2_ul_li = document.createElement('li')
-            el2_ul_li.setAttribute('style', 'padding-top:0.5em;')
-            el2_ul_li.setAttribute('page', chapter.page)
-            el2_ul_li.innerText = chapter.title
-            el2_ul.appendChild(el2_ul_li)
-          }
-          if (chapter.level > 1) {
-            var el2_ul_ul = document.createElement('ul')
-            el2_ul_ul.setAttribute('style', 'padding-top:0em;padding-bottom:0em;')
-            var el2_ul_ul_li = document.createElement('li')
-            el2_ul_ul_li.setAttribute('page', chapter.page)
-            el2_ul_ul_li.innerText = chapter.title
-            el2_ul_ul.appendChild(el2_ul_ul_li)
-            el2_ul.appendChild(el2_ul_ul)
-          }
-        }
-      })
+      // book.chapters.forEach(function(chapter) {
+        // if (chapter.level <= book.chapterDisplayLevel || (user && user.username == 'hsyn')) {
+        //   if (chapter.level == 1) {
+        //     var el2_ul_li = document.createElement('li')
+        //     el2_ul_li.setAttribute('style', 'padding-top:0.5em;')
+        //     el2_ul_li.setAttribute('page', chapter.page)
+        //     el2_ul_li.innerText = chapter.title
+        //     el2_ul.appendChild(el2_ul_li)
+        //   }
+        //   if (chapter.level > 1) {
+        //     var el2_ul_ul = document.createElement('ul')
+        //     el2_ul_ul.setAttribute('style', 'padding-top:0em;padding-bottom:0em;')
+        //     var el2_ul_ul_li = document.createElement('li')
+        //     el2_ul_ul_li.setAttribute('page', chapter.page)
+        //     el2_ul_ul_li.innerText = chapter.title
+        //     el2_ul_ul.appendChild(el2_ul_ul_li)
+        //     el2_ul.appendChild(el2_ul_ul)
+        //   }
+        // }
+      // })
       el2.appendChild(el2_ul)
       document.querySelector('.scroll-wrap').appendChild(el2)
       initGrid()
     })
-  })
+  // })
 }
 
 var allBooks = []
