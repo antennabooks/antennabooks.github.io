@@ -157,7 +157,8 @@ function createBookCards(books) {
 
 var allBooks = []
 ready(function() {
-  $.get('/old/database/api/v1/portfolios/books', function(books) {
+  // $.get('/old/database/api/v1/portfolios/books', function(books) {
+  $.getJSON('json/books2.json', function(books) {
     createBookCards(books)
     // search and filter books
     var fuseOptions = {
