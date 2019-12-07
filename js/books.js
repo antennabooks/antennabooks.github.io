@@ -53,7 +53,7 @@ function createBookCards(books) {
       })
       var el_div1_img0 = $('<img />', {
         class: 'meta__avatar',
-        src: '/old/filesystem/api/v1/files/' + book.cover
+        src: book.cover
       })
       var el_div1_span0 = $('<span />', {
         class: 'meta__date',
