@@ -193,41 +193,12 @@
 
   <script>
     setTimeout(function () {
-      // $$("addItemWindow").show();
-      // $$("addItemChaptersWindow").show();
-      // $('.modal').modal('show')
-      // $('.modal').modal('show')
+
       initGrid()
 
-      $.get('/old/database/api/v1', function (user) {
-        if (user && user.username == 'hsyn') {
-          $('li').click(function (e) {
-            $('.col-4.bookmarks').empty()
-            $(e.target).parents('ul.list').clone().appendTo('.col-4.bookmarks')
-            $('.col-4.bookmarks > .ui.list').css('font-size', '10px')
-            $('.col-4.bookmarks > .ui.list').css('overflow-y', 'scroll')
-            $('.col-4.bookmarks').css('max-height', '100%')
-            $('.col-4.bookmarks > .ui.list').css('max-height', '100%')
-            $('.modal').modal('show')
-
-            var file = $('.bookmarks > .ui.list').attr('file')
-            PDFObject.embed('/filesystem/api/v1/files/' + file, '.reader')
-
-            document.querySelectorAll('.bookmarks > .ui.list > li').forEach(function (el) {
-              el.innerText += ' - p' + el.getAttribute('page')
-            })
-            document.querySelectorAll('.bookmarks > .ui.list > ul > li').forEach(function (el) {
-              el.innerText += ' - p' + el.getAttribute('page')
-            })
-          })
-        }
-      })
-
+   
     }, 2000)
 
-    // $.get('/database/api/v1/portfolios/books', function(data){
-    // console.log(data)
-    // })
     $(document).waitForImages(function () {
       $(".ui.active.dimmer").removeClass("active")
       console.log("Images loaded.")
