@@ -2242,7 +2242,7 @@
       "$oid": "5c7786ff344cce60ec7f50f8"
     },
     "file": "5ca1eed5c70c568c50ebdacb",
-    "cover": "5c7786fecda94d7b35759b5c",
+    "cover": "https://mhebooklibrary.com/na101/home/literatum/publisher/mhp/books/content/books/2007/0071475745/0071475745/production/0071475745.cover.jpg",
     "title": "Antenna Engineering Handbook",
     "author": "John L. Volakis",
     "publisher": "McGraw-Hill",
@@ -13825,7 +13825,7 @@
       "hsyn",
       "admin"
     ],
-    "cover": "5c9e0b9e4b7d276c7561ea18",
+    "cover": "https://images.springer.com/sgw/books/medium/9789814560436.jpg",
     "publisher": "Springer",
     "publisherUrl": "https://www.springer.com/gp/book/9789814560436",
     "amazonUrl": "https://www.amazon.com/Handbook-Antenna-Technologies-Ning-Chen/dp/981456043X",
@@ -13838,7 +13838,7 @@
     "_id": {
       "$oid": "5caf1142c70c568c500d09bc"
     },
-    "cover": "5caf0df21b9c8813a0e5adba",
+    "cover": "https://www.ece.rutgers.edu/~orfanidi/ewa/cover2016.jpg",
     "title": "Electromagnetic Waves and Antennas",
     "author": "Sophacles J. Orfanidis",
     "publisher": "Rutgers University",
@@ -15736,7 +15736,7 @@
       "$oid": "5cb47d10c70c568c501ab017"
     },
     "file": "5cb481f1c70c568c501abceb",
-    "cover": "5cb47aba1b9c8813a0e5adbb",
+    "cover": "https://onlinelibrary.wiley.com/cms/attachment/53116434-14d8-4feb-8012-71ece5833a63/0471743690.cover.gif",
     "title": "Introduction to RF Propagation",
     "author": "John S. Seybold",
     "publisher": "Wiley",
@@ -17795,7 +17795,7 @@
       "$oid": "5cbf71a5c70c568c50362d08"
     },
     "file": "5cbf708ec70c568c50362a31",
-    "cover": "5cbf6e3642e7d10968e7fa55",
+    "cover": "https://media.wiley.com/product_data/coverImage300/42/04705766/0470576642.jpg",
     "title": "Antenna Theory and Design",
     "author": "Warren L. Stutzman, Gary A. Thiele",
     "publisher": "Wiley",
@@ -19677,7 +19677,7 @@
       "$oid": "5cc0c534c70c568c50398b15"
     },
     "file": "5cc0c4cfc70c568c50398a06",
-    "cover": "5cc0c1bc42e7d10968e7fa5f",
+    "cover": "https://digital-library.theiet.org/docserver/fulltext/PBEW012Emedium.jpg",
     "title": "Microstrip Antenna Theory and Design",
     "author": "J. R. James, P. S. Hall, C. Wood",
     "publisher": "Peter Peregrinus Ltd.",
@@ -20464,7 +20464,7 @@
       "$oid": "5cc745fa6b290f95ff0973d9"
     },
     "file": "5cc673516b290f95ff070e46",
-    "cover": "5cc66ee943e939041c7b2247",
+    "cover": "https://onlinelibrary.wiley.com/cms/attachment/8f258736-81e4-4a84-9b30-b1e30c775459/0471720615.cover.gif",
     "title": "Modern Antenna Design",
     "author": "Thomas A. Milligan",
     "publisher": "Wiley",
@@ -21986,7 +21986,7 @@
       "$oid": "5cce93cb6b290f95ff1eb3fc"
     },
     "file": "5cce935f6b290f95ff1eb2ae",
-    "cover": "5cce921343e939041c7b2248",
+    "cover": "https://images.tandf.co.uk/common/jackets/amazon/978084931/9780849312069.jpg",
     "title": "Smart Antennas",
     "author": "Lal Chand Godara",
     "publisher": "CRC Press",
@@ -23728,11 +23728,11 @@
       "$oid": "5cd3c92b0f89620e3068c6c8"
     },
     "file": "5cd3c8380f89620e3068c3f7",
-    "cover": "5cd3c52e8866d8119876a7b7",
+    "cover": "https://digital-library.theiet.org/docserver/fulltext/PBEW019Emedium.jpg",
     "title": "Microwave Antenna Theory and Design",
     "author": "Samuel Silver",
     "publisher": "IET",
-    "publisherSite": "https://digital-library.theiet.org/content/books/ew/pbew019ei",
+    "publisherSite": "https://digital-library.theiet.org/content/books/ew/pbew019e",
     "amazonSite": "https://www.amazon.com/Microwave-Antenna-Theory-Design-Electromagnetics/dp/0863410170",
     "edition": 1,
     "year": 1949,
