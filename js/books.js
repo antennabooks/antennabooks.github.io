@@ -162,7 +162,9 @@ function createBookCards(books) {
 var allBooks = []
 ready(function () {
   $.getJSON('json/books3.json', function (books) {
-    createBookCards(books)
+    createBookCards(books.filter(function(book){
+      return book.granted
+    }))
     // search and filter books
     var fuseOptions = {
       keys: ['title', 'chapters.title'],
