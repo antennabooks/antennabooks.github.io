@@ -25,7 +25,7 @@ function ordinalSuffix(i) {
   if (j > 3) { 
     return i + "th" 
   }
-  return j
+  return i
 }
 
 function createBookCards(books) {
