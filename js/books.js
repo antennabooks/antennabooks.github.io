@@ -133,7 +133,7 @@ function createBookCards(books) {
     el2_ul.setAttribute('file', book.file)
     user = { username: "anonymous" }
     book.chapters.forEach(function (chapter) {
-      if (chapter.level <= book.chapterDisplayLevel || (user && user.username == 'hsyn')) {
+      if (true || (user && user.username == 'hsyn')) {
         if (chapter.level == 1) {
           var el2_ul_li = document.createElement('li')
           el2_ul_li.setAttribute('style', 'padding-top:0.5em;')
@@ -6864,7 +6864,6 @@ var bookList = [
     "edition": "Revised",
     "year": 2003,
     "description": "First published in 1981, Robert S. Elliott's Antenna Theory and Design is one of the most significant works in electromagnetic theory and applications. In its broad-ranging, analytic treatment, replete with supporting experimental evidence, Antenna Theory and Design conveys fundamental methods of analysis that can be used to predict the electromagnetic behavior of nearly everything that radiates. After more than two decades, it remains a key resource for students, professors, researchers, and engineers who require a comprehensive, in-depth treatment of the subject.",
-    chapterDisplayLevel: 1,
     "chapters": [
       {
         "level": 1,
