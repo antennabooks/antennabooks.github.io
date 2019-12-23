@@ -1,9 +1,5 @@
 [
   {
-    "_id": {
-      "$oid": "5c6f05fb344cce60ec7f50f4"
-    },
-    "file": "5ca1eed5c70c568c50ebdaca",
     "cover": "https://media.wiley.com/product_data/coverImage300/66/11186420/1118642066.jpg",
     "title": "Antenna Theory, Analysis and Design",
     "author": "Constantine A. Balanis",
@@ -14,15 +10,6 @@
     "year": 2015,
     "description": "This book introduces the fundamental principles of antenna theory and explains how to apply them to the analysis, design, and measurements of antennas. Due to the variety of methods of analysis and design, and the different antenna structures available, the applications covered in this book are made to some of the most basic and practical antenna configurations. Among these antenna configurations are linear dipoles; loops; arrays; broadband antennas; aperture antennas; horns; microstrip antennas; and reflector antennas. The text contains sufficient mathematical detail to enable undergraduate and beginning graduate students in electrical engineering and physics to follow the flow of analysis and design. Readers should have a basic knowledge of undergraduate electromagnetic theory, including Maxwell’s equations and the wave equation, introductory physics, and differential and integral calculus.",
     "filename": "00006  Antenna Theory Analysis and Design.pdf",
-    "users": [
-      "guest",
-      "hsyn",
-      "admin"
-    ],
-    "owners": [
-      "hsyn",
-      "admin"
-    ],
     "chapters": [
       {
         "level": 1,
@@ -2238,10 +2225,6 @@
     "chapterDisplayLevel": 2
   },
   {
-    "_id": {
-      "$oid": "5c7786ff344cce60ec7f50f8"
-    },
-    "file": "5ca1eed5c70c568c50ebdacb",
     "cover": "https://mhebooklibrary.com/na101/home/literatum/publisher/mhp/books/content/books/2007/0071475745/0071475745/production/0071475745.cover.jpg",
     "title": "Antenna Engineering Handbook",
     "author": "John L. Volakis",
@@ -2252,15 +2235,6 @@
     "year": 2007,
     "description": "The “bible of antenna engineering” fully updated to provide state-of-the-art coverage in antenna design and applications\n\nEdited by John L. Volakis, one of the world's leading authorities in antenna engineering, this trusted resource covers all the classic antenna types plus many new types and designs used in communications systems, satellites, radars, and emerging applications from WLAN to automotive systems to biomedical to smart antennas.",
     "filename": "00002-1  Fundamentals of Antennas, Arrays, and Mobile Communications.pdf",
-    "users": [
-      "guest",
-      "hsyn",
-      "admin"
-    ],
-    "owners": [
-      "hsyn",
-      "admin"
-    ],
     "chapters": [
       {
         "level": 1,
@@ -2581,9 +2555,6 @@
     "chapterDisplayLevel": 2
   },
   {
-    "_id": {
-      "$oid": "5c9b4496c70c568c50db252c"
-    },
     "title": "Handbook of Antenna Technologies",
     "author": "Chen, Z.N., Liu, D., Nakano, H., Qing, X., Zwick, Th.",
     "edition": 1,
@@ -13816,28 +13787,15 @@
         "page": 3452
       }
     ],
-    "owners": [
-      "hsyn",
-      "admin"
-    ],
-    "users": [
-      "guest",
-      "hsyn",
-      "admin"
-    ],
     "cover": "https://images.springer.com/sgw/books/medium/9789814560436.jpg",
     "publisher": "Springer",
     "publisherUrl": "https://www.springer.com/gp/book/9789814560436",
     "amazonUrl": "https://www.amazon.com/Handbook-Antenna-Technologies-Ning-Chen/dp/981456043X",
     "amazonSite": "https://www.amazon.com/Handbook-Antenna-Technologies-Ning-Chen/dp/981456043X",
     "publisherSite": "https://www.springer.com/gp/book/9789814560436",
-    "file": "5ca1eed5c70c568c50ebdacc",
     "chapterDisplayLevel": 2
   },
   {
-    "_id": {
-      "$oid": "5caf1142c70c568c500d09bc"
-    },
     "cover": "https://www.ece.rutgers.edu/~orfanidi/ewa/cover2016.jpg",
     "title": "Electromagnetic Waves and Antennas",
     "author": "Sophacles J. Orfanidis",
@@ -13847,15 +13805,6 @@
     "edition": 1,
     "year": 2016,
     "description": "This book provides a broad and applications-oriented introduction to electromagnetic waves and antennas, with MATLAB examples. Current interest in these areas is driven by the growth in wireless and fiber-optic communications, information technology, and materials science. \n\n Communications, antenna, radar, and microwave engineers must deal with the generation, transmission, and reception of electromagnetic waves. Device engineers working on ever-smaller integrated circuits and at ever higher frequencies must take into account wave propagation effects at the chip and circuit-board levels. Communication and computer network engineers routinely use waveguiding systems, such as transmission lines and optical fibers. Novel recent developments in materials, such as photonic bandgap structures, omnidirectional dielectric mirrors, birefringent multilayer films, surface plasmons, negative-index metamaterials, slow and fast light, promise a revolution in the control and manipulation of light and other applications. These are just some examples of topics discussed in this book.",
-    "users": [
-      "guest",
-      "hsyn",
-      "admin"
-    ],
-    "owners": [
-      "hsyn",
-      "admin"
-    ],
     "chapters": [
       {
         "level": 1,
@@ -15728,14 +15677,9 @@
         "page": 1421
       }
     ],
-    "file": "5caf4711c70c568c500d9179",
     "chapterDisplayLevel": 2
   },
   {
-    "_id": {
-      "$oid": "5cb47d10c70c568c501ab017"
-    },
-    "file": "5cb481f1c70c568c501abceb",
     "cover": "https://onlinelibrary.wiley.com/cms/attachment/53116434-14d8-4feb-8012-71ece5833a63/0471743690.cover.gif",
     "title": "Introduction to RF Propagation",
     "author": "John S. Seybold",
@@ -15745,15 +15689,6 @@
     "edition": 1,
     "year": 2005,
     "description": "An introduction to RF propagation that spans all wireless applications\n\n This book provides readers with a solid understanding of the concepts involved in the propagation of electromagnetic waves and of the commonly used modeling techniques. While many books cover RF propagation, most are geared to cellular telephone systems and, therefore, are limited in scope. This title is comprehensive-it treats the growing number of wireless applications that range well beyond the mobile telecommunications industry, including radar and satellite communications.i",
-    "users": [
-      "guest",
-      "hsyn",
-      "admin"
-    ],
-    "owners": [
-      "hsyn",
-      "admin"
-    ],
     "chapters": [
       {
         "level": 1,
@@ -16589,10 +16524,6 @@
     "chapterDisplayLevel": 2
   },
   {
-    "_id": {
-      "$oid": "5cbe1029c70c568c5032b71d"
-    },
-    "file": "5cbe160fc70c568c5032c630",
     "cover": "https://digital-library.theiet.org/docserver/fulltext/SBEW517Emedium.jpg",
     "title": "Slotted Waveguide Array Antennas",
     "author": "Lars Josefsson, Sembiam Rengarajan",
@@ -16602,15 +16533,6 @@
     "edition": 1,
     "year": 2018,
     "description": "Slotted waveguide antenna arrays are used in radar, communication and remote sensing systems for high frequencies. They have linear polarization with low cross-polarization and low losses but can also be designed for dual polarizations and phase steered beams. Slotted Waveguide Array Antennas is the first comprehensive treatment of these antennas from an engineering perspective. It provides readers with a thorough foundation in applicable theories as well as hands-on instruction for practical analysis, design, manufacture and use of important types of waveguide slot arrays. It goes beyond some of the commonly discussed topics and ventures into areas that include higher order mode coupling and edge effects; performance optimisation in terms of bandwidth and pattern performance and manufacturing tolerances. With specific examples of waveguide array designs, accompanied by detailed illustrations and antenna characteristics, the book is a must-have reference for engineers involved in antenna design, development and applications.",
-    "users": [
-      "guest",
-      "hsyn",
-      "admin"
-    ],
-    "owners": [
-      "hsyn",
-      "admin"
-    ],
     "chapters": [
       {
         "level": 1,
@@ -17791,10 +17713,6 @@
     "chapterDisplayLevel": 2
   },
   {
-    "_id": {
-      "$oid": "5cbf71a5c70c568c50362d08"
-    },
-    "file": "5cbf708ec70c568c50362a31",
     "cover": "https://media.wiley.com/product_data/coverImage300/42/04705766/0470576642.jpg",
     "title": "Antenna Theory and Design",
     "author": "Warren L. Stutzman, Gary A. Thiele",
@@ -17804,15 +17722,6 @@
     "edition": 3,
     "year": 2012,
     "description": "This introduction to antenna theory and design is suitable for senior undergraduate and graduate courses on the subject.   Its emphasis on both principles and design makes it perfect both as a college text and as a reference to the practicing engineer. The final three chapters on computational electromagnetics for antennas are suitable for graduate work. Stutzman provides more of a pedagogical approach than its competitors, placing a greater emphasis on a concise easily understandable presentation of fundamentals and applications as well as computational methods. This third edition has been completely revised. New topics have been added on antennas for personal and mobile communications and base station antennas. Coverage of systems applications of antennas, arrays, microstrip and low-profile antennas, and antenna measurements has been updated and expanded, including more examples applied to modern applications.",
-    "users": [
-      "guest",
-      "hsyn",
-      "admin"
-    ],
-    "owners": [
-      "hsyn",
-      "admin"
-    ],
     "chapters": [
       {
         "level": 1,
@@ -19673,10 +19582,6 @@
     "chapterDisplayLevel": 2
   },
   {
-    "_id": {
-      "$oid": "5cc0c534c70c568c50398b15"
-    },
-    "file": "5cc0c4cfc70c568c50398a06",
     "cover": "https://digital-library.theiet.org/docserver/fulltext/PBEW012Emedium.jpg",
     "title": "Microstrip Antenna Theory and Design",
     "author": "J. R. James, P. S. Hall, C. Wood",
@@ -19686,15 +19591,6 @@
     "edition": 1,
     "year": 1981,
     "description": "This book brings a blend of introductory, practical and theoretical treatments and likely future developments are also highlighted. A good selection of past and current references are given and each chapter concludes with a helpful summary comment.",
-    "users": [
-      "guest",
-      "hsyn",
-      "admin"
-    ],
-    "owners": [
-      "hsyn",
-      "admin"
-    ],
     "chapterDisplayLevel": 1,
     "chapters": [
       {
@@ -20460,10 +20356,6 @@
     ]
   },
   {
-    "_id": {
-      "$oid": "5cc745fa6b290f95ff0973d9"
-    },
-    "file": "5cc673516b290f95ff070e46",
     "cover": "https://onlinelibrary.wiley.com/cms/attachment/8f258736-81e4-4a84-9b30-b1e30c775459/0471720615.cover.gif",
     "title": "Modern Antenna Design",
     "author": "Thomas A. Milligan",
@@ -20473,15 +20365,6 @@
     "edition": 2,
     "year": 2005,
     "description": "A practical book written for engineers who design and use antennas \nThe author has many years of hands on experience designing antennas that were used in such applications as the Venus and Mars missions of NASA \nThe book covers all important topics of modern antenna design for communications \nNumerical methods will be included but only as much as are needed for practical applications",
-    "users": [
-      "guest",
-      "hsyn",
-      "admin"
-    ],
-    "owners": [
-      "hsyn",
-      "admin"
-    ],
     "chapterDisplayLevel": 1,
     "chapters": [
       {
@@ -21982,10 +21865,6 @@
     ]
   },
   {
-    "_id": {
-      "$oid": "5cce93cb6b290f95ff1eb3fc"
-    },
-    "file": "5cce935f6b290f95ff1eb2ae",
     "cover": "https://images.tandf.co.uk/common/jackets/amazon/978084931/9780849312069.jpg",
     "title": "Smart Antennas",
     "author": "Lal Chand Godara",
@@ -21995,15 +21874,6 @@
     "edition": 1,
     "year": 2004,
     "description": " The use of smart antennas to increase mobile communications channels has re-ignited research and development in the field. Practicing engineers are eager to discover more about this subject, and need a comprehensive book that can provide a learning platform and prevent the loss of time spent on searches through journal literature.\n Smart Antennas examines nearly all aspects of array signal processing and presents them in a logical manner. It delivers a detailed treatment of antenna array processing schemes, adaptive algorithms to adjust weighting, direction of arrival (DOA) estimation methods, diversity-combining methods that combat fading and reduce errors.\n The book introduces the various processor structures suitable for the narrowband field, examining the behavior of both element space and beamspace processors. It then explores adaptive processing, focusing on the simple matrix inversion algorithm, constrained least mean squares (LMS), the neural network approach, and more. The text also describes smart antennas that are suitable for broadband signals, and presents analyses and techniques suitable for correlated fields in narrowband and broadband signals.",
-    "users": [
-      "guest",
-      "hsyn",
-      "admin"
-    ],
-    "owners": [
-      "hsyn",
-      "admin"
-    ],
     "chapterDisplayLevel": 2,
     "chapters": [
       {
@@ -23724,10 +23594,6 @@
     ]
   },
   {
-    "_id": {
-      "$oid": "5cd3c92b0f89620e3068c6c8"
-    },
-    "file": "5cd3c8380f89620e3068c3f7",
     "cover": "https://digital-library.theiet.org/docserver/fulltext/PBEW019Emedium.jpg",
     "title": "Microwave Antenna Theory and Design",
     "author": "Samuel Silver",
@@ -23737,15 +23603,6 @@
     "edition": 1,
     "year": 1949,
     "description": "Microwave Antenna Theory and Design is an unabridged reprint of the book published by McGraw Hill, as Volume 12 of the MIT Radiation Laboratory Series in 1949. The Editor of the Volume, the late Professor Samuel Silver, contributed extensively to the text and subsequently became one of the best known people in the world of radio science.\n Although published in 1949, Microwave Antenna Theory and Design, or 'Silver' as it is commonly known, still remains today essential reading for all those engaged in the microwave antenna field and many subsequent texts have assumed the readers' familiarity with the material in Silver. Access to it has become increasingly difficult with the passage of time and so it is hoped that this reprint will find a ready market among engineers.",
-    "users": [
-      "guest",
-      "hsyn",
-      "admin"
-    ],
-    "owners": [
-      "hsyn",
-      "admin"
-    ],
     "chapterDisplayLevel": 1,
     "chapters": [
       {

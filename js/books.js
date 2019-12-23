@@ -158,7 +158,7 @@ function createBookCards(books) {
 
 var allBooks = []
 ready(function () {
-  $.getJSON('json/books2.json', function (books) {
+  $.getJSON('json/books3.json', function (books) {
     createBookCards(books)
     // search and filter books
     var fuseOptions = {
