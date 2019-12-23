@@ -22,7 +22,10 @@ function ordinalSuffix(i) {
   if (j == 3 && k != 13) {
     return i + "rd";
   }
-  return i + "th";
+  if (j > 3) { 
+    return i + "th" 
+  }
+  return j
 }
 
 function createBookCards(books) {
