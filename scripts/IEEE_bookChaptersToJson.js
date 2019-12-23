@@ -3,7 +3,7 @@ const readline = require('readline');
 const fs = require('fs');
 
 const readInterface = readline.createInterface({
-  input: fs.createReadStream('../json/chapters.txt'),
+  input: fs.createReadStream('chapters.txt'),
   // output: process.stdout,
   console: false
 });
@@ -17,7 +17,7 @@ readInterface.on('line', function (line) {
 });
 
 readInterface.on('close', function () {
-  fs.writeFile("../json/chapters.json", JSON.stringify(chapters), "utf8", function () {
+  fs.writeFile("chapters.json", JSON.stringify(chapters), "utf8", function () {
     console.log("Finished")
   });
 });
