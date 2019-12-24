@@ -1927,7 +1927,7 @@
     "publisher": "Rutgers University",
     "granted": true,
     "publisherSite": "https://www.ece.rutgers.edu/~orfanidi/ewa/",
-    "amazonSite": "#",
+    "amazonSite": "https://www.ece.rutgers.edu/~orfanidi/ewa/",
     "edition": 1,
     "year": 2016,
     "description": "This book provides a broad and applications-oriented introduction to electromagnetic waves and antennas, with MATLAB examples. Current interest in these areas is driven by the growth in wireless and fiber-optic communications, information technology, and materials science. \n\n Communications, antenna, radar, and microwave engineers must deal with the generation, transmission, and reception of electromagnetic waves. Device engineers working on ever-smaller integrated circuits and at ever higher frequencies must take into account wave propagation effects at the chip and circuit-board levels. Communication and computer network engineers routinely use waveguiding systems, such as transmission lines and optical fibers. Novel recent developments in materials, such as photonic bandgap structures, omnidirectional dielectric mirrors, birefringent multilayer films, surface plasmons, negative-index metamaterials, slow and fast light, promise a revolution in the control and manipulation of light and other applications. These are just some examples of topics discussed in this book.",
