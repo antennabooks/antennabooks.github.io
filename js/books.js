@@ -161,7 +161,7 @@ function createBookCards(books) {
 
 var allBooks = []
 ready(function () {
-  $.getJSON('json/books.json', function (books) {
+  $.getJSON('json/books.json', function (bookList) {
     var grantedBooks = bookList.filter(function (book) {
       return book.granted
     })
