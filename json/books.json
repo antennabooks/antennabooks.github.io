@@ -6784,5 +6784,55 @@
         "title": "About the Author"
       }
     ]
+  },
+  {
+    "cover": "https://uk.artechhouse.com/Assets/ProductImages/0295_t.jpg",
+    "title": "Phased Array Antenna Handbook",
+    "author": "Robert J. Mailloux",
+    "publisher": "Artech House",
+    "granted": true,
+    "publisherSite": "https://uk.artechhouse.com/Phased-Array-Antenna-Handbook-Third-Edition-P1909.aspx",
+    "amazonSite": "https://www.amazon.com/Phased-Antenna-Handbook-Antennas-Electromagnetics-ebook/dp/B079C279NZ",
+    "edition": 3,
+    "year": 2017,
+    "description": "This completely revised third edition of an Artech House classic, Phased Array Antenna Handbook, Second Edition, offers an up-to-date and comprehensive treatment of array antennas and systems. This edition provides a wealth of new material, including expanded coverage of phased array and multiple beam antennas. New modern machine learning techniques used for analysis are included. Additional material on wideband antennas and wideband coverage in array antennas are incorporated in this book, including new methods, devices, and technologies that have developed since the second edition.\n A detailed treatment of antenna system noise, sections on antenna pattern synthesis, developments in subarray technology, and in-depth coverage of array architecture and components are additional new features of this book. The book explores design elements that demonstrate how to size an array system with speed and confidence. Moreover, this resource provides expanded coverage of systems aspects of arrays for radar and communications. Supported with numerous equations and illustrations, this practical book helps evaluate basic antenna parameters such as gain, sidelobe levels, and noise. Readers learn how to compute antenna system noise, design subarray geometries for given bandwidth, scan and sidelobe constraints, and choose array illumination tapers for given sidelobe levels.",
+    "chapters": [
+      {
+        "level": 1,
+        "title": "Phased Arrays in Radar and Communication Systems"
+      },
+      {
+        "level": 1,
+        "title": "Pattern Characteristics of Linear and Planar Arrays"
+      },
+      {
+        "level": 1,
+        "title": "Pattern Synthesis for Linear and Planar Arrays"
+      },
+      {
+        "level": 1,
+        "title": "Patterns of Nonplanar Arrays"
+      },
+      {
+        "level": 1,
+        "title": "Elements for Phased Arrays"
+      },
+      {
+        "level": 1,
+        "title": "Summary of Element Pattern and Mutual Impedance Effects"
+      },
+      {
+        "level": 1,
+        "title": "Array Error Effects"
+      },
+      {
+        "level": 1,
+        "title": "Multiple Beam Antennas"
+      },
+      {
+        "level": 1,
+        "title": "Special Array Feeds for Limited Field-of-View and Wideband Coverage."
+      }
+    ]
   }
 ]
