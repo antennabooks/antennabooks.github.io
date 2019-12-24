@@ -6834,5 +6834,163 @@
         "title": "Special Array Feeds for Limited Field-of-View and Wideband Coverage."
       }
     ]
+  },
+  {
+    "cover": "https://images.springer.com/sgw/books/medium/9783540201991.jpg",
+    "title": "Adaptive Antenna Arrays",
+    "author": "S. Chandran",
+    "publisher": "Springer",
+    "granted": true,
+    "publisherSite": "https://www.springer.com/gp/book/9783540201991",
+    "amazonSite": "https://www.amazon.com/Adaptive-Antenna-Arrays-Applications-Communication/dp/3540201998",
+    "edition": 1,
+    "year": 2004,
+    "description": "’Adaptive Antenna Arrays: Trends and Applications’ is a compilation of the works and insights of various key scientists and engineers who are involved in this area. Its contents address the current and future trends of scenarios for employing adaptive antenna arrays in communication systems. The complete spectrum of concepts and operations of adaptive antenna arrays are discussed. This book can serve as a quick reference for engineers, researchers, final year undergraduate and postgraduate students.",
+    "chapters": [
+      {
+        "level": 1,
+        "title": "Adaptive Antennas and MIMO Systems for Mobile Communications"
+      },
+      {
+        "level": 1,
+        "title": "The Spatial Dimension in Wireless Multicarrier Communications"
+      },
+      {
+        "level": 1,
+        "title": "Constrained Adaptive Filters"
+      },
+      {
+        "level": 1,
+        "title": "Wideband Interference Attenuation in Sensor Arrays"
+      },
+      {
+        "level": 1,
+        "title": "Beamforming with Genetic Algorithms"
+      },
+      {
+        "level": 1,
+        "title": "Sidelobe Control Using Optimization Methods in Adaptive Beamforming"
+      },
+      {
+        "level": 1,
+        "title": "Multichannel Adaptive Beamforming"
+      },
+      {
+        "level": 1,
+        "title": "Adaptive Linearly Constrained Beamforming Algorithms for Smart Jamming Suppression"
+      },
+      {
+        "level": 1,
+        "title": "Adaptive Beamforming Performance in Micro- and Macro-Cell Propagation Scenarios"
+      },
+      {
+        "level": 1,
+        "title": "High Performance Path Searcher for CDMA Adaptive Antenna Systems"
+      },
+      {
+        "level": 1,
+        "title": "Analog Smart Antennas"
+      },
+      {
+        "level": 1,
+        "title": "Polarimetric Array Processing for Nonstationary Signals"
+      },
+      {
+        "level": 1,
+        "title": "Optical Beamforming for Phased Array Antennas"
+      },
+      {
+        "level": 1,
+        "title": "Mirroring Properties of Sub-band Adaptive Beamforming Arrays using Quadrature Mirror Filter Banks"
+      },
+      {
+        "level": 1,
+        "title": "Multiple-Input Multiple-Output (MIMO) Antenna Systems"
+      },
+      {
+        "level": 1,
+        "title": "Space-Time and Space-Frequency Block Coding using Interleaved OFDM System"
+      },
+      {
+        "level": 1,
+        "title": "Modelling and Simulation of Spatio-Temporal Wideband Mobile Radio Channels"
+      },
+      {
+        "level": 1,
+        "title": "Geometric-Based Statistical Channel Modeling for Beam-Pattern-Scanning Antenna Arrays"
+      },
+      {
+        "level": 1,
+        "title": "Spatio-temporal Radio Channel Modeling for Microcells"
+      },
+      {
+        "level": 1,
+        "title": "A Wideband Directional Channel Model for Mobile Communication Systems"
+      },
+      {
+        "level": 1,
+        "title": "MIMO Channel Characterization for Indoor WLAN Applications — A Second-order Statistical Approach"
+      },
+      {
+        "level": 1,
+        "title": "Propagation Characterization and MIMO Channel Modeling for 3G"
+      },
+      {
+        "level": 1,
+        "title": "Spatially Spread Sources in Antenna Array Processing"
+      },
+      {
+        "level": 1,
+        "title": "Implementation Issues for Fully Adaptive DOA-Based Smart Antennas"
+      },
+      {
+        "level": 1,
+        "title": "Diversity Versus Beamforming"
+      },
+      {
+        "level": 1,
+        "title": "MILAN: A Design Environment for Latency and Energy Efficient Implementation of Adaptive Antenna Applications"
+      },
+      {
+        "level": 1,
+        "title": "Open/Closed-loop Transmit Antenna Array over Spatially Correlated Channels"
+      },
+      {
+        "level": 1,
+        "title": "Implementation of Smart Antennas for Wireless LAN Systems"
+      },
+      {
+        "level": 1,
+        "title": "Space Time Frequency Coding in Broadband OFDM Systems"
+      },
+      {
+        "level": 1,
+        "title": "Media Access Control for Ad Hoc Networks with Adaptive Antenna Arrays"
+      },
+      {
+        "level": 1,
+        "title": "Optimal Update Rate for NLMS in 3GPP WCDMA Base Station Baseband Receiver"
+      },
+      {
+        "level": 1,
+        "title": "Multiple Antenna Processing and Performance in WCDMA"
+      },
+      {
+        "level": 1,
+        "title": "Chip-level Beamforming and Symbol-level Beamforming in Coherent CDMA Adaptive Antenna Array Systems"
+      },
+      {
+        "level": 1,
+        "title": "Experimental Results from Smart Antenna Base Station Implemented for CDMA2000 1X"
+      },
+      {
+        "level": 1,
+        "title": "Measurement, Modeling and Performance of the MIMO Channel"
+      },
+      {
+        "level": 1,
+        "title": "Spatio-temporal Radio Channel Measurement and Characterization in Urban and Suburban Macrocells"
+      }
+    ]
   }
 ]
