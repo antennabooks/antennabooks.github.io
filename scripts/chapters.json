@@ -1,146 +1,66 @@
 [
   {
     "level": 1,
-    "title": "Adaptive Antennas and MIMO Systems for Mobile Communications"
+    "title": "Front Matter"
   },
   {
     "level": 1,
-    "title": "The Spatial Dimension in Wireless Multicarrier Communications"
+    "title": "1 Introduction"
   },
   {
     "level": 1,
-    "title": "Constrained Adaptive Filters"
+    "title": "2 Maxwell's equations and electromagnetic wave propagation"
   },
   {
     "level": 1,
-    "title": "Wideband Interference Attenuation in Sensor Arrays"
+    "title": "3 Introduction to near-field antenna measurements"
   },
   {
     "level": 1,
-    "title": "Beamforming with Genetic Algorithms"
+    "title": "4 Plane wave spectrum representation of electromagnetic waves"
   },
   {
     "level": 1,
-    "title": "Sidelobe Control Using Optimization Methods in Adaptive Beamforming"
+    "title": "5 Measurements - practicalities of planar near-field antenna measurements"
   },
   {
     "level": 1,
-    "title": "Multichannel Adaptive Beamforming"
+    "title": "6 Probe pattern characterisation"
   },
   {
     "level": 1,
-    "title": "Adaptive Linearly Constrained Beamforming Algorithms for Smart Jamming Suppression"
+    "title": "7 Computational electromagnetic model of a planar near-field measurement process"
   },
   {
     "level": 1,
-    "title": "Adaptive Beamforming Performance in Micro- and Macro-Cell Propagation Scenarios"
+    "title": "8 Antenna measurement analysis and assessment"
   },
   {
     "level": 1,
-    "title": "High Performance Path Searcher for CDMA Adaptive Antenna Systems"
+    "title": "9 Advanced planar near-field antenna measurements"
   },
   {
     "level": 1,
-    "title": "Analog Smart Antennas"
+    "title": "Appendix A: Other theories of interaction"
   },
   {
     "level": 1,
-    "title": "Polarimetric Array Processing for Nonstationary Signals"
+    "title": "Appendix B: Measurement definitions as used in the text"
   },
   {
     "level": 1,
-    "title": "Optical Beamforming for Phased Array Antennas"
+    "title": "Appendix C: An overview of coordinate systems"
   },
   {
     "level": 1,
-    "title": "Mirroring Properties of Sub-band Adaptive Beamforming Arrays using Quadrature Mirror Filter Banks"
+    "title": "Appendix D: Trapezoidal discrete Fourier transform"
   },
   {
     "level": 1,
-    "title": "Multiple-Input Multiple-Output (MIMO) Antenna Systems"
+    "title": "Appendix E: Calculating the semi-major axis, semi-minor axis and tilt angle of a rotated ellipse"
   },
   {
     "level": 1,
-    "title": "Space-Time and Space-Frequency Block Coding using Interleaved OFDM System"
-  },
-  {
-    "level": 1,
-    "title": "Modelling and Simulation of Spatio-Temporal Wideband Mobile Radio Channels"
-  },
-  {
-    "level": 1,
-    "title": "Geometric-Based Statistical Channel Modeling for Beam-Pattern-Scanning Antenna Arrays"
-  },
-  {
-    "level": 1,
-    "title": "Spatio-temporal Radio Channel Modeling for Microcells"
-  },
-  {
-    "level": 1,
-    "title": "A Wideband Directional Channel Model for Mobile Communication Systems"
-  },
-  {
-    "level": 1,
-    "title": "MIMO Channel Characterization for Indoor WLAN Applications — A Second-order Statistical Approach"
-  },
-  {
-    "level": 1,
-    "title": "Propagation Characterization and MIMO Channel Modeling for 3G"
-  },
-  {
-    "level": 1,
-    "title": "Spatially Spread Sources in Antenna Array Processing"
-  },
-  {
-    "level": 1,
-    "title": "Implementation Issues for Fully Adaptive DOA-Based Smart Antennas"
-  },
-  {
-    "level": 1,
-    "title": "Diversity Versus Beamforming"
-  },
-  {
-    "level": 1,
-    "title": "MILAN: A Design Environment for Latency and Energy Efficient Implementation of Adaptive Antenna Applications"
-  },
-  {
-    "level": 1,
-    "title": "Open/Closed-loop Transmit Antenna Array over Spatially Correlated Channels"
-  },
-  {
-    "level": 1,
-    "title": "Implementation of Smart Antennas for Wireless LAN Systems"
-  },
-  {
-    "level": 1,
-    "title": "Space Time Frequency Coding in Broadband OFDM Systems"
-  },
-  {
-    "level": 1,
-    "title": "Media Access Control for Ad Hoc Networks with Adaptive Antenna Arrays"
-  },
-  {
-    "level": 1,
-    "title": "Optimal Update Rate for NLMS in 3GPP WCDMA Base Station Baseband Receiver"
-  },
-  {
-    "level": 1,
-    "title": "Multiple Antenna Processing and Performance in WCDMA"
-  },
-  {
-    "level": 1,
-    "title": "Chip-level Beamforming and Symbol-level Beamforming in Coherent CDMA Adaptive Antenna Array Systems"
-  },
-  {
-    "level": 1,
-    "title": "Experimental Results from Smart Antenna Base Station Implemented for CDMA2000 1X"
-  },
-  {
-    "level": 1,
-    "title": "Measurement, Modeling and Performance of the MIMO Channel"
-  },
-  {
-    "level": 1,
-    "title": "Spatio-temporal Radio Channel Measurement and Characterization in Urban and Suburban Macrocells"
+    "title": "Back Matter"
   }
 ]

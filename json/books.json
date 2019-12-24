@@ -6992,5 +6992,83 @@
         "title": "Spatio-temporal Radio Channel Measurement and Characterization in Urban and Suburban Macrocells"
       }
     ]
+  },
+  {
+    "cover": "https://digital-library.theiet.org/docserver/fulltext/PBEW053Emedium.jpg",
+    "title": "Principles of Planar Near-Field Antenna Measurements",
+    "author": "Stuart Gregson, John McCormick, Clive Parini",
+    "publisher": "IET",
+    "granted": true,
+    "publisherSite": "https://digital-library.theiet.org/content/books/ew/pbew053e",
+    "amazonSite": "https://www.amazon.com/Adaptive-Antenna-Arrays-Applications-Communication/dp/3540201998",
+    "edition": 1,
+    "year": 2007,
+    "description": "This single volume provides a comprehensive introduction and explanation of both the theory and practice of 'Planar Near-Field Antenna Measurement' from its basic postulates and assumptions, to the intricacies of its deployment in complex and demanding measurement scenarios.",
+    "chapters": [
+      {
+        "level": 1,
+        "title": "Front Matter"
+      },
+      {
+        "level": 1,
+        "title": "1 Introduction"
+      },
+      {
+        "level": 1,
+        "title": "2 Maxwell's equations and electromagnetic wave propagation"
+      },
+      {
+        "level": 1,
+        "title": "3 Introduction to near-field antenna measurements"
+      },
+      {
+        "level": 1,
+        "title": "4 Plane wave spectrum representation of electromagnetic waves"
+      },
+      {
+        "level": 1,
+        "title": "5 Measurements - practicalities of planar near-field antenna measurements"
+      },
+      {
+        "level": 1,
+        "title": "6 Probe pattern characterisation"
+      },
+      {
+        "level": 1,
+        "title": "7 Computational electromagnetic model of a planar near-field measurement process"
+      },
+      {
+        "level": 1,
+        "title": "8 Antenna measurement analysis and assessment"
+      },
+      {
+        "level": 1,
+        "title": "9 Advanced planar near-field antenna measurements"
+      },
+      {
+        "level": 1,
+        "title": "Appendix A: Other theories of interaction"
+      },
+      {
+        "level": 1,
+        "title": "Appendix B: Measurement definitions as used in the text"
+      },
+      {
+        "level": 1,
+        "title": "Appendix C: An overview of coordinate systems"
+      },
+      {
+        "level": 1,
+        "title": "Appendix D: Trapezoidal discrete Fourier transform"
+      },
+      {
+        "level": 1,
+        "title": "Appendix E: Calculating the semi-major axis, semi-minor axis and tilt angle of a rotated ellipse"
+      },
+      {
+        "level": 1,
+        "title": "Back Matter"
+      }
+    ]
   }
 ]
