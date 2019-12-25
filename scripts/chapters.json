@@ -1,66 +1,50 @@
 [
   {
     "level": 1,
-    "title": "Front Matter"
+    "title": "Frontmatter"
   },
   {
     "level": 1,
-    "title": "1 Introduction"
+    "title": "Review Articles"
   },
   {
     "level": 1,
-    "title": "2 Maxwell's equations and electromagnetic wave propagation"
+    "title": "Basic Microstrip Antenna Elements and Feeding Techniques"
   },
   {
     "level": 1,
-    "title": "3 Introduction to near-field antenna measurements"
+    "title": "Dual and Circularly Polarized Elements"
   },
   {
     "level": 1,
-    "title": "4 Plane wave spectrum representation of electromagnetic waves"
+    "title": "Techniques for Improving Element Bandwidth"
   },
   {
     "level": 1,
-    "title": "5 Measurements - practicalities of planar near-field antenna measurements"
+    "title": "Modeling Techniques for Microstrip Antenna Elements"
   },
   {
     "level": 1,
-    "title": "6 Probe pattern characterisation"
+    "title": "Microstrip Antenna Array Design"
   },
   {
     "level": 1,
-    "title": "7 Computational electromagnetic model of a planar near-field measurement process"
+    "title": "Analysis of Arrays and Mutual Coupling"
   },
   {
     "level": 1,
-    "title": "8 Antenna measurement analysis and assessment"
+    "title": "Other Topics"
   },
   {
     "level": 1,
-    "title": "9 Advanced planar near-field antenna measurements"
+    "title": "Author Index"
   },
   {
     "level": 1,
-    "title": "Appendix A: Other theories of interaction"
+    "title": "Subject Index"
   },
   {
     "level": 1,
-    "title": "Appendix B: Measurement definitions as used in the text"
-  },
-  {
-    "level": 1,
-    "title": "Appendix C: An overview of coordinate systems"
-  },
-  {
-    "level": 1,
-    "title": "Appendix D: Trapezoidal discrete Fourier transform"
-  },
-  {
-    "level": 1,
-    "title": "Appendix E: Calculating the semi-major axis, semi-minor axis and tilt angle of a rotated ellipse"
-  },
-  {
-    "level": 1,
-    "title": "Back Matter"
+    "title": "Editors' Biographies"
   }
 ]

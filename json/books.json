@@ -7070,5 +7070,67 @@
         "title": "Back Matter"
       }
     ]
+  },
+  {
+    "cover": "https://ieeexplore.ieee.org/ebooks/5263382/5263382.jpg",
+    "title": "Microstrip Antennas: The Analysis and Design of Microstrip Antennas and Arrays",
+    "author": "David M. Poza, Daniel H. Schaubert",
+    "publisher": "Wiley - IEEE Press",
+    "granted": true,
+    "publisherSite": "https://ieeexplore.ieee.org/book/5263382",
+    "amazonSite": "https://www.amazon.com/Microstrip-Antennas-Analysis-Design-Arrays/dp/0780310780",
+    "edition": 1,
+    "year": 1995,
+    "description": "This anthology combines 15 years of microstrip antenna technology research into one significant volume and includes a special introductory tutorial by the co-editors. Covering theory, design and modeling techniques and methods, this source book is an excellent reference tool for engineers who want to become more familiar with microstrip antennas and microwave systems. Proven antenna designs, novel solutions to practical design problemsand relevant papers describing the theory of operation and analysis of microstrip antennas are contained within this convenient reference.",
+    "chapters": [
+      {
+        "level": 1,
+        "title": "Frontmatter"
+      },
+      {
+        "level": 1,
+        "title": "Review Articles"
+      },
+      {
+        "level": 1,
+        "title": "Basic Microstrip Antenna Elements and Feeding Techniques"
+      },
+      {
+        "level": 1,
+        "title": "Dual and Circularly Polarized Elements"
+      },
+      {
+        "level": 1,
+        "title": "Techniques for Improving Element Bandwidth"
+      },
+      {
+        "level": 1,
+        "title": "Modeling Techniques for Microstrip Antenna Elements"
+      },
+      {
+        "level": 1,
+        "title": "Microstrip Antenna Array Design"
+      },
+      {
+        "level": 1,
+        "title": "Analysis of Arrays and Mutual Coupling"
+      },
+      {
+        "level": 1,
+        "title": "Other Topics"
+      },
+      {
+        "level": 1,
+        "title": "Author Index"
+      },
+      {
+        "level": 1,
+        "title": "Subject Index"
+      },
+      {
+        "level": 1,
+        "title": "Editors' Biographies"
+      }
+    ]
   }
 ]
