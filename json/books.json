@@ -7132,5 +7132,191 @@
         "title": "Editors' Biographies"
       }
     ]
+  },
+  {
+    "cover": "https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4615-6459-1",
+    "title": "Antenna Handbook - Volum1 : Theory, Applications, and Design",
+    "author": "Y. T. LoS. W. Lee",
+    "publisher": "Springer",
+    "granted": true,
+    "publisherSite": "https://www.springer.com/gp/book/9781461564614",
+    "amazonSite": "https://www.amazon.com/Antenna-Handbook-Theory-Applications-Design/dp/1461564611",
+    "edition": 1,
+    "year": 1988,
+    "description": "Technology has advanced to such a degree over the last decade that it has been almost impossible to find up-to-date coverage of antennas. Antenna Handbook, edited by two of the world's most distinguished antenna specialists, presents the most advanced antenna theory and designs and demonstrates their applicationin a wide variety of technical fields. They offer a stagering amount of in-depth data and analysis on a wide range of topics, supported by formulas, curves, and results, as well as derivations.",
+    "chapters": [
+      {
+        "level": 1,
+        "title": "PART A. FUNDAMENTALS AND MATHEMATICAL TECHNIQUES"
+      },
+      {
+        "level": 2,
+        "title": "1. Basics"
+      },
+      {
+        "level": 2,
+        "title": "2. Theorems and Formulas"
+      },
+      {
+        "level": 2,
+        "title": "3. Techniques for Low-Frequency Problems"
+      },
+      {
+        "level": 2,
+        "title": "4. Techniques for High-Frequency Problems"
+      },
+      {
+        "level": 1,
+        "title": "PART B. ANTENNA THEORY"
+      },
+      {
+        "level": 2,
+        "title": "5. Radiation From Apertures"
+      },
+      {
+        "level": 2,
+        "title": "6. Receiving Antennas"
+      },
+      {
+        "level": 2,
+        "title": "7. Wire and Loop Antennas"
+      },
+      {
+        "level": 2,
+        "title": "8. Horn Antennas"
+      },
+      {
+        "level": 2,
+        "title": "9. Frequency-Independent Antennas"
+      },
+      {
+        "level": 2,
+        "title": "10. Microstrip Antennas"
+      },
+      {
+        "level": 2,
+        "title": "11. Array Theory"
+      },
+      {
+        "level": 2,
+        "title": "12. The Design of Waveguide-Fed Slot Arrays"
+      },
+      {
+        "level": 2,
+        "title": "13. Periodic Arrays"
+      },
+      {
+        "level": 2,
+        "title": "14. Aperiodic Arrays"
+      },
+      {
+        "level": 2,
+        "title": "15. Reflector Antennas"
+      },
+      {
+        "level": 2,
+        "title": "16. Lens Antennas"
+      },
+      {
+        "level": 1,
+        "title": "PART C. APPLICATIONS"
+      },
+      {
+        "level": 2,
+        "title": "17. Millimeter Wave Antennas"
+      },
+      {
+        "level": 2,
+        "title": "18. Practical Aspects of Phased Array Design"
+      },
+      {
+        "level": 2,
+        "title": "19. Beam-Forming Feeds"
+      },
+      {
+        "level": 2,
+        "title": "20. Antennas on Aircraft, Ships, or Any Large, Complex Environment"
+      },
+      {
+        "level": 2,
+        "title": "21. Satellite Antennas"
+      },
+      {
+        "level": 2,
+        "title": "22. Remote Sensing and Microwave Radiometry"
+      },
+      {
+        "level": 2,
+        "title": "23. Antennas for Geophysical Applications"
+      },
+      {
+        "level": 2,
+        "title": "24. Antennas for Medical Applications"
+      },
+      {
+        "level": 2,
+        "title": "25. Direction.Finding Antennas"
+      },
+      {
+        "level": 2,
+        "title": "26. Standard AM Antennas"
+      },
+      {
+        "level": 2,
+        "title": "27. TV and FM Broadcast Antennas"
+      },
+      {
+        "level": 1,
+        "title": "PART D. RELATED TOPICS"
+      },
+      {
+        "level": 2,
+        "title": "28. Transmission Lines and Waveguides"
+      },
+      {
+        "level": 2,
+        "title": "29. Propagation"
+      },
+      {
+        "level": 2,
+        "title": "30. Antenna Response to Electromagnetic Pulses"
+      },
+      {
+        "level": 2,
+        "title": "31. Radome Electromagnetic Design"
+      },
+      {
+        "level": 2,
+        "title": "32. Measurement of Antenna Radiation Characteristics on Far-Field Ranges"
+      },
+      {
+        "level": 2,
+        "title": "33. Near-Field Far-Field Antenna Measurements"
+      },
+      {
+        "level": 1,
+        "title": "A. Physical Constants, International Units, Conversion of Units, and Metric Prefixes A-3"
+      },
+      {
+        "level": 1,
+        "title": "B. The Frequency Spectrum B-1"
+      },
+      {
+        "level": 1,
+        "title": "C. Electromagnetic Properties of Materials C-I"
+      },
+      {
+        "level": 1,
+        "title": "D. Vector Analysis D-I"
+      },
+      {
+        "level": 1,
+        "title": "E. VSWR Versus Reflection Coefficient and Mismatch Loss E-I"
+      },
+      {
+        "level": 1,
+        "title": "F. Decibels Versus Voltage and Power Ratios F-I "
+      }
+    ]
   }
 ]

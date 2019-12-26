@@ -3,7 +3,8 @@ const readline = require('readline');
 const fs = require('fs');
 
 const readInterface = readline.createInterface({
-  input: fs.createReadStream('chapters.txt'),
+  // input: fs.createReadStream('chapters.txt'),
+  input: fs.createReadStream('chapters_1.txt'),
   // output: process.stdout,
   console: false
 });
@@ -11,8 +12,10 @@ const readInterface = readline.createInterface({
 var chapters = []
 readInterface.on('line', function (line) {
   chapters.push({
-    level:1,
-    title: line.replace(line.split(": ")[0] + ": ", "")
+    // level:1,
+    level: 2,
+    //title: line.replace(line.split(": ")[0] + ": ", "")
+    title: line
   })
 });
 
