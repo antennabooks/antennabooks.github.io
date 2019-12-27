@@ -137,7 +137,7 @@ function createBookCards(books) {
         if (chapter.level == 1) {
           var el2_ul_li = document.createElement('li')
           el2_ul_li.setAttribute('style', 'padding-top:0.5em;')
-          el2_ul_li.innerText = chapter.title
+          el2_ul_li.innerHTML = chapter.title
           el2_ul.appendChild(el2_ul_li)
         }
         if (chapter.level > 1) {
