@@ -140,9 +140,33 @@ function createBookCards(books) {
           el2_ul_li.innerHTML = chapter.title
           el2_ul.appendChild(el2_ul_li)
         }
-        if (chapter.level > 1) {
+        if (chapter.level == 2) {
           var el2_ul_ul = document.createElement('ul')
-          el2_ul_ul.setAttribute('style', 'padding-left:1em;padding-top:0em;padding-bottom:0em;')
+          el2_ul_ul.setAttribute('style', 'padding-left:2em;padding-top:0em;padding-bottom:0em;')
+          var el2_ul_ul_li = document.createElement('li')
+          el2_ul_ul_li.innerHTML = chapter.title
+          el2_ul_ul.appendChild(el2_ul_ul_li)
+          el2_ul.appendChild(el2_ul_ul)
+        }
+        if (chapter.level == 3) {
+          var el2_ul_ul = document.createElement('ul')
+          el2_ul_ul.setAttribute('style', 'padding-left:3em;padding-top:0em;padding-bottom:0em;')
+          var el2_ul_ul_li = document.createElement('li')
+          el2_ul_ul_li.innerHTML = chapter.title
+          el2_ul_ul.appendChild(el2_ul_ul_li)
+          el2_ul.appendChild(el2_ul_ul)
+        }
+        if (chapter.level == 4) {
+          var el2_ul_ul = document.createElement('ul')
+          el2_ul_ul.setAttribute('style', 'padding-left:4em;padding-top:0em;padding-bottom:0em;')
+          var el2_ul_ul_li = document.createElement('li')
+          el2_ul_ul_li.innerHTML = chapter.title
+          el2_ul_ul.appendChild(el2_ul_ul_li)
+          el2_ul.appendChild(el2_ul_ul)
+        }
+        if (chapter.level == 5) {
+          var el2_ul_ul = document.createElement('ul')
+          el2_ul_ul.setAttribute('style', 'padding-left:5em;padding-top:0em;padding-bottom:0em;')
           var el2_ul_ul_li = document.createElement('li')
           el2_ul_ul_li.innerHTML = chapter.title
           el2_ul_ul.appendChild(el2_ul_ul_li)
