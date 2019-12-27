@@ -7082,84 +7082,1012 @@
     "description": "Microwave Antenna Theory and Design is an unabridged reprint of the book published by McGraw Hill, as Volume 12 of the MIT Radiation Laboratory Series in 1949. The Editor of the Volume, the late Professor Samuel Silver, contributed extensively to the text and subsequently became one of the best known people in the world of radio science.\n Although published in 1949, Microwave Antenna Theory and Design, or 'Silver' as it is commonly known, still remains today essential reading for all those engaged in the microwave antenna field and many subsequent texts have assumed the readers' familiarity with the material in Silver. Access to it has become increasingly difficult with the passage of time and so it is hoped that this reprint will find a ready market among engineers.",
     "chapters": [
       {
-        "level": 1,
-        "title": "1 SURVEY OF MICROWAVE ANTENNA DESIGN PROBLEMS . ",
-        "page": 14
+        "title": "CHAP. 1. SURVEY OF MICROWAVE ANTENNA DESIGN PROBLEMS . 1",
+        "level": 1
       },
       {
-        "level": 1,
-        "title": "2 CIRCUIT RELATIONS, RECIPROCITY THEOREMS ",
-        "page": 29
+        "title": "1-1. The Wavelength Region 1",
+        "level": 2
       },
       {
-        "level": 1,
-        "title": "3 RADIATION FROM CURRENT DISTRIBUTIONS ",
-        "page": 74
+        "title": "1-2. Antenna Patterns 2",
+        "level": 2
       },
       {
-        "level": 1,
-        "title": "4 WAVE FRONTS AND RAYS ",
-        "page": 120
+        "title": "1-3. Types of Microwave Beams ",
+        "level": 2
       },
       {
-        "level": 1,
-        "title": "5 SCATTERING AND DIFFRACTION. ",
-        "page": 142
+        "title": "1-4. Microwave Transmission Lines ",
+        "level": 2
       },
       {
-        "level": 1,
-        "title": "6 APERTURE ILLUMINATION AND ANTENNA PATTERNS . ",
-        "page": 182
+        "title": "1-5. Radiating Elements ",
+        "level": 2
       },
       {
-        "level": 1,
-        "title": "7 MICROWAVE TRANSMISSION LINES ",
-        "page": 213
+        "title": "1-6. A Survey of Microwave Antenna Types ",
+        "level": 1
       },
       {
-        "level": 1,
-        "title": "8 MICROWAVE DIPOLE ANTENNAS AND FEEDS ..... . ",
-        "page": 252
+        "title": "1-7. Impedance Specifications ",
+        "level": 2
       },
       {
-        "level": 1,
-        "title": "9 LINEAR ARRAY ANTENNAS AND FEEDS ",
-        "page": 270
+        "title": "1-8. Program of the Present Volume ",
+        "level": 2
       },
       {
-        "level": 1,
-        "title": "10 WAVEGUIDE AND HORN FEEDS ",
-        "page": 347
+        "title": "CHAP. 2. CIRCUIT RELATIONS, RECIPROCITY THEOREMS ",
+        "level": 1
       },
       {
-        "level": 1,
-        "title": "11 DIELECTRIC AND METAL-PLATE LENSES ",
-        "page": 401
+        "title": "2-1. Introduction ",
+        "level": 2
       },
       {
-        "level": 1,
-        "title": "12 PENCIL-BEAM AND SIMPLE FANNED-BEAM ANTENNAS ",
-        "page": 426
+        "title": "2-2. The Four-terminal Network ",
+        "level": 2
       },
       {
-        "level": 1,
-        "title": "13 SHAPED-BEAM ANTENNAS ",
-        "page": 478
+        "title": "2-3. The Rayleigh Reciprocity Theorem ",
+        "level": 2
       },
       {
-        "level": 1,
-        "title": "14 ANTENNA INSTALLATION PROBLEMS ",
-        "page": 523
+        "title": "2-4. Thevenin's Theorem and the Maximum-power Theorem ",
+        "level": 2
       },
       {
-        "level": 1,
-        "title": "15 ANTENNA MEASUREMENTS—TECHNIQUES ",
-        "page": 556
+        "title": "2-5. The Two-wire Transmission Line ",
+        "level": 2
       },
       {
-        "level": 1,
-        "title": "16 ANTENNA MEASUREMENTS—EQUIPMENT ",
-        "page": 606
+        "title": "2-6. The Homogeneous Transmission Line ",
+        "level": 2
+      },
+      {
+        "title": "2-7. The Lossless Line ",
+        "level": 2
+      },
+      {
+        "title": "2-8. Transformation Charts ",
+        "level": 2
+      },
+      {
+        "title": "2-9. The Four-terminal Network Equivalent of a Section of Transmission Line ",
+        "level": 2
+      },
+      {
+        "title": "TRANSMITTING AND RECEIVING ANTENNAS ",
+        "level": 1
+      },
+      {
+        "title": "2-10. The Antenna as a Terminating Impedance ",
+        "level": 2
+      },
+      {
+        "title": "2-11. The Receiving Antenna System ",
+        "level": 2
+      },
+      {
+        "title": "2-12. The Transmitter and Receiver as a Coupled System ",
+        "level": 2
+      },
+      {
+        "title": "2-13. Reciprocity between the Transmitting and Receiving Patterns of an Antenna ",
+        "level": 1
+      },
+      {
+        "title": "2-14. The Average Cross Section for a Matched System ",
+        "level": 2
+      },
+      {
+        "title": "2-15. Dependence of the Cross Section on Antenna Mismatch ... . ",
+        "level": 1
+      },
+      {
+        "title": "2-16. The Four-terminal Network Representation ",
+        "level": 1
+      },
+      {
+        "title": "2-17. Development of the Network Equations ",
+        "level": 1
+      },
+      {
+        "title": "2-18. The Reciprocity Relation between the Transfer Impedance Coefficients ",
+        "level": 1
+      },
+      {
+        "title": "CHAP. 3. RADIATION FROM CURRENT DISTRIBUTIONS ",
+        "level": 1
+      },
+      {
+        "title": "3-1. The Field Equations , ",
+        "level": 2
+      },
+      {
+        "title": "3-2. The Constitutive Parameters; Linearity and Superposition .. . ",
+        "level": 2
+      },
+      {
+        "title": "3-3. Boundary Conditions ",
+        "level": 2
+      },
+      {
+        "title": "3-4. The Field Equations for Harmonic Time Dependence .... . ",
+        "level": 2
+      },
+      {
+        "title": "3-5. Poynting's Theorem ",
+        "level": 2
+      },
+      {
+        "title": "3-6. The Wave Equations ",
+        "level": 2
+      },
+      {
+        "title": "3-7. Simple Wave Solutions ",
+        "level": 2
+      },
+      {
+        "title": "3-8. General Solution of the Field Equations in Terms of the Sources,for a Time-periodic Field ",
+        "level": 2
+      },
+      {
+        "title": "3-9. Field Due to Sources in an Unbounded Region ",
+        "level": 2
+      },
+      {
+        "title": "3-10. Field in a Region Bounded by Surfaces of Infinitely Conductive Media ",
+        "level": 2
+      },
+      {
+        "title": "3-11. The Far-zone Fields ",
+        "level": 2
+      },
+      {
+        "title": "3-12. Polarization ",
+        "level": 2
+      },
+      {
+        "title": "3-13. The Electric Dipole ",
+        "level": 2
+      },
+      {
+        "title": "3-14. The Magnetic Dipole . ",
+        "level": 2
+      },
+      {
+        "title": "3-15. The Far-zone Fields of Line-current Distributions ",
+        "level": 2
+      },
+      {
+        "title": "3-16. The \"Half-wave Dipole\". . ",
+        "level": 2
+      },
+      {
+        "title": "3-17. Superposition of Fields ",
+        "level": 2
+      },
+      {
+        "title": "3-18. The Double-dipole System ",
+        "level": 2
+      },
+      {
+        "title": "3-19. Regular Space Arrays ",
+        "level": 2
+      },
+      {
+        "title": "CHAP. 4. WAVE FRONTS AND RAYS ",
+        "level": 1
+      },
+      {
+        "title": "4-1. The Huygens-Green Formula for the Electromagnetic Field. . ",
+        "level": 2
+      },
+      {
+        "title": "4-2. Geometrical Optics: Wavefronts and Rays ",
+        "level": 2
+      },
+      {
+        "title": "4-3. Curvature of the Rays in an Inhomogeneous Medium I l",
+        "level": 2
+      },
+      {
+        "title": "4-4. Energy Flow in Geometrical Optics ",
+        "level": 2
+      },
+      {
+        "title": "4-5. Geometrical Optics as a Zero-wavelength Limit ....... . ",
+        "level": 2
+      },
+      {
+        "title": "4-6. The Huygens-Fresnel Principle and Geometrical Optics: The Farzone Approximation ",
+        "level": 2
+      },
+      {
+        "title": "4-7. The Principle of Stationary Phase ",
+        "level": 2
+      },
+      {
+        "title": "4-8. Fermat's Principle ",
+        "level": 2
+      },
+      {
+        "title": "4-9. The Law of the Optical Path ",
+        "level": 2
+      },
+      {
+        "title": "CHAP. 5. SCATTERING AND DIFFRACTION. ",
+        "level": 1
+      },
+      {
+        "title": "5-1. General Considerations ",
+        "level": 2
+      },
+      {
+        "title": "5-2. Boundary Conditions ",
+        "level": 2
+      },
+      {
+        "title": "5-3. Reflection by an Infinite Plane Surface; the Principle of Images . ",
+        "level": 2
+      },
+      {
+        "title": "APPROXIMATE METHODS FOR REFLECTORS OF ARBITRARY SHAPE ",
+        "level": 1
+      },
+      {
+        "title": "5-4. The Geometrical-optics Method , ",
+        "level": 2
+      },
+      {
+        "title": "5-5. Calculation of the Scattered Field ",
+        "level": 2
+      },
+      {
+        "title": "5-6. Superposition of the Source Field and the Scattered Field. . . . ",
+        "level": 2
+      },
+      {
+        "title": "5-7. The Current-distribution Method ",
+        "level": 2
+      },
+      {
+        "title": "5-8. Calculation of the Scattered Field ",
+        "level": 2
+      },
+      {
+        "title": "5-9. Application to Point-source and Line-source Feeds ",
+        "level": 2
+      },
+      {
+        "title": "5-10. Reaction of a Reflector on a Point-source Feed ",
+        "level": 2
+      },
+      {
+        "title": "5-11. The Aperture-field Method ",
+        "level": 2
+      },
+      {
+        "title": "5-12. The Fraunhofer Region. .16 ",
+        "level": 2
+      },
+      {
+        "title": "DIFFRACTION ",
+        "level": 1
+      },
+      {
+        "title": "5-13. General Considerations on the Approximate Methods ",
+        "level": 2
+      },
+      {
+        "title": "5-14. Reduction to a Scalar Diffraction Problem ",
+        "level": 2
+      },
+      {
+        "title": "5-15. Babinet's Principle for the Electromagnetic Field ",
+        "level": 2
+      },
+      {
+        "title": "CHAP. 6. APERTURE ILLUMINATION AND ANTENNA PATTERNS . ",
+        "level": 1
+      },
+      {
+        "title": "6-1. Primary and Secondary Patterns ",
+        "level": 2
+      },
+      {
+        "title": "6-2. The Diffraction Field ",
+        "level": 2
+      },
+      {
+        "title": "6-3. Fourier Integral Representation of the Fraunhofer Region . . ",
+        "level": 2
+      },
+      {
+        "title": "6-4. General Features of the Secondary Pattern ",
+        "level": 2
+      },
+      {
+        "title": "6-5. The Rectangular Aperture ",
+        "level": 2
+      },
+      {
+        "title": "6-6. Two-dimensional Problems ",
+        "level": 2
+      },
+      {
+        "title": "6-7. Phase-error Effects ",
+        "level": 2
+      },
+      {
+        "title": "6-8. The Circular Aperture ",
+        "level": 2
+      },
+      {
+        "title": "6-9. The Field on the Axis in the Fresnel Region ",
+        "level": 2
+      },
+      {
+        "title": "CHAP. 7. MICROWAVE TRANSMISSION LINES ",
+        "level": 1
+      },
+      {
+        "title": "7-1. Microwave and Long-wave Transmission Lines ",
+        "level": 2
+      },
+      {
+        "title": "7-2. Propagation in Waveguides of Uniform Cross Section ",
+        "level": 2
+      },
+      {
+        "title": "7-3. Orthogonality Relations and Power Flow ",
+        "level": 2
+      },
+      {
+        "title": "7-4. Transmission Line Considerations in Waveguides ",
+        "level": 2
+      },
+      {
+        "title": "7-5. Network Equivalents of Junctions and Obstacles ",
+        "level": 2
+      },
+      {
+        "title": "7-6. TEM-mode Transmission Lines ",
+        "level": 2
+      },
+      {
+        "title": "7-7. Coaxial Lines: TEM-mode ",
+        "level": 2
+      },
+      {
+        "title": "7-8. Coaxial Lines: TM- and T#-modes ",
+        "level": 2
+      },
+      {
+        "title": "7-9. Cascade Transformers: T EM-mode ",
+        "level": 2
+      },
+      {
+        "title": "7-10. Parallel Stubs and Series Reactances ",
+        "level": 2
+      },
+      {
+        "title": "7-11. Rectangular Waveguides: TE- and TM-modes ",
+        "level": 2
+      },
+      {
+        "title": "7-12. Impedance Transformers for Rectangular Guides ",
+        "level": 2
+      },
+      {
+        "title": "7-13. Circular Waveguide: TE- and TM-modes ",
+        "level": 2
+      },
+      {
+        "title": "7-14. Windows for Use in Circular Guides ",
+        "level": 2
+      },
+      {
+        "title": "7-15. Parallel-plate Waveguide ",
+        "level": 2
+      },
+      {
+        "title": "7-16. Design Notes ",
+        "level": 2
+      },
+      {
+        "title": "CHAP. 8. MICROWAVE DIPOLE ANTENNAS AND FEEDS ..... . ",
+        "level": 1
+      },
+      {
+        "title": "8-1. Characteristics of Antenna Feeds ",
+        "level": 2
+      },
+      {
+        "title": "8-2. Coaxial Line Terminations: The Skirt Dipole ",
+        "level": 2
+      },
+      {
+        "title": "8-3. Asymmetric Dipole Termination ",
+        "level": 2
+      },
+      {
+        "title": "8-4. Symmetrically Energized Dipoles: Slot-fed Systems ",
+        "level": 2
+      },
+      {
+        "title": "8-5. Shape and Size of the Dipole ",
+        "level": 2
+      },
+      {
+        "title": "8-6. Waveguide-line-fed Dipoles. . ",
+        "level": 2
+      },
+      {
+        "title": "8-7. Directive Dipole Feeds ",
+        "level": 2
+      },
+      {
+        "title": "8-8. Dipole-disk Feeds ",
+        "level": 2
+      },
+      {
+        "title": "8-9. Double-dipole Feeds ",
+        "level": 2
+      },
+      {
+        "title": "8-10. Multi-dipole Systems ",
+        "level": 2
+      },
+      {
+        "title": "CHAP. 9. LINEAR ARRAY ANTENNAS AND FEEDS ",
+        "level": 1
+      },
+      {
+        "title": "9-1. General Considerations ",
+        "level": 2
+      },
+      {
+        "title": "PATTEEN THEORY ",
+        "level": 1
+      },
+      {
+        "title": "9-2. General Array Formula. *. ",
+        "level": 2
+      },
+      {
+        "title": "9-3. The Associated Polynomial ",
+        "level": 2
+      },
+      {
+        "title": "9-4. Uniform Arrays ",
+        "level": 2
+      },
+      {
+        "title": "9-5. Broadside Beams ",
+        "level": 2
+      },
+      {
+        "title": "9-6. End-fire Beams ",
+        "level": 2
+      },
+      {
+        "title": "9-7. Beam Synthesis ",
+        "level": 2
+      },
+      {
+        "title": "RADIATING ELEMENTS ",
+        "level": 1
+      },
+      {
+        "title": "9-8. Dipole Radiators ",
+        "level": 2
+      },
+      {
+        "title": "9-9. Slots in Waveguide Walls ",
+        "level": 2
+      },
+      {
+        "title": "9-10. Theory of Slot Radiators ",
+        "level": 2
+      },
+      {
+        "title": "9-11. Slots in Rectangular Waveguide; TE^-mode ",
+        "level": 2
+      },
+      {
+        "title": "9-12. Experimental Data on Slot Radiators ",
+        "level": 2
+      },
+      {
+        "title": "943. Probe-fed Slots ",
+        "level": 1
+      },
+      {
+        "title": "9-14. Waveguide Radiators . ",
+        "level": 2
+      },
+      {
+        "title": "9-15. Axially Symmetrical Radiators ",
+        "level": 2
+      },
+      {
+        "title": "9-16. Streamlined Radiators ",
+        "level": 2
+      },
+      {
+        "title": "ARRAYS ",
+        "level": 1
+      },
+      {
+        "title": "9-17. Loaded-line Analysis ",
+        "level": 2
+      },
+      {
+        "title": "9-18. End-fire Array ",
+        "level": 2
+      },
+      {
+        "title": "BROADSIDE ARRAYS. ",
+        "level": 1
+      },
+      {
+        "title": "9-19. Suppression of Extraneous Major Lobes ",
+        "level": 2
+      },
+      {
+        "title": "9-20. Resonant Arrays ",
+        "level": 2
+      },
+      {
+        "title": "9-21. Beacon Antenna Systems ",
+        "level": 2
+      },
+      {
+        "title": "9-22. Nonresonant Arrays . ",
+        "level": 2
+      },
+      {
+        "title": "9-23. Broadband Systems with Normal Beams ",
+        "level": 2
+      },
+      {
+        "title": "CHAP. 10. WAVEGUIDE AND HORN FEEDS ",
+        "level": 1
+      },
+      {
+        "title": "10-1. Radiation from Waveguide of Arbitrary Cross Section .... . ",
+        "level": 2
+      },
+      {
+        "title": "10-2. Radiation from Circular Waveguide ",
+        "level": 2
+      },
+      {
+        "title": "10-3. Radiation from Rectangular Guide ",
+        "level": 2
+      },
+      {
+        "title": "10-4. Waveguide Antenna Feeds ",
+        "level": 2
+      },
+      {
+        "title": "10-5. The Double-slot Feed ",
+        "level": 2
+      },
+      {
+        "title": "10-6. Electromagnetic Horns ",
+        "level": 2
+      },
+      {
+        "title": "10-7. Modes in E-plane Sectoral Horns ",
+        "level": 2
+      },
+      {
+        "title": "10-8. Modes in H-plane Sectoral Horns . . ",
+        "level": 2
+      },
+      {
+        "title": "10-9. Vector Diffraction Theory Applied to Sectoral Horns ",
+        "level": 2
+      },
+      {
+        "title": "10-10. Characteristics  Observed Radiation Patterns from Horns of",
+        "level": 2
+      },
+      {
+        "title": "Rectangular Cross Section ",
+        "level": 1
+      },
+      {
+        "title": "10-11. Admittance of Waveguide and Horns ",
+        "level": 2
+      },
+      {
+        "title": "10-12. Transformation of the l£-plane Horn Admittance from the to the Uniform Guide ",
+        "level": 2
+      },
+      {
+        "title": "10-13. Admittance Characteristics of H-plane Sectoral Horns ",
+        "level": 2
+      },
+      {
+        "title": "10-14. Compound Horns ",
+        "level": 2
+      },
+      {
+        "title": "10-15. The Box Horn ",
+        "level": 2
+      },
+      {
+        "title": "10-16. Beam Shaping by Means of Obstacles in Horn and ",
+        "level": 2
+      },
+      {
+        "title": "Apertures ",
+        "level": 1
+      },
+      {
+        "title": "10-17. Pressurizing and Matching ",
+        "level": 2
+      },
+      {
+        "title": "CHAP. 11. DIELECTRIC AND METAL-PLATE LENSES ",
+        "level": 1
+      },
+      {
+        "title": "11-1. Uses of Lenses in Microwave Antennas ",
+        "level": 2
+      },
+      {
+        "title": "DIELECTRIC LENSES ",
+        "level": 1
+      },
+      {
+        "title": "11-2. Principles of Design ",
+        "level": 2
+      },
+      {
+        "title": "11-3. Simple Lenses without Zoning ",
+        "level": 2
+      },
+      {
+        "title": "11-4. Zoned Dielectric Lenses ",
+        "level": 2
+      },
+      {
+        "title": "11-5. Use of Materials with High Refractive Indexes . ",
+        "level": 2
+      },
+      {
+        "title": "11-6. Dielectric Losses and Tolerances on Lens Parameters ",
+        "level": 2
+      },
+      {
+        "title": "11-7. Reflections from Dielectric Surfaces ",
+        "level": 2
+      },
+      {
+        "title": "METAL-PLATE LENSES ",
+        "level": 2
+      },
+      {
+        "title": "11-8. Parallel-plate Lenses ",
+        "level": 2
+      },
+      {
+        "title": "11-9. Other Metal-lens Structures ",
+        "level": 2
+      },
+      {
+        "title": "11-10. Metal-plate Lens Tolerances ",
+        "level": 2
+      },
+      {
+        "title": "11-11. Bandwidth of Metal-plate Lenses; Achromatic Doublets ... . ",
+        "level": 2
+      },
+      {
+        "title": "11-12. Reflections from Surfaces of Parallel-plate Lenses ",
+        "level": 2
+      },
+      {
+        "title": "CHAP. 12. PENCIL-BEAM AND SIMPLE FANNED-BEAM ANTENNAS ",
+        "level": 1
+      },
+      {
+        "title": "PENCIL-BEAM ANTENNAS ",
+        "level": 2
+      },
+      {
+        "title": "12-1. Pencil-beam Requirements and Techniques ",
+        "level": 2
+      },
+      {
+        "title": "12-2. Geometrical Parameters ",
+        "level": 2
+      },
+      {
+        "title": "12-3. The Surface-current and Aperture-field Distributions ",
+        "level": 2
+      },
+      {
+        "title": "12-4. The Radiation Field of the Reflector ",
+        "level": 2
+      },
+      {
+        "title": "12-5. The Antenna Gain ",
+        "level": 2
+      },
+      {
+        "title": "12-6. Primary Pattern Designs for Maximizing Gain ",
+        "level": 2
+      },
+      {
+        "title": "12-7. Experimental Results on Secondary Patterns ",
+        "level": 2
+      },
+      {
+        "title": "12-8. Impedance Characteristics ",
+        "level": 2
+      },
+      {
+        "title": "12-9. The Vertex-plate Matching Technique ",
+        "level": 2
+      },
+      {
+        "title": "12-10. Rotation of Polarization Technique ",
+        "level": 2
+      },
+      {
+        "title": "12-11. Structural Design Problems ",
+        "level": 2
+      },
+      {
+        "title": "SIMPLE FANNED-BEAM ANTENNAS ",
+        "level": 1
+      },
+      {
+        "title": "12-12. Applications of Fanned Beams and Methods of Production . . . ",
+        "level": 2
+      },
+      {
+        "title": "12-13. Symmetrically Cut Paraboloids ",
+        "level": 2
+      },
+      {
+        "title": "12-14. Feed Offset and Contour Cutting of Reflectors ....... . ",
+        "level": 2
+      },
+      {
+        "title": "12-15. The Parabolic Cylinder and Line Source ",
+        "level": 2
+      },
+      {
+        "title": "12-16. Parallel-plate Systems ",
+        "level": 2
+      },
+      {
+        "title": "12-17. Pillbox Design Problems ",
+        "level": 2
+      },
+      {
+        "title": "CHAP. 13. SHAPED-BEAM ANTENNAS ",
+        "level": 1
+      },
+      {
+        "title": "13-1. Shaped-beam Applications and Requirements ",
+        "level": 2
+      },
+      {
+        "title": "13-2. Effect of a Directional Target Response ",
+        "level": 2
+      },
+      {
+        "title": "13-3. Survey of Beam-shaping Techniques ",
+        "level": 2
+      },
+      {
+        "title": "13-4. Design of Extended Feeds ",
+        "level": 2
+      },
+      {
+        "title": "13-5, Cylindrical Reflector Antennas ",
+        "level": 2
+      },
+      {
+        "title": "13-6. Reflector Design on the Basis of Ray Theory ",
+        "level": 2
+      },
+      {
+        "title": "13-7. Radiation Pattern Analysis ",
+        "level": 2
+      },
+      {
+        "title": "13-8. Double Curvature Reflector Antennas ",
+        "level": 2
+      },
+      {
+        "title": "13-9. Variable Beam Shape ",
+        "level": 2
+      },
+      {
+        "title": "CHAP. 14. ANTENNA INSTALLATION PROBLEMS ",
+        "level": 1
+      },
+      {
+        "title": "GENERAL SURVEY OF INSTALLATION PROBLEMS ",
+        "level": 1
+      },
+      {
+        "title": "14-1. Ground Antennas ",
+        "level": 2
+      },
+      {
+        "title": "14-2. Ship Antennas ",
+        "level": 2
+      },
+      {
+        "title": "14-3. Aircraft Antennas ",
+        "level": 2
+      },
+      {
+        "title": "14-4. Scanning Antennas on Aircraft ",
+        "level": 2
+      },
+      {
+        "title": "14-5. Beacon Antennas on Aircraft ",
+        "level": 2
+      },
+      {
+        "title": "RADOME DESIGN PROBLEMS AND PROCEDURES ",
+        "level": 1
+      },
+      {
+        "title": "14-6. Relation of the Radome to System Performance ",
+        "level": 2
+      },
+      {
+        "title": "14-7. Radome Wall Design ",
+        "level": 2
+      },
+      {
+        "title": "14-8. Normal Incidence Radomes ",
+        "level": 2
+      },
+      {
+        "title": "14-9. Streamlined Radomes ",
+        "level": 2
+      },
+      {
+        "title": "CHAP. 15. ANTENNA MEASUREMENTS—TECHNIQUES ",
+        "level": 1
+      },
+      {
+        "title": "15-1. Introduction ",
+        "level": 2
+      },
+      {
+        "title": "IMPEDANCE MEASUREMENTS ",
+        "level": 1
+      },
+      {
+        "title": "15-2. Transmission-line Relations ",
+        "level": 2
+      },
+      {
+        "title": "15-3. Standing-wave Ratios ",
+        "level": 2
+      },
+      {
+        "title": "15-4. Measurement of Voltage Standing-wave Ratio ",
+        "level": 2
+      },
+      {
+        "title": "15-5. Determination of Electrical Length ",
+        "level": 2
+      },
+      {
+        "title": "15-6. Calibration of Detection System ",
+        "level": 2
+      },
+      {
+        "title": "15-7. Probe Reflections ",
+        "level": 2
+      },
+      {
+        "title": "PRIMARY FEED PATTERN MEASUREMENTS ",
+        "level": 1
+      },
+      {
+        "title": "15-8. Primary Pattern Apparatus for Point-source Feeds ",
+        "level": 2
+      },
+      {
+        "title": "15-9. Intensity Measurements ",
+        "level": 2
+      },
+      {
+        "title": "15-10. Phase Determinations ",
+        "level": 2
+      },
+      {
+        "title": "15-11. Line-source Primary Pattern ",
+        "level": 2
+      },
+      {
+        "title": "15-12. Magic T ",
+        "level": 2
+      },
+      {
+        "title": "15-13. Beacon Azimuth Patterns ",
+        "level": 2
+      },
+      {
+        "title": "SECONDARY PATTERN MEASUREMENTS ",
+        "level": 1
+      },
+      {
+        "title": "15-14. Siting Considerations ",
+        "level": 2
+      },
+      {
+        "title": "15-15. Pattern Measurements ",
+        "level": 2
+      },
+      {
+        "title": "15-16. Gain Measurements ",
+        "level": 2
+      },
+      {
+        "title": "15-17. Directive Gain ",
+        "level": 2
+      },
+      {
+        "title": "15-18. Gain Comparison ",
+        "level": 2
+      },
+      {
+        "title": "15-19. Primary Gain Standard Determination ",
+        "level": 2
+      },
+      {
+        "title": "15-20. Reflection Method for Gain Determination ",
+        "level": 2
+      },
+      {
+        "title": "15-21. Secondary Gain Standards ",
+        "level": 2
+      },
+      {
+        "title": "15-22. Interaction between Antennas ",
+        "level": 2
+      },
+      {
+        "title": "CHAP. 16. ANTENNA MEASUREMENTS—EQUIPMENT ",
+        "level": 1
+      },
+      {
+        "title": "16-1. Survey of Equipment Requirements ",
+        "level": 2
+      },
+      {
+        "title": "16-2. Sources of R-F Power ",
+        "level": 2
+      },
+      {
+        "title": "16-3. Detectors ",
+        "level": 2
+      },
+      {
+        "title": "16-4. Amplifiers ",
+        "level": 2
+      },
+      {
+        "title": "16-5. Recorders ",
+        "level": 2
       }
     ]
   },

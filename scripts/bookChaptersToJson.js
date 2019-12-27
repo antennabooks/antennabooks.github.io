@@ -42,13 +42,13 @@ readInterface.on('close', function () {
     // console.log(lines[i+2].split(": ")[1])
     var levelNumber = lines[i].split(" ")[0]
     var level = 1
-    if(levelNumber.split(".").length == 2){
-    // if(levelNumber.split("-").length == 1){
+    // if(levelNumber.split(".").length == 2){
+    if(levelNumber.split("-").length == 2){
       level = 2
     }
-    if(levelNumber.split(".").length == 3){
-      level = 3
-    }
+    // if(levelNumber.split(".").length == 3){
+      // level = 3
+    // }
     chapters.push({
       title: lines[i].replace(lines[i].split(" ").last(),""),
       level: level
