@@ -6680,108 +6680,108 @@
     "description": "First published in 1981, Robert S. Elliott's Antenna Theory and Design is one of the most significant works in electromagnetic theory and applications. In its broad-ranging, analytic treatment, replete with supporting experimental evidence, Antenna Theory and Design conveys fundamental methods of analysis that can be used to predict the electromagnetic behavior of nearly everything that radiates. After more than two decades, it remains a key resource for students, professors, researchers, and engineers who require a comprehensive, in-depth treatment of the subject.",
     "chapters": [
       {
-        "level": 1,
-        "title": "Frontmatter"
+        "title": "FRONT MATTER&#13;",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "SourceField Relations Single Antenna Elements"
+        "title": "A. SOURCE FIELD RELATIONS - SINGLE ANTENNA ELEMENTS ",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "The FarField Integrals, Reciprocity, Directivity"
+        "title": "A.1 The Far-field Integrals, Reciprocity, Directivity&#13;",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "Radiation Patterns of Dipoles, Loops, and Helices"
+        "title": "A.2. Radiation Patterns of Dipoles&#13;",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "Radiation Patterns of Horns, Slots and Patch Antennas"
+        "title": "A.3. Radiaiton Patterns of Horns, Slots, and Patch Antennas&#13;",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "Array Analysis and Synthesis"
+        "title": "B. ARRAY ANALYSIS AND SYNTHESIS&#13;",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "Linear Arrays: Analysis"
+        "title": "B.3. Line Arrays",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "Linear Arrays: Synthesis"
+        "title": "B.4. Line Arrays",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "Planar Arrays: Analysis and Synthesis"
+        "title": "B.5. Planar Arrays",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "SelfImpedance and Mutual Impedance, Feeding Structures"
+        "title": "C. SELF IMPEDANCE AND&#13; MUTUAL IMPEDANCE, FEEDING STRUCTURES",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "SelfImpedance and Mutual Impedance of Antenna Elements"
+        "title": "C.1. Self-Impedance and Mutual Impedance of Antenna Elements&#13;",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "The Design of Feeding Structures for Antenna Elements and Arrays"
+        "title": "C.2. The Design of Feeding for Antenna Elements and Arrays&#13;",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "Continuous Aperture Antennas"
+        "title": "D. CONTINOUS APERTURE ANTENNAS&#13;",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "Traveling Wave Antennas"
+        "title": "D.1. Travelling Wave Antennas&#13;",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "Reflectors and Lenses"
+        "title": "D.2. Reflectors and Lenses&#13;",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "Appendices"
+        "title": "E. APPENDICES&#13;",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "A. Reduction of the Vector Green's Formula for E"
+        "title": "E.1. Reduction of the Vector Green's Formula for E&#13;",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "B. The Wave Equations for A and Φ"
+        "title": "E.2. The Wave Equation for A and Phi&#13;",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "C. Derivation of the Chebyshev Polynomials"
+        "title": "E.3. Derivation of the Chebyshev Polynomials&#13;",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "D. A General Expansion of cosm V"
+        "title": "E.4. A General Expansion of cosmV&#13;",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "E. Approximation to the Magnetic Vector Potential Function for Slender"
+        "title": "E.5. Approximation to the Magnetic Vector Potential Function for Slender Dipoles&#13;",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "F. Diffraction by Plane Conducting Screens: Babinet's Principle"
+        "title": "E.6. Diffraction by Plane Conducting Screens",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "G. The FarField in Cylindrical Coordinates"
+        "title": "E.7. The Farfield in Cylindirical Coordinates&#13;",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "H. The Utility of a CSC2 θ Pattern"
+        "title": "E.8. The Utility of a csc2 theta Pattern&#13;",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "Index"
+        "title": "E.9. Index",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "About the Author"
+        "title": "ABOUT THE AUTHOR&#13;",
+        "level": "1"
       }
     ]
   },
