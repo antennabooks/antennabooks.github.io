@@ -34,9 +34,18 @@ readInterface.on('close', function () {
   // for(i=0; i<lines.length; i += 4){
     // console.log(lines[i+1].split(": ")[1])
     // console.log(lines[i+2].split(": ")[1])
+    var levelNumber = lines[i].split(" ")[0]
+    var level = 1
+    console.log(levelNumber.match(/./g)) 
+    if(levelNumber.split(".").length == 2){
+      level = 2
+    }
+    if(levelNumber.split(".").length == 3){
+      level = 3
+    }
     chapters.push({
       title: lines[i],
-      level: 2
+      level: level
       // title: lines[i+1].split(": ")[1],
       // level: lines[i+2].split(": ")[1]
     })
