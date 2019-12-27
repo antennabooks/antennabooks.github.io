@@ -1,788 +1,824 @@
 BookmarkBegin
-BookmarkTitle: Phased Array Antenna Handbook Third Edition
+BookmarkTitle: Front Matter
 BookmarkLevel: 1
 BookmarkPageNumber: 1
 BookmarkBegin
-BookmarkTitle: Contents
-BookmarkLevel: 2
-BookmarkPageNumber: 6
+BookmarkTitle: Preface
+BookmarkLevel: 1
+BookmarkPageNumber: 3
 BookmarkBegin
-BookmarkTitle: Preface to the Third Edition
-BookmarkLevel: 2
-BookmarkPageNumber: 12
+BookmarkTitle: Table of Contents
+BookmarkLevel: 1
+BookmarkPageNumber: 7
 BookmarkBegin
-BookmarkTitle: Preface to the Second Edition
-BookmarkLevel: 2
-BookmarkPageNumber: 14
+BookmarkTitle: 1. Introduction
+BookmarkLevel: 1
+BookmarkPageNumber: 13
 BookmarkBegin
-BookmarkTitle: Preface to the First Edition&#10;
+BookmarkTitle: 1.1 The Phenomena of Antenna Coupling
+BookmarkLevel: 2
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: 1.2 Characterisation via the Measurement Process
 BookmarkLevel: 2
 BookmarkPageNumber: 16
 BookmarkBegin
-BookmarkTitle: Acknowledgments
-BookmarkLevel: 2
+BookmarkTitle: 1.2.1 Free Space Radiation Pattern
+BookmarkLevel: 3
 BookmarkPageNumber: 18
 BookmarkBegin
-BookmarkTitle: Chapter 1 Phased Arrays in Radar and&#10;Communication Systems
-BookmarkLevel: 2
-BookmarkPageNumber: 20
+BookmarkTitle: 1.2.2 Polarisation
+BookmarkLevel: 3
+BookmarkPageNumber: 19
 BookmarkBegin
-BookmarkTitle: 1.1 Introduction
+BookmarkTitle: 1.2.3 Bandwidth
 BookmarkLevel: 3
 BookmarkPageNumber: 20
 BookmarkBegin
-BookmarkTitle: 1.1.1 System Requirements for Radar and Communication Antennas
-BookmarkLevel: 4
-BookmarkPageNumber: 20
-BookmarkBegin
-BookmarkTitle: 1.1.2 Directive Properties of Arrays
-BookmarkLevel: 4
-BookmarkPageNumber: 20
-BookmarkBegin
-BookmarkTitle: 1.1.3 Array Noise Characterization
-BookmarkLevel: 4
+BookmarkTitle: 1.3 The Organisation of the Book
+BookmarkLevel: 2
 BookmarkPageNumber: 23
 BookmarkBegin
-BookmarkTitle: 1.1.4 The Receiving Antenna in a Polarized Plane Wave Field
-BookmarkLevel: 4
-BookmarkPageNumber: 27
+BookmarkTitle: References
+BookmarkLevel: 2
+BookmarkPageNumber: 24
 BookmarkBegin
-BookmarkTitle: 1.1.5 System Considerations
-BookmarkLevel: 4
-BookmarkPageNumber: 29
+BookmarkTitle: 2. Maxwell's Equations and Electromagnetic Wave Propagation
+BookmarkLevel: 1
+BookmarkPageNumber: 25
 BookmarkBegin
-BookmarkTitle: 1.1.6 Monopulse Beam Splitting
-BookmarkLevel: 4
+BookmarkTitle: 2.1 Electric Charge
+BookmarkLevel: 2
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: 2.2 The EM Field
+BookmarkLevel: 2
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: 2.3 Accelerated Charges
+BookmarkLevel: 2
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: 2.4 Maxwell's Equations
+BookmarkLevel: 2
 BookmarkPageNumber: 30
 BookmarkBegin
-BookmarkTitle: 1.2 Array Characterization for Radar and Communication Systems
+BookmarkTitle: 2.5 The Electric and Magnetic Potentials
+BookmarkLevel: 2
+BookmarkPageNumber: 36
+BookmarkBegin
+BookmarkTitle: 2.5.1 Static Potentials
 BookmarkLevel: 3
-BookmarkPageNumber: 31
+BookmarkPageNumber: 36
 BookmarkBegin
-BookmarkTitle: 1.2.1 Scanning and Collimation of Linear and Planar Arrays
-BookmarkLevel: 4
-BookmarkPageNumber: 34
+BookmarkTitle: 2.5.2 Retarded Potentials
+BookmarkLevel: 3
+BookmarkPageNumber: 36
 BookmarkBegin
-BookmarkTitle: 1.2.2 Phase Scanning in One Dimension (&#981;0 = 0)
-BookmarkLevel: 4
-BookmarkPageNumber: 34
+BookmarkTitle: 2.6 The Inapplicability of Source Excitation as a Measurement Methodology
+BookmarkLevel: 2
+BookmarkPageNumber: 40
 BookmarkBegin
-BookmarkTitle: 1.2.3 Two-Dimensional Scanning of Planar Arrays
-BookmarkLevel: 4
-BookmarkPageNumber: 37
+BookmarkTitle: 2.7 Field Equivalence Principle
+BookmarkLevel: 2
+BookmarkPageNumber: 40
 BookmarkBegin
-BookmarkTitle: 1.2.4 Beamwidth and Directivity of Scanning Arrays
-BookmarkLevel: 4
-BookmarkPageNumber: 37
+BookmarkTitle: 2.8 Characterising Vector EM Fields
+BookmarkLevel: 2
+BookmarkPageNumber: 42
 BookmarkBegin
-BookmarkTitle: 1.2.5 Directivity of Linear Arrays
-BookmarkLevel: 4
-BookmarkPageNumber: 41
-BookmarkBegin
-BookmarkTitle: 1.2.6 Directivity of Planar Arrays
-BookmarkLevel: 4
-BookmarkPageNumber: 43
-BookmarkBegin
-BookmarkTitle: 1.2.7 Array Realized Gain and Scan Loss
-BookmarkLevel: 4
-BookmarkPageNumber: 44
-BookmarkBegin
-BookmarkTitle: 1.2.8 Grating Lobes of a Linear Array
-BookmarkLevel: 4
+BookmarkTitle: 2.9 Summary
+BookmarkLevel: 2
 BookmarkPageNumber: 45
 BookmarkBegin
-BookmarkTitle: 1.2.9 Grating Lobes of a Planar Array
-BookmarkLevel: 4
-BookmarkPageNumber: 49
+BookmarkTitle: References
+BookmarkLevel: 2
+BookmarkPageNumber: 45
 BookmarkBegin
-BookmarkTitle: 1.2.10 Bandwidth
-BookmarkLevel: 4
-BookmarkPageNumber: 50
+BookmarkTitle: 3. Introduction to Near-Field Antenna Measurements
+BookmarkLevel: 1
+BookmarkPageNumber: 46
 BookmarkBegin
-BookmarkTitle: 1.2.11 Array Size Determination
-BookmarkLevel: 4
+BookmarkTitle: 3.1 Introduction
+BookmarkLevel: 2
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: 3.2 Antenna Measurements
+BookmarkLevel: 2
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: 3.3 Forms of Near-Field Antenna Measurements
+BookmarkLevel: 2
+BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: 3.4 Plane Rectilinear Near-Field Antenna Measurements
+BookmarkLevel: 2
 BookmarkPageNumber: 54
 BookmarkBegin
-BookmarkTitle: 1.2.12 EIRP and G/T for Large, Two-Dimensional Passive or Active Arrays
-BookmarkLevel: 4
-BookmarkPageNumber: 54
+BookmarkTitle: 3.5 Chambers, Screening and Absorber
+BookmarkLevel: 2
+BookmarkPageNumber: 55
 BookmarkBegin
-BookmarkTitle: 1.2.13 Gain Limitations Due to Circuit Losses
-BookmarkLevel: 4
-BookmarkPageNumber: 56
-BookmarkBegin
-BookmarkTitle: 1.2.14 Directivity and Illumination Errors: Random Error and&#10;Quantization Error
-BookmarkLevel: 4
+BookmarkTitle: 3.6 RF Subsystem
+BookmarkLevel: 2
 BookmarkPageNumber: 58
 BookmarkBegin
-BookmarkTitle: 1.2.15 Minimum Number of Elements versus Scan Coverage: Limited Field-of-View Arrays
-BookmarkLevel: 4
-BookmarkPageNumber: 61
-BookmarkBegin
-BookmarkTitle: 1.2.16 Time-Delay Compensation
-BookmarkLevel: 4
+BookmarkTitle: 3.7 Robotics Positioner Subsystem
+BookmarkLevel: 2
 BookmarkPageNumber: 63
 BookmarkBegin
-BookmarkTitle: 1.3 Array Architecture and Control Technology
-BookmarkLevel: 3
-BookmarkPageNumber: 64
-BookmarkBegin
-BookmarkTitle: 1.3.1 Array Aperture
-BookmarkLevel: 4
-BookmarkPageNumber: 64
-BookmarkBegin
-BookmarkTitle: 1.3.2 Feed Architectures
-BookmarkLevel: 4
+BookmarkTitle: 3.8 Near-Field Probe
+BookmarkLevel: 2
 BookmarkPageNumber: 67
 BookmarkBegin
-BookmarkTitle: 1.3.3 Beamforming and Relevant Architectures
-BookmarkLevel: 4
-BookmarkPageNumber: 72
+BookmarkTitle: 3.9 Generic Antenna Measurement Process
+BookmarkLevel: 2
+BookmarkPageNumber: 69
 BookmarkBegin
-BookmarkTitle: 1.3.4 RF Components for Array Control&#10;
-BookmarkLevel: 4
+BookmarkTitle: 3.10 Summary
+BookmarkLevel: 2
+BookmarkPageNumber: 71
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 2
+BookmarkPageNumber: 71
+BookmarkBegin
+BookmarkTitle: 4. Plane Wave Spectrum Representation of Electromagnetic Waves
+BookmarkLevel: 1
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: 4.1 Introduction
+BookmarkLevel: 2
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: 4.2 Overview of the Derivation of the PWS
+BookmarkLevel: 2
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: 4.3 Solution of the Scalar Helmholtz Equation in Cartesian Coordinates
+BookmarkLevel: 2
 BookmarkPageNumber: 75
 BookmarkBegin
-BookmarkTitle: 1.3.5 Monolithic Microwave Integrated Circuit Technology
-BookmarkLevel: 4
-BookmarkPageNumber: 78
-BookmarkBegin
-BookmarkTitle: 1.3.6 Antenna Components for Mobile Phones
-BookmarkLevel: 4
-BookmarkPageNumber: 78
-BookmarkBegin
-BookmarkTitle: 1.3.7 Metamaterials for Array Control
-BookmarkLevel: 4
-BookmarkPageNumber: 79
-BookmarkBegin
-BookmarkTitle: References
+BookmarkTitle: 4.3.1 Introduction to Integral Transforms
 BookmarkLevel: 3
-BookmarkPageNumber: 80
+BookmarkPageNumber: 75
 BookmarkBegin
-BookmarkTitle: Chapter 2 Pattern Characteristics of Linear and&#10;Planar Arrays
+BookmarkTitle: 4.3.2 Fourier Transform Solution of the Scalar Helmholtz Equation
+BookmarkLevel: 3
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle: 4.4 On the Choice of Boundary Conditions
 BookmarkLevel: 2
-BookmarkPageNumber: 84
-BookmarkBegin
-BookmarkTitle: 2.1 Array Analysis
-BookmarkLevel: 3
-BookmarkPageNumber: 84
-BookmarkBegin
-BookmarkTitle: 2.1.1 The Radiation Integrals
-BookmarkLevel: 4
-BookmarkPageNumber: 84
-BookmarkBegin
-BookmarkTitle: 2.1.2 Element Pattern Effects, Mutual Coupling, Gain Computed from&#10;Element Patterns
-BookmarkLevel: 4
 BookmarkPageNumber: 88
 BookmarkBegin
-BookmarkTitle: 2.2 Characteristics of Linear and Planar Arrays
-BookmarkLevel: 3
-BookmarkPageNumber: 95
+BookmarkTitle: 4.5 Operator Substitution Derivative of a Fourier Transform
+BookmarkLevel: 2
+BookmarkPageNumber: 89
 BookmarkBegin
-BookmarkTitle: 2.2.1 Linear Array Characteristics
-BookmarkLevel: 4
-BookmarkPageNumber: 95
+BookmarkTitle: 4.6 Solution of the Vector Helmholtz Equation in Cartesian Coordinates
+BookmarkLevel: 2
+BookmarkPageNumber: 91
 BookmarkBegin
-BookmarkTitle: 2.2.2 Planar Array Characteristics
-BookmarkLevel: 4
-BookmarkPageNumber: 104
+BookmarkTitle: 4.7 Solution of the Vector Magnetic Wave Equation in Cartesian Coordinates
+BookmarkLevel: 2
+BookmarkPageNumber: 93
 BookmarkBegin
-BookmarkTitle: 2.3 Scanning to Endfire
-BookmarkLevel: 3
-BookmarkPageNumber: 110
+BookmarkTitle: 4.8 The Relationship between Electric and Magnetic Spectral Components
+BookmarkLevel: 2
+BookmarkPageNumber: 94
 BookmarkBegin
-BookmarkTitle: 2.4 Thinned Arrays
-BookmarkLevel: 3
-BookmarkPageNumber: 113
+BookmarkTitle: 4.9 The Free-Space Propagation Vector k with line below
+BookmarkLevel: 2
+BookmarkPageNumber: 97
 BookmarkBegin
-BookmarkTitle: 2.4.1 Average Patterns of Density-Tapered Arrays
-BookmarkLevel: 4
-BookmarkPageNumber: 115
+BookmarkTitle: 4.10 Plane Wave Impedance
+BookmarkLevel: 2
+BookmarkPageNumber: 98
 BookmarkBegin
-BookmarkTitle: 2.4.2 Probabilistic Studies of Thinned Arrays
-BookmarkLevel: 4
+BookmarkTitle: 4.11 Interpretation as an Angular Spectrum of Plane Waves
+BookmarkLevel: 2
+BookmarkPageNumber: 100
+BookmarkBegin
+BookmarkTitle: 4.12 Far-Field Antenna Radiation Patterns: Approximated by the Angular Spectrum
+BookmarkLevel: 2
+BookmarkPageNumber: 102
+BookmarkBegin
+BookmarkTitle: 4.13 Stationary Phase Evaluation of a Double Integral
+BookmarkLevel: 2
+BookmarkPageNumber: 105
+BookmarkBegin
+BookmarkTitle: 4.14 Coordinate Free Form of the Near-Field to Angular Spectrum Transform
+BookmarkLevel: 2
+BookmarkPageNumber: 111
+BookmarkBegin
+BookmarkTitle: 4.15 Reduction of the Coordinate Free Form of the Near-Field to Far-Field Transform to Huygens' Principle
+BookmarkLevel: 2
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: 4.16 Far-Fields from Non-Planar Apertures
+BookmarkLevel: 2
 BookmarkPageNumber: 116
 BookmarkBegin
-BookmarkTitle: 2.4.3 Thinned Arrays with Quantized Amplitude Distributions
-BookmarkLevel: 4
-BookmarkPageNumber: 121
+BookmarkTitle: 4.17 Microwave Holographic Metrology Plane-to-Plane Transform
+BookmarkLevel: 2
+BookmarkPageNumber: 117
+BookmarkBegin
+BookmarkTitle: 4.18 Far-Field to Near-Field Transform
+BookmarkLevel: 2
+BookmarkPageNumber: 118
+BookmarkBegin
+BookmarkTitle: 4.19 Radiated Power and the Angular Spectrum
+BookmarkLevel: 2
+BookmarkPageNumber: 122
+BookmarkBegin
+BookmarkTitle: 4.20 Summary of Conventional Near-Field to Far-Field Transform
+BookmarkLevel: 2
+BookmarkPageNumber: 125
 BookmarkBegin
 BookmarkTitle: References
-BookmarkLevel: 3
+BookmarkLevel: 2
+BookmarkPageNumber: 127
+BookmarkBegin
+BookmarkTitle: 5. Measurements - Practicalities of Planar Near-Field Antenna Measurements
+BookmarkLevel: 1
 BookmarkPageNumber: 129
 BookmarkBegin
-BookmarkTitle: Chapter 3 Pattern Synthesis for Linear and Planar&#10;Arrays
+BookmarkTitle: 5.1 Introduction
 BookmarkLevel: 2
-BookmarkPageNumber: 132
+BookmarkPageNumber: 129
 BookmarkBegin
-BookmarkTitle: 3.1 Linear Arrays and Planar Arrays with Separable Distributions
+BookmarkTitle: 5.2 Sampling Interpolation Theory
+BookmarkLevel: 2
+BookmarkPageNumber: 130
+BookmarkBegin
+BookmarkTitle: 5.3 Truncation, Spectral Leakage and Finite Area Scan Errors
+BookmarkLevel: 2
+BookmarkPageNumber: 131
+BookmarkBegin
+BookmarkTitle: 5.4 Antenna-to-Antenna Coupling Transmission Formula
+BookmarkLevel: 2
+BookmarkPageNumber: 135
+BookmarkBegin
+BookmarkTitle: 5.4.1 Attenuation of Evanescent Plane Wave Mode Coefficients
 BookmarkLevel: 3
-BookmarkPageNumber: 133
+BookmarkPageNumber: 146
 BookmarkBegin
-BookmarkTitle: 3.1.1 Fourier Transform Method
-BookmarkLevel: 4
-BookmarkPageNumber: 133
+BookmarkTitle: 5.4.2 Simple Scattering Model of a Near-Field Probe during a Planar Measurement
+BookmarkLevel: 3
+BookmarkPageNumber: 147
 BookmarkBegin
-BookmarkTitle: 3.1.2 Schelkunov&#8217;s (Schelkunoff&#8217;s) Form
-BookmarkLevel: 4
-BookmarkPageNumber: 133
+BookmarkTitle: 5.5 Evaluation of the Conventional Near-Field to Far-Field Transform
+BookmarkLevel: 2
+BookmarkPageNumber: 148
 BookmarkBegin
-BookmarkTitle: 3.1.3 Woodward Synthesis
-BookmarkLevel: 4
-BookmarkPageNumber: 136
+BookmarkTitle: 5.5.1 Standard Techniques for the Evaluation of a Double Fourier Integral
+BookmarkLevel: 3
+BookmarkPageNumber: 149
 BookmarkBegin
-BookmarkTitle: 3.1.4 Dolph-Chebyshev Synthesis
+BookmarkTitle: 5.5.1.1 The FFT
 BookmarkLevel: 4
-BookmarkPageNumber: 139
+BookmarkPageNumber: 149
 BookmarkBegin
-BookmarkTitle: 3.1.5 Taylor Line Source Synthesis
+BookmarkTitle: 5.5.1.2 Discrete Fourier Transform
 BookmarkLevel: 4
-BookmarkPageNumber: 145
+BookmarkPageNumber: 151
 BookmarkBegin
-BookmarkTitle: 3.1.6 Modified sin &#960;z/&#960;z Patterns
+BookmarkTitle: 5.5.1.3 FTs with Improved Accuracy
 BookmarkLevel: 4
+BookmarkPageNumber: 152
+BookmarkBegin
+BookmarkTitle: 5.6 General Antenna Coupling Formula: Arbitrarily Orientated Antennas
+BookmarkLevel: 2
 BookmarkPageNumber: 153
 BookmarkBegin
-BookmarkTitle: 3.1.7 Bayliss Line Source Difference Patterns
-BookmarkLevel: 4
-BookmarkPageNumber: 155
-BookmarkBegin
-BookmarkTitle: 3.1.8 Synthesis Methods Based on Taylor Patterns: Elliott&#8217;s Modified Taylor&#10;Patterns and the Iterative Method of Elli
-BookmarkLevel: 4
+BookmarkTitle: 5.7 Plane-Polar and Plane-Bipolar Near-Field to Far-Field Transform
+BookmarkLevel: 2
 BookmarkPageNumber: 158
 BookmarkBegin
-BookmarkTitle: 3.1.9 Discretization of Continuous Aperture Illuminations by Root Matching and Iteration
-BookmarkLevel: 4
-BookmarkPageNumber: 164
-BookmarkBegin
-BookmarkTitle: 3.1.10 Power Pattern Parameter Optimization Based upon the Ratio of&#10;Quadratic Forms
-BookmarkLevel: 4
-BookmarkPageNumber: 165
-BookmarkBegin
-BookmarkTitle: 3.2 Numerical Methods of Pattern Synthesis
+BookmarkTitle: 5.7.1 Boundary Values Known in Plane-Polar Coordinates
 BookmarkLevel: 3
-BookmarkPageNumber: 168
+BookmarkPageNumber: 160
 BookmarkBegin
-BookmarkTitle: 3.2.1 Numerical Power Pattern Synthesis
-BookmarkLevel: 4
-BookmarkPageNumber: 168
+BookmarkTitle: 5.7.2 Boundary Values Known in Plane-Bipolar Coordinates
+BookmarkLevel: 3
+BookmarkPageNumber: 161
 BookmarkBegin
-BookmarkTitle: 3.2.2 The Alternating Projection Method
-BookmarkLevel: 4
-BookmarkPageNumber: 177
+BookmarkTitle: 5.8 Regular Azimuth over Elevation and Elevation over Azimuth Coordinate Systems
+BookmarkLevel: 2
+BookmarkPageNumber: 166
 BookmarkBegin
-BookmarkTitle: 3.2.3 Numerical Pattern Synthesis Subject to Constraints
-BookmarkLevel: 4
+BookmarkTitle: 5.9 Polarisation Basis and Antenna Measurements
+BookmarkLevel: 2
+BookmarkPageNumber: 169
+BookmarkBegin
+BookmarkTitle: 5.9.1 Cartesian Polarisation Basis - Ludwig I
+BookmarkLevel: 3
+BookmarkPageNumber: 169
+BookmarkBegin
+BookmarkTitle: 5.9.2 Polar Spherical Polarisation Basis
+BookmarkLevel: 3
+BookmarkPageNumber: 170
+BookmarkBegin
+BookmarkTitle: 5.9.3 Azimuth over Elevation Basis - Ludwig II
+BookmarkLevel: 3
+BookmarkPageNumber: 171
+BookmarkBegin
+BookmarkTitle: 5.9.4 Copolar and Cross-Polar Polarisation Basis - Ludwig III
+BookmarkLevel: 3
+BookmarkPageNumber: 173
+BookmarkBegin
+BookmarkTitle: 5.9.5 Circular Polarisation Basis - RHCP and LHCP
+BookmarkLevel: 3
+BookmarkPageNumber: 175
+BookmarkBegin
+BookmarkTitle: 5.10 Overview of Antenna Alignment Corrections
+BookmarkLevel: 2
+BookmarkPageNumber: 179
+BookmarkBegin
+BookmarkTitle: 5.10.1 Scalar Rotation of Far-Field Antenna Patterns
+BookmarkLevel: 3
+BookmarkPageNumber: 179
+BookmarkBegin
+BookmarkTitle: 5.10.2 Vector Rotation of Far-Field Antenna Patterns
+BookmarkLevel: 3
 BookmarkPageNumber: 181
 BookmarkBegin
-BookmarkTitle: 3.3 Circular Planar Arrays
+BookmarkTitle: 5.10.3 Rotation of Copolar Polarisation Basis - Generalized Ludwig III
 BookmarkLevel: 3
 BookmarkPageNumber: 183
 BookmarkBegin
-BookmarkTitle: 3.3.1 Taylor Circular Array Synthesis
-BookmarkLevel: 4
-BookmarkPageNumber: 183
+BookmarkTitle: 5.10.4 Generalized Compound Vector Rotation of Far-Field Antenna Patterns
+BookmarkLevel: 3
+BookmarkPageNumber: 184
 BookmarkBegin
-BookmarkTitle: 3.3.2 Bayliss Difference Patterns for Circular Arrays
-BookmarkLevel: 4
+BookmarkTitle: 5.11 Brief Description of Near-Field Coordinate Systems
+BookmarkLevel: 2
 BookmarkPageNumber: 185
 BookmarkBegin
-BookmarkTitle: 3.4 Methods of Pattern Optimization and Adaptive Arrays
+BookmarkTitle: 5.11.1 Range Fixed System
+BookmarkLevel: 3
+BookmarkPageNumber: 186
+BookmarkBegin
+BookmarkTitle: 5.11.2 Antenna Mechanical System
 BookmarkLevel: 3
 BookmarkPageNumber: 187
 BookmarkBegin
-BookmarkTitle: 3.4.1 Introduction
-BookmarkLevel: 4
-BookmarkPageNumber: 187
+BookmarkTitle: 5.11.3 Antenna Electrical System
+BookmarkLevel: 3
+BookmarkPageNumber: 188
 BookmarkBegin
-BookmarkTitle: 3.4.2 Generalized S/N Optimization for Sidelobe Cancelers and Phased and&#10;Multiple-Beam Arrays
-BookmarkLevel: 4
+BookmarkTitle: 5.11.4 Far-Field Azimuth and Elevation Coordinates
+BookmarkLevel: 3
+BookmarkPageNumber: 188
+BookmarkBegin
+BookmarkTitle: 5.11.5 Ludwig III Copolar and Cross-Polar Definition
+BookmarkLevel: 3
+BookmarkPageNumber: 188
+BookmarkBegin
+BookmarkTitle: 5.11.6 Probe Alignment Definition in Single Port Probe SPP
+BookmarkLevel: 3
+BookmarkPageNumber: 188
+BookmarkBegin
+BookmarkTitle: 5.11.7 General Vector Rotation of Antenna Radiation Patterns
+BookmarkLevel: 3
+BookmarkPageNumber: 189
+BookmarkBegin
+BookmarkTitle: 5.12 Directivity and Gain
+BookmarkLevel: 2
 BookmarkPageNumber: 190
 BookmarkBegin
-BookmarkTitle: 3.4.3 Operation as Sidelobe Canceler
-BookmarkLevel: 4
+BookmarkTitle: 5.12.1 Directivity
+BookmarkLevel: 3
+BookmarkPageNumber: 190
+BookmarkBegin
+BookmarkTitle: 5.12.2 Gain - By Substitution Method
+BookmarkLevel: 3
+BookmarkPageNumber: 191
+BookmarkBegin
+BookmarkTitle: 5.12.3 Gain-Transfer Gain-Comparison Method
+BookmarkLevel: 3
+BookmarkPageNumber: 192
+BookmarkBegin
+BookmarkTitle: 5.13 Calculating the Peak of a Pattern
+BookmarkLevel: 2
 BookmarkPageNumber: 193
 BookmarkBegin
-BookmarkTitle: 3.4.4 Fully Adaptive Phased or Multiple-Beam Arrays
-BookmarkLevel: 4
+BookmarkTitle: 5.13.1 Peak by Polynomial Fit
+BookmarkLevel: 3
+BookmarkPageNumber: 193
+BookmarkBegin
+BookmarkTitle: 5.13.2 Peak by Centroid
+BookmarkLevel: 3
+BookmarkPageNumber: 195
+BookmarkBegin
+BookmarkTitle: 5.14 Summary
+BookmarkLevel: 2
 BookmarkPageNumber: 196
 BookmarkBegin
-BookmarkTitle: 3.4.5 Wideband Adaptive Control
-BookmarkLevel: 4
+BookmarkTitle: References
+BookmarkLevel: 2
+BookmarkPageNumber: 197
+BookmarkBegin
+BookmarkTitle: 6. Probe Pattern Characterisation
+BookmarkLevel: 1
 BookmarkPageNumber: 198
 BookmarkBegin
-BookmarkTitle: 3.5 Generalized Patterns Using Covariance Matrix Inversion
+BookmarkTitle: 6.1 Introduction
+BookmarkLevel: 2
+BookmarkPageNumber: 198
+BookmarkBegin
+BookmarkTitle: 6.2 Effect of the Probe Pattern on Far-Field Data
+BookmarkLevel: 2
+BookmarkPageNumber: 198
+BookmarkBegin
+BookmarkTitle: 6.3 Desirable Characteristics of a Near-Field Probe
+BookmarkLevel: 2
+BookmarkPageNumber: 200
+BookmarkBegin
+BookmarkTitle: 6.4 Acquisition of Quasi Far-Field Probe Pattern
+BookmarkLevel: 2
+BookmarkPageNumber: 202
+BookmarkBegin
+BookmarkTitle: 6.4.1 Sampling Scheme
 BookmarkLevel: 3
 BookmarkPageNumber: 203
 BookmarkBegin
-BookmarkTitle: 3.6 Pattern Synthesis Including Mutual Couplin
+BookmarkTitle: 6.4.2 Electronic System Drift Tie-Scan Correction
 BookmarkLevel: 3
-BookmarkPageNumber: 205
-BookmarkBegin
-BookmarkTitle: 3.6.1 Introduction
-BookmarkLevel: 4
-BookmarkPageNumber: 205
-BookmarkBegin
-BookmarkTitle: 3.6.2 Pattern Synthesis Using Mutual Coupling Parameters
-BookmarkLevel: 4
 BookmarkPageNumber: 206
 BookmarkBegin
-BookmarkTitle: 3.6.3 Pattern Synthesis Using Measured Element Patterns
-BookmarkLevel: 4
+BookmarkTitle: 6.4.3 Channel-Balance Correction
+BookmarkLevel: 3
 BookmarkPageNumber: 207
 BookmarkBegin
-BookmarkTitle: 3.6.4 Array Failure Correction
-BookmarkLevel: 4
-BookmarkPageNumber: 208
-BookmarkBegin
-BookmarkTitle: References
+BookmarkTitle: 6.4.4 Assessment of Chamber Multiple Reflections
 BookmarkLevel: 3
 BookmarkPageNumber: 210
 BookmarkBegin
-BookmarkTitle: Chapter 4&#10;Patterns of Nonplanar Arrays
-BookmarkLevel: 2
-BookmarkPageNumber: 216
-BookmarkBegin
-BookmarkTitle: 4.1 Introduction
+BookmarkTitle: 6.4.5 Correction for Rotary Errors
 BookmarkLevel: 3
-BookmarkPageNumber: 216
+BookmarkPageNumber: 211
 BookmarkBegin
-BookmarkTitle: 4.1.1 Methods of Analysis for General Conformal Arrays
-BookmarkLevel: 4
-BookmarkPageNumber: 217
+BookmarkTitle: 6.4.6 Re-Tabulation of Probe Vector Pattern Function
+BookmarkLevel: 3
+BookmarkPageNumber: 214
 BookmarkBegin
-BookmarkTitle: 4.2 Patterns of Circular and Cylindrical Arrays
+BookmarkTitle: 6.4.7 Alternate Interpolation Formula
 BookmarkLevel: 3
 BookmarkPageNumber: 218
 BookmarkBegin
-BookmarkTitle: 4.2.1 Phase Mode Excitation of Circular Arrays
+BookmarkTitle: 6.4.7.1 Nearest Neighbour
 BookmarkLevel: 4
+BookmarkPageNumber: 218
+BookmarkBegin
+BookmarkTitle: 6.4.7.2 Three-Point Formula Linear
+BookmarkLevel: 4
+BookmarkPageNumber: 218
+BookmarkBegin
+BookmarkTitle: 6.4.7.3 Bi-Linear
+BookmarkLevel: 4
+BookmarkPageNumber: 219
+BookmarkBegin
+BookmarkTitle: 6.4.7.4 Six-Point Formula Bicubic
+BookmarkLevel: 4
+BookmarkPageNumber: 219
+BookmarkBegin
+BookmarkTitle: 6.4.7.5 Phase Interpolation
+BookmarkLevel: 4
+BookmarkPageNumber: 220
+BookmarkBegin
+BookmarkTitle: 6.4.8 True Far-Field Probe Pattern
+BookmarkLevel: 3
 BookmarkPageNumber: 221
 BookmarkBegin
-BookmarkTitle: 4.2.2 Patterns and Elevation Scan
-BookmarkLevel: 4
-BookmarkPageNumber: 225
+BookmarkTitle: 6.5 Finite Element Model of Open-Ended Rectangular Waveguide Probe
+BookmarkLevel: 2
+BookmarkPageNumber: 222
 BookmarkBegin
-BookmarkTitle: 4.2.3 Circular and Cylindrical Arrays of Directional Elements
-BookmarkLevel: 4
+BookmarkTitle: 6.6 Probe Displacement Correction
+BookmarkLevel: 2
 BookmarkPageNumber: 226
 BookmarkBegin
-BookmarkTitle: 4.2.4 Sector Arrays on Conducting Cylinders
-BookmarkLevel: 4
-BookmarkPageNumber: 229
-BookmarkBegin
-BookmarkTitle: 4.3 Spherical and Hemispherical Arrays
-BookmarkLevel: 3
-BookmarkPageNumber: 252
-BookmarkBegin
-BookmarkTitle: 4.4 Truncated Conical Arrays
-BookmarkLevel: 3
-BookmarkPageNumber: 253
+BookmarkTitle: 6.7 Channel-Balance Correction
+BookmarkLevel: 2
+BookmarkPageNumber: 226
 BookmarkBegin
 BookmarkTitle: References
+BookmarkLevel: 2
+BookmarkPageNumber: 227
+BookmarkBegin
+BookmarkTitle: 7. Computational Electromagnetic Model of a Planar Near-Field Measurement Process
+BookmarkLevel: 1
+BookmarkPageNumber: 228
+BookmarkBegin
+BookmarkTitle: 7.1 Introduction
+BookmarkLevel: 2
+BookmarkPageNumber: 228
+BookmarkBegin
+BookmarkTitle: 7.2 Method of Sub-Apertures
+BookmarkLevel: 2
+BookmarkPageNumber: 229
+BookmarkBegin
+BookmarkTitle: 7.3 Aperture Set in an Infinite Perfectly Conducting Ground Plane
+BookmarkLevel: 2
+BookmarkPageNumber: 232
+BookmarkBegin
+BookmarkTitle: 7.3.1 Plane Wave Spectrum Antenna-Antenna Coupling Formula
+BookmarkLevel: 3
+BookmarkPageNumber: 234
+BookmarkBegin
+BookmarkTitle: 7.4 Vector Huygens' Method
+BookmarkLevel: 2
+BookmarkPageNumber: 236
+BookmarkBegin
+BookmarkTitle: 7.5 Kirchhoff-Huygens' Method
+BookmarkLevel: 2
+BookmarkPageNumber: 238
+BookmarkBegin
+BookmarkTitle: 7.6 Generalized Technique for the Simulation of Near-Field Antenna Measurements
+BookmarkLevel: 2
+BookmarkPageNumber: 242
+BookmarkBegin
+BookmarkTitle: 7.6.1 Mutual Coupling and the Reaction Theorem
+BookmarkLevel: 3
+BookmarkPageNumber: 243
+BookmarkBegin
+BookmarkTitle: 7.7 Near-Field Measurement Simulation
+BookmarkLevel: 2
+BookmarkPageNumber: 246
+BookmarkBegin
+BookmarkTitle: 7.8 Reaction Theorem
+BookmarkLevel: 2
+BookmarkPageNumber: 248
+BookmarkBegin
+BookmarkTitle: 7.8.1 Lorentz Reciprocity Theorem Field Reciprocity Theorem
+BookmarkLevel: 3
+BookmarkPageNumber: 249
+BookmarkBegin
+BookmarkTitle: 7.8.2 Generalized Reaction Theorem
 BookmarkLevel: 3
 BookmarkPageNumber: 253
 BookmarkBegin
-BookmarkTitle: Chatper 5&#10;Elements for Phased Arrays
+BookmarkTitle: 7.8.3 Mutual Impedance and the Reaction Theorem
+BookmarkLevel: 3
+BookmarkPageNumber: 256
+BookmarkBegin
+BookmarkTitle: 7.9 Summary
+BookmarkLevel: 2
+BookmarkPageNumber: 256
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 2
+BookmarkPageNumber: 257
+BookmarkBegin
+BookmarkTitle: 8. Antenna Measurement Analysis and Assessment
+BookmarkLevel: 1
+BookmarkPageNumber: 258
+BookmarkBegin
+BookmarkTitle: 8.1 Introduction
 BookmarkLevel: 2
 BookmarkPageNumber: 258
 BookmarkBegin
-BookmarkTitle: 5.1 Array Elements
-BookmarkLevel: 3
+BookmarkTitle: 8.2 The Establishment of the Measure from the Measurement Results
+BookmarkLevel: 2
 BookmarkPageNumber: 258
 BookmarkBegin
-BookmarkTitle: 5.2 Polarization Characteristics of Infinitesimal Elements in&#10;Free Space
+BookmarkTitle: 8.2.1 Measurement Errors
 BookmarkLevel: 3
-BookmarkPageNumber: 258
+BookmarkPageNumber: 259
 BookmarkBegin
-BookmarkTitle: 5.3 Electric Current (Wire) Antenna Elements
+BookmarkTitle: 8.2.2 The Sources of Measurement Ambiguity and Error
 BookmarkLevel: 3
-BookmarkPageNumber: 261
+BookmarkPageNumber: 262
 BookmarkBegin
-BookmarkTitle: 5.3.1 Effective Radius of Wire Structures with Noncircular Cross-Sectio
-BookmarkLevel: 4
-BookmarkPageNumber: 261
-BookmarkBegin
-BookmarkTitle: 5.3.2 The Dipole and the Monopole
-BookmarkLevel: 4
-BookmarkPageNumber: 261
-BookmarkBegin
-BookmarkTitle: 5.3.1 Effective Radius of Wire Structures with Noncircular Cross-Section
-BookmarkLevel: 4
-BookmarkPageNumber: 261
-BookmarkBegin
-BookmarkTitle: 5.3.2 The Dipole and the Monopole
-BookmarkLevel: 4
-BookmarkPageNumber: 261
-BookmarkBegin
-BookmarkTitle: 5.3.3 Special Feeds for Dipoles and Monopoles
-BookmarkLevel: 4
+BookmarkTitle: 8.2.3 The Examination of Measurement Result Data to Establish the Measure
+BookmarkLevel: 3
 BookmarkPageNumber: 265
 BookmarkBegin
-BookmarkTitle: 5.3.4 Dipoles Fed Off-Center
-BookmarkLevel: 4
+BookmarkTitle: 8.3 Measurement Error Budgets
+BookmarkLevel: 2
 BookmarkPageNumber: 268
 BookmarkBegin
-BookmarkTitle: 5.3.5 The Sleeve Dipole and Monopole
-BookmarkLevel: 4
+BookmarkTitle: 8.3.1 Applicability of Modelling Error Sources
+BookmarkLevel: 3
+BookmarkPageNumber: 268
+BookmarkBegin
+BookmarkTitle: 8.3.2 The Empirical Approach to Error Budgets
+BookmarkLevel: 3
+BookmarkPageNumber: 269
+BookmarkBegin
+BookmarkTitle: 8.4 Quantitative Measures of Correspondence between Data Sets
+BookmarkLevel: 2
 BookmarkPageNumber: 270
 BookmarkBegin
-BookmarkTitle: 5.3.6 The Bowtie and Other Wideband Dipoles
-BookmarkLevel: 4
-BookmarkPageNumber: 271
+BookmarkTitle: 8.4.1 The Requirement for Measures of Correspondence
+BookmarkLevel: 3
+BookmarkPageNumber: 270
 BookmarkBegin
-BookmarkTitle: 5.3.7 The Folded Dipole
-BookmarkLevel: 4
+BookmarkTitle: 8.5 Comparison Techniques
+BookmarkLevel: 2
 BookmarkPageNumber: 272
 BookmarkBegin
-BookmarkTitle: 5.3.8 Microstrip Dipoles
-BookmarkLevel: 4
-BookmarkPageNumber: 275
-BookmarkBegin
-BookmarkTitle: 5.3.9 Other Wire Antenna Structures
-BookmarkLevel: 4
-BookmarkPageNumber: 275
-BookmarkBegin
-BookmarkTitle: 5.4 Wideband Array Elements
+BookmarkTitle: 8.5.1 Examples of Conventional Data Set Comparison Techniques
 BookmarkLevel: 3
-BookmarkPageNumber: 277
+BookmarkPageNumber: 272
 BookmarkBegin
-BookmarkTitle: 5.4.1 Introduction
-BookmarkLevel: 4
-BookmarkPageNumber: 277
+BookmarkTitle: 8.5.2 Novel Data Comparison Techniques
+BookmarkLevel: 3
+BookmarkPageNumber: 276
 BookmarkBegin
-BookmarkTitle: 5.4.2 Self-Complementary Elements
-BookmarkLevel: 4
-BookmarkPageNumber: 278
-BookmarkBegin
-BookmarkTitle: 5.4.3 TEM Horn Element
-BookmarkLevel: 4
-BookmarkPageNumber: 279
-BookmarkBegin
-BookmarkTitle: 5.4.4 Long-Slot Array
-BookmarkLevel: 4
-BookmarkPageNumber: 279
-BookmarkBegin
-BookmarkTitle: 5.4.5 Spiral Elements and Arrays
-BookmarkLevel: 4
-BookmarkPageNumber: 281
-BookmarkBegin
-BookmarkTitle: 5.4.6 Broadband Tapered Slot and Vivaldi Arrays
-BookmarkLevel: 4
-BookmarkPageNumber: 281
-BookmarkBegin
-BookmarkTitle: 5.4.7 Balanced Antipodal Vivaldi Antenna
+BookmarkTitle: 8.5.2.1 Example 1 - Perfect Negative Correlation
 BookmarkLevel: 4
 BookmarkPageNumber: 285
 BookmarkBegin
-BookmarkTitle: 5.4.8 Broadband Dipole Elements
+BookmarkTitle: 8.5.2.2 Example 2 - Partial Negative Correlation
+BookmarkLevel: 4
+BookmarkPageNumber: 285
+BookmarkBegin
+BookmarkTitle: 8.5.2.3 Example 3 - Insensitivity to Texture
 BookmarkLevel: 4
 BookmarkPageNumber: 286
 BookmarkBegin
-BookmarkTitle: 5.4.9 Bunny Ear
-BookmarkLevel: 4
-BookmarkPageNumber: 287
-BookmarkBegin
-BookmarkTitle: 5.4.10 Capacitively Coupled Dipoles
-BookmarkLevel: 4
-BookmarkPageNumber: 287
-BookmarkBegin
-BookmarkTitle: 5.5 Aperture Antenna Elements
-BookmarkLevel: 3
-BookmarkPageNumber: 292
-BookmarkBegin
-BookmarkTitle: 5.5.1 Slot Elements
-BookmarkLevel: 4
-BookmarkPageNumber: 292
-BookmarkBegin
-BookmarkTitle: 5.5.2 Waveguide Radiators
-BookmarkLevel: 4
-BookmarkPageNumber: 294
-BookmarkBegin
-BookmarkTitle: 5.5.3 Ridged Waveguide Elements&#10;
-BookmarkLevel: 4
-BookmarkPageNumber: 297
-BookmarkBegin
-BookmarkTitle: 5.5.4 Horn Elements
-BookmarkLevel: 4
-BookmarkPageNumber: 299
-BookmarkBegin
-BookmarkTitle: 5.6 Microstrip Patch Elements
-BookmarkLevel: 3
-BookmarkPageNumber: 299
-BookmarkBegin
-BookmarkTitle: 5.6.1 Microstrip Patch
-BookmarkLevel: 4
-BookmarkPageNumber: 299
-BookmarkBegin
-BookmarkTitle: 5.6.2 The Balanced Fed Radiator of Collings
-BookmarkLevel: 4
-BookmarkPageNumber: 308
-BookmarkBegin
-BookmarkTitle: 5.7 Elements for Alternative Transmission Lines
-BookmarkLevel: 3
-BookmarkPageNumber: 309
-BookmarkBegin
-BookmarkTitle: 5.8 Elements and Row (Column) Arrays for One-Dimensional Scan
-BookmarkLevel: 3
-BookmarkPageNumber: 309
-BookmarkBegin
-BookmarkTitle: 5.8.1 Waveguide Slot Array Line Source Elements
-BookmarkLevel: 4
-BookmarkPageNumber: 309
-BookmarkBegin
-BookmarkTitle: 5.8.2 Printed Circuit Series-Fed Arrays
-BookmarkLevel: 4
-BookmarkPageNumber: 314
-BookmarkBegin
-BookmarkTitle: 5.9 Elements and Polarizers for Polarization Diversity
-BookmarkLevel: 3
-BookmarkPageNumber: 315
+BookmarkTitle: 8.6 Summary
+BookmarkLevel: 2
+BookmarkPageNumber: 291
 BookmarkBegin
 BookmarkTitle: References
+BookmarkLevel: 2
+BookmarkPageNumber: 292
+BookmarkBegin
+BookmarkTitle: 9. Advanced Planar Near-Field Antenna Measurements
+BookmarkLevel: 1
+BookmarkPageNumber: 294
+BookmarkBegin
+BookmarkTitle: 9.1 Introduction
+BookmarkLevel: 2
+BookmarkPageNumber: 294
+BookmarkBegin
+BookmarkTitle: 9.2 Active Alignment Correction
+BookmarkLevel: 2
+BookmarkPageNumber: 294
+BookmarkBegin
+BookmarkTitle: 9.2.1 Acquisition of Alignment Data in a Planar Near-Field Facility
+BookmarkLevel: 3
+BookmarkPageNumber: 296
+BookmarkBegin
+BookmarkTitle: 9.2.2 Acquisition of Mechanical Alignment Data in a Planar Near-Field Facility
+BookmarkLevel: 3
+BookmarkPageNumber: 298
+BookmarkBegin
+BookmarkTitle: 9.2.3 Example of the Application of Active Alignment Correction
+BookmarkLevel: 3
+BookmarkPageNumber: 300
+BookmarkBegin
+BookmarkTitle: 9.3 Amplitude Only Planar Near-Field Measurements
+BookmarkLevel: 2
+BookmarkPageNumber: 305
+BookmarkBegin
+BookmarkTitle: 9.3.1 PTP Phase Retrieval Algorithm
+BookmarkLevel: 3
+BookmarkPageNumber: 306
+BookmarkBegin
+BookmarkTitle: 9.3.2 PTP Phase Retrieval Algorithm - With Aperture Constraint
+BookmarkLevel: 3
+BookmarkPageNumber: 310
+BookmarkBegin
+BookmarkTitle: 9.4 Efficient Position Correction Algorithms, In-Plane and z-Plane Corrections
+BookmarkLevel: 2
+BookmarkPageNumber: 312
+BookmarkBegin
+BookmarkTitle: 9.4.1 Taylor Series Expansion
+BookmarkLevel: 3
+BookmarkPageNumber: 314
+BookmarkBegin
+BookmarkTitle: 9.4.2 K-Correction Method
 BookmarkLevel: 3
 BookmarkPageNumber: 321
 BookmarkBegin
-BookmarkTitle: Chapter 6 Summary of Element Pattern and Mutual&#10;Impedance Effects
+BookmarkTitle: 9.5 Partial Scan Techniques
 BookmarkLevel: 2
+BookmarkPageNumber: 324
+BookmarkBegin
+BookmarkTitle: 9.5.1 Auxiliary Translation
+BookmarkLevel: 3
+BookmarkPageNumber: 324
+BookmarkBegin
+BookmarkTitle: 9.5.2 Rotations of the AUT about the z-Axis
+BookmarkLevel: 3
+BookmarkPageNumber: 328
+BookmarkBegin
+BookmarkTitle: 9.5.3 Auxiliary Rotation - Bi-Planar Near-Field Antenna Measurements
+BookmarkLevel: 3
+BookmarkPageNumber: 329
+BookmarkBegin
+BookmarkTitle: 9.5.3.1 Simple Transform
+BookmarkLevel: 4
+BookmarkPageNumber: 331
+BookmarkBegin
+BookmarkTitle: 9.5.3.2 Continuity of Field Function at Intersection
+BookmarkLevel: 4
 BookmarkPageNumber: 332
 BookmarkBegin
-BookmarkTitle: 6.1 Mutual Impedance Effects
-BookmarkLevel: 3
-BookmarkPageNumber: 332
+BookmarkTitle: 9.5.3.3 General Near-Fields - Deficiency of Simple Transform
+BookmarkLevel: 4
+BookmarkPageNumber: 333
 BookmarkBegin
-BookmarkTitle: 6.2 Integral Equation Formulation for Radiation and Coupling in Finite&#10;and Infinite Arrays
-BookmarkLevel: 3
-BookmarkPageNumber: 334
-BookmarkBegin
-BookmarkTitle: 6.2.1 Formulation and Results for Finite Arrays
+BookmarkTitle: 9.5.3.4 Reconstruction of Normal Field Component
 BookmarkLevel: 4
 BookmarkPageNumber: 334
 BookmarkBegin
-BookmarkTitle: 6.2.2 Formulation and Results for Infinite Arrays
+BookmarkTitle: 9.5.3.5 Modified Probe Pattern Correction
+BookmarkLevel: 4
+BookmarkPageNumber: 335
+BookmarkBegin
+BookmarkTitle: 9.5.3.6 Spectral Leakage and the Suitability of Windowing Functions
+BookmarkLevel: 4
+BookmarkPageNumber: 337
+BookmarkBegin
+BookmarkTitle: 9.5.3.7 Modified Near-Field to Far-Field Transform
 BookmarkLevel: 4
 BookmarkPageNumber: 338
 BookmarkBegin
-BookmarkTitle: 6.3 Array Blindness and Surface Waves
+BookmarkTitle: 9.5.4 Near-Field to Far-Field Transformation of Probe Corrected Data
+BookmarkLevel: 3
+BookmarkPageNumber: 338
+BookmarkBegin
+BookmarkTitle: 9.5.4.1 Kirchhoff-Huygens' Principle
+BookmarkLevel: 4
+BookmarkPageNumber: 340
+BookmarkBegin
+BookmarkTitle: 9.5.5 Applicability of the Poly-Planar Technique
+BookmarkLevel: 3
+BookmarkPageNumber: 344
+BookmarkBegin
+BookmarkTitle: 9.5.5.1 Bi-Scan Auxiliary Rotation Technique
+BookmarkLevel: 4
+BookmarkPageNumber: 344
+BookmarkBegin
+BookmarkTitle: 9.5.5.2 Tri-Scan Auxiliary Rotation Technique
+BookmarkLevel: 4
+BookmarkPageNumber: 346
+BookmarkBegin
+BookmarkTitle: 9.5.6 Complete Poly-Planar Rotational Technique
 BookmarkLevel: 3
 BookmarkPageNumber: 348
 BookmarkBegin
-BookmarkTitle: 6.4 Impedance and Element Patterns in Well-Behaved Infinite&#10;Scanning Arrays
-BookmarkLevel: 3
-BookmarkPageNumber: 361
-BookmarkBegin
-BookmarkTitle: 6.5 Semi-Infinite and Finite Arrays
-BookmarkLevel: 3
-BookmarkPageNumber: 372
-BookmarkBegin
-BookmarkTitle: 6.6 Impedance Matching for Wide Angle and Wideband Radiation
-BookmarkLevel: 3
-BookmarkPageNumber: 372
-BookmarkBegin
-BookmarkTitle: 6.6.1 Reduced Element Spacing
+BookmarkTitle: 9.5.6.1 Experimental Set Up
 BookmarkLevel: 4
-BookmarkPageNumber: 373
+BookmarkPageNumber: 349
 BookmarkBegin
-BookmarkTitle: 6.6.2 Dielectric WAIM Sheets
+BookmarkTitle: 9.5.6.2 Experimental Procedure
 BookmarkLevel: 4
-BookmarkPageNumber: 375
+BookmarkPageNumber: 350
 BookmarkBegin
-BookmarkTitle: 6.7 Mutual Coupling Phenomena for Nonplanar Surfaces
+BookmarkTitle: 9.6 Concluding Remarks
+BookmarkLevel: 2
+BookmarkPageNumber: 351
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 2
+BookmarkPageNumber: 353
+BookmarkBegin
+BookmarkTitle: Color Plates
+BookmarkLevel: 1
+BookmarkPageNumber: 355
+BookmarkBegin
+BookmarkTitle: Appendices
+BookmarkLevel: 1
+BookmarkPageNumber: 363
+BookmarkBegin
+BookmarkTitle: Appendix A: Other Theories of Interaction
+BookmarkLevel: 2
+BookmarkPageNumber: 363
+BookmarkBegin
+BookmarkTitle: A.1 Examples of Postulated Mechanisms of Interaction
 BookmarkLevel: 3
-BookmarkPageNumber: 377
+BookmarkPageNumber: 363
 BookmarkBegin
-BookmarkTitle: 6.8 Small Arrays and Waveguide Simulators for the Evaluation of&#10;Phased Array Scan Behavior
-BookmarkLevel: 3
-BookmarkPageNumber: 382
-BookmarkBegin
-BookmarkTitle: 6.8.1 Several Useful Simulators
+BookmarkTitle: A.1.1 Classical Electromagnetism
 BookmarkLevel: 4
-BookmarkPageNumber: 386
+BookmarkPageNumber: 363
+BookmarkBegin
+BookmarkTitle: A.1.2 Classical Quantum Mechanics
+BookmarkLevel: 4
+BookmarkPageNumber: 364
+BookmarkBegin
+BookmarkTitle: A.1.3 Relativistic Quantum Mechanics
+BookmarkLevel: 4
+BookmarkPageNumber: 365
+BookmarkBegin
+BookmarkTitle: A.1.4 Collective Electrodynamics
+BookmarkLevel: 4
+BookmarkPageNumber: 366
+BookmarkBegin
+BookmarkTitle: A.1.5 Absorber Theory
+BookmarkLevel: 4
+BookmarkPageNumber: 367
 BookmarkBegin
 BookmarkTitle: References
 BookmarkLevel: 3
-BookmarkPageNumber: 388
+BookmarkPageNumber: 369
 BookmarkBegin
-BookmarkTitle: Chapter 7 Array Error Effects&#10;
-BookmarkLevel: 2
-BookmarkPageNumber: 394
-BookmarkBegin
-BookmarkTitle: 7.1 Introducti
-BookmarkLevel: 3
-BookmarkPageNumber: 394
-BookmarkBegin
-BookmarkTitle: 7.2 Effects of Random Amplitude and Phase Errors in&#10;Periodic Arrays
-BookmarkLevel: 3
-BookmarkPageNumber: 394
-BookmarkBegin
-BookmarkTitle: 7.2.1 Average Pattern Characteristics
-BookmarkLevel: 4
-BookmarkPageNumber: 396
-BookmarkBegin
-BookmarkTitle: 7.2.2 Directivity
-BookmarkLevel: 4
-BookmarkPageNumber: 399
-BookmarkBegin
-BookmarkTitle: 7.2.3 Beam Pointing Error
-BookmarkLevel: 4
-BookmarkPageNumber: 399
-BookmarkBegin
-BookmarkTitle: 7.2.4 Peak Sidelobes
-BookmarkLevel: 4
-BookmarkPageNumber: 400
-BookmarkBegin
-BookmarkTitle: 7.3 Sidelobe Levels Due to Periodic Phase, Amplitude, and Time-Delay Quantization
-BookmarkLevel: 3
-BookmarkPageNumber: 403
-BookmarkBegin
-BookmarkTitle: 7.3.1 Characteristics of an Array of Uniformly Illuminated&#10;Contiguous Subarrays
-BookmarkLevel: 4
-BookmarkPageNumber: 404
-BookmarkBegin
-BookmarkTitle: 7.3.2 Phase Quantization in a Uniformly Illuminated Array
-BookmarkLevel: 4
-BookmarkPageNumber: 407
-BookmarkBegin
-BookmarkTitle: 7.3.3 Reduction of Sidelobes Due to Phase Quantization&#10;
-BookmarkLevel: 4
-BookmarkPageNumber: 412
-BookmarkBegin
-BookmarkTitle: 7.3.4 Subarrays with Quantized Amplitude Taper
-BookmarkLevel: 4
-BookmarkPageNumber: 415
-BookmarkBegin
-BookmarkTitle: 7.3.5 Time Delay at the Subarray Ports
-BookmarkLevel: 4
-BookmarkPageNumber: 416
-BookmarkBegin
-BookmarkTitle: 7.3.6 Discrete Phase or Time-Delayed Subarrays with Quantized&#10;Subarray Amplitudes
-BookmarkLevel: 4
-BookmarkPageNumber: 417
-BookmarkBegin
-BookmarkTitle: References
-BookmarkLevel: 3
-BookmarkPageNumber: 418
-BookmarkBegin
-BookmarkTitle: Chapter 8&#10;Multiple Beam Antennas
-BookmarkLevel: 2
-BookmarkPageNumber: 420
-BookmarkBegin
-BookmarkTitle: 8.1 Introduction
-BookmarkLevel: 3
-BookmarkPageNumber: 420
-BookmarkBegin
-BookmarkTitle: 8.1.1 Multiple Beam Systems
-BookmarkLevel: 4
-BookmarkPageNumber: 421
-BookmarkBegin
-BookmarkTitle: 8.1.2 Beam Crossover Loss
-BookmarkLevel: 4
-BookmarkPageNumber: 422
-BookmarkBegin
-BookmarkTitle: 8.2 Orthogonality Loss and the Stein Limit
-BookmarkLevel: 3
-BookmarkPageNumber: 426
-BookmarkBegin
-BookmarkTitle: 8.2.1 Introduction
-BookmarkLevel: 4
-BookmarkPageNumber: 426
-BookmarkBegin
-BookmarkTitle: 8.2.2 Orthogonality of the psinc Functions and their Source Vectors
-BookmarkLevel: 4
-BookmarkPageNumber: 427
-BookmarkBegin
-BookmarkTitle: 8.2.3 Power Dividers for Multiple Beam Networks
-BookmarkLevel: 4
-BookmarkPageNumber: 428
-BookmarkBegin
-BookmarkTitle: 8.2.4 Efficiency of Multiple Beam Radiation&#8212;Stein&#8217;s Limit
-BookmarkLevel: 4
-BookmarkPageNumber: 430
-BookmarkBegin
-BookmarkTitle: 8.2.5 Multiple-Beam Matrices and Optical Beamformers
-BookmarkLevel: 4
-BookmarkPageNumber: 436
-BookmarkBegin
-BookmarkTitle: 8.3 Multiple-Beam Lens and Reflector Systems
-BookmarkLevel: 3
-BookmarkPageNumber: 440
-BookmarkBegin
-BookmarkTitle: 8.3.1 Multiple Beam Lenses
-BookmarkLevel: 4
-BookmarkPageNumber: 442
-BookmarkBegin
-BookmarkTitle: 8.3.2 Reflectors for Scanning and Multiple Beams&#10;
-BookmarkLevel: 4
-BookmarkPageNumber: 444
-BookmarkBegin
-BookmarkTitle: 8.3.3 Reflectarrays
-BookmarkLevel: 4
-BookmarkPageNumber: 445
-BookmarkBegin
-BookmarkTitle: References
-BookmarkLevel: 3
-BookmarkPageNumber: 449
-BookmarkBegin
-BookmarkTitle: Chapter 9 Special Arrays for Limited Field of View and Wideband Coverage
-BookmarkLevel: 2
-BookmarkPageNumber: 454
-BookmarkBegin
-BookmarkTitle: 9.1 Antenna Techniques for Limited Field of View and&#10;Wideband Systems
-BookmarkLevel: 3
-BookmarkPageNumber: 454
-BookmarkBegin
-BookmarkTitle: 9.1.1 Minimum Number of Controls
-BookmarkLevel: 4
-BookmarkPageNumber: 455
-BookmarkBegin
-BookmarkTitle: 9.1.2 Periodic and Aperiodic Arrays for Limited Field of View
-BookmarkLevel: 4
-BookmarkPageNumber: 458
-BookmarkBegin
-BookmarkTitle: 9.1.3 Aperiodic and Thinned Arrays
-BookmarkLevel: 4
-BookmarkPageNumber: 475
-BookmarkBegin
-BookmarkTitle: 9.2 Completely Overlapping Subar
-BookmarkLevel: 3
-BookmarkPageNumber: 483
-BookmarkBegin
-BookmarkTitle: 9.2.1 Constrained Network for Completely Overlapped Subarra
-BookmarkLevel: 4
-BookmarkPageNumber: 483
-BookmarkBegin
-BookmarkTitle: 9.2.2 Reflectors and Lenses with Array Feeds&#10;
-BookmarkLevel: 4
-BookmarkPageNumber: 491
-BookmarkBegin
-BookmarkTitle: 9.2.3 Practical Design of a Dual-Transform System
-BookmarkLevel: 4
-BookmarkPageNumber: 512
-BookmarkBegin
-BookmarkTitle: 9.3 Wideband Scanning Systems
-BookmarkLevel: 3
-BookmarkPageNumber: 516
-BookmarkBegin
-BookmarkTitle: 9.3.1 Broadband Arrays with Time-Delayed Offset Beams
-BookmarkLevel: 4
-BookmarkPageNumber: 516
-BookmarkBegin
-BookmarkTitle: 9.3.2 Contiguous Time-Delayed Subarrays for Wideband Systems
-BookmarkLevel: 4
-BookmarkPageNumber: 517
-BookmarkBegin
-BookmarkTitle: 9.3.3 Overlapped Time-Delayed Subarrays for Wideband Systems
-BookmarkLevel: 4
-BookmarkPageNumber: 521
-BookmarkBegin
-BookmarkTitle: References
-BookmarkLevel: 3
-BookmarkPageNumber: 528
-BookmarkBegin
-BookmarkTitle: About the Author
-BookmarkLevel: 2
-BookmarkPageNumber: 532
-BookmarkBegin
-BookmarkTitle: Index&#10;
-BookmarkLevel: 2
-BookmarkPageNumber: 534
+BookmarkTitle: Index
+BookmarkLevel: 1
+BookmarkPageNumber: 370

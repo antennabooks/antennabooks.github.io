@@ -7758,68 +7758,828 @@
     "description": "This single volume provides a comprehensive introduction and explanation of both the theory and practice of 'Planar Near-Field Antenna Measurement' from its basic postulates and assumptions, to the intricacies of its deployment in complex and demanding measurement scenarios.",
     "chapters": [
       {
-        "level": 1,
-        "title": "Front Matter"
+        "title": "Front Matter",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "1 Introduction"
+        "title": "Preface",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "2 Maxwell's equations and electromagnetic wave propagation"
+        "title": "Table of Contents",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "3 Introduction to near-field antenna measurements"
+        "title": "1. Introduction",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "4 Plane wave spectrum representation of electromagnetic waves"
+        "title": "1.1 The Phenomena of Antenna Coupling",
+        "level": "2"
       },
       {
-        "level": 1,
-        "title": "5 Measurements - practicalities of planar near-field antenna measurements"
+        "title": "1.2 Characterisation via the Measurement Process",
+        "level": "2"
       },
       {
-        "level": 1,
-        "title": "6 Probe pattern characterisation"
+        "title": "1.2.1 Free Space Radiation Pattern",
+        "level": "3"
       },
       {
-        "level": 1,
-        "title": "7 Computational electromagnetic model of a planar near-field measurement process"
+        "title": "1.2.2 Polarisation",
+        "level": "3"
       },
       {
-        "level": 1,
-        "title": "8 Antenna measurement analysis and assessment"
+        "title": "1.2.3 Bandwidth",
+        "level": "3"
       },
       {
-        "level": 1,
-        "title": "9 Advanced planar near-field antenna measurements"
+        "title": "1.3 The Organisation of the Book",
+        "level": "2"
       },
       {
-        "level": 1,
-        "title": "Appendix A: Other theories of interaction"
+        "title": "References",
+        "level": "2"
       },
       {
-        "level": 1,
-        "title": "Appendix B: Measurement definitions as used in the text"
+        "title": "2. Maxwell's Equations and Electromagnetic Wave Propagation",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "Appendix C: An overview of coordinate systems"
+        "title": "2.1 Electric Charge",
+        "level": "2"
       },
       {
-        "level": 1,
-        "title": "Appendix D: Trapezoidal discrete Fourier transform"
+        "title": "2.2 The EM Field",
+        "level": "2"
       },
       {
-        "level": 1,
-        "title": "Appendix E: Calculating the semi-major axis, semi-minor axis and tilt angle of a rotated ellipse"
+        "title": "2.3 Accelerated Charges",
+        "level": "2"
       },
       {
-        "level": 1,
-        "title": "Back Matter"
+        "title": "2.4 Maxwell's Equations",
+        "level": "2"
+      },
+      {
+        "title": "2.5 The Electric and Magnetic Potentials",
+        "level": "2"
+      },
+      {
+        "title": "2.5.1 Static Potentials",
+        "level": "3"
+      },
+      {
+        "title": "2.5.2 Retarded Potentials",
+        "level": "3"
+      },
+      {
+        "title": "2.6 The Inapplicability of Source Excitation as a Measurement Methodology",
+        "level": "2"
+      },
+      {
+        "title": "2.7 Field Equivalence Principle",
+        "level": "2"
+      },
+      {
+        "title": "2.8 Characterising Vector EM Fields",
+        "level": "2"
+      },
+      {
+        "title": "2.9 Summary",
+        "level": "2"
+      },
+      {
+        "title": "References",
+        "level": "2"
+      },
+      {
+        "title": "3. Introduction to Near-Field Antenna Measurements",
+        "level": "1"
+      },
+      {
+        "title": "3.1 Introduction",
+        "level": "2"
+      },
+      {
+        "title": "3.2 Antenna Measurements",
+        "level": "2"
+      },
+      {
+        "title": "3.3 Forms of Near-Field Antenna Measurements",
+        "level": "2"
+      },
+      {
+        "title": "3.4 Plane Rectilinear Near-Field Antenna Measurements",
+        "level": "2"
+      },
+      {
+        "title": "3.5 Chambers, Screening and Absorber",
+        "level": "2"
+      },
+      {
+        "title": "3.6 RF Subsystem",
+        "level": "2"
+      },
+      {
+        "title": "3.7 Robotics Positioner Subsystem",
+        "level": "2"
+      },
+      {
+        "title": "3.8 Near-Field Probe",
+        "level": "2"
+      },
+      {
+        "title": "3.9 Generic Antenna Measurement Process",
+        "level": "2"
+      },
+      {
+        "title": "3.10 Summary",
+        "level": "2"
+      },
+      {
+        "title": "References",
+        "level": "2"
+      },
+      {
+        "title": "4. Plane Wave Spectrum Representation of Electromagnetic Waves",
+        "level": "1"
+      },
+      {
+        "title": "4.1 Introduction",
+        "level": "2"
+      },
+      {
+        "title": "4.2 Overview of the Derivation of the PWS",
+        "level": "2"
+      },
+      {
+        "title": "4.3 Solution of the Scalar Helmholtz Equation in Cartesian Coordinates",
+        "level": "2"
+      },
+      {
+        "title": "4.3.1 Introduction to Integral Transforms",
+        "level": "3"
+      },
+      {
+        "title": "4.3.2 Fourier Transform Solution of the Scalar Helmholtz Equation",
+        "level": "3"
+      },
+      {
+        "title": "4.4 On the Choice of Boundary Conditions",
+        "level": "2"
+      },
+      {
+        "title": "4.5 Operator Substitution Derivative of a Fourier Transform",
+        "level": "2"
+      },
+      {
+        "title": "4.6 Solution of the Vector Helmholtz Equation in Cartesian Coordinates",
+        "level": "2"
+      },
+      {
+        "title": "4.7 Solution of the Vector Magnetic Wave Equation in Cartesian Coordinates",
+        "level": "2"
+      },
+      {
+        "title": "4.8 The Relationship between Electric and Magnetic Spectral Components",
+        "level": "2"
+      },
+      {
+        "title": "4.9 The Free-Space Propagation Vector k with line below",
+        "level": "2"
+      },
+      {
+        "title": "4.10 Plane Wave Impedance",
+        "level": "2"
+      },
+      {
+        "title": "4.11 Interpretation as an Angular Spectrum of Plane Waves",
+        "level": "2"
+      },
+      {
+        "title": "4.12 Far-Field Antenna Radiation Patterns",
+        "level": "2"
+      },
+      {
+        "title": "4.13 Stationary Phase Evaluation of a Double Integral",
+        "level": "2"
+      },
+      {
+        "title": "4.14 Coordinate Free Form of the Near-Field to Angular Spectrum Transform",
+        "level": "2"
+      },
+      {
+        "title": "4.15 Reduction of the Coordinate Free Form of the Near-Field to Far-Field Transform to Huygens' Principle",
+        "level": "2"
+      },
+      {
+        "title": "4.16 Far-Fields from Non-Planar Apertures",
+        "level": "2"
+      },
+      {
+        "title": "4.17 Microwave Holographic Metrology Plane-to-Plane Transform",
+        "level": "2"
+      },
+      {
+        "title": "4.18 Far-Field to Near-Field Transform",
+        "level": "2"
+      },
+      {
+        "title": "4.19 Radiated Power and the Angular Spectrum",
+        "level": "2"
+      },
+      {
+        "title": "4.20 Summary of Conventional Near-Field to Far-Field Transform",
+        "level": "2"
+      },
+      {
+        "title": "References",
+        "level": "2"
+      },
+      {
+        "title": "5. Measurements - Practicalities of Planar Near-Field Antenna Measurements",
+        "level": "1"
+      },
+      {
+        "title": "5.1 Introduction",
+        "level": "2"
+      },
+      {
+        "title": "5.2 Sampling Interpolation Theory",
+        "level": "2"
+      },
+      {
+        "title": "5.3 Truncation, Spectral Leakage and Finite Area Scan Errors",
+        "level": "2"
+      },
+      {
+        "title": "5.4 Antenna-to-Antenna Coupling Transmission Formula",
+        "level": "2"
+      },
+      {
+        "title": "5.4.1 Attenuation of Evanescent Plane Wave Mode Coefficients",
+        "level": "3"
+      },
+      {
+        "title": "5.4.2 Simple Scattering Model of a Near-Field Probe during a Planar Measurement",
+        "level": "3"
+      },
+      {
+        "title": "5.5 Evaluation of the Conventional Near-Field to Far-Field Transform",
+        "level": "2"
+      },
+      {
+        "title": "5.5.1 Standard Techniques for the Evaluation of a Double Fourier Integral",
+        "level": "3"
+      },
+      {
+        "title": "5.5.1.1 The FFT",
+        "level": "4"
+      },
+      {
+        "title": "5.5.1.2 Discrete Fourier Transform",
+        "level": "4"
+      },
+      {
+        "title": "5.5.1.3 FTs with Improved Accuracy",
+        "level": "4"
+      },
+      {
+        "title": "5.6 General Antenna Coupling Formula",
+        "level": "2"
+      },
+      {
+        "title": "5.7 Plane-Polar and Plane-Bipolar Near-Field to Far-Field Transform",
+        "level": "2"
+      },
+      {
+        "title": "5.7.1 Boundary Values Known in Plane-Polar Coordinates",
+        "level": "3"
+      },
+      {
+        "title": "5.7.2 Boundary Values Known in Plane-Bipolar Coordinates",
+        "level": "3"
+      },
+      {
+        "title": "5.8 Regular Azimuth over Elevation and Elevation over Azimuth Coordinate Systems",
+        "level": "2"
+      },
+      {
+        "title": "5.9 Polarisation Basis and Antenna Measurements",
+        "level": "2"
+      },
+      {
+        "title": "5.9.1 Cartesian Polarisation Basis - Ludwig I",
+        "level": "3"
+      },
+      {
+        "title": "5.9.2 Polar Spherical Polarisation Basis",
+        "level": "3"
+      },
+      {
+        "title": "5.9.3 Azimuth over Elevation Basis - Ludwig II",
+        "level": "3"
+      },
+      {
+        "title": "5.9.4 Copolar and Cross-Polar Polarisation Basis - Ludwig III",
+        "level": "3"
+      },
+      {
+        "title": "5.9.5 Circular Polarisation Basis - RHCP and LHCP",
+        "level": "3"
+      },
+      {
+        "title": "5.10 Overview of Antenna Alignment Corrections",
+        "level": "2"
+      },
+      {
+        "title": "5.10.1 Scalar Rotation of Far-Field Antenna Patterns",
+        "level": "3"
+      },
+      {
+        "title": "5.10.2 Vector Rotation of Far-Field Antenna Patterns",
+        "level": "3"
+      },
+      {
+        "title": "5.10.3 Rotation of Copolar Polarisation Basis - Generalized Ludwig III",
+        "level": "3"
+      },
+      {
+        "title": "5.10.4 Generalized Compound Vector Rotation of Far-Field Antenna Patterns",
+        "level": "3"
+      },
+      {
+        "title": "5.11 Brief Description of Near-Field Coordinate Systems",
+        "level": "2"
+      },
+      {
+        "title": "5.11.1 Range Fixed System",
+        "level": "3"
+      },
+      {
+        "title": "5.11.2 Antenna Mechanical System",
+        "level": "3"
+      },
+      {
+        "title": "5.11.3 Antenna Electrical System",
+        "level": "3"
+      },
+      {
+        "title": "5.11.4 Far-Field Azimuth and Elevation Coordinates",
+        "level": "3"
+      },
+      {
+        "title": "5.11.5 Ludwig III Copolar and Cross-Polar Definition",
+        "level": "3"
+      },
+      {
+        "title": "5.11.6 Probe Alignment Definition in Single Port Probe SPP",
+        "level": "3"
+      },
+      {
+        "title": "5.11.7 General Vector Rotation of Antenna Radiation Patterns",
+        "level": "3"
+      },
+      {
+        "title": "5.12 Directivity and Gain",
+        "level": "2"
+      },
+      {
+        "title": "5.12.1 Directivity",
+        "level": "3"
+      },
+      {
+        "title": "5.12.2 Gain - By Substitution Method",
+        "level": "3"
+      },
+      {
+        "title": "5.12.3 Gain-Transfer Gain-Comparison Method",
+        "level": "3"
+      },
+      {
+        "title": "5.13 Calculating the Peak of a Pattern",
+        "level": "2"
+      },
+      {
+        "title": "5.13.1 Peak by Polynomial Fit",
+        "level": "3"
+      },
+      {
+        "title": "5.13.2 Peak by Centroid",
+        "level": "3"
+      },
+      {
+        "title": "5.14 Summary",
+        "level": "2"
+      },
+      {
+        "title": "References",
+        "level": "2"
+      },
+      {
+        "title": "6. Probe Pattern Characterisation",
+        "level": "1"
+      },
+      {
+        "title": "6.1 Introduction",
+        "level": "2"
+      },
+      {
+        "title": "6.2 Effect of the Probe Pattern on Far-Field Data",
+        "level": "2"
+      },
+      {
+        "title": "6.3 Desirable Characteristics of a Near-Field Probe",
+        "level": "2"
+      },
+      {
+        "title": "6.4 Acquisition of Quasi Far-Field Probe Pattern",
+        "level": "2"
+      },
+      {
+        "title": "6.4.1 Sampling Scheme",
+        "level": "3"
+      },
+      {
+        "title": "6.4.2 Electronic System Drift Tie-Scan Correction",
+        "level": "3"
+      },
+      {
+        "title": "6.4.3 Channel-Balance Correction",
+        "level": "3"
+      },
+      {
+        "title": "6.4.4 Assessment of Chamber Multiple Reflections",
+        "level": "3"
+      },
+      {
+        "title": "6.4.5 Correction for Rotary Errors",
+        "level": "3"
+      },
+      {
+        "title": "6.4.6 Re-Tabulation of Probe Vector Pattern Function",
+        "level": "3"
+      },
+      {
+        "title": "6.4.7 Alternate Interpolation Formula",
+        "level": "3"
+      },
+      {
+        "title": "6.4.7.1 Nearest Neighbour",
+        "level": "4"
+      },
+      {
+        "title": "6.4.7.2 Three-Point Formula Linear",
+        "level": "4"
+      },
+      {
+        "title": "6.4.7.3 Bi-Linear",
+        "level": "4"
+      },
+      {
+        "title": "6.4.7.4 Six-Point Formula Bicubic",
+        "level": "4"
+      },
+      {
+        "title": "6.4.7.5 Phase Interpolation",
+        "level": "4"
+      },
+      {
+        "title": "6.4.8 True Far-Field Probe Pattern",
+        "level": "3"
+      },
+      {
+        "title": "6.5 Finite Element Model of Open-Ended Rectangular Waveguide Probe",
+        "level": "2"
+      },
+      {
+        "title": "6.6 Probe Displacement Correction",
+        "level": "2"
+      },
+      {
+        "title": "6.7 Channel-Balance Correction",
+        "level": "2"
+      },
+      {
+        "title": "References",
+        "level": "2"
+      },
+      {
+        "title": "7. Computational Electromagnetic Model of a Planar Near-Field Measurement Process",
+        "level": "1"
+      },
+      {
+        "title": "7.1 Introduction",
+        "level": "2"
+      },
+      {
+        "title": "7.2 Method of Sub-Apertures",
+        "level": "2"
+      },
+      {
+        "title": "7.3 Aperture Set in an Infinite Perfectly Conducting Ground Plane",
+        "level": "2"
+      },
+      {
+        "title": "7.3.1 Plane Wave Spectrum Antenna-Antenna Coupling Formula",
+        "level": "3"
+      },
+      {
+        "title": "7.4 Vector Huygens' Method",
+        "level": "2"
+      },
+      {
+        "title": "7.5 Kirchhoff-Huygens' Method",
+        "level": "2"
+      },
+      {
+        "title": "7.6 Generalized Technique for the Simulation of Near-Field Antenna Measurements",
+        "level": "2"
+      },
+      {
+        "title": "7.6.1 Mutual Coupling and the Reaction Theorem",
+        "level": "3"
+      },
+      {
+        "title": "7.7 Near-Field Measurement Simulation",
+        "level": "2"
+      },
+      {
+        "title": "7.8 Reaction Theorem",
+        "level": "2"
+      },
+      {
+        "title": "7.8.1 Lorentz Reciprocity Theorem Field Reciprocity Theorem",
+        "level": "3"
+      },
+      {
+        "title": "7.8.2 Generalized Reaction Theorem",
+        "level": "3"
+      },
+      {
+        "title": "7.8.3 Mutual Impedance and the Reaction Theorem",
+        "level": "3"
+      },
+      {
+        "title": "7.9 Summary",
+        "level": "2"
+      },
+      {
+        "title": "References",
+        "level": "2"
+      },
+      {
+        "title": "8. Antenna Measurement Analysis and Assessment",
+        "level": "1"
+      },
+      {
+        "title": "8.1 Introduction",
+        "level": "2"
+      },
+      {
+        "title": "8.2 The Establishment of the Measure from the Measurement Results",
+        "level": "2"
+      },
+      {
+        "title": "8.2.1 Measurement Errors",
+        "level": "3"
+      },
+      {
+        "title": "8.2.2 The Sources of Measurement Ambiguity and Error",
+        "level": "3"
+      },
+      {
+        "title": "8.2.3 The Examination of Measurement Result Data to Establish the Measure",
+        "level": "3"
+      },
+      {
+        "title": "8.3 Measurement Error Budgets",
+        "level": "2"
+      },
+      {
+        "title": "8.3.1 Applicability of Modelling Error Sources",
+        "level": "3"
+      },
+      {
+        "title": "8.3.2 The Empirical Approach to Error Budgets",
+        "level": "3"
+      },
+      {
+        "title": "8.4 Quantitative Measures of Correspondence between Data Sets",
+        "level": "2"
+      },
+      {
+        "title": "8.4.1 The Requirement for Measures of Correspondence",
+        "level": "3"
+      },
+      {
+        "title": "8.5 Comparison Techniques",
+        "level": "2"
+      },
+      {
+        "title": "8.5.1 Examples of Conventional Data Set Comparison Techniques",
+        "level": "3"
+      },
+      {
+        "title": "8.5.2 Novel Data Comparison Techniques",
+        "level": "3"
+      },
+      {
+        "title": "8.5.2.1 Example 1 - Perfect Negative Correlation",
+        "level": "4"
+      },
+      {
+        "title": "8.5.2.2 Example 2 - Partial Negative Correlation",
+        "level": "4"
+      },
+      {
+        "title": "8.5.2.3 Example 3 - Insensitivity to Texture",
+        "level": "4"
+      },
+      {
+        "title": "8.6 Summary",
+        "level": "2"
+      },
+      {
+        "title": "References",
+        "level": "2"
+      },
+      {
+        "title": "9. Advanced Planar Near-Field Antenna Measurements",
+        "level": "1"
+      },
+      {
+        "title": "9.1 Introduction",
+        "level": "2"
+      },
+      {
+        "title": "9.2 Active Alignment Correction",
+        "level": "2"
+      },
+      {
+        "title": "9.2.1 Acquisition of Alignment Data in a Planar Near-Field Facility",
+        "level": "3"
+      },
+      {
+        "title": "9.2.2 Acquisition of Mechanical Alignment Data in a Planar Near-Field Facility",
+        "level": "3"
+      },
+      {
+        "title": "9.2.3 Example of the Application of Active Alignment Correction",
+        "level": "3"
+      },
+      {
+        "title": "9.3 Amplitude Only Planar Near-Field Measurements",
+        "level": "2"
+      },
+      {
+        "title": "9.3.1 PTP Phase Retrieval Algorithm",
+        "level": "3"
+      },
+      {
+        "title": "9.3.2 PTP Phase Retrieval Algorithm - With Aperture Constraint",
+        "level": "3"
+      },
+      {
+        "title": "9.4 Efficient Position Correction Algorithms, In-Plane and z-Plane Corrections",
+        "level": "2"
+      },
+      {
+        "title": "9.4.1 Taylor Series Expansion",
+        "level": "3"
+      },
+      {
+        "title": "9.4.2 K-Correction Method",
+        "level": "3"
+      },
+      {
+        "title": "9.5 Partial Scan Techniques",
+        "level": "2"
+      },
+      {
+        "title": "9.5.1 Auxiliary Translation",
+        "level": "3"
+      },
+      {
+        "title": "9.5.2 Rotations of the AUT about the z-Axis",
+        "level": "3"
+      },
+      {
+        "title": "9.5.3 Auxiliary Rotation - Bi-Planar Near-Field Antenna Measurements",
+        "level": "3"
+      },
+      {
+        "title": "9.5.3.1 Simple Transform",
+        "level": "4"
+      },
+      {
+        "title": "9.5.3.2 Continuity of Field Function at Intersection",
+        "level": "4"
+      },
+      {
+        "title": "9.5.3.3 General Near-Fields - Deficiency of Simple Transform",
+        "level": "4"
+      },
+      {
+        "title": "9.5.3.4 Reconstruction of Normal Field Component",
+        "level": "4"
+      },
+      {
+        "title": "9.5.3.5 Modified Probe Pattern Correction",
+        "level": "4"
+      },
+      {
+        "title": "9.5.3.6 Spectral Leakage and the Suitability of Windowing Functions",
+        "level": "4"
+      },
+      {
+        "title": "9.5.3.7 Modified Near-Field to Far-Field Transform",
+        "level": "4"
+      },
+      {
+        "title": "9.5.4 Near-Field to Far-Field Transformation of Probe Corrected Data",
+        "level": "3"
+      },
+      {
+        "title": "9.5.4.1 Kirchhoff-Huygens' Principle",
+        "level": "4"
+      },
+      {
+        "title": "9.5.5 Applicability of the Poly-Planar Technique",
+        "level": "3"
+      },
+      {
+        "title": "9.5.5.1 Bi-Scan Auxiliary Rotation Technique",
+        "level": "4"
+      },
+      {
+        "title": "9.5.5.2 Tri-Scan Auxiliary Rotation Technique",
+        "level": "4"
+      },
+      {
+        "title": "9.5.6 Complete Poly-Planar Rotational Technique",
+        "level": "3"
+      },
+      {
+        "title": "9.5.6.1 Experimental Set Up",
+        "level": "4"
+      },
+      {
+        "title": "9.5.6.2 Experimental Procedure",
+        "level": "4"
+      },
+      {
+        "title": "9.6 Concluding Remarks",
+        "level": "2"
+      },
+      {
+        "title": "References",
+        "level": "2"
+      },
+      {
+        "title": "Color Plates",
+        "level": "1"
+      },
+      {
+        "title": "Appendices",
+        "level": "1"
+      },
+      {
+        "title": "Appendix A",
+        "level": "2"
+      },
+      {
+        "title": "A.1 Examples of Postulated Mechanisms of Interaction",
+        "level": "3"
+      },
+      {
+        "title": "A.1.1 Classical Electromagnetism",
+        "level": "4"
+      },
+      {
+        "title": "A.1.2 Classical Quantum Mechanics",
+        "level": "4"
+      },
+      {
+        "title": "A.1.3 Relativistic Quantum Mechanics",
+        "level": "4"
+      },
+      {
+        "title": "A.1.4 Collective Electrodynamics",
+        "level": "4"
+      },
+      {
+        "title": "A.1.5 Absorber Theory",
+        "level": "4"
+      },
+      {
+        "title": "References",
+        "level": "3"
+      },
+      {
+        "title": "Index",
+        "level": "1"
       }
     ]
   },
