@@ -6798,40 +6798,792 @@
     "description": "This completely revised third edition of an Artech House classic, Phased Array Antenna Handbook, Second Edition, offers an up-to-date and comprehensive treatment of array antennas and systems. This edition provides a wealth of new material, including expanded coverage of phased array and multiple beam antennas. New modern machine learning techniques used for analysis are included. Additional material on wideband antennas and wideband coverage in array antennas are incorporated in this book, including new methods, devices, and technologies that have developed since the second edition.\n A detailed treatment of antenna system noise, sections on antenna pattern synthesis, developments in subarray technology, and in-depth coverage of array architecture and components are additional new features of this book. The book explores design elements that demonstrate how to size an array system with speed and confidence. Moreover, this resource provides expanded coverage of systems aspects of arrays for radar and communications. Supported with numerous equations and illustrations, this practical book helps evaluate basic antenna parameters such as gain, sidelobe levels, and noise. Readers learn how to compute antenna system noise, design subarray geometries for given bandwidth, scan and sidelobe constraints, and choose array illumination tapers for given sidelobe levels.",
     "chapters": [
       {
-        "level": 1,
-        "title": "Phased Arrays in Radar and Communication Systems"
+        "title": "Phased Array Antenna Handbook Third Edition",
+        "level": "1"
       },
       {
-        "level": 1,
-        "title": "Pattern Characteristics of Linear and Planar Arrays"
+        "title": "Contents",
+        "level": "2"
       },
       {
-        "level": 1,
-        "title": "Pattern Synthesis for Linear and Planar Arrays"
+        "title": "Preface to the Third Edition",
+        "level": "2"
       },
       {
-        "level": 1,
-        "title": "Patterns of Nonplanar Arrays"
+        "title": "Preface to the Second Edition",
+        "level": "2"
       },
       {
-        "level": 1,
-        "title": "Elements for Phased Arrays"
+        "title": "Preface to the First Edition",
+        "level": "2"
       },
       {
-        "level": 1,
-        "title": "Summary of Element Pattern and Mutual Impedance Effects"
+        "title": "Acknowledgments",
+        "level": "2"
       },
       {
-        "level": 1,
-        "title": "Array Error Effects"
+        "title": "Chapter 1 Phased Arrays in Radar andCommunication Systems",
+        "level": "2"
       },
       {
-        "level": 1,
-        "title": "Multiple Beam Antennas"
+        "title": "1.1 Introduction",
+        "level": "3"
       },
       {
-        "level": 1,
-        "title": "Special Array Feeds for Limited Field-of-View and Wideband Coverage."
+        "title": "1.1.1 System Requirements for Radar and Communication Antennas",
+        "level": "4"
+      },
+      {
+        "title": "1.1.2 Directive Properties of Arrays",
+        "level": "4"
+      },
+      {
+        "title": "1.1.3 Array Noise Characterization",
+        "level": "4"
+      },
+      {
+        "title": "1.1.4 The Receiving Antenna in a Polarized Plane Wave Field",
+        "level": "4"
+      },
+      {
+        "title": "1.1.5 System Considerations",
+        "level": "4"
+      },
+      {
+        "title": "1.1.6 Monopulse Beam Splitting",
+        "level": "4"
+      },
+      {
+        "title": "1.2 Array Characterization for Radar and Communication Systems",
+        "level": "3"
+      },
+      {
+        "title": "1.2.1 Scanning and Collimation of Linear and Planar Arrays",
+        "level": "4"
+      },
+      {
+        "title": "1.2.2 Phase Scanning in One Dimension (&#981;0 = 0)",
+        "level": "4"
+      },
+      {
+        "title": "1.2.3 Two-Dimensional Scanning of Planar Arrays",
+        "level": "4"
+      },
+      {
+        "title": "1.2.4 Beamwidth and Directivity of Scanning Arrays",
+        "level": "4"
+      },
+      {
+        "title": "1.2.5 Directivity of Linear Arrays",
+        "level": "4"
+      },
+      {
+        "title": "1.2.6 Directivity of Planar Arrays",
+        "level": "4"
+      },
+      {
+        "title": "1.2.7 Array Realized Gain and Scan Loss",
+        "level": "4"
+      },
+      {
+        "title": "1.2.8 Grating Lobes of a Linear Array",
+        "level": "4"
+      },
+      {
+        "title": "1.2.9 Grating Lobes of a Planar Array",
+        "level": "4"
+      },
+      {
+        "title": "1.2.10 Bandwidth",
+        "level": "4"
+      },
+      {
+        "title": "1.2.11 Array Size Determination",
+        "level": "4"
+      },
+      {
+        "title": "1.2.12 EIRP and G/T for Large, Two-Dimensional Passive or Active Arrays",
+        "level": "4"
+      },
+      {
+        "title": "1.2.13 Gain Limitations Due to Circuit Losses",
+        "level": "4"
+      },
+      {
+        "title": "1.2.14 Directivity and Illumination Errors",
+        "level": "4"
+      },
+      {
+        "title": "1.2.15 Minimum Number of Elements versus Scan Coverage",
+        "level": "4"
+      },
+      {
+        "title": "1.2.16 Time-Delay Compensation",
+        "level": "4"
+      },
+      {
+        "title": "1.3 Array Architecture and Control Technology",
+        "level": "3"
+      },
+      {
+        "title": "1.3.1 Array Aperture",
+        "level": "4"
+      },
+      {
+        "title": "1.3.2 Feed Architectures",
+        "level": "4"
+      },
+      {
+        "title": "1.3.3 Beamforming and Relevant Architectures",
+        "level": "4"
+      },
+      {
+        "title": "1.3.4 RF Components for Array Control",
+        "level": "4"
+      },
+      {
+        "title": "1.3.5 Monolithic Microwave Integrated Circuit Technology",
+        "level": "4"
+      },
+      {
+        "title": "1.3.6 Antenna Components for Mobile Phones",
+        "level": "4"
+      },
+      {
+        "title": "1.3.7 Metamaterials for Array Control",
+        "level": "4"
+      },
+      {
+        "title": "References",
+        "level": "3"
+      },
+      {
+        "title": "Chapter 2 Pattern Characteristics of Linear andPlanar Arrays",
+        "level": "2"
+      },
+      {
+        "title": "2.1 Array Analysis",
+        "level": "3"
+      },
+      {
+        "title": "2.1.1 The Radiation Integrals",
+        "level": "4"
+      },
+      {
+        "title": "2.1.2 Element Pattern Effects, Mutual Coupling, Gain Computed fromElement Patterns",
+        "level": "4"
+      },
+      {
+        "title": "2.2 Characteristics of Linear and Planar Arrays",
+        "level": "3"
+      },
+      {
+        "title": "2.2.1 Linear Array Characteristics",
+        "level": "4"
+      },
+      {
+        "title": "2.2.2 Planar Array Characteristics",
+        "level": "4"
+      },
+      {
+        "title": "2.3 Scanning to Endfire",
+        "level": "3"
+      },
+      {
+        "title": "2.4 Thinned Arrays",
+        "level": "3"
+      },
+      {
+        "title": "2.4.1 Average Patterns of Density-Tapered Arrays",
+        "level": "4"
+      },
+      {
+        "title": "2.4.2 Probabilistic Studies of Thinned Arrays",
+        "level": "4"
+      },
+      {
+        "title": "2.4.3 Thinned Arrays with Quantized Amplitude Distributions",
+        "level": "4"
+      },
+      {
+        "title": "References",
+        "level": "3"
+      },
+      {
+        "title": "Chapter 3 Pattern Synthesis for Linear and PlanarArrays",
+        "level": "2"
+      },
+      {
+        "title": "3.1 Linear Arrays and Planar Arrays with Separable Distributions",
+        "level": "3"
+      },
+      {
+        "title": "3.1.1 Fourier Transform Method",
+        "level": "4"
+      },
+      {
+        "title": "3.1.2 Schelkunov&#8217;s (Schelkunoff&#8217;s) Form",
+        "level": "4"
+      },
+      {
+        "title": "3.1.3 Woodward Synthesis",
+        "level": "4"
+      },
+      {
+        "title": "3.1.4 Dolph-Chebyshev Synthesis",
+        "level": "4"
+      },
+      {
+        "title": "3.1.5 Taylor Line Source Synthesis",
+        "level": "4"
+      },
+      {
+        "title": "3.1.6 Modified sin &#960;z/&#960;z Patterns",
+        "level": "4"
+      },
+      {
+        "title": "3.1.7 Bayliss Line Source Difference Patterns",
+        "level": "4"
+      },
+      {
+        "title": "3.1.8 Synthesis Methods Based on Taylor Patterns",
+        "level": "4"
+      },
+      {
+        "title": "3.1.9 Discretization of Continuous Aperture Illuminations by Root Matching and Iteration",
+        "level": "4"
+      },
+      {
+        "title": "3.1.10 Power Pattern Parameter Optimization Based upon the Ratio ofQuadratic Forms",
+        "level": "4"
+      },
+      {
+        "title": "3.2 Numerical Methods of Pattern Synthesis",
+        "level": "3"
+      },
+      {
+        "title": "3.2.1 Numerical Power Pattern Synthesis",
+        "level": "4"
+      },
+      {
+        "title": "3.2.2 The Alternating Projection Method",
+        "level": "4"
+      },
+      {
+        "title": "3.2.3 Numerical Pattern Synthesis Subject to Constraints",
+        "level": "4"
+      },
+      {
+        "title": "3.3 Circular Planar Arrays",
+        "level": "3"
+      },
+      {
+        "title": "3.3.1 Taylor Circular Array Synthesis",
+        "level": "4"
+      },
+      {
+        "title": "3.3.2 Bayliss Difference Patterns for Circular Arrays",
+        "level": "4"
+      },
+      {
+        "title": "3.4 Methods of Pattern Optimization and Adaptive Arrays",
+        "level": "3"
+      },
+      {
+        "title": "3.4.1 Introduction",
+        "level": "4"
+      },
+      {
+        "title": "3.4.2 Generalized S/N Optimization for Sidelobe Cancelers and Phased andMultiple-Beam Arrays",
+        "level": "4"
+      },
+      {
+        "title": "3.4.3 Operation as Sidelobe Canceler",
+        "level": "4"
+      },
+      {
+        "title": "3.4.4 Fully Adaptive Phased or Multiple-Beam Arrays",
+        "level": "4"
+      },
+      {
+        "title": "3.4.5 Wideband Adaptive Control",
+        "level": "4"
+      },
+      {
+        "title": "3.5 Generalized Patterns Using Covariance Matrix Inversion",
+        "level": "3"
+      },
+      {
+        "title": "3.6 Pattern Synthesis Including Mutual Couplin",
+        "level": "3"
+      },
+      {
+        "title": "3.6.1 Introduction",
+        "level": "4"
+      },
+      {
+        "title": "3.6.2 Pattern Synthesis Using Mutual Coupling Parameters",
+        "level": "4"
+      },
+      {
+        "title": "3.6.3 Pattern Synthesis Using Measured Element Patterns",
+        "level": "4"
+      },
+      {
+        "title": "3.6.4 Array Failure Correction",
+        "level": "4"
+      },
+      {
+        "title": "References",
+        "level": "3"
+      },
+      {
+        "title": "Chapter 4Patterns of Nonplanar Arrays",
+        "level": "2"
+      },
+      {
+        "title": "4.1 Introduction",
+        "level": "3"
+      },
+      {
+        "title": "4.1.1 Methods of Analysis for General Conformal Arrays",
+        "level": "4"
+      },
+      {
+        "title": "4.2 Patterns of Circular and Cylindrical Arrays",
+        "level": "3"
+      },
+      {
+        "title": "4.2.1 Phase Mode Excitation of Circular Arrays",
+        "level": "4"
+      },
+      {
+        "title": "4.2.2 Patterns and Elevation Scan",
+        "level": "4"
+      },
+      {
+        "title": "4.2.3 Circular and Cylindrical Arrays of Directional Elements",
+        "level": "4"
+      },
+      {
+        "title": "4.2.4 Sector Arrays on Conducting Cylinders",
+        "level": "4"
+      },
+      {
+        "title": "4.3 Spherical and Hemispherical Arrays",
+        "level": "3"
+      },
+      {
+        "title": "4.4 Truncated Conical Arrays",
+        "level": "3"
+      },
+      {
+        "title": "References",
+        "level": "3"
+      },
+      {
+        "title": "Chatper 5Elements for Phased Arrays",
+        "level": "2"
+      },
+      {
+        "title": "5.1 Array Elements",
+        "level": "3"
+      },
+      {
+        "title": "5.2 Polarization Characteristics of Infinitesimal Elements inFree Space",
+        "level": "3"
+      },
+      {
+        "title": "5.3 Electric Current (Wire) Antenna Elements",
+        "level": "3"
+      },
+      {
+        "title": "5.3.1 Effective Radius of Wire Structures with Noncircular Cross-Sectio",
+        "level": "4"
+      },
+      {
+        "title": "5.3.2 The Dipole and the Monopole",
+        "level": "4"
+      },
+      {
+        "title": "5.3.1 Effective Radius of Wire Structures with Noncircular Cross-Section",
+        "level": "4"
+      },
+      {
+        "title": "5.3.2 The Dipole and the Monopole",
+        "level": "4"
+      },
+      {
+        "title": "5.3.3 Special Feeds for Dipoles and Monopoles",
+        "level": "4"
+      },
+      {
+        "title": "5.3.4 Dipoles Fed Off-Center",
+        "level": "4"
+      },
+      {
+        "title": "5.3.5 The Sleeve Dipole and Monopole",
+        "level": "4"
+      },
+      {
+        "title": "5.3.6 The Bowtie and Other Wideband Dipoles",
+        "level": "4"
+      },
+      {
+        "title": "5.3.7 The Folded Dipole",
+        "level": "4"
+      },
+      {
+        "title": "5.3.8 Microstrip Dipoles",
+        "level": "4"
+      },
+      {
+        "title": "5.3.9 Other Wire Antenna Structures",
+        "level": "4"
+      },
+      {
+        "title": "5.4 Wideband Array Elements",
+        "level": "3"
+      },
+      {
+        "title": "5.4.1 Introduction",
+        "level": "4"
+      },
+      {
+        "title": "5.4.2 Self-Complementary Elements",
+        "level": "4"
+      },
+      {
+        "title": "5.4.3 TEM Horn Element",
+        "level": "4"
+      },
+      {
+        "title": "5.4.4 Long-Slot Array",
+        "level": "4"
+      },
+      {
+        "title": "5.4.5 Spiral Elements and Arrays",
+        "level": "4"
+      },
+      {
+        "title": "5.4.6 Broadband Tapered Slot and Vivaldi Arrays",
+        "level": "4"
+      },
+      {
+        "title": "5.4.7 Balanced Antipodal Vivaldi Antenna",
+        "level": "4"
+      },
+      {
+        "title": "5.4.8 Broadband Dipole Elements",
+        "level": "4"
+      },
+      {
+        "title": "5.4.9 Bunny Ear",
+        "level": "4"
+      },
+      {
+        "title": "5.4.10 Capacitively Coupled Dipoles",
+        "level": "4"
+      },
+      {
+        "title": "5.5 Aperture Antenna Elements",
+        "level": "3"
+      },
+      {
+        "title": "5.5.1 Slot Elements",
+        "level": "4"
+      },
+      {
+        "title": "5.5.2 Waveguide Radiators",
+        "level": "4"
+      },
+      {
+        "title": "5.5.3 Ridged Waveguide Elements",
+        "level": "4"
+      },
+      {
+        "title": "5.5.4 Horn Elements",
+        "level": "4"
+      },
+      {
+        "title": "5.6 Microstrip Patch Elements",
+        "level": "3"
+      },
+      {
+        "title": "5.6.1 Microstrip Patch",
+        "level": "4"
+      },
+      {
+        "title": "5.6.2 The Balanced Fed Radiator of Collings",
+        "level": "4"
+      },
+      {
+        "title": "5.7 Elements for Alternative Transmission Lines",
+        "level": "3"
+      },
+      {
+        "title": "5.8 Elements and Row (Column) Arrays for One-Dimensional Scan",
+        "level": "3"
+      },
+      {
+        "title": "5.8.1 Waveguide Slot Array Line Source Elements",
+        "level": "4"
+      },
+      {
+        "title": "5.8.2 Printed Circuit Series-Fed Arrays",
+        "level": "4"
+      },
+      {
+        "title": "5.9 Elements and Polarizers for Polarization Diversity",
+        "level": "3"
+      },
+      {
+        "title": "References",
+        "level": "3"
+      },
+      {
+        "title": "Chapter 6 Summary of Element Pattern and MutualImpedance Effects",
+        "level": "2"
+      },
+      {
+        "title": "6.1 Mutual Impedance Effects",
+        "level": "3"
+      },
+      {
+        "title": "6.2 Integral Equation Formulation for Radiation and Coupling in Finiteand Infinite Arrays",
+        "level": "3"
+      },
+      {
+        "title": "6.2.1 Formulation and Results for Finite Arrays",
+        "level": "4"
+      },
+      {
+        "title": "6.2.2 Formulation and Results for Infinite Arrays",
+        "level": "4"
+      },
+      {
+        "title": "6.3 Array Blindness and Surface Waves",
+        "level": "3"
+      },
+      {
+        "title": "6.4 Impedance and Element Patterns in Well-Behaved InfiniteScanning Arrays",
+        "level": "3"
+      },
+      {
+        "title": "6.5 Semi-Infinite and Finite Arrays",
+        "level": "3"
+      },
+      {
+        "title": "6.6 Impedance Matching for Wide Angle and Wideband Radiation",
+        "level": "3"
+      },
+      {
+        "title": "6.6.1 Reduced Element Spacing",
+        "level": "4"
+      },
+      {
+        "title": "6.6.2 Dielectric WAIM Sheets",
+        "level": "4"
+      },
+      {
+        "title": "6.7 Mutual Coupling Phenomena for Nonplanar Surfaces",
+        "level": "3"
+      },
+      {
+        "title": "6.8 Small Arrays and Waveguide Simulators for the Evaluation ofPhased Array Scan Behavior",
+        "level": "3"
+      },
+      {
+        "title": "6.8.1 Several Useful Simulators",
+        "level": "4"
+      },
+      {
+        "title": "References",
+        "level": "3"
+      },
+      {
+        "title": "Chapter 7 Array Error Effects",
+        "level": "2"
+      },
+      {
+        "title": "7.1 Introducti",
+        "level": "3"
+      },
+      {
+        "title": "7.2 Effects of Random Amplitude and Phase Errors inPeriodic Arrays",
+        "level": "3"
+      },
+      {
+        "title": "7.2.1 Average Pattern Characteristics",
+        "level": "4"
+      },
+      {
+        "title": "7.2.2 Directivity",
+        "level": "4"
+      },
+      {
+        "title": "7.2.3 Beam Pointing Error",
+        "level": "4"
+      },
+      {
+        "title": "7.2.4 Peak Sidelobes",
+        "level": "4"
+      },
+      {
+        "title": "7.3 Sidelobe Levels Due to Periodic Phase, Amplitude, and Time-Delay Quantization",
+        "level": "3"
+      },
+      {
+        "title": "7.3.1 Characteristics of an Array of Uniformly IlluminatedContiguous Subarrays",
+        "level": "4"
+      },
+      {
+        "title": "7.3.2 Phase Quantization in a Uniformly Illuminated Array",
+        "level": "4"
+      },
+      {
+        "title": "7.3.3 Reduction of Sidelobes Due to Phase Quantization",
+        "level": "4"
+      },
+      {
+        "title": "7.3.4 Subarrays with Quantized Amplitude Taper",
+        "level": "4"
+      },
+      {
+        "title": "7.3.5 Time Delay at the Subarray Ports",
+        "level": "4"
+      },
+      {
+        "title": "7.3.6 Discrete Phase or Time-Delayed Subarrays with QuantizedSubarray Amplitudes",
+        "level": "4"
+      },
+      {
+        "title": "References",
+        "level": "3"
+      },
+      {
+        "title": "Chapter 8Multiple Beam Antennas",
+        "level": "2"
+      },
+      {
+        "title": "8.1 Introduction",
+        "level": "3"
+      },
+      {
+        "title": "8.1.1 Multiple Beam Systems",
+        "level": "4"
+      },
+      {
+        "title": "8.1.2 Beam Crossover Loss",
+        "level": "4"
+      },
+      {
+        "title": "8.2 Orthogonality Loss and the Stein Limit",
+        "level": "3"
+      },
+      {
+        "title": "8.2.1 Introduction",
+        "level": "4"
+      },
+      {
+        "title": "8.2.2 Orthogonality of the psinc Functions and their Source Vectors",
+        "level": "4"
+      },
+      {
+        "title": "8.2.3 Power Dividers for Multiple Beam Networks",
+        "level": "4"
+      },
+      {
+        "title": "8.2.4 Efficiency of Multiple Beam Radiation&#8212;Stein&#8217;s Limit",
+        "level": "4"
+      },
+      {
+        "title": "8.2.5 Multiple-Beam Matrices and Optical Beamformers",
+        "level": "4"
+      },
+      {
+        "title": "8.3 Multiple-Beam Lens and Reflector Systems",
+        "level": "3"
+      },
+      {
+        "title": "8.3.1 Multiple Beam Lenses",
+        "level": "4"
+      },
+      {
+        "title": "8.3.2 Reflectors for Scanning and Multiple Beams",
+        "level": "4"
+      },
+      {
+        "title": "8.3.3 Reflectarrays",
+        "level": "4"
+      },
+      {
+        "title": "References",
+        "level": "3"
+      },
+      {
+        "title": "Chapter 9 Special Arrays for Limited Field of View and Wideband Coverage",
+        "level": "2"
+      },
+      {
+        "title": "9.1 Antenna Techniques for Limited Field of View andWideband Systems",
+        "level": "3"
+      },
+      {
+        "title": "9.1.1 Minimum Number of Controls",
+        "level": "4"
+      },
+      {
+        "title": "9.1.2 Periodic and Aperiodic Arrays for Limited Field of View",
+        "level": "4"
+      },
+      {
+        "title": "9.1.3 Aperiodic and Thinned Arrays",
+        "level": "4"
+      },
+      {
+        "title": "9.2 Completely Overlapping Subar",
+        "level": "3"
+      },
+      {
+        "title": "9.2.1 Constrained Network for Completely Overlapped Subarra",
+        "level": "4"
+      },
+      {
+        "title": "9.2.2 Reflectors and Lenses with Array Feeds",
+        "level": "4"
+      },
+      {
+        "title": "9.2.3 Practical Design of a Dual-Transform System",
+        "level": "4"
+      },
+      {
+        "title": "9.3 Wideband Scanning Systems",
+        "level": "3"
+      },
+      {
+        "title": "9.3.1 Broadband Arrays with Time-Delayed Offset Beams",
+        "level": "4"
+      },
+      {
+        "title": "9.3.2 Contiguous Time-Delayed Subarrays for Wideband Systems",
+        "level": "4"
+      },
+      {
+        "title": "9.3.3 Overlapped Time-Delayed Subarrays for Wideband Systems",
+        "level": "4"
+      },
+      {
+        "title": "References",
+        "level": "3"
+      },
+      {
+        "title": "About the Author",
+        "level": "2"
+      },
+      {
+        "title": "Index",
+        "level": "2"
       }
     ]
   },

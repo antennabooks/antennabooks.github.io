@@ -1,78 +1,788 @@
-PART A. FUNDAMENTALS AND MATHEMATICAL TECHNIQUES
-1. Basics
-S. W. Lee
-2. Theorems and Formulas
-S. W. Lee
-3. Techniques for Low-Frequency Problems
-A. l. Poggio and E. K. Miller
-4. Techniques for High-Frequency Problems
-P. H. Pathak
-PART B. ANTENNA THEORY
-5. Radiation From Apertures
-E. V. lull
-6. Receiving Antennas
-P. K. Park and C. T. Tai
-7. Wire and Loop Antennas
-L. W. Rispin and D. C. Chang
-8. Horn Antennas
-Constantine A. Balanis
-9. Frequency-Independent Antennas
-Paul E. Mayes
-10. Microstrip Antennas
-William F. Richards
-11. Array Theory
-Y. T. Lo
-12. The Design of Waveguide-Fed Slot Arrays
-Robert S. Elliott
-13. Periodic Arrays
-R. l. Mailloux
-14. Aperiodic Arrays
-Y. T. Lo
-15. Reflector Antennas
-Y. Rahmat-Samii
-16. Lens Antennas
-J. J. Lee
-PART C. APPLICATIONS
-17. Millimeter· Wave Antennas
-F. Schwering and A. A. Oliner
-18. Practical Aspects of Phased Array Design
-Raymond Tang
-19. Beam·Forming Feeds
-J. S. Ajioka and J. L. McFarland
-20. Antennas on Aircraft, Ships, or Any Large, Complex Environment
-W. D. Burnside and R. J. Marhefka
-21. Satellite Antennas
-C. C. Han and Y. Hwang
-22. Remote Sensing and Microwave Radiometry
-J. C. Shiue and L. R. Dod
-23. Antennas for Geophysical Applications
-D. A. Hill
-24. Antennas for Medical Applications
-C. H. Durney and M. F. Iskander
-25. Direction.Finding Antennas
-R. E. Franks
-26. Standard AM Antennas
-C. E. Smith
-27. TV and FM Broadcast Antennas
-G. W. Collins
-PART D. RELATED TOPICS
-28. Transmission Lines and Waveguides
-Y. C. Shih and T. Itoh
-29. Propagation
-C. H. Liu and D. J. Fang
-30. Antenna Response to Electromagnetic Pulses
-K. S. H. Lee
-31. Radome Electromagnetic Design
-G. P. Tricoles
-32. Measurement of Antenna Radiation Characteristics on Far·Field Ranges
-E. S. Gillespie
-33. Near·Field Far·Field Antenna Measurements
-J,prgen Appel-Hansen
-
-Appendixes
-A. Physical Constants, International Units, Conversion of Units, and Metric Prefixes A-3
-B. The Frequency Spectrum B-1
-C. Electromagnetic Properties of Materials C-I
-D. Vector Analysis D-I
-E. VSWR Versus Reflection Coefficient and Mismatch Loss E-I
-F. Decibels Versus Voltage and Power Ratios F-I 
+BookmarkBegin
+BookmarkTitle: Phased Array Antenna Handbook Third Edition
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Contents
+BookmarkLevel: 2
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Preface to the Third Edition
+BookmarkLevel: 2
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Preface to the Second Edition
+BookmarkLevel: 2
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Preface to the First Edition&#10;
+BookmarkLevel: 2
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: Acknowledgments
+BookmarkLevel: 2
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Chapter 1 Phased Arrays in Radar and&#10;Communication Systems
+BookmarkLevel: 2
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: 1.1 Introduction
+BookmarkLevel: 3
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: 1.1.1 System Requirements for Radar and Communication Antennas
+BookmarkLevel: 4
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: 1.1.2 Directive Properties of Arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: 1.1.3 Array Noise Characterization
+BookmarkLevel: 4
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: 1.1.4 The Receiving Antenna in a Polarized Plane Wave Field
+BookmarkLevel: 4
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: 1.1.5 System Considerations
+BookmarkLevel: 4
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: 1.1.6 Monopulse Beam Splitting
+BookmarkLevel: 4
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: 1.2 Array Characterization for Radar and Communication Systems
+BookmarkLevel: 3
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: 1.2.1 Scanning and Collimation of Linear and Planar Arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: 1.2.2 Phase Scanning in One Dimension (&#981;0 = 0)
+BookmarkLevel: 4
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: 1.2.3 Two-Dimensional Scanning of Planar Arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 37
+BookmarkBegin
+BookmarkTitle: 1.2.4 Beamwidth and Directivity of Scanning Arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 37
+BookmarkBegin
+BookmarkTitle: 1.2.5 Directivity of Linear Arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: 1.2.6 Directivity of Planar Arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: 1.2.7 Array Realized Gain and Scan Loss
+BookmarkLevel: 4
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: 1.2.8 Grating Lobes of a Linear Array
+BookmarkLevel: 4
+BookmarkPageNumber: 45
+BookmarkBegin
+BookmarkTitle: 1.2.9 Grating Lobes of a Planar Array
+BookmarkLevel: 4
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: 1.2.10 Bandwidth
+BookmarkLevel: 4
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: 1.2.11 Array Size Determination
+BookmarkLevel: 4
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: 1.2.12 EIRP and G/T for Large, Two-Dimensional Passive or Active Arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: 1.2.13 Gain Limitations Due to Circuit Losses
+BookmarkLevel: 4
+BookmarkPageNumber: 56
+BookmarkBegin
+BookmarkTitle: 1.2.14 Directivity and Illumination Errors: Random Error and&#10;Quantization Error
+BookmarkLevel: 4
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle: 1.2.15 Minimum Number of Elements versus Scan Coverage: Limited Field-of-View Arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 61
+BookmarkBegin
+BookmarkTitle: 1.2.16 Time-Delay Compensation
+BookmarkLevel: 4
+BookmarkPageNumber: 63
+BookmarkBegin
+BookmarkTitle: 1.3 Array Architecture and Control Technology
+BookmarkLevel: 3
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle: 1.3.1 Array Aperture
+BookmarkLevel: 4
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle: 1.3.2 Feed Architectures
+BookmarkLevel: 4
+BookmarkPageNumber: 67
+BookmarkBegin
+BookmarkTitle: 1.3.3 Beamforming and Relevant Architectures
+BookmarkLevel: 4
+BookmarkPageNumber: 72
+BookmarkBegin
+BookmarkTitle: 1.3.4 RF Components for Array Control&#10;
+BookmarkLevel: 4
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle: 1.3.5 Monolithic Microwave Integrated Circuit Technology
+BookmarkLevel: 4
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: 1.3.6 Antenna Components for Mobile Phones
+BookmarkLevel: 4
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: 1.3.7 Metamaterials for Array Control
+BookmarkLevel: 4
+BookmarkPageNumber: 79
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 3
+BookmarkPageNumber: 80
+BookmarkBegin
+BookmarkTitle: Chapter 2 Pattern Characteristics of Linear and&#10;Planar Arrays
+BookmarkLevel: 2
+BookmarkPageNumber: 84
+BookmarkBegin
+BookmarkTitle: 2.1 Array Analysis
+BookmarkLevel: 3
+BookmarkPageNumber: 84
+BookmarkBegin
+BookmarkTitle: 2.1.1 The Radiation Integrals
+BookmarkLevel: 4
+BookmarkPageNumber: 84
+BookmarkBegin
+BookmarkTitle: 2.1.2 Element Pattern Effects, Mutual Coupling, Gain Computed from&#10;Element Patterns
+BookmarkLevel: 4
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: 2.2 Characteristics of Linear and Planar Arrays
+BookmarkLevel: 3
+BookmarkPageNumber: 95
+BookmarkBegin
+BookmarkTitle: 2.2.1 Linear Array Characteristics
+BookmarkLevel: 4
+BookmarkPageNumber: 95
+BookmarkBegin
+BookmarkTitle: 2.2.2 Planar Array Characteristics
+BookmarkLevel: 4
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle: 2.3 Scanning to Endfire
+BookmarkLevel: 3
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: 2.4 Thinned Arrays
+BookmarkLevel: 3
+BookmarkPageNumber: 113
+BookmarkBegin
+BookmarkTitle: 2.4.1 Average Patterns of Density-Tapered Arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 115
+BookmarkBegin
+BookmarkTitle: 2.4.2 Probabilistic Studies of Thinned Arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 116
+BookmarkBegin
+BookmarkTitle: 2.4.3 Thinned Arrays with Quantized Amplitude Distributions
+BookmarkLevel: 4
+BookmarkPageNumber: 121
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 3
+BookmarkPageNumber: 129
+BookmarkBegin
+BookmarkTitle: Chapter 3 Pattern Synthesis for Linear and Planar&#10;Arrays
+BookmarkLevel: 2
+BookmarkPageNumber: 132
+BookmarkBegin
+BookmarkTitle: 3.1 Linear Arrays and Planar Arrays with Separable Distributions
+BookmarkLevel: 3
+BookmarkPageNumber: 133
+BookmarkBegin
+BookmarkTitle: 3.1.1 Fourier Transform Method
+BookmarkLevel: 4
+BookmarkPageNumber: 133
+BookmarkBegin
+BookmarkTitle: 3.1.2 Schelkunov&#8217;s (Schelkunoff&#8217;s) Form
+BookmarkLevel: 4
+BookmarkPageNumber: 133
+BookmarkBegin
+BookmarkTitle: 3.1.3 Woodward Synthesis
+BookmarkLevel: 4
+BookmarkPageNumber: 136
+BookmarkBegin
+BookmarkTitle: 3.1.4 Dolph-Chebyshev Synthesis
+BookmarkLevel: 4
+BookmarkPageNumber: 139
+BookmarkBegin
+BookmarkTitle: 3.1.5 Taylor Line Source Synthesis
+BookmarkLevel: 4
+BookmarkPageNumber: 145
+BookmarkBegin
+BookmarkTitle: 3.1.6 Modified sin &#960;z/&#960;z Patterns
+BookmarkLevel: 4
+BookmarkPageNumber: 153
+BookmarkBegin
+BookmarkTitle: 3.1.7 Bayliss Line Source Difference Patterns
+BookmarkLevel: 4
+BookmarkPageNumber: 155
+BookmarkBegin
+BookmarkTitle: 3.1.8 Synthesis Methods Based on Taylor Patterns: Elliott&#8217;s Modified Taylor&#10;Patterns and the Iterative Method of Elli
+BookmarkLevel: 4
+BookmarkPageNumber: 158
+BookmarkBegin
+BookmarkTitle: 3.1.9 Discretization of Continuous Aperture Illuminations by Root Matching and Iteration
+BookmarkLevel: 4
+BookmarkPageNumber: 164
+BookmarkBegin
+BookmarkTitle: 3.1.10 Power Pattern Parameter Optimization Based upon the Ratio of&#10;Quadratic Forms
+BookmarkLevel: 4
+BookmarkPageNumber: 165
+BookmarkBegin
+BookmarkTitle: 3.2 Numerical Methods of Pattern Synthesis
+BookmarkLevel: 3
+BookmarkPageNumber: 168
+BookmarkBegin
+BookmarkTitle: 3.2.1 Numerical Power Pattern Synthesis
+BookmarkLevel: 4
+BookmarkPageNumber: 168
+BookmarkBegin
+BookmarkTitle: 3.2.2 The Alternating Projection Method
+BookmarkLevel: 4
+BookmarkPageNumber: 177
+BookmarkBegin
+BookmarkTitle: 3.2.3 Numerical Pattern Synthesis Subject to Constraints
+BookmarkLevel: 4
+BookmarkPageNumber: 181
+BookmarkBegin
+BookmarkTitle: 3.3 Circular Planar Arrays
+BookmarkLevel: 3
+BookmarkPageNumber: 183
+BookmarkBegin
+BookmarkTitle: 3.3.1 Taylor Circular Array Synthesis
+BookmarkLevel: 4
+BookmarkPageNumber: 183
+BookmarkBegin
+BookmarkTitle: 3.3.2 Bayliss Difference Patterns for Circular Arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 185
+BookmarkBegin
+BookmarkTitle: 3.4 Methods of Pattern Optimization and Adaptive Arrays
+BookmarkLevel: 3
+BookmarkPageNumber: 187
+BookmarkBegin
+BookmarkTitle: 3.4.1 Introduction
+BookmarkLevel: 4
+BookmarkPageNumber: 187
+BookmarkBegin
+BookmarkTitle: 3.4.2 Generalized S/N Optimization for Sidelobe Cancelers and Phased and&#10;Multiple-Beam Arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 190
+BookmarkBegin
+BookmarkTitle: 3.4.3 Operation as Sidelobe Canceler
+BookmarkLevel: 4
+BookmarkPageNumber: 193
+BookmarkBegin
+BookmarkTitle: 3.4.4 Fully Adaptive Phased or Multiple-Beam Arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 196
+BookmarkBegin
+BookmarkTitle: 3.4.5 Wideband Adaptive Control
+BookmarkLevel: 4
+BookmarkPageNumber: 198
+BookmarkBegin
+BookmarkTitle: 3.5 Generalized Patterns Using Covariance Matrix Inversion
+BookmarkLevel: 3
+BookmarkPageNumber: 203
+BookmarkBegin
+BookmarkTitle: 3.6 Pattern Synthesis Including Mutual Couplin
+BookmarkLevel: 3
+BookmarkPageNumber: 205
+BookmarkBegin
+BookmarkTitle: 3.6.1 Introduction
+BookmarkLevel: 4
+BookmarkPageNumber: 205
+BookmarkBegin
+BookmarkTitle: 3.6.2 Pattern Synthesis Using Mutual Coupling Parameters
+BookmarkLevel: 4
+BookmarkPageNumber: 206
+BookmarkBegin
+BookmarkTitle: 3.6.3 Pattern Synthesis Using Measured Element Patterns
+BookmarkLevel: 4
+BookmarkPageNumber: 207
+BookmarkBegin
+BookmarkTitle: 3.6.4 Array Failure Correction
+BookmarkLevel: 4
+BookmarkPageNumber: 208
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 3
+BookmarkPageNumber: 210
+BookmarkBegin
+BookmarkTitle: Chapter 4&#10;Patterns of Nonplanar Arrays
+BookmarkLevel: 2
+BookmarkPageNumber: 216
+BookmarkBegin
+BookmarkTitle: 4.1 Introduction
+BookmarkLevel: 3
+BookmarkPageNumber: 216
+BookmarkBegin
+BookmarkTitle: 4.1.1 Methods of Analysis for General Conformal Arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 217
+BookmarkBegin
+BookmarkTitle: 4.2 Patterns of Circular and Cylindrical Arrays
+BookmarkLevel: 3
+BookmarkPageNumber: 218
+BookmarkBegin
+BookmarkTitle: 4.2.1 Phase Mode Excitation of Circular Arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 221
+BookmarkBegin
+BookmarkTitle: 4.2.2 Patterns and Elevation Scan
+BookmarkLevel: 4
+BookmarkPageNumber: 225
+BookmarkBegin
+BookmarkTitle: 4.2.3 Circular and Cylindrical Arrays of Directional Elements
+BookmarkLevel: 4
+BookmarkPageNumber: 226
+BookmarkBegin
+BookmarkTitle: 4.2.4 Sector Arrays on Conducting Cylinders
+BookmarkLevel: 4
+BookmarkPageNumber: 229
+BookmarkBegin
+BookmarkTitle: 4.3 Spherical and Hemispherical Arrays
+BookmarkLevel: 3
+BookmarkPageNumber: 252
+BookmarkBegin
+BookmarkTitle: 4.4 Truncated Conical Arrays
+BookmarkLevel: 3
+BookmarkPageNumber: 253
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 3
+BookmarkPageNumber: 253
+BookmarkBegin
+BookmarkTitle: Chatper 5&#10;Elements for Phased Arrays
+BookmarkLevel: 2
+BookmarkPageNumber: 258
+BookmarkBegin
+BookmarkTitle: 5.1 Array Elements
+BookmarkLevel: 3
+BookmarkPageNumber: 258
+BookmarkBegin
+BookmarkTitle: 5.2 Polarization Characteristics of Infinitesimal Elements in&#10;Free Space
+BookmarkLevel: 3
+BookmarkPageNumber: 258
+BookmarkBegin
+BookmarkTitle: 5.3 Electric Current (Wire) Antenna Elements
+BookmarkLevel: 3
+BookmarkPageNumber: 261
+BookmarkBegin
+BookmarkTitle: 5.3.1 Effective Radius of Wire Structures with Noncircular Cross-Sectio
+BookmarkLevel: 4
+BookmarkPageNumber: 261
+BookmarkBegin
+BookmarkTitle: 5.3.2 The Dipole and the Monopole
+BookmarkLevel: 4
+BookmarkPageNumber: 261
+BookmarkBegin
+BookmarkTitle: 5.3.1 Effective Radius of Wire Structures with Noncircular Cross-Section
+BookmarkLevel: 4
+BookmarkPageNumber: 261
+BookmarkBegin
+BookmarkTitle: 5.3.2 The Dipole and the Monopole
+BookmarkLevel: 4
+BookmarkPageNumber: 261
+BookmarkBegin
+BookmarkTitle: 5.3.3 Special Feeds for Dipoles and Monopoles
+BookmarkLevel: 4
+BookmarkPageNumber: 265
+BookmarkBegin
+BookmarkTitle: 5.3.4 Dipoles Fed Off-Center
+BookmarkLevel: 4
+BookmarkPageNumber: 268
+BookmarkBegin
+BookmarkTitle: 5.3.5 The Sleeve Dipole and Monopole
+BookmarkLevel: 4
+BookmarkPageNumber: 270
+BookmarkBegin
+BookmarkTitle: 5.3.6 The Bowtie and Other Wideband Dipoles
+BookmarkLevel: 4
+BookmarkPageNumber: 271
+BookmarkBegin
+BookmarkTitle: 5.3.7 The Folded Dipole
+BookmarkLevel: 4
+BookmarkPageNumber: 272
+BookmarkBegin
+BookmarkTitle: 5.3.8 Microstrip Dipoles
+BookmarkLevel: 4
+BookmarkPageNumber: 275
+BookmarkBegin
+BookmarkTitle: 5.3.9 Other Wire Antenna Structures
+BookmarkLevel: 4
+BookmarkPageNumber: 275
+BookmarkBegin
+BookmarkTitle: 5.4 Wideband Array Elements
+BookmarkLevel: 3
+BookmarkPageNumber: 277
+BookmarkBegin
+BookmarkTitle: 5.4.1 Introduction
+BookmarkLevel: 4
+BookmarkPageNumber: 277
+BookmarkBegin
+BookmarkTitle: 5.4.2 Self-Complementary Elements
+BookmarkLevel: 4
+BookmarkPageNumber: 278
+BookmarkBegin
+BookmarkTitle: 5.4.3 TEM Horn Element
+BookmarkLevel: 4
+BookmarkPageNumber: 279
+BookmarkBegin
+BookmarkTitle: 5.4.4 Long-Slot Array
+BookmarkLevel: 4
+BookmarkPageNumber: 279
+BookmarkBegin
+BookmarkTitle: 5.4.5 Spiral Elements and Arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 281
+BookmarkBegin
+BookmarkTitle: 5.4.6 Broadband Tapered Slot and Vivaldi Arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 281
+BookmarkBegin
+BookmarkTitle: 5.4.7 Balanced Antipodal Vivaldi Antenna
+BookmarkLevel: 4
+BookmarkPageNumber: 285
+BookmarkBegin
+BookmarkTitle: 5.4.8 Broadband Dipole Elements
+BookmarkLevel: 4
+BookmarkPageNumber: 286
+BookmarkBegin
+BookmarkTitle: 5.4.9 Bunny Ear
+BookmarkLevel: 4
+BookmarkPageNumber: 287
+BookmarkBegin
+BookmarkTitle: 5.4.10 Capacitively Coupled Dipoles
+BookmarkLevel: 4
+BookmarkPageNumber: 287
+BookmarkBegin
+BookmarkTitle: 5.5 Aperture Antenna Elements
+BookmarkLevel: 3
+BookmarkPageNumber: 292
+BookmarkBegin
+BookmarkTitle: 5.5.1 Slot Elements
+BookmarkLevel: 4
+BookmarkPageNumber: 292
+BookmarkBegin
+BookmarkTitle: 5.5.2 Waveguide Radiators
+BookmarkLevel: 4
+BookmarkPageNumber: 294
+BookmarkBegin
+BookmarkTitle: 5.5.3 Ridged Waveguide Elements&#10;
+BookmarkLevel: 4
+BookmarkPageNumber: 297
+BookmarkBegin
+BookmarkTitle: 5.5.4 Horn Elements
+BookmarkLevel: 4
+BookmarkPageNumber: 299
+BookmarkBegin
+BookmarkTitle: 5.6 Microstrip Patch Elements
+BookmarkLevel: 3
+BookmarkPageNumber: 299
+BookmarkBegin
+BookmarkTitle: 5.6.1 Microstrip Patch
+BookmarkLevel: 4
+BookmarkPageNumber: 299
+BookmarkBegin
+BookmarkTitle: 5.6.2 The Balanced Fed Radiator of Collings
+BookmarkLevel: 4
+BookmarkPageNumber: 308
+BookmarkBegin
+BookmarkTitle: 5.7 Elements for Alternative Transmission Lines
+BookmarkLevel: 3
+BookmarkPageNumber: 309
+BookmarkBegin
+BookmarkTitle: 5.8 Elements and Row (Column) Arrays for One-Dimensional Scan
+BookmarkLevel: 3
+BookmarkPageNumber: 309
+BookmarkBegin
+BookmarkTitle: 5.8.1 Waveguide Slot Array Line Source Elements
+BookmarkLevel: 4
+BookmarkPageNumber: 309
+BookmarkBegin
+BookmarkTitle: 5.8.2 Printed Circuit Series-Fed Arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 314
+BookmarkBegin
+BookmarkTitle: 5.9 Elements and Polarizers for Polarization Diversity
+BookmarkLevel: 3
+BookmarkPageNumber: 315
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 3
+BookmarkPageNumber: 321
+BookmarkBegin
+BookmarkTitle: Chapter 6 Summary of Element Pattern and Mutual&#10;Impedance Effects
+BookmarkLevel: 2
+BookmarkPageNumber: 332
+BookmarkBegin
+BookmarkTitle: 6.1 Mutual Impedance Effects
+BookmarkLevel: 3
+BookmarkPageNumber: 332
+BookmarkBegin
+BookmarkTitle: 6.2 Integral Equation Formulation for Radiation and Coupling in Finite&#10;and Infinite Arrays
+BookmarkLevel: 3
+BookmarkPageNumber: 334
+BookmarkBegin
+BookmarkTitle: 6.2.1 Formulation and Results for Finite Arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 334
+BookmarkBegin
+BookmarkTitle: 6.2.2 Formulation and Results for Infinite Arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 338
+BookmarkBegin
+BookmarkTitle: 6.3 Array Blindness and Surface Waves
+BookmarkLevel: 3
+BookmarkPageNumber: 348
+BookmarkBegin
+BookmarkTitle: 6.4 Impedance and Element Patterns in Well-Behaved Infinite&#10;Scanning Arrays
+BookmarkLevel: 3
+BookmarkPageNumber: 361
+BookmarkBegin
+BookmarkTitle: 6.5 Semi-Infinite and Finite Arrays
+BookmarkLevel: 3
+BookmarkPageNumber: 372
+BookmarkBegin
+BookmarkTitle: 6.6 Impedance Matching for Wide Angle and Wideband Radiation
+BookmarkLevel: 3
+BookmarkPageNumber: 372
+BookmarkBegin
+BookmarkTitle: 6.6.1 Reduced Element Spacing
+BookmarkLevel: 4
+BookmarkPageNumber: 373
+BookmarkBegin
+BookmarkTitle: 6.6.2 Dielectric WAIM Sheets
+BookmarkLevel: 4
+BookmarkPageNumber: 375
+BookmarkBegin
+BookmarkTitle: 6.7 Mutual Coupling Phenomena for Nonplanar Surfaces
+BookmarkLevel: 3
+BookmarkPageNumber: 377
+BookmarkBegin
+BookmarkTitle: 6.8 Small Arrays and Waveguide Simulators for the Evaluation of&#10;Phased Array Scan Behavior
+BookmarkLevel: 3
+BookmarkPageNumber: 382
+BookmarkBegin
+BookmarkTitle: 6.8.1 Several Useful Simulators
+BookmarkLevel: 4
+BookmarkPageNumber: 386
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 3
+BookmarkPageNumber: 388
+BookmarkBegin
+BookmarkTitle: Chapter 7 Array Error Effects&#10;
+BookmarkLevel: 2
+BookmarkPageNumber: 394
+BookmarkBegin
+BookmarkTitle: 7.1 Introducti
+BookmarkLevel: 3
+BookmarkPageNumber: 394
+BookmarkBegin
+BookmarkTitle: 7.2 Effects of Random Amplitude and Phase Errors in&#10;Periodic Arrays
+BookmarkLevel: 3
+BookmarkPageNumber: 394
+BookmarkBegin
+BookmarkTitle: 7.2.1 Average Pattern Characteristics
+BookmarkLevel: 4
+BookmarkPageNumber: 396
+BookmarkBegin
+BookmarkTitle: 7.2.2 Directivity
+BookmarkLevel: 4
+BookmarkPageNumber: 399
+BookmarkBegin
+BookmarkTitle: 7.2.3 Beam Pointing Error
+BookmarkLevel: 4
+BookmarkPageNumber: 399
+BookmarkBegin
+BookmarkTitle: 7.2.4 Peak Sidelobes
+BookmarkLevel: 4
+BookmarkPageNumber: 400
+BookmarkBegin
+BookmarkTitle: 7.3 Sidelobe Levels Due to Periodic Phase, Amplitude, and Time-Delay Quantization
+BookmarkLevel: 3
+BookmarkPageNumber: 403
+BookmarkBegin
+BookmarkTitle: 7.3.1 Characteristics of an Array of Uniformly Illuminated&#10;Contiguous Subarrays
+BookmarkLevel: 4
+BookmarkPageNumber: 404
+BookmarkBegin
+BookmarkTitle: 7.3.2 Phase Quantization in a Uniformly Illuminated Array
+BookmarkLevel: 4
+BookmarkPageNumber: 407
+BookmarkBegin
+BookmarkTitle: 7.3.3 Reduction of Sidelobes Due to Phase Quantization&#10;
+BookmarkLevel: 4
+BookmarkPageNumber: 412
+BookmarkBegin
+BookmarkTitle: 7.3.4 Subarrays with Quantized Amplitude Taper
+BookmarkLevel: 4
+BookmarkPageNumber: 415
+BookmarkBegin
+BookmarkTitle: 7.3.5 Time Delay at the Subarray Ports
+BookmarkLevel: 4
+BookmarkPageNumber: 416
+BookmarkBegin
+BookmarkTitle: 7.3.6 Discrete Phase or Time-Delayed Subarrays with Quantized&#10;Subarray Amplitudes
+BookmarkLevel: 4
+BookmarkPageNumber: 417
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 3
+BookmarkPageNumber: 418
+BookmarkBegin
+BookmarkTitle: Chapter 8&#10;Multiple Beam Antennas
+BookmarkLevel: 2
+BookmarkPageNumber: 420
+BookmarkBegin
+BookmarkTitle: 8.1 Introduction
+BookmarkLevel: 3
+BookmarkPageNumber: 420
+BookmarkBegin
+BookmarkTitle: 8.1.1 Multiple Beam Systems
+BookmarkLevel: 4
+BookmarkPageNumber: 421
+BookmarkBegin
+BookmarkTitle: 8.1.2 Beam Crossover Loss
+BookmarkLevel: 4
+BookmarkPageNumber: 422
+BookmarkBegin
+BookmarkTitle: 8.2 Orthogonality Loss and the Stein Limit
+BookmarkLevel: 3
+BookmarkPageNumber: 426
+BookmarkBegin
+BookmarkTitle: 8.2.1 Introduction
+BookmarkLevel: 4
+BookmarkPageNumber: 426
+BookmarkBegin
+BookmarkTitle: 8.2.2 Orthogonality of the psinc Functions and their Source Vectors
+BookmarkLevel: 4
+BookmarkPageNumber: 427
+BookmarkBegin
+BookmarkTitle: 8.2.3 Power Dividers for Multiple Beam Networks
+BookmarkLevel: 4
+BookmarkPageNumber: 428
+BookmarkBegin
+BookmarkTitle: 8.2.4 Efficiency of Multiple Beam Radiation&#8212;Stein&#8217;s Limit
+BookmarkLevel: 4
+BookmarkPageNumber: 430
+BookmarkBegin
+BookmarkTitle: 8.2.5 Multiple-Beam Matrices and Optical Beamformers
+BookmarkLevel: 4
+BookmarkPageNumber: 436
+BookmarkBegin
+BookmarkTitle: 8.3 Multiple-Beam Lens and Reflector Systems
+BookmarkLevel: 3
+BookmarkPageNumber: 440
+BookmarkBegin
+BookmarkTitle: 8.3.1 Multiple Beam Lenses
+BookmarkLevel: 4
+BookmarkPageNumber: 442
+BookmarkBegin
+BookmarkTitle: 8.3.2 Reflectors for Scanning and Multiple Beams&#10;
+BookmarkLevel: 4
+BookmarkPageNumber: 444
+BookmarkBegin
+BookmarkTitle: 8.3.3 Reflectarrays
+BookmarkLevel: 4
+BookmarkPageNumber: 445
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 3
+BookmarkPageNumber: 449
+BookmarkBegin
+BookmarkTitle: Chapter 9 Special Arrays for Limited Field of View and Wideband Coverage
+BookmarkLevel: 2
+BookmarkPageNumber: 454
+BookmarkBegin
+BookmarkTitle: 9.1 Antenna Techniques for Limited Field of View and&#10;Wideband Systems
+BookmarkLevel: 3
+BookmarkPageNumber: 454
+BookmarkBegin
+BookmarkTitle: 9.1.1 Minimum Number of Controls
+BookmarkLevel: 4
+BookmarkPageNumber: 455
+BookmarkBegin
+BookmarkTitle: 9.1.2 Periodic and Aperiodic Arrays for Limited Field of View
+BookmarkLevel: 4
+BookmarkPageNumber: 458
+BookmarkBegin
+BookmarkTitle: 9.1.3 Aperiodic and Thinned Arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 475
+BookmarkBegin
+BookmarkTitle: 9.2 Completely Overlapping Subar
+BookmarkLevel: 3
+BookmarkPageNumber: 483
+BookmarkBegin
+BookmarkTitle: 9.2.1 Constrained Network for Completely Overlapped Subarra
+BookmarkLevel: 4
+BookmarkPageNumber: 483
+BookmarkBegin
+BookmarkTitle: 9.2.2 Reflectors and Lenses with Array Feeds&#10;
+BookmarkLevel: 4
+BookmarkPageNumber: 491
+BookmarkBegin
+BookmarkTitle: 9.2.3 Practical Design of a Dual-Transform System
+BookmarkLevel: 4
+BookmarkPageNumber: 512
+BookmarkBegin
+BookmarkTitle: 9.3 Wideband Scanning Systems
+BookmarkLevel: 3
+BookmarkPageNumber: 516
+BookmarkBegin
+BookmarkTitle: 9.3.1 Broadband Arrays with Time-Delayed Offset Beams
+BookmarkLevel: 4
+BookmarkPageNumber: 516
+BookmarkBegin
+BookmarkTitle: 9.3.2 Contiguous Time-Delayed Subarrays for Wideband Systems
+BookmarkLevel: 4
+BookmarkPageNumber: 517
+BookmarkBegin
+BookmarkTitle: 9.3.3 Overlapped Time-Delayed Subarrays for Wideband Systems
+BookmarkLevel: 4
+BookmarkPageNumber: 521
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 3
+BookmarkPageNumber: 528
+BookmarkBegin
+BookmarkTitle: About the Author
+BookmarkLevel: 2
+BookmarkPageNumber: 532
+BookmarkBegin
+BookmarkTitle: Index&#10;
+BookmarkLevel: 2
+BookmarkPageNumber: 534
