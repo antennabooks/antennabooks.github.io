@@ -36,14 +36,14 @@ readInterface.on('close', function () {
   //   console.log("Finished")
   // });
   // console.log(lines)
-  for(i=0; i<lines.length; i += 2){
+  for(i=0; i<lines.length; i += 1){
   // for(i=0; i<lines.length; i += 4){
     // console.log(lines[i+1].split(": ")[1])
     // console.log(lines[i+2].split(": ")[1])
     var levelNumber = lines[i].split(" ")[0]
     var level = 1
-    console.log(levelNumber.match(/./g)) 
     if(levelNumber.split(".").length == 2){
+    // if(levelNumber.split("-").length == 1){
       level = 2
     }
     if(levelNumber.split(".").length == 3){
