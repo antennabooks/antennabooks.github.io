@@ -5889,291 +5889,291 @@
     "description": "This book brings a blend of introductory, practical and theoretical treatments and likely future developments are also highlighted. A good selection of past and current references are given and each chapter concludes with a helpful summary comment.",
     "chapters": [
       {
-        "title": "1 Flat-plate antenna techniques and constraints on performance 1",
+        "title": " Flat-plate antenna techniques and constraints on performance 1",
         "level": 1
       },
       {
-        "title": "1.1.1 Slot element design and deployment 3",
+        "title": "1.1.1 Slot element design and deployment ",
         "level": 3
       },
       {
-        "title": "1.1.3 Dielectric waveguide arrays 6",
+        "title": "1.1.3 Dielectric waveguide arrays ",
         "level": 3
       },
       {
-        "title": "1.2.1 Design of the slot element 7",
+        "title": "1.2.1 Design of the slot element ",
         "level": 3
       },
       {
-        "title": "1.3 Cavity-backed printed antennas 9",
+        "title": "1.3 Cavity-backed printed antennas ",
         "level": 2
       },
       {
-        "title": "1.3.2 Cavity-backed printed arrays 12",
+        "title": "1.3.2 Cavity-backed printed arrays ",
         "level": 3
       },
       {
-        "title": "1.4.1 Fundamental limitations of microstrip antennas 13",
+        "title": "1.4.1 Fundamental limitations of microstrip antennas ",
         "level": 3
       },
       {
-        "title": "1.5 Summary comment 17",
+        "title": "1.5 Summary comment ",
         "level": 2
       },
       {
-        "title": "2 Microstrip design equations and data 21",
+        "title": "2 Microstrip design equations and data ",
         "level": 1
       },
       {
-        "title": "2.2 Estimations of losses in microstrip 25",
+        "title": "2.2 Estimations of losses in microstrip ",
         "level": 2
       },
       {
-        "title": "2.2.2 Conductor loss 26",
+        "title": "2.2.2 Conductor loss ",
         "level": 3
       },
       {
-        "title": "2.3.1 Practical design implications 29",
+        "title": "2.3.1 Practical design implications ",
         "level": 3
       },
       {
-        "title": "2.4 Discontinuities in microstrip lines 34",
+        "title": "2.4 Discontinuities in microstrip lines ",
         "level": 2
       },
       {
-        "title": "2.4.2 Equivalent waveguide analysis of discontinuities 35",
+        "title": "2.4.2 Equivalent waveguide analysis of discontinuities ",
         "level": 3
       },
       {
-        "title": "2.5 Manufacturing and operational aspects of microstrip substrates 36",
+        "title": "2.5 Manufacturing and operational aspects of microstrip substrates ",
         "level": 2
       },
       {
-        "title": "2.7 References 39",
+        "title": "2.7 References ",
         "level": 2
       },
       {
-        "title": "3.1 Comparison of estimates of radiation loss 42",
+        "title": "3.1 Comparison of estimates of radiation loss ",
         "level": 2
       },
       {
-        "title": "3.3 Substrate surface waves and their significance 51",
+        "title": "3.3 Substrate surface waves and their significance ",
         "level": 2
       },
       {
-        "title": "3.5 Fundamental design implications based on first-order patch design 59",
+        "title": "3.5 Fundamental design implications based on first-order patch design ",
         "level": 2
       },
       {
-        "title": "3.7 Summary comments 64",
+        "title": "3.7 Summary comments ",
         "level": 2
       },
       {
-        "title": "4 Basic methods of calculation and design of patch antennas 67",
+        "title": "4 Basic methods of calculation and design of patch antennas ",
         "level": 1
       },
       {
-        "title": "4.1.1 Field structure of patch 71",
+        "title": "4.1.1 Field structure of patch ",
         "level": 3
       },
       {
-        "title": "4.1.3 Antenna bandwidth and impedance 74",
+        "title": "4.1.3 Antenna bandwidth and impedance ",
         "level": 3
       },
       {
-        "title": "4.2.1 Radiation fields 77",
+        "title": "4.2.1 Radiation fields ",
         "level": 3
       },
       {
-        "title": "4.2.3 Square antenna 82",
+        "title": "4.2.3 Square antenna ",
         "level": 3
       },
       {
-        "title": "4.3.1 Radiation fields 82",
+        "title": "4.3.1 Radiation fields ",
         "level": 3
       },
       {
-        "title": "4.3.3 Circular polarisation 86",
+        "title": "4.3.3 Circular polarisation ",
         "level": 3
       },
       {
-        "title": "4.4.1 Network model for (m = 0, n = 1) mode rectangular patch 87",
+        "title": "4.4.1 Network model for (m = 0, n = 1) mode rectangular patch ",
         "level": 3
       },
       {
-        "title": "4.5 Refinements to theoretical models 93",
+        "title": "4.5 Refinements to theoretical models ",
         "level": 2
       },
       {
-        "title": "4.5.2 Corrections for fringe-field leakage 97",
+        "title": "4.5.2 Corrections for fringe-field leakage ",
         "level": 3
       },
       {
-        "title": "4.6.1 Radiation patterns 103",
+        "title": "4.6.1 Radiation patterns ",
         "level": 3
       },
       {
-        "title": "4.6.3 Bandwidth and resonant impedance 106",
+        "title": "4.6.3 Bandwidth and resonant impedance ",
         "level": 3
       },
       {
-        "title": "4.7 Summary comments 108",
+        "title": "4.7 Summary comments ",
         "level": 2
       },
       {
-        "title": "5 Linear array techniques H I",
+        "title": "5 Linear array techniques H ",
         "level": 1
       },
       {
-        "title": "5.1.1 Series feeding 112",
+        "title": "5.1.1 Series feeding ",
         "level": 3
       },
       {
-        "title": "5.2 Practical forms of linear microstrip array 117",
+        "title": "5.2 Practical forms of linear microstrip array ",
         "level": 2
       },
       {
-        "title": "5.2.2 Arrays formed from line discontinuities 123",
+        "title": "5.2.2 Arrays formed from line discontinuities ",
         "level": 3
       },
       {
-        "title": "5.2.4 Overall assessment of available linear arrays 130",
+        "title": "5.2.4 Overall assessment of available linear arrays ",
         "level": 3
       },
       {
-        "title": "5.3.1 Radiating element choice and first-order design 131",
+        "title": "5.3.1 Radiating element choice and first-order design ",
         "level": 3
       },
       {
-        "title": "5.4 Analysis and design of arrays with integral feed networks 138",
+        "title": "5.4 Analysis and design of arrays with integral feed networks ",
         "level": 2
       },
       {
-        "title": "5.4.2 Theoretical performance limitations of travelling-wave arrays 141",
+        "title": "5.4.2 Theoretical performance limitations of travelling-wave arrays ",
         "level": 3
       },
       {
-        "title": "5.4.4 Mutual coupling, unwanted radiation and cross-polarisation effects 152",
+        "title": "5.4.4 Mutual coupling, unwanted radiation and cross-polarisation effects ",
         "level": 3
       },
       {
-        "title": "5.6 References 157",
+        "title": "5.6 References ",
         "level": 2
       },
       {
-        "title": "6.1 Review of feed methods 160",
+        "title": "6.1 Review of feed methods ",
         "level": 2
       },
       {
-        "title": "6.2.1 Corporately fed arrays 162",
+        "title": "6.2.1 Corporately fed arrays ",
         "level": 3
       },
       {
-        "title": "6.3 Mutual coupling 172",
+        "title": "6.3 Mutual coupling ",
         "level": 2
       },
       {
-        "title": "6.4.1 Feed design and component characterisation 175",
+        "title": "6.4.1 Feed design and component characterisation ",
         "level": 3
       },
       {
-        "title": "6.5 Array gain limitations due to losses 186",
+        "title": "6.5 Array gain limitations due to losses ",
         "level": 2
       },
       {
-        "title": "6.7 References 191",
+        "title": "6.7 References ",
         "level": 2
       },
       {
-        "title": "7.1 Orthogonal resonators with separate feeds 195",
+        "title": "7.1 Orthogonal resonators with separate feeds ",
         "level": 2
       },
       {
-        "title": "7.1.2 Effect of radiator mismatch 196",
+        "title": "7.1.2 Effect of radiator mismatch ",
         "level": 3
       },
       {
-        "title": "7.2 Resonators with single feed points 201",
+        "title": "7.2 Resonators with single feed points ",
         "level": 2
       },
       {
-        "title": "7.2.2 Frequency response 204",
+        "title": "7.2.2 Frequency response ",
         "level": 3
       },
       {
-        "title": "7.3 Curved line antennas 206",
+        "title": "7.3 Curved line antennas ",
         "level": 2
       },
       {
-        "title": "7.3.2 Characteristics of antennas 211",
+        "title": "7.3.2 Characteristics of antennas ",
         "level": 3
       },
       {
-        "title": "7.4.1 Rampart line antenna 215",
+        "title": "7.4.1 Rampart line antenna ",
         "level": 3
       },
       {
-        "title": "7.5 Summary comments 222",
+        "title": "7.5 Summary comments ",
         "level": 2
       },
       {
-        "title": "8 Some manufacturing and operational problems of microstrip antennas 225",
+        "title": "8 Some manufacturing and operational problems of microstrip antennas ",
         "level": 1
       },
       {
-        "title": "8.1.1 Resonant antenna design 226",
+        "title": "8.1.1 Resonant antenna design ",
         "level": 3
       },
       {
-        "title": "8.2 Substrate surface-wave generation 230",
+        "title": "8.2 Substrate surface-wave generation ",
         "level": 2
       },
       {
-        "title": "8.4 References 232",
+        "title": "8.4 References ",
         "level": 2
       },
       {
-        "title": "9.1 Wire antenna analysis 236",
+        "title": "9.1 Wire antenna analysis ",
         "level": 2
       },
       {
-        "title": "9.3 Circular patch 242",
+        "title": "9.3 Circular patch ",
         "level": 2
       },
       {
-        "title": "9.5 Discussion of analytical methods 251",
+        "title": "9.5 Discussion of analytical methods ",
         "level": 2
       },
       {
-        "title": "9.7 References 254",
+        "title": "9.7 References ",
         "level": 2
       },
       {
-        "title": "10.1 Variations on the basic resonant element 256",
+        "title": "10.1 Variations on the basic resonant element ",
         "level": 2
       },
       {
-        "title": "10.1.2 Coplanar stripline 258",
+        "title": "10.1.2 Coplanar stripline ",
         "level": 3
       },
       {
-        "title": "10.2.1 Directly coupled forms 260",
+        "title": "10.2.1 Directly coupled forms ",
         "level": 3
       },
       {
-        "title": "10.2.3 Low-profile dipole antennas 265",
+        "title": "10.2.3 Low-profile dipole antennas ",
         "level": 3
       },
       {
-        "title": "10.3.1 Feeds for surface-wave structures 269",
+        "title": "10.3.1 Feeds for surface-wave structures ",
         "level": 3
       },
       {
-        "title": "10.3.3 Slot antenna feeds 273",
+        "title": "10.3.3 Slot antenna feeds ",
         "level": 3
       },
       {
-        "title": "10.5 The future 280",
+        "title": "10.5 The future ",
         "level": 2
       }
     ]

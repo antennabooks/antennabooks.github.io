@@ -2,6 +2,12 @@
 const readline = require('readline');
 const fs = require('fs');
 
+if (!Array.prototype.last){
+  Array.prototype.last = function(){
+      return this[this.length - 1];
+  };
+};
+
 const readInterface = readline.createInterface({
   input: fs.createReadStream('chapters.txt'),
   // input: fs.createReadStream('chapters_1.txt'),
@@ -44,7 +50,7 @@ readInterface.on('close', function () {
       level = 3
     }
     chapters.push({
-      title: lines[i],
+      title: lines[i].replace(lines[i].split(" ").last(),""),
       level: level
       // title: lines[i+1].split(": ")[1],
       // level: lines[i+2].split(": ")[1]
