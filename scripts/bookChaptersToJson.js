@@ -30,12 +30,15 @@ readInterface.on('close', function () {
   //   console.log("Finished")
   // });
   // console.log(lines)
-  for(i=0; i<lines.length; i += 4){
-    console.log(lines[i+1].split(": ")[1])
-    console.log(lines[i+2].split(": ")[1])
+  for(i=0; i<lines.length; i += 2){
+  // for(i=0; i<lines.length; i += 4){
+    // console.log(lines[i+1].split(": ")[1])
+    // console.log(lines[i+2].split(": ")[1])
     chapters.push({
-      title: lines[i+1].split(": ")[1],
-      level: lines[i+2].split(": ")[1]
+      title: lines[i],
+      level: 2
+      // title: lines[i+1].split(": ")[1],
+      // level: lines[i+2].split(": ")[1]
     })
   }
    fs.writeFile("chapters.json", JSON.stringify(chapters), "utf8", function () {

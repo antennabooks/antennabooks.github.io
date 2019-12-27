@@ -1,104 +1,19 @@
-BookmarkBegin
-BookmarkTitle: FRONT MATTER&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 1
-BookmarkBegin
-BookmarkTitle: A. SOURCE FIELD RELATIONS - SINGLE ANTENNA ELEMENTS 
-BookmarkLevel: 1
-BookmarkPageNumber: 20
-BookmarkBegin
-BookmarkTitle: A.1 The Far-field Integrals, Reciprocity, Directivity&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 21
-BookmarkBegin
-BookmarkTitle: A.2. Radiation Patterns of Dipoles&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 76
-BookmarkBegin
-BookmarkTitle: A.3. Radiaiton Patterns of Horns, Slots, and Patch Antennas&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 97
-BookmarkBegin
-BookmarkTitle: B. ARRAY ANALYSIS AND SYNTHESIS&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 129
-BookmarkBegin
-BookmarkTitle: B.3. Line Arrays: Analysis  
-BookmarkLevel: 1
-BookmarkPageNumber: 130
-BookmarkBegin
-BookmarkTitle: B.4. Line Arrays: Synthesis&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 158
-BookmarkBegin
-BookmarkTitle: B.5. Planar Arrays: Analysis and Synthesis&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 213
-BookmarkBegin
-BookmarkTitle: C. SELF IMPEDANCE AND&#13; MUTUAL IMPEDANCE, FEEDING STRUCTURES
-BookmarkLevel: 1
-BookmarkPageNumber: 292
-BookmarkBegin
-BookmarkTitle: C.1. Self-Impedance and Mutual Impedance of Antenna Elements&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 293
-BookmarkBegin
-BookmarkTitle: C.2. The Design of Feeding for Antenna Elements and Arrays&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 367
-BookmarkBegin
-BookmarkTitle: D. CONTINOUS APERTURE ANTENNAS&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 442
-BookmarkBegin
-BookmarkTitle: D.1. Travelling Wave Antennas&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 443
-BookmarkBegin
-BookmarkTitle: D.2. Reflectors and Lenses&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 496
-BookmarkBegin
-BookmarkTitle: E. APPENDICES&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 571
-BookmarkBegin
-BookmarkTitle: E.1. Reduction of the Vector Green's Formula for E&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 572
-BookmarkBegin
-BookmarkTitle: E.2. The Wave Equation for A and Phi&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 575
-BookmarkBegin
-BookmarkTitle: E.3. Derivation of the Chebyshev Polynomials&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 577
-BookmarkBegin
-BookmarkTitle: E.4. A General Expansion of cosmV&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 580
-BookmarkBegin
-BookmarkTitle: E.5. Approximation to the Magnetic Vector Potential Function for Slender Dipoles&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 582
-BookmarkBegin
-BookmarkTitle: E.6. Diffraction by Plane Conducting Screens: Babinet's Principle&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 586
-BookmarkBegin
-BookmarkTitle: E.7. The Farfield in Cylindirical Coordinates&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 594
-BookmarkBegin
-BookmarkTitle: E.8. The Utility of a csc2 theta Pattern&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 598
-BookmarkBegin
-BookmarkTitle: E.9. Index
-BookmarkLevel: 1
-BookmarkPageNumber: 600
-BookmarkBegin
-BookmarkTitle: ABOUT THE AUTHOR&#13;
-BookmarkLevel: 1
-BookmarkPageNumber: 610
+Microstrip Antennas for Commercial Applications
+
+Design of Low Cost Printed Antenna Arrays
+
+Low-Cost Flat-Plate Array with Squinted Beam for DBS Reception
+
+Microstrip Yagi Array Antenna for Mobile Satellite Vehicle Application
+
+Post Loaded Microstrip Antenna for Pocket Size Equipment at UHF
+
+A Conformal Cylindrical Microstrip Array for Producing Omnidirectional Radiation Pattern
+
+Radiation and Scattering from a Microstrip Patch on a Uniaxial Substrate
+
+Analysis and Design of a Microstrip Reflectarray Using Patches of Variable Size
+
+Active Subarray Module Development for Ka Band Satellite Communication Systems
+
+An MMIC Aperture-Coupled Microstrip Antenna in the 40GHz Band
