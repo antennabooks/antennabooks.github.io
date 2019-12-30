@@ -1,370 +1,598 @@
 [
   {
-    "title": "1. Introduction and historical development ",
+    "title": "1. Antenna Array ",
     "level": 1
   },
   {
-    "title": "1.1. Some history of the parabolic reflector antenna  ",
+    "title": "1.1. History of Antenna Arrays ",
     "level": 2
   },
   {
-    "title": "1.2. Measuring antenna parameters with cosmic radio ",
+    "title": "1.2. Electromagnetics for Array Analysis ",
     "level": 2
   },
   {
-    "title": "2.1. Geometrical relations of the dual reflector system ",
+    "title": "1.3. Solving for Electromagnetic Fields ",
     "level": 2
   },
   {
-    "title": "2.2. Geometry of aberrations ",
-    "level": 2
-  },
-  {
-    "title": "2.2.1. Lateral defocus ",
+    "title": "1.3.1. The Wave Equation ",
     "level": 3
   },
   {
-    "title": "2.2.2. Axial defocus ",
+    "title": "1.3.2. Point Sources ",
     "level": 3
   },
   {
-    "title": "23. The Mathematicall Routines .",
+    "title": "1.3.3. Hertzian Dipole ",
+    "level": 3
+  },
+  {
+    "title": "1.3.4. Small Loop ",
+    "level": 3
+  },
+  {
+    "title": "1.3.5. Plane Waves ",
+    "level": 3
+  },
+  {
+    "title": "1.4. Antenna Models ",
     "level": 2
   },
   {
-    "title": "3. Electromagnetic theory of the reflector antenna ",
+    "title": "1.4.1. An Antenna as a Circuit Element ",
+    "level": 3
+  },
+  {
+    "title": "1.4.2. An Antenna as a Spatial Filter ",
+    "level": 3
+  },
+  {
+    "title": "1.4.3. An Antenna as a Frequency Filter ",
+    "level": 3
+  },
+  {
+    "title": "1.4.4. An Antenna as a Collector ",
+    "level": 3
+  },
+  {
+    "title": "1.4.5. An Antenna as a Polarization Filter ",
+    "level": 3
+  },
+  {
+    "title": "1.5. Antenna Array Applications ",
+    "level": 2
+  },
+  {
+    "title": "1.5.1. Communications System ",
+    "level": 3
+  },
+  {
+    "title": "1.5.2. Radar System ",
+    "level": 3
+  },
+  {
+    "title": "1.5.3. Radiometer ",
+    "level": 3
+  },
+  {
+    "title": "1.5.4. Electromagnetic Heating ",
+    "level": 3
+  },
+  {
+    "title": "1.5.5. Direction Finding ",
+    "level": 3
+  },
+  {
+    "title": "1.6. Organization and Overview ",
+    "level": 2
+  },
+  {
+    "title": "2. Array Factor ",
     "level": 1
   },
   {
-    "title": "31. Basic theory - Maxwell's equations .",
+    "title": "2.1. The Array Factor ",
     "level": 2
   },
   {
-    "title": "3.2. The primary source and surface current ",
+    "title": "2.1.1. Phase Steering ",
+    "level": 3
+  },
+  {
+    "title": "2.1.2. End-Fire Array ",
+    "level": 3
+  },
+  {
+    "title": "2.1.3. Main Beam Steering with Frequency ",
+    "level": 3
+  },
+  {
+    "title": "2.1.4. Focusing ",
+    "level": 3
+  },
+  {
+    "title": "2.2. Uniform Arrays ",
     "level": 2
   },
   {
-    "title": "3.3. Surface current integration ",
+    "title": "2.2.1. Uniform Sum Patterns 55 ",
+    "level": 3
+  },
+  {
+    "title": "2.2.2. Uniform Difference Patterns ",
+    "level": 3
+  },
+  {
+    "title": "2.3. Fourier Analysis of Linear Arrays ",
     "level": 2
   },
   {
-    "title": "3.4. Aperture integration, Kirchhoff-Helmholtz diffraction ",
+    "title": "2.4. Fourier Analysis of Planar Arrays ",
     "level": 2
   },
   {
-    "title": "3.5. The far-field approximation (Fraunhofer region) ",
+    "title": "2.5. Array Bandwidth ",
     "level": 2
   },
   {
-    "title": "36. The near-field approximation (Fresnel region) .",
+    "title": "2.6. Directivity ",
     "level": 2
   },
   {
-    "title": "37 The Fourier Transformation relationship .",
+    "title": "2.7. Amplitude Tapers ",
+    "level": 2
+  },
+  {
+    "title": "2.8. z Transform of the Array Factor ",
+    "level": 2
+  },
+  {
+    "title": "2.9. Circular Arrays ",
+    "level": 2
+  },
+  {
+    "title": "2.10. Direction Finding Arrays ",
+    "level": 2
+  },
+  {
+    "title": "2.10.1. Adcock Array ",
+    "level": 3
+  },
+  {
+    "title": "2.10.2. Orthogonal Linear Arrays ",
+    "level": 3
+  },
+  {
+    "title": "2.11. Subarrays ",
+    "level": 2
+  },
+  {
+    "title": "2.12. Errors ",
+    "level": 2
+  },
+  {
+    "title": "2.12.1. Random Errors ",
+    "level": 3
+  },
+  {
+    "title": "2.12.2. Quantization Errors ",
+    "level": 3
+  },
+  {
+    "title": "2.13. Fractal Arrays ",
+    "level": 2
+  },
+  {
+    "title": "3. Linear and Planar Array Factor Synthesis ",
     "level": 1
   },
   {
-    "title": "3.8. Relation between far-field and focal region field ",
+    "title": "3.1. Synthesis of Amplitude and Phase Tapers ",
     "level": 2
   },
   {
-    "title": "39. The Mathematical Routines .",
+    "title": "3.1.1. Fourier Synthesis ",
+    "level": 3
+  },
+  {
+    "title": "3.1.2. Woodward-Lawson Synthesis ",
+    "level": 3
+  },
+  {
+    "title": "3.1.3. Least Squares Synthesis ",
+    "level": 3
+  },
+  {
+    "title": "3.2. Analytical Synthesis of Amplitude Tapers ",
     "level": 2
   },
   {
-    "title": "4 Antenna characteristics in practical applications .",
+    "title": "3.2.1. Binomial Taper ",
+    "level": 3
+  },
+  {
+    "title": "3.2.2. Dolph-Chebyshev Taper ",
+    "level": 3
+  },
+  {
+    "title": "3.2.3. Taylor Taper ",
+    "level": 3
+  },
+  {
+    "title": "3.2.4. Bickmore-Spellmire Taper ",
+    "level": 3
+  },
+  {
+    "title": "3.2.5. Bayliss Taper ",
+    "level": 3
+  },
+  {
+    "title": "3.2.6. Unit Circle Synthesis of Arbitrary Linear Array Factors ",
+    "level": 3
+  },
+  {
+    "title": "3.2.7. Partially Tapered Arrays ",
+    "level": 3
+  },
+  {
+    "title": "3.3. Numerical Synthesis of Low-Sidelobe Tapers ",
+    "level": 2
+  },
+  {
+    "title": "3.4. Aperiodic Arrays ",
+    "level": 2
+  },
+  {
+    "title": "3.4.1. Thinned Arrays ",
+    "level": 3
+  },
+  {
+    "title": "3.4.2. Nonuniformly Spaced Arrays ",
+    "level": 3
+  },
+  {
+    "title": "3.5. Low-Sidelobe Phase Taper ",
+    "level": 2
+  },
+  {
+    "title": "3.6. Suppressing Grating Lobes Due to Subarray Weighting ",
+    "level": 2
+  },
+  {
+    "title": "3.6.1. Subarray Tapers ",
+    "level": 3
+  },
+  {
+    "title": "3.6.2. Thinned Subarrays ",
+    "level": 3
+  },
+  {
+    "title": "3.7. Plane Wave Projection 193 ",
+    "level": 2
+  },
+  {
+    "title": "3.8. Interleaved Arrays ",
+    "level": 2
+  },
+  {
+    "title": "3.9. Null Synthesis ",
+    "level": 2
+  },
+  {
+    "title": "4. Array Factors and Element Patterns ",
     "level": 1
   },
   {
-    "title": "41. Introduction .",
+    "title": "4.1. Pattern Multiplication ",
     "level": 2
   },
   {
-    "title": "42. Illumination efficiency, beam width, sidelobe level .",
+    "title": "4.2. Wire Antennas ",
     "level": 2
   },
   {
-    "title": "4.2.1. Illumination efficiency (\"taper\") ",
+    "title": "4.2.1. Dipoles ",
     "level": 3
   },
   {
-    "title": "4.2.2. Beamwidth, sidelobe level and taper ",
+    "title": "4.2.2. Helical Antenna ",
     "level": 3
   },
   {
-    "title": "43. Axial defocus .",
+    "title": "4.3. Aperture Antennas ",
     "level": 2
   },
   {
-    "title": "43.1. Gain function with axial defocus .",
+    "title": "4.3.1. Apertures ",
     "level": 3
   },
   {
-    "title": "4.3.2. Beamwidth and sidelobe variation with axial defocus ",
+    "title": "4.3.2. Open-Ended Waveguide Antennas ",
     "level": 3
   },
   {
-    "title": "4.3.3. Depth of focus in prime focus and Cassegrain configuration ",
+    "title": "4.3.3. Slots in Waveguides ",
     "level": 3
   },
   {
-    "title": "44. Lateral defocus - Coma, Beam-Deviation-Factor .",
+    "title": "4.3.4. Horn Antennas ",
+    "level": 3
+  },
+  {
+    "title": "4.4. Patch Antennas ",
     "level": 2
   },
   {
-    "title": "44.1. Off-axis beam function - Coma .",
-    "level": 3
-  },
-  {
-    "title": "44.2. Gain and sidelobe level for off-axis beam .",
-    "level": 3
-  },
-  {
-    "title": "4.4.3. Beam Deviation Factor (BDF) ",
-    "level": 3
-  },
-  {
-    "title": "4.5. Aperture blocking ",
+    "title": "4.5. Broadband Antennas ",
     "level": 2
   },
   {
-    "title": "4.5.1. The variables and equations ",
+    "title": "4.5.1. Spiral Antennas ",
     "level": 3
   },
   {
-    "title": "45.2. Gain loss and sidelobe level increase due to blockage .",
+    "title": "4.5.2. Dipole-Like Antennas ",
     "level": 3
   },
   {
-    "title": "46. Reflector shape deviations - \"surface tolerance theory\" .",
-    "level": 2
-  },
-  {
-    "title": "46.1. Random surface deviation .",
+    "title": "4.5.3. Tapered Slot Antennas ",
     "level": 3
   },
   {
-    "title": "4.6.2. Numerical results with Mathematical ",
+    "title": "4.5.4. Dielectric Rod Antennas ",
     "level": 3
   },
   {
-    "title": "4.6.3. Large scale deformations - Astigmatism ",
-    "level": 3
-  },
-  {
-    "title": "47. The Mathematical Routines .",
-    "level": 2
-  },
-  {
-    "title": "5. Measurement of antenna parameters ",
+    "title": "5. Nonplanar Arrays ",
     "level": 1
   },
   {
-    "title": "51. Global antenna parameters .",
+    "title": "5.1. Arrays with Multiple Planar Faces ",
     "level": 2
   },
   {
-    "title": "52. Response of an antenna to a source distributed in space .",
+    "title": "5.2. Arrays on Singly Curved Surfaces ",
     "level": 2
   },
   {
-    "title": "5.3. Efficiencies and Corrections for finite source size ",
+    "title": "5.2.1. Circular Adcock Array ",
+    "level": 3
+  },
+  {
+    "title": "5.3. Arrays Conformal to Doubly Curved Surfaces ",
     "level": 2
   },
   {
-    "title": "5.3.1. Aperture and Beam Efficiency ",
-    "level": 3
-  },
-  {
-    "title": "53.2. Convolution of the beam with a source of finite size .",
-    "level": 3
-  },
-  {
-    "title": "53.3. Beam efficiency and intensity calibration .",
-    "level": 3
-  },
-  {
-    "title": "5.4. Sidelobe level and error pattern ",
+    "title": "5.4. Distributed Array Beamforming ",
     "level": 2
   },
   {
-    "title": "54.1. Diffraction beam sidelobes .",
-    "level": 3
-  },
-  {
-    "title": "54.2. Error pattern due to random surface errors .",
-    "level": 3
-  },
-  {
-    "title": "5.5. Pointing and focus corrections and optimisation ",
+    "title": "5.5. Time-Varying Arrays ",
     "level": 2
   },
   {
-    "title": "55.1. Pointing aspects of defocus .",
+    "title": "5.5.1. Synthetic Apertures ",
     "level": 3
   },
   {
-    "title": "55.2. General pointing model of the antenna .",
+    "title": "5.5.2. Time-Modulated Arrays ",
     "level": 3
   },
   {
-    "title": "55.3. Measurement of the optimum focus .",
+    "title": "5.5.3. Time-Varying Array Element Positions ",
     "level": 3
   },
   {
-    "title": "56. On pointing and surface error calculation from FEA .",
-    "level": 2
-  },
-  {
-    "title": "5.7. Antenna gain and radio source flux calibration ",
-    "level": 2
-  },
-  {
-    "title": "5.7.1. Determining the absolute gain of the antenna ",
-    "level": 3
-  },
-  {
-    "title": "57.2. Extraterrestrial sources as test transmitters .",
-    "level": 3
-  },
-  {
-    "title": "5.8. The Mathematical routines ",
-    "level": 2
-  },
-  {
-    "title": "6. Miscellaneous subjects  ",
+    "title": "6. Mutual Coupling ",
     "level": 1
   },
   {
-    "title": "6.1. Holographic measurement of reflector surface contour ",
+    "title": "6.1. Mutual Impedance ",
     "level": 2
   },
   {
-    "title": "61.1. Introduction .",
-    "level": 3
-  },
-  {
-    "title": "61.2. The Mathematical basis of Radio Holography .",
-    "level": 3
-  },
-  {
-    "title": "61.3. Details of the mathematics of nearfield holography .",
-    "level": 3
-  },
-  {
-    "title": "6.1.4. Aspects of the practical realisation - examples of results ",
-    "level": 3
-  },
-  {
-    "title": "61.5. Alternative methods of reflector shape measurement .",
-    "level": 3
-  },
-  {
-    "title": "6.2. Far sidelobes, Gain calibration ",
+    "title": "6.2. Coupling Between Two Dipoles ",
     "level": 2
   },
   {
-    "title": "6.2.1. Far sidelobes and stray radiation correction ",
-    "level": 3
-  },
-  {
-    "title": "62.2. Absolute gain calibration with an interferometer .",
-    "level": 3
-  },
-  {
-    "title": "6.3.1. Chromatism - \"baseline ripple\" ",
-    "level": 3
-  },
-  {
-    "title": "6.3.2. Unblocked aperture - Offset antenna ",
-    "level": 3
-  },
-  {
-    "title": "64. Atmospheric fluctuations and dual-beam observing .",
+    "title": "6.3. Method of Moments ",
     "level": 2
   },
   {
-    "title": "64.1. Introduction .",
-    "level": 3
-  },
-  {
-    "title": "64.2. Atmospheric emission and attenuation .",
-    "level": 3
-  },
-  {
-    "title": "64.3. Atmospheric refraction .",
-    "level": 3
-  },
-  {
-    "title": "64.4. Signal fluctuations due to atmospheric turbulence .",
-    "level": 3
-  },
-  {
-    "title": "64.5. Observing methods to cancel atmospheric fluctuations. .",
-    "level": 3
-  },
-  {
-    "title": "6.4.6. Beam overlap in the Fresnel region of the antenna ",
-    "level": 3
-  },
-  {
-    "title": "65. The Mathematical routines .",
+    "title": "6.4. Mutual Coupling in Finite Arrays ",
     "level": 2
   },
   {
-    "title": "7. Design features of some radio telescopes ",
+    "title": "6.5. Infinite Arrays ",
+    "level": 2
+  },
+  {
+    "title": "6.5.1. Infinite Arrays of Point Sources ",
+    "level": 3
+  },
+  {
+    "title": "6.5.2. Infinite Arrays of Dipoles and Slots 371 ",
+    "level": 3
+  },
+  {
+    "title": "6.6. Large Arrays ",
+    "level": 2
+  },
+  {
+    "title": "6.6.1. Fast Multipole Method ",
+    "level": 3
+  },
+  {
+    "title": "6.6.2. Average Element Patterns ",
+    "level": 3
+  },
+  {
+    "title": "6.6.3. Representative Element Patterns ",
+    "level": 3
+  },
+  {
+    "title": "6.6.4. Center Element Patterns ",
+    "level": 3
+  },
+  {
+    "title": "6.7. Array Blindness and Scanning ",
+    "level": 2
+  },
+  {
+    "title": "6.8. Mutual Coupling Reduction/Compensation ",
+    "level": 2
+  },
+  {
+    "title": "7. Array Beamforming Networks ",
     "level": 1
   },
   {
-    "title": "71. Introduction .",
+    "title": "7.1. Transmission Lines ",
     "level": 2
   },
   {
-    "title": "72. The homologous design method .",
+    "title": "7.2. S Parameters ",
     "level": 2
   },
   {
-    "title": "7.3. The Westerbork Synthesis Radio Telescope (WSRT) ",
+    "title": "7.3. Matching Circuits ",
     "level": 2
   },
   {
-    "title": "74. The Effelsberg 100-m radio telescope .",
+    "title": "7.4. Corporate and Series Feeds ",
     "level": 2
   },
   {
-    "title": "75. The IRAM 30-m Millimeter Radio Telescope (MRT) .",
+    "title": "7.5. Slotted Waveguide Arrays ",
     "level": 2
   },
   {
-    "title": "76. The Heinrich Hertz Submillimeter Telescope (HHT) .",
-    "level": 2
-  },
-  {
-    "title": "77. The Large Millimeter Telescope (LMT) .",
-    "level": 2
-  },
-  {
-    "title": "78. The ALMA Prototype Antennas .",
-    "level": 2
-  },
-  {
-    "title": "7.8.1. The VertexRSI design ",
+    "title": "7.5.1. Resonant Waveguide Arrays ",
     "level": 3
   },
   {
-    "title": "7.8.2. The Alcatel-EIE-Consortium (AEC) design ",
+    "title": "7.5.2. Traveling-Wave Waveguide Arrays ",
     "level": 3
   },
   {
-    "title": "7.8.3. Performance evaluation of the ALMA prototype antennas .",
-    "level": 3
-  },
-  {
-    "title": "7.9. Conclusion .",
+    "title": "7.6. Blass Matrix ",
     "level": 2
   },
   {
-    "title": "",
+    "title": "7.7. Butler Matrix ",
+    "level": 2
+  },
+  {
+    "title": "7.8. Lenses ",
+    "level": 2
+  },
+  {
+    "title": "7.8.1. Bootlace Lens ",
+    "level": 3
+  },
+  {
+    "title": "7.8.2. Rotman Lens ",
+    "level": 3
+  },
+  {
+    "title": "7.9. Reflectarray ",
+    "level": 2
+  },
+  {
+    "title": "7.10. Array Feeds for Reflectors ",
+    "level": 2
+  },
+  {
+    "title": "7.11. Array Feeds for Horn Antennas ",
+    "level": 2
+  },
+  {
+    "title": "7.12. Phase Shifters ",
+    "level": 2
+  },
+  {
+    "title": "7.13. Transmit/Receive Modules ",
+    "level": 2
+  },
+  {
+    "title": "7.14. Digital Beamforming ",
+    "level": 2
+  },
+  {
+    "title": "7.15. Neural Beamforming ",
+    "level": 2
+  },
+  {
+    "title": "7.16. Calibration ",
+    "level": 2
+  },
+  {
+    "title": "8. Smart Arrays ",
     "level": 1
+  },
+  {
+    "title": "8.1. Retrodirective Arrays ",
+    "level": 2
+  },
+  {
+    "title": "8.2. Array Signals and Noise ",
+    "level": 2
+  },
+  {
+    "title": "8.3. Direction of Arrival Estimation ",
+    "level": 2
+  },
+  {
+    "title": "8.3.1. Periodogram ",
+    "level": 3
+  },
+  {
+    "title": "8.3.2. Capon's Minimum Variance ",
+    "level": 3
+  },
+  {
+    "title": "8.3.3. MUSIC Algorithm ",
+    "level": 3
+  },
+  {
+    "title": "8.3.4. Maximum Entropy Method ",
+    "level": 3
+  },
+  {
+    "title": "8.3.5. Pisarenko Harmonic Decomposition ",
+    "level": 3
+  },
+  {
+    "title": "8.3.6. ESPRIT ",
+    "level": 3
+  },
+  {
+    "title": "8.3.7. Estimating and Finding Sources 483 ",
+    "level": 3
+  },
+  {
+    "title": "8.4. Adaptive Nulling ",
+    "level": 2
+  },
+  {
+    "title": "8.4.1. Sidelobe Blanking and Canceling ",
+    "level": 3
+  },
+  {
+    "title": "8.4.2. Adaptive Nulling Using the Signal Correlation Matrix ",
+    "level": 3
+  },
+  {
+    "title": "8.4.3. Adaptive Nulling via Power Minimization ",
+    "level": 3
+  },
+  {
+    "title": "8.5. Multiple-Input Multiple-Output (MIMO) System ",
+    "level": 2
+  },
+  {
+    "title": "8.6. Reconfigurable Arrays ",
+    "level": 2
   }
 ]
