@@ -1,253 +1,92 @@
-CHAP. 1. SURVEY OF MICROWAVE ANTENNA DESIGN PROBLEMS . 1
-1-1. The Wavelength Region 1
-1-2. Antenna Patterns 2
-1-3. Types of Microwave Beams 6
-1-4. Microwave Transmission Lines 7
-1-5. Radiating Elements 8
-1*6. A Survey of Microwave Antenna Types 9
-1-7. Impedance Specifications 13
-1-8. Program of the Present Volume 14
-CHAP. 2. CIRCUIT RELATIONS, RECIPROCITY THEOREMS 16
-2-1. Introduction 16
-2-2. The Four-terminal Network 17
-2-3. The Rayleigh Reciprocity Theorem 19
-2-4. Thevenin's Theorem and the Maximum-power Theorem 20
-2-5. The Two-wire Transmission Line 21
-2-6. The Homogeneous Transmission Line 23
-2-7. The Lossless Line 26
-2-8. Transformation Charts 29
-2-9. The Four-terminal Network Equivalent of a Section of Transmission Line 36
-TRANSMITTING AND RECEIVING ANTENNAS 37
-2-10. The Antenna as a Terminating Impedance 37
-2-11. The Receiving Antenna System 40
-2-12. The Transmitter and Receiver as a Coupled System 45
-243. Reciprocity between the Transmitting and Receiving Patterns of an Antenna 48
-2-14. The Average Cross Section for a Matched System 50
-245. Dependence of the Cross Section on Antenna Mismatch ... . 51
-246. The Four-terminal Network Representation 53
-247. Development of the Network Equations 56
-248. The Reciprocity Relation between the Transfer Impedance Coefficients 59
-CHAP. 3. RADIATION FROM CURRENT DISTRIBUTIONS 61
-3-1. The Field Equations , 61
-3-2. The Constitutive Parameters; Linearity and Superposition .. . 65
-3-3. Boundary Conditions 66
-3-4. The Field Equations for Harmonic Time Dependence .... . 68
-3-5. Poynting's Theorem 69
-3-6. The Wave Equations 71
-3-7. Simple Wave Solutions 73
-3-8. General Solution of the Field Equations in Terms of the Sources,for a Time-periodic Field 80
-3-9. Field Due to Sources in an Unbounded Region 84
-3-10. Field in a Region Bounded by Surfaces of Infinitely Conductive Media 86
-3-11. The Far-zone Fields 87
-3-12. Polarization 91
-3-13. The Electric Dipole 92
-3-14. The Magnetic Dipole . 95
-3-15. The Far-zone Fields of Line-current Distributions 96
-3-16. The "Half-wave Dipole". . 98
-3-17. Superposition of Fields 99
-3-18. The Double-dipole System 101
-3-19. Regular Space Arrays 104
-CHAP. 4. WAVE FRONTS AND RAYS 107
-4-1. The Huygens-Green Formula for the Electromagnetic Field. . .107
-4-2. Geometrical Optics: Wavefronts and Rays 110
-4-3. Curvature of the Rays in an Inhomogeneous Medium Il l
-4-4. Energy Flow in Geometrical Optics 112
-4-5. Geometrical Optics as a Zero-wavelength Limit ....... . 114
-4-6. The Huygens-Fresnel Principle and Geometrical Optics: The Farzone Approximation 116
-4-7. The Principle of Stationary Phase 119
-4-8. Fermat's Principle 122
-4-9. The Law of the Optical Path 125
-CHAP. 5. SCATTERING AND DIFFRACTION. 129
-5-1. General Considerations 129
-5-2. Boundary Conditions 130
-5-3. Reflection by an Infinite Plane Surface; the Principle of Images . 132
-APPROXIMATE METHODS FOR REFLECTORS OF ARBITRARY SHAPE 137
-5-4. The Geometrical-optics Method , 138
-5-5. Calculation of the Scattered Field 139
-5-6. Superposition of the Source Field and the Scattered Field. . . . 143
-5-7. The Current-distribution Method 144
-5-8. Calculation of the Scattered Field 146
-5-9. Application to Point-source and Line-source Feeds 149
-5-10. Reaction of a Reflector on a Point-source Feed 155
-5-11. The Aperture-field Method 158
-5-12. The Fraunhofer Region. .16 0
-DIFFRACTION 162
-5-13. General Considerations on the Approximate Methods 162
-5-14. Reduction to a Scalar Diffraction Problem 164
-5-15. Babinet's Principle for the Electromagnetic Field 167
-CHAP. 6. APERTURE ILLUMINATION AND ANTENNA PATTERNS . 169
-6-1. Primary and Secondary Patterns 169
-6-2. The Diffraction Field 169
-6-3. Fourier Integral Representation of the Fraunhofer Region . . .174
-6-4. General Features of the Secondary Pattern 175
-6-5. The Rectangular Aperture 180
-6-6. Two-dimensional Problems 182
-6-7. Phase-error Effects 186
-6-8. The Circular Aperture 192
-6-9. The Field on the Axis in the Fresnel Region 196
-CHAP. 7. MICROWAVE TRANSMISSION LINES 200
-7-1. Microwave and Long-wave Transmission Lines 200
-7-2. Propagation in Waveguides of Uniform Cross Section 201
-7-3. Orthogonality Relations and Power Flow 207
-7-4. Transmission Line Considerations in Waveguides 209
-7-5. Network Equivalents of Junctions and Obstacles 214
-7-6. TEM-mode Transmission Lines 216
-7-7. Coaxial Lines: TEM-mode 217
-7-8. Coaxial Lines: TM- and T#-modes 219
-7-9. Cascade Transformers: T EM-mode 221
-7-10. Parallel Stubs and Series Reactances 223
-7-11. Rectangular Waveguides: TE- and TM-modes 226
-7-12. Impedance Transformers for Rectangular Guides 229
-7-13. Circular Waveguide: TE- and TM-modes 233
-7-14. Windows for Use in Circular Guides 235
-7-15. Parallel-plate Waveguide 235
-7-16. Design Notes 238
-CHAP. 8. MICROWAVE DIPOLE ANTENNAS AND FEEDS ..... . 239
-8-1. Characteristics of Antenna Feeds 239
-8-2. Coaxial Line Terminations: The Skirt Dipole 240
-8-3. Asymmetric Dipole Termination 242
-8-4. Symmetrically Energized Dipoles: Slot-fed Systems 245
-8-5. Shape and Size of the Dipole 248
-8-6. Waveguide-line-fed Dipoles. . 250
-8-7. Directive Dipole Feeds 250
-8-8. Dipole-disk Feeds 251
-8-9. Double-dipole Feeds 253
-8-10. Multi-dipole Systems 256
-CHAP. 9. LINEAR ARRAY ANTENNAS AND FEEDS 257
-9-1. General Considerations 257
-PATTEEN THEORY 258
-9-2. General Array Formula. *. 258
-9-3. The Associated Polynomial 261
-9-4. Uniform Arrays 264
-9-5. Broadside Beams 267
-9-6. End-fire Beams 274
-9-7. Beam Synthesis 279
-RADIATING ELEMENTS 284
-9-8. Dipole Radiators 284
-9-9. Slots in Waveguide Walls 286
-9-10. Theory of Slot Radiators 287
-9-11. Slots in Rectangular Waveguide; TE^-mode 291
-9-12. Experimental Data on Slot Radiators 295
-943. Probe-fed Slots 299
-9-14. Waveguide Radiators . 301
-9-15. Axially Symmetrical Radiators 303
-9-16. Streamlined Radiators 310
-ARRAYS 312
-9-17. Loaded-line Analysis 313
-9-18. End-fire Array 316
-BROADSIDE ARRAYS. 318
-9-19. Suppression of Extraneous Major Lobes 318
-9-20. Resonant Arrays 321
-9-21. Beacon Antenna Systems 327
-9-22. Nonresonant Arrays . 328
-9-23. Broadband Systems with Normal Beams 331
-CHAP. 10. WAVEGUIDE AND HORN FEEDS 334
-10-1. Radiation from Waveguide of Arbitrary Cross Section .... . 334
-10-2. Radiation from Circular Waveguide 336
-10-3. Radiation from Rectangular Guide 341
-10-4. Waveguide Antenna Feeds 347
-10-5. The Double-slot Feed 348
-10-6. Electromagnetic Horns 349
-10-7. Modes in E-plane Sectoral Horns 350
-10-8. Modes in H-plane Sectoral Horns . . 355
-10-9. Vector Diffraction Theory Applied to Sectoral Horns 357
-10* 10. Characteristics of Observed Radiation Patterns from Horns of
-Rectangular Cross Section 358
-10-11. Admittance of Waveguide and Horns 366
-10-12. Transformation of the l£-plane Horn Admittance from the Throat
-to the Uniform Guide 369
-10-13. Admittance Characteristics of H-plane Sectoral Horns 374
-10-14. Compound Horns 376
-10-15. The Box Horn 377
-10-16. Beam Shaping by Means of Obstacles in Horn and Waveguide
-Apertures 380
-10-17. Pressurizing and Matching 383
-CHAP. 11. DIELECTRIC AND METAL-PLATE LENSES 388
-11-1. Uses of Lenses in Microwave Antennas 388
-DIELECTRIC LENSES 389
-11-2. Principles of Design 389
-11-3. Simple Lenses without Zoning 390
-114. Zoned Dielectric Lenses 395
-11-5. Use of Materials with High Refractive Indexes . 398
-11-6. Dielectric Losses and Tolerances on Lens Parameters 399
-11-7. Reflections from Dielectric Surfaces 401
-METAL-PLATE LENSES 402
-11-8. Parallel-plate Lenses 402
-11-9. Other Metal-lens Structures 406
-11'10. Metal-plate Lens Tolerances 407
-11-11. Bandwidth of Metal-plate Lenses; Achromatic Doublets ... . 408
-11-12. Reflections from Surfaces of Parallel-plate Lenses 410
-CHAP. 12. PENCIL-BEAM AND SIMPLE FANNED-BEAM ANTENNAS 413
-PENCIL-BEAM ANTENNAS 413
-12-1. Pencil-beam Requirements and Techniques 413
-12-2. Geometrical Parameters 415
-12-3. The Surface-current and Aperture-field Distributions 417
-12-4. The Radiation Field of the Reflector 420
-12-5. The Antenna Gain 423
-12-6. Primary Pattern Designs for Maximizing Gain 433
-12-7. Experimental Results on Secondary Patterns 433
-12-8. Impedance Characteristics 439
-12-9. The Vertex-plate Matching Technique 443
-12-10. Rotation of Polarization Technique 447
-12-11. Structural Design Problems 448
-SIMPLE FANNED-BEAM ANTENNAS 450
-12-12. Applications of Fanned Beams and Methods of Production . . . 450
-12-13. Symmetrically Cut Paraboloids 451
-12-14. Feed Offset and Contour Cutting of Reflectors ....... . 453
-12-15. The Parabolic Cylinder and Line Source 457
-12-16. Parallel-plate Systems 459
-12-17. Pillbox Design Problems 460
-CHAP. 13. SHAPED-BEAM ANTENNAS 465
-13-1. Shaped-beam Applications and Requirements 465
-13-2. Effect of a Directional Target Response 468
-13-3. Survey of Beam-shaping Techniques 471
-13-4. Design of Extended Feeds 487
-13-5, Cylindrical Reflector Antennas 494
-13-6. Reflector Design on the Basis of Ray Theory 497
-13-7. Radiation Pattern Analysis 500
-13-8. Double Curvature Reflector Antennas 502
-13-9. Variable Beam Shape 508
-CHAP. 14. ANTENNA INSTALLATION PROBLEMS 510
-GENERAL SURVEY OF INSTALLATION PROBLEMS 510
-14-1. Ground Antennas 510
-14-2. Ship Antennas 511
-14-3. Aircraft Antennas 512
-14-4. Scanning Antennas on Aircraft 513
-14-5. Beacon Antennas on Aircraft 521
-RADOME DESIGN PROBLEMS AND PROCEDURES 522
-14-6. Relation of the Radome to System Performance 523
-14-7. Radome Wall Design 528
-14-8. Normal Incidence Radomes 537
-14-9. Streamlined Radomes 540
-CHAP. 15. ANTENNA MEASUREMENTS—TECHNIQUES 543
-15-1. Introduction 543
-IMPEDANCE MEASUREMENTS 544
-15-2. Transmission-line Relations 544
-15-3. Standing-wave Ratios 545
-15-4. Measurement of Voltage Standing-wave Ratio 547
-15-5. Determination of Electrical Length 550
-15-6. Calibration of Detection System 552
-15-7. Probe Reflections 556
-PRIMARY FEED PATTERN MEASUREMENTS 557
-15-8. Primary Pattern Apparatus for Point-source Feeds 557
-15-9. Intensity Measurements 561
-15-10. Phase Determinations 564
-15-11. Line-source Primary Pattern 570
-15-12. Magic T 572
-15-13. Beacon Azimuth Patterns 573
-SECONDARY PATTERN MEASUREMENTS 574
-15-14. Siting Considerations 574
-15-15. Pattern Measurements 578
-15-16. Gain Measurements 580
-15-17. Directive Gain '580
-15-18. Gain Comparison 581
-15-19. Primary Gain Standard Determination 582
-15-20. Reflection Method for Gain Determination 585
-15-21. Secondary Gain Standards 586
-15-22. Interaction between Antennas 587
-CHAP. 16. ANTENNA MEASUREMENTS—EQUIPMENT 593
-16-1. Survey of Equipment Requirements 593
-16-2. Sources of R-F Power 594
-16-3. Detectors 601
-16-4. Amplifiers 604
-16-5. Recorders 609
+1. Introduction and historical development 
+1.1. Some history of the parabolic reflector antenna  
+1.2. Measuring antenna parameters with cosmic radio sources
+2.1. Geometrical relations of the dual reflector system 
+2.2. Geometry of aberrations 
+2.2.1. Lateral defocus 
+2.2.2. Axial defocus 
+2.3. The Mathematicall Routines .
+3. Electromagnetic theory of the reflector antenna 
+3.1. Basic theory - Maxwell's equations .
+3.2. The primary source and surface current density
+3.3. Surface current integration 
+3.4. Aperture integration, Kirchhoff-Helmholtz diffraction 
+3.5. The far-field approximation (Fraunhofer region) 
+3.6. The near-field approximation (Fresnel region) .
+3.7 The Fourier Transformation relationship .
+3.8. Relation between far-field and focal region field 
+3.9. The Mathematical Routines .
+4. Antenna characteristics in practical applications .
+4.1. Introduction .
+4.2. Illumination efficiency, beam width, sidelobe level .
+4.2.1. Illumination efficiency ("taper") 
+4.2.2. Beamwidth, sidelobe level and taper 
+4.3. Axial defocus .
+4.3.1. Gain function with axial defocus .
+4.3.2. Beamwidth and sidelobe variation with axial defocus 
+4.3.3. Depth of focus in prime focus and Cassegrain configuration 
+4.4. Lateral defocus - Coma, Beam-Deviation-Factor .
+4.4.1. Off-axis beam function - Coma .
+4.4.2. Gain and sidelobe level for off-axis beam .
+4.4.3. Beam Deviation Factor (BDF) 
+4.5. Aperture blocking 
+4.5.1. The variables and equations 
+4.5.2. Gain loss and sidelobe level increase due to blockage .
+4.6. Reflector shape deviations - "surface tolerance theory" .
+4.6.1. Random surface deviation .
+4.6.2. Numerical results with Mathematical 
+4.6.3. Large scale deformations - Astigmatism 
+4.7. The Mathematical Routines .
+5. Measurement of antenna parameters 
+5.1. Global antenna parameters .
+5.2. Response of an antenna to a source distributed in space .
+5.3. Efficiencies and Corrections for finite source size 
+5.3.1. Aperture and Beam Efficiency 
+5.3.2. Convolution of the beam with a source of finite size .
+5.3.3. Beam efficiency and intensity calibration .
+5.4. Sidelobe level and error pattern 
+5.4.1. Diffraction beam sidelobes .
+5.4.2. Error pattern due to random surface errors .
+5.5. Pointing and focus corrections and optimisation 
+5.5.1. Pointing aspects of defocus .
+5.5.2. General pointing model of the antenna .
+5.5.3. Measurement of the optimum focus .
+5.6. On pointing and surface error calculation from FEA .
+5.7. Antenna gain and radio source flux calibration 
+5.7.1. Determining the absolute gain of the antenna 
+5.7.2. Extraterrestrial sources as test transmitters .
+5.8. The Mathematical routines 
+6. Miscellaneous subjects  
+6.1. Holographic measurement of reflector surface contour 
+6.1.1. Introduction .
+6.1.2. The Mathematical basis of Radio Holography .
+6.1.3. Details of the mathematics of nearfield holography .
+6.1.4. Aspects of the practical realisation - examples of results 
+6.1.5. Alternative methods of reflector shape measurement .
+6.2. Far sidelobes, Gain calibration 
+6.2.1. Far sidelobes and stray radiation correction 
+6.2.2. Absolute gain calibration with an interferometer .
+6.3.1. Chromatism - "baseline ripple" 
+6.3.2. Unblocked aperture - Offset antenna 
+6.4. Atmospheric fluctuations and dual-beam observing .
+6.4.1. Introduction .
+6.4.2. Atmospheric emission and attenuation .
+6.4.3. Atmospheric refraction .
+6.4.4. Signal fluctuations due to atmospheric turbulence .
+6.4.5. Observing methods to cancel atmospheric fluctuations. .
+6.4.6. Beam overlap in the Fresnel region of the antenna 
+6.5. The Mathematical routines .
+7. Design features of some radio telescopes 
+7.1. Introduction .
+7.2. The homologous design method .
+7.3. The Westerbork Synthesis Radio Telescope (WSRT) 
+7.4. The Effelsberg 100-m radio telescope .
+7.5. The IRAM 30-m Millimeter Radio Telescope (MRT) .
+7.6. The Heinrich Hertz Submillimeter Telescope (HHT) .
+7.7. The Large Millimeter Telescope (LMT) .
+7.8. The ALMA Prototype Antennas .
+7.8.1. The VertexRSI design 
+7.8.2. The Alcatel-EIE-Consortium (AEC) design 
+7.8.3. Performance evaluation of the ALMA prototype antennas .
+7.9. Conclusion .
+
