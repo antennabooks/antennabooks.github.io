@@ -1,149 +1,214 @@
-1. Antenna Array Basics
-1.1. History of Antenna Arrays 3
-1.2. Electromagnetics for Array Analysis 7
-1.3. Solving for Electromagnetic Fields 13
-1.3.1. The Wave Equation 13
-1.3.2. Point Sources 15
-1.3.3. Hertzian Dipole 17
-1.3.4. Small Loop 19
-1.3.5. Plane Waves 21
-1.4. Antenna Models 22
-1.4.1. An Antenna as a Circuit Element 22
-1.4.2. An Antenna as a Spatial Filter 24
-1.4.3. An Antenna as a Frequency Filter 27
-1.4.4. An Antenna as a Collector 29
-1.4.5. An Antenna as a Polarization Filter 30
-1.5. Antenna Array Applications 34
-1.5.1. Communications System 34
-1.5.2. Radar System 35
-1.5.3. Radiometer 38
-1.5.4. Electromagnetic Heating 40
-1.5.5. Direction Finding 42
-1.6. Organization and Overview 42
-2. Array Factor Analysis
-2.1. The Array Factor 45
-2.1.1. Phase Steering 48
-2.1.2. End-Fire Array 51
-2.1.3. Main Beam Steering with Frequency 52
-2.1.4. Focusing 53
-2.2. Uniform Arrays 55
-2.2.1. Uniform Sum Patterns 55 
-2.2.2. Uniform Difference Patterns 61
-2.3. Fourier Analysis of Linear Arrays 63
-2.4. Fourier Analysis of Planar Arrays 67
-2.5. Array Bandwidth 75
-2.6. Directivity 78
-2.7. Amplitude Tapers 82
-2.8. z Transform of the Array Factor 84
-2.9. Circular Arrays 88
-2.10. Direction Finding Arrays 91
-2.10.1. Adcock Array 92
-2.10.2. Orthogonal Linear Arrays 93
-2.11. Subarrays 94
-2.12. Errors 99
-2.12.1. Random Errors 100
-2.12.2. Quantization Errors 105
-2.13. Fractal Arrays 108
-3. Linear and Planar Array Factor Synthesis 115
-3.1. Synthesis of Amplitude and Phase Tapers 115
-3.1.1. Fourier Synthesis 115
-3.1.2. Woodward-Lawson Synthesis 118
-3.1.3. Least Squares Synthesis 120
-3.2. Analytical Synthesis of Amplitude Tapers 121
-3.2.1. Binomial Taper 121
-3.2.2. Dolph-Chebyshev Taper 123
-3.2.3. Taylor Taper 127
-3.2.4. Bickmore-Spellmire Taper 140
-3.2.5. Bayliss Taper 141
-3.2.6. Unit Circle Synthesis of Arbitrary Linear Array Factors 143
-3.2.7. Partially Tapered Arrays 149
-3.3. Numerical Synthesis of Low-Sidelobe Tapers 151
-3.4. Aperiodic Arrays 156
-3.4.1. Thinned Arrays 156
-3.4.2. Nonuniformly Spaced Arrays 165
-3.5. Low-Sidelobe Phase Taper 177
-3.6. Suppressing Grating Lobes Due to Subarray Weighting 179
-3.6.1. Subarray Tapers 179
-3.6.2. Thinned Subarrays 183
-3.7. Plane Wave Projection 193 
-3.8. Interleaved Arrays 197
-3.9. Null Synthesis 203
-4. Array Factors and Element Patterns 216
-4.1. Pattern Multiplication 216
-4.2. Wire Antennas 223
-4.2.1. Dipoles 223
-4.2.2. Helical Antenna 231
-4.3. Aperture Antennas 234
-4.3.1. Apertures 234
-4.3.2. Open-Ended Waveguide Antennas 239
-4.3.3. Slots in Waveguides 244
-4.3.4. Horn Antennas 249
-4.4. Patch Antennas 257
-4.5. Broadband Antennas 264
-4.5.1. Spiral Antennas 264
-4.5.2. Dipole-Like Antennas 271
-4.5.3. Tapered Slot Antennas 272
-4.5.4. Dielectric Rod Antennas 278
-5. Nonplanar Arrays 287
-5.1. Arrays with Multiple Planar Faces 287
-5.2. Arrays on Singly Curved Surfaces 290
-5.2.1. Circular Adcock Array 300
-5.3. Arrays Conformal to Doubly Curved Surfaces 309
-5.4. Distributed Array Beamforming 319
-5.5. Time-Varying Arrays 323
-5.5.1. Synthetic Apertures 323
-5.5.2. Time-Modulated Arrays 328
-5.5.3. Time-Varying Array Element Positions 331
-6. Mutual Coupling 339
-6.1. Mutual Impedance 341
-6.2. Coupling Between Two Dipoles 342
-6.3. Method of Moments 349
-6.4. Mutual Coupling in Finite Arrays 358
-6.5. Infinite Arrays 368
-6.5.1. Infinite Arrays of Point Sources 369
-6.5.2. Infinite Arrays of Dipoles and Slots 371 
-6.6. Large Arrays 376
-6.6.1. Fast Multipole Method 378
-6.6.2. Average Element Patterns 381
-6.6.3. Representative Element Patterns 382
-6.6.4. Center Element Patterns 383
-6.7. Array Blindness and Scanning 386
-6.8. Mutual Coupling Reduction/Compensation 391
-7. Array Beamforming Networks 401
-7.1. Transmission Lines 401
-7.2. S Parameters 405
-7.3. Matching Circuits 407
-7.4. Corporate and Series Feeds 408
-7.5. Slotted Waveguide Arrays 416
-7.5.1. Resonant Waveguide Arrays 418
-7.5.2. Traveling-Wave Waveguide Arrays 421
-7.6. Blass Matrix 425
-7.7. Butler Matrix 426
-7.8. Lenses 430
-7.8.1. Bootlace Lens 431
-7.8.2. Rotman Lens 432
-7.9. Reflectarray 436
-7.10. Array Feeds for Reflectors 439
-7.11. Array Feeds for Horn Antennas 442
-7.12. Phase Shifters 445
-7.13. Transmit/Receive Modules 449
-7.14. Digital Beamforming 455
-7.15. Neural Beamforming 457
-7.16. Calibration 459
-8. Smart Arrays 464
-8.1. Retrodirective Arrays 464
-8.2. Array Signals and Noise 467
-8.3. Direction of Arrival Estimation 475
-8.3.1. Periodogram 476
-8.3.2. Capon's Minimum Variance 477
-8.3.3. MUSIC Algorithm 477
-8.3.4. Maximum Entropy Method 480
-8.3.5. Pisarenko Harmonic Decomposition 480
-8.3.6. ESPRIT 482
-8.3.7. Estimating and Finding Sources 483 
-8.4. Adaptive Nulling 484
-8.4.1. Sidelobe Blanking and Canceling 484
-8.4.2. Adaptive Nulling Using the Signal Correlation Matrix 486
-8.4.3. Adaptive Nulling via Power Minimization 496
-8.5. Multiple-Input Multiple-Output (MIMO) System 515
-8.6. Reconfigurable Arrays 519
+1 Basic properties of antennas — A.D. Olver 1
+1.1 Introduction 1
+1.2 Electromagnetic fields 7
+1.3 Reciprocity 11
+1.4 Radiated field regions 12
+1.5 Radiation patterns 15
+1.6 Gain, directivity and efficiency 19
+1.7 Polarisation 24
+1.8 Impedance 28
+1.9 Bandwidth 31
+1.10 Antenna noise temperature 3 2
+1.11 Field equivalence principles 34
+1.12 Radiation from apertures 3 5
+1.13 Radiation from arrays 46
+1.14 Radiation from current elements 49
+1.15 Radiation from travelling wave sources 53
+1.16 Frequency independent antennas 55
+1.17 Re-radiation from antennas 5 7
+1.18 References 59
+2 Theory of quasi-optical antennas — W.V.T. Rusch, A.C. Ludwig and W.C. Wong 60
+2.1 Introduction 60
+2.2 Basic scattering theory for reflector analysis 60
+2.2.1 Differential geometry of surfaces 60
+2.2.2 Asymptotic solutions: Wavefronts and rays 65
+2.2.3 Geometrical optics for reflectors 67
+2.2.4 Physical optics 74
+2.2.5 Scalar physical optics 84
+2.2.6 Geometrical theory of edge-diffraction 90
+2.3 Spherical wave theory 101
+2.3.1 Fundamental properties 102
+2.3.2 Calculating spherical-wave coefficients 117
+2.4 References 124
+3 Quasi-optical antenna design and applications — W.V.T. Rusch, T.S. Chu, A.R. Dion, P.A. Jensen and A.W. Rudge 128
+3.1 Prime-focus paraboloidal reflectors 128
+3.1.1 Primary radiation characteristics 128
+3.1.2 Effects of random surface errors 130
+3.1.3 Feed defocusing 134
+3.1.4 Aperture blocking 142
+3.1.5 Umbrella reflectors 15 9
+3.2 Cassegrain systems 162
+3.2.1 Geometrical design considerations 164
+3.2.2 Efficiency analysis 16 9
+3.2.3 Improved design techniques 183
+3.2.4 Equivalent parabola 183
+3.2.5 Twist reflectors 184
+3.2.6 Frequency selective subreflectors 184
+3.3 Offset parabolic reflector antennas 185
+3.3.1 Introduction 185
+3.3.2 Single offset reflector analysis 190
+3.3.3 Electrical performance of the single offset reflector antenna 199
+3.3.4 Design procedure for multiple spot-beam antennas 217
+3.3.5 Dual-reflector offset antennas 232
+3.4 Other reflector types 244
+3.4.1 Shaped beam optical reflectors 244
+3.4.2 Spherical reflectors 2 51
+3.4.3 Non-spherical reflectors 253
+3.4.4 Other types 257
+3.5 Reflectors with contoured beams 260
+3.5.1 Design of contoured beam reflector antennas 260
+3.5.2 Examples of contoured beam reflector technology 264
+3.6 Reflector structures and materials 276
+3.6.1 Ground-based antenna systems 276
+3.6.2 Satellite-borne reflector systems 280
+3.6.3 Deploy able spacecraft reflectors 289
+3.6.4 Future deployable antennas 291
+3.7 Lens antennas 293
+3.7.1 Constrained lenses for multiple-beam antenna applications 294
+3.7.2 Computer modelling of constrained lens 310
+3.8 Low-noise antennas 315
+3.8.1 Introduction 315
+3.8.2 Thermal noise components 316
+3.8.3 Earth-station antennas for space communications 320
+3.8.4 Low sidelobes for interference reduction 322
+3.8.5 Noise-cancellation techniques 325
+3.9 References 326
+4 Primary feed antennas — A.W. Love, A.W. Rudge and A.D. Olver 338
+4.1 General considerations 338
+4.2 Polarisation definitions 342
+4.3 Dipole illumination and aperture fields 343
+4.4 Practical dipole feeds 349
+4.5 Simple prime focus horn and waveguide feeds 351
+4.6 Multimode horn feeds 355
+4.7 Hybrid mode horn feeds 359
+Contents vii
+4.8 Tracking feeds 372
+4.9 Multi-octave bandwidth primary feeds 375
+4.10 Mathematical modelling of primary feed 3 80
+4.11 Primary feeds for offset reflector antennas 3 99
+4.12 References 411
+5 Hybrid antennas — R.J. Mailloux 415
+5.1 Introduction 415
+5.2 Aperture scanning fundamentals of hybrid systems 416
+5.2.1 Introduction 416
+5.2.2 The plane aperture: transforms, orthogonal beams and scanning limitations 417
+5.2.3 Scanning systems with no Fourier transform: Transverse feeds 421
+5.2.4 Apertures followed by one Fourier transform: Multiple beam 422
+5.2.5 Scanning systems with two Fourier transforms: The principle of overlapped subarrays 423
+5.3 Hybrid reflector systems for limited sector scanning 427
+5.3.1 Introduction 427
+5.3.2 Scanning characteristics of an off-axis parabola 428
+5.3.3 Transverse feeds for off-axis reflectors 430
+5.3.4 Fourier transform feed for off-axis parabola 435
+5.3.5 Off-axis characteristics of paraboloid sections 438
+5.3.6 Dual reflector and reflector-lens limited scan systems 442
+5.4 Hybrid lens/array scanning systems 447
+5.4.1 Introduction 447
+5.4.2 Scanning lens/array combinations 448
+5.4.3 Lens feeds and reflectarrays 457
+5.5 Radiation pattern control 458
+5.5.1 Sidelobe control 458
+5.5.2 Active pattern control in hybrid systems 462
+5.6 References 463
+6 Multiple beam antennas — L.J. Ricardi 466
+6.1 Introduction 466
+6.2 Composition and performance characteristics of an MBA 467
+6.2.1 Composition of an MBA system 467
+6.2.2 MBA configurations 470
+6.2.3 Pattern shaping 471
+6.2.4 Beam scanning 474
+6.2.5 Fundamental limitations 478
+6.2.6 Degrees of freedom 485
+6.3 Beam-forming network 487
+6.3.1 BFN with circulator switches 487
+6.3.2 BFN with variable power dividers 490
+6.3.3 Switching algorithm 492
+6.3.4 BFN with VPD and variable phase shifters 495
+6.3.5 Other BFN (multiple frequency etc.) 495
+6.4 Pattern synthesis 496
+6.5 Performance evaluation 498
+6.5.1 Illustrative example of an FOM 500
+6.6 References 505
+7 Low and medium gain microwave antennas — J. Bach Andersen 506
+7.1 Introduction 506
+7.2 Helical and spiral antennas 506
+7.2.1 Introduction
+7.2.2 Helical antenna (Unifilar helix) 5Q^ 7.2.3 Multiwire helix, bifilar and quadrifilar 5, *
+7.2.4 Multiwire conical spirals 5*5
+7.2.5 Planar spirals 51 9
+7.3 Slot antennas 521
+7.3.1 Basic concepts 521
+7.3.2 Cavity-backed slot antenna 522
+7.3.3 Broadband slots: T-bar fed and monopole slot 524
+7.4 Microstrip antennas 52 6
+7.4.1 Introduction 526
+7.4.2 Basic properties of microstrip transmission line
+7.4.3 Radiation mechanism of microstrip resonator
+7.4.4 Radiation pattern of rectangular microstrip antenna
+7.4.5 Directivity and gain 53 2
+7.4.6 Admittance and equivalent network 534
+7.4.7 Resonator Q 53g
+7.4.8 Non-rectangular resonator shapes 53p
+7.4.9 Arrays of microstrip antennas 54Q
+7.5 Backfire-antennas 543
+7.5.1 Short backfire antenna 543
+7.5.2 Long backfire antenna 545
+7.5.3 Design methods 547
+7.6 Dielectric antennas 540
+7.6.1 Long cylindrical rod
+7.6.2 Short cylindrical rod
+7.6.3 Non-cylindrical shapes of dielectric
+7.7 Simple horn antennas
+7.7.1 Sectoral horns
+7.7.2 Pyramidal horns
+7.7.3 Conical horns
+7.8 Multimode horns
+7.8.1 Multimode rectangular horn
+7.8.2 Multimode conical horn
+7.9 Corrugated horns 4
+7.9.1 Propagation properties of a corrugated surface ~~*
+7.9.2 Corrugated cylindrical waveguides .« , 7.9.3 Corrugated, conical horns
+7.10 References
+8 Antenna measurements — J. Appel-Hansen, J.D. Dyson, E.S. Gillespie and T G Hickman 584
+8.1 Introduction 584
+8.2 Siting considerations 584
+8.2.1 General concepts 584
+8.2.2 Distance criteria 586
+8.3 Impedance measurements 590
+8.4 Current distribution measurements 592
+8.5 Near-field scanning techniques 594
+8.5.1 Introduction
+8.5.2 The planar technique
+8.5.3 The cylindrical technique
+8.5.4 The spherical technique
+8.5.5 Comparison of the scanning technique
+8.5.6 Test ranges
+8.5.7 Plane-wave synthesis technique
+8.6 Intermediate range techniques
+8.6.1 Compact range
+8.6.2 Defocusing technique
+8.6.3 Extrapolation technique
+8.7 Conventional far-field measurements
+8.7.1 Directivity
+8.7.2 Gain
+8.7.3 Phase centres
+8.7.4 Boresight measurements
+8.8 Scattering measurements
+8.9 Outdoor test ranges
+8.9.1 Introduction
+8.9.2 Error sources
+8.9.3 Elevated antenna ranges
+8.9.4 Slant ranges
+8.9.5 Ground reflection ranges
+8.10 Indoor test ranges
+8.10.1 Introduction
+8.10.2 Rectangular chambers
+8.10.3 Tapered anechoic chambers
+8.11 Evaluation of test ranges
+8.11.1 Introduction
+8.11.2 Basic considerations
+8.11.3 Analysis of interference curves
+8.11.4 Free-space VSWR technique
+8.11.5 Antenna pattern comparison technique
+8.11.6 Diagnosis of extraneous reflections
+8.11.7 Dependence of reflectivity level on test parameters
