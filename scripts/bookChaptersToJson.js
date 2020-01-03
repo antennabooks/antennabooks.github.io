@@ -10,7 +10,6 @@ if (!Array.prototype.last){
 
 const readInterface = readline.createInterface({
   input: fs.createReadStream('chapters.txt'),
-  // input: fs.createReadStream('chapters_1.txt'),
   // output: process.stdout,
   console: false
 });
@@ -36,26 +35,26 @@ readInterface.on('close', function () {
   //   console.log("Finished")
   // });
   // console.log(lines)
-  for(i=0; i<lines.length; i += 1){
-  // for(i=0; i<lines.length; i += 4){
-    // console.log(lines[i+1].split(": ")[1])
-    // console.log(lines[i+2].split(": ")[1])
-    var levelNumber = lines[i].split(" ")[0]
-    var level = 1
+  // for(i=0; i<lines.length; i += 1){
+  for(i=0; i<lines.length; i += 4){
+    console.log(lines[i+1].split(": ")[1])
+    console.log(lines[i+2].split(": ")[1])
+    // var levelNumber = lines[i].split(" ")[0]
+    // var level = 1
     // if(levelNumber.split(".").length == 3){
-    if(levelNumber.split(".").length == 2){
+    // if(levelNumber.split(".").length == 2){
     // if(levelNumber.split("-").length == 2){
-      level = 2
-    }
-    if(levelNumber.split(".").length == 3){
+      // level = 2
+    // }
+    // if(levelNumber.split(".").length == 3){
     // if(levelNumber.split(".").length == 4){
-      level = 3
-    }
+      // level = 3
+    // }
     chapters.push({
-      title: lines[i].replace(lines[i].split(" ").last(),""),
-      level: level
-      // title: lines[i+1].split(": ")[1],
-      // level: lines[i+2].split(": ")[1]
+      // title: lines[i].replace(lines[i].split(" ").last(),""),
+      // level: level
+      title: lines[i+1].split(": ")[1],
+      level: lines[i+2].split(": ")[1]
     })
   }
    fs.writeFile("chapters.json", JSON.stringify(chapters), "utf8", function () {

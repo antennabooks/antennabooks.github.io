@@ -12360,5 +12360,691 @@
         "level": 3
       }
     ]
+  },
+  {
+    "cover": "https://uk.artechhouse.com/Assets/ProductImages/4418_t.jpg",
+    "title": "Analysis of Radome-Enclosed Antennas",
+    "author": "Dennis Kozakoff",
+    "publisher": "Artech House",
+    "granted": true,
+    "publisherSite": "https://uk.artechhouse.com/Analysis-of-Radome-Enclosed-Antennas-Second-Edition-P1261.aspx",
+    "amazonSite": "https://www.amazon.com/Analysis-Radome-Enclosed-Antennas-CDROM/dp/1596934417",
+    "edition": 2,
+    "year": 2009,
+    "description": "This new, updated edition to an Artech House classic provides a current, comprehensive overview of the design and analysis of radomes. The second edition includes a wealth of new material, including three new chapters on radome measurement techniques, environmental effects on radomes, and new radome technology. This unique book helps you to design radomes for top performance, understand the effect a radome has on a particular antenna's operation, and become knowledgeable about how to specify acceptable radome equipment. Over 130 illustrations and more than 250 equations support key topics throughout the book.",
+    "chapters": [
+      {
+        "title": "Analysis of Radome-Enclosed Antennas Second Edition",
+        "level": "1"
+      },
+      {
+        "title": "Contents",
+        "level": "2"
+      },
+      {
+        "title": "Foreword",
+        "level": "2"
+      },
+      {
+        "title": "Preface",
+        "level": "2"
+      },
+      {
+        "title": "Acknowledgments",
+        "level": "2"
+      },
+      {
+        "title": "Part I Background and Fundamentals",
+        "level": "2"
+      },
+      {
+        "title": "1 Overview of Radome Phenomenology",
+        "level": "2"
+      },
+      {
+        "title": "1.1 History of Radome Development",
+        "level": "3"
+      },
+      {
+        "title": "1.2 Radome-Antenna Interaction",
+        "level": "3"
+      },
+      {
+        "title": "1.2.1 Boresight Error (BSE) and Boresight Error Slope (BSES)",
+        "level": "4"
+      },
+      {
+        "title": "1.2.2 Registration Error",
+        "level": "4"
+      },
+      {
+        "title": "1.2.3 Antenna Sidelobe Degradation",
+        "level": "4"
+      },
+      {
+        "title": "1.2.4 Depolarization",
+        "level": "4"
+      },
+      {
+        "title": "1.2.5 Antenna Voltage Standing Wave Ratio (VSWR)",
+        "level": "4"
+      },
+      {
+        "title": "1.2.6 Introduction of an Insertion Loss Due to the Presence of the Radome",
+        "level": "4"
+      },
+      {
+        "title": "1.3 Significance of Parameters in Radome Performance",
+        "level": "3"
+      },
+      {
+        "title": "1.4 Radome Technology Advances Since the First Edition",
+        "level": "3"
+      },
+      {
+        "title": "1.4.1 Use of Metamaterials",
+        "level": "4"
+      },
+      {
+        "title": "1.4.2 Frequency Selective Radomes",
+        "level": "4"
+      },
+      {
+        "title": "1.4.3 Concealed Radomes",
+        "level": "4"
+      },
+      {
+        "title": "References",
+        "level": "3"
+      },
+      {
+        "title": "2 Basic Principles and Conventions",
+        "level": "2"
+      },
+      {
+        "title": "2.1 Vector Mathematics",
+        "level": "3"
+      },
+      {
+        "title": "2.2 Electromagnetic Theory",
+        "level": "3"
+      },
+      {
+        "title": "2.3 Matrices",
+        "level": "3"
+      },
+      {
+        "title": "2.4 Coordinate Systems and Gimbal Relationships",
+        "level": "3"
+      },
+      {
+        "title": "2.5 Specialized Antenna Pointing Gimbals",
+        "level": "3"
+      },
+      {
+        "title": "2.5.1 Maritime SATCOM",
+        "level": "4"
+      },
+      {
+        "title": "2.5.2 Vehicular Applications",
+        "level": "4"
+      },
+      {
+        "title": "2.5.3 Airborne Applications",
+        "level": "4"
+      },
+      {
+        "title": "References",
+        "level": "3"
+      },
+      {
+        "title": "Selected Bibliography",
+        "level": "3"
+      },
+      {
+        "title": "3 Antenna Fundamentals",
+        "level": "2"
+      },
+      {
+        "title": "3.1 Directivity and Gain",
+        "level": "3"
+      },
+      {
+        "title": "3.2 Radiation from Current Elements",
+        "level": "3"
+      },
+      {
+        "title": "3.3 Antenna Array Factor",
+        "level": "3"
+      },
+      {
+        "title": "3.4 Linear Aperture Distributions",
+        "level": "3"
+      },
+      {
+        "title": "3.5 Two-Dimensional Distributions",
+        "level": "3"
+      },
+      {
+        "title": "3.6 Spiral Antennas",
+        "level": "3"
+      },
+      {
+        "title": "References",
+        "level": "3"
+      },
+      {
+        "title": "4 Radome Dielectric Materials",
+        "level": "2"
+      },
+      {
+        "title": "4.1 Organic Materials",
+        "level": "3"
+      },
+      {
+        "title": "4.1.1 Monolithic Radomes",
+        "level": "4"
+      },
+      {
+        "title": "4.1.2 Sandwich Radomes",
+        "level": "4"
+      },
+      {
+        "title": "4.2 Inorganic Materials",
+        "level": "3"
+      },
+      {
+        "title": "4.3 Dual Mode (RF/IR) Materials",
+        "level": "3"
+      },
+      {
+        "title": "4.3.1 Nonorganic Dual-Mode Materials",
+        "level": "4"
+      },
+      {
+        "title": "4.3.2 Organic Dual-Mode Materials",
+        "level": "4"
+      },
+      {
+        "title": "4.4 Effect of Radome Material on Antenna Performance",
+        "level": "3"
+      },
+      {
+        "title": "4.4.1 Receiver Noise",
+        "level": "4"
+      },
+      {
+        "title": "4.4.2 Noise Temperature Without Radome",
+        "level": "4"
+      },
+      {
+        "title": "4.4.3 Noise Temperature with Radome",
+        "level": "4"
+      },
+      {
+        "title": "References",
+        "level": "3"
+      },
+      {
+        "title": "Part II Radome Analysis Techniques",
+        "level": "2"
+      },
+      {
+        "title": "5 Dielectric Wall Constructions",
+        "level": "2"
+      },
+      {
+        "title": "5.1 Mathematical Formulation for Radome Wall Transmission",
+        "level": "3"
+      },
+      {
+        "title": "5.2 Radome Types, Classes, and Styles Definition",
+        "level": "3"
+      },
+      {
+        "title": "5.2.1 Radome Type Definitions",
+        "level": "4"
+      },
+      {
+        "title": "5.2.2 Radome Class Definitions",
+        "level": "4"
+      },
+      {
+        "title": "5.2.3 Radome Style Definitions",
+        "level": "4"
+      },
+      {
+        "title": "5.3 Wall Style Electrical Performance",
+        "level": "3"
+      },
+      {
+        "title": "5.3.1 Half-Wave Wall Radomes (Style a)",
+        "level": "4"
+      },
+      {
+        "title": "5.3.2 Thin Walled Radomes (Style b)",
+        "level": "4"
+      },
+      {
+        "title": "5.3.3 A Sandwich Radome (Style c)",
+        "level": "4"
+      },
+      {
+        "title": "5.3.4 Multilayer Radomes (Style d)",
+        "level": "4"
+      },
+      {
+        "title": "5.3.5 B-Sandwich Radomes (Style e)",
+        "level": "4"
+      },
+      {
+        "title": "References",
+        "level": "3"
+      },
+      {
+        "title": "Appendix 5A",
+        "level": "3"
+      },
+      {
+        "title": "5.1 Mathematical Formulation for Radome Wall Transmission",
+        "level": "3"
+      },
+      {
+        "title": "5.1.2 Transmission Coefficients for Circular Polarization",
+        "level": "3"
+      },
+      {
+        "title": "5.1.3 Transmission for Elliptical Polarization",
+        "level": "3"
+      },
+      {
+        "title": "6 Radome Analysis Techniques",
+        "level": "2"
+      },
+      {
+        "title": "6.1 Background",
+        "level": "3"
+      },
+      {
+        "title": "6.2 Geometric Optics (GO) Approaches",
+        "level": "3"
+      },
+      {
+        "title": "6.2.1 GO Receive Mode Calculations",
+        "level": "4"
+      },
+      {
+        "title": "6.2.2 GO Transmit Mode Calculations",
+        "level": "4"
+      },
+      {
+        "title": "6.3 Physical Optics (PO) Approaches",
+        "level": "3"
+      },
+      {
+        "title": "6.3.1 PO Receive Mode Calculations",
+        "level": "4"
+      },
+      {
+        "title": "6.3.2 PO Transmit Mode Calculations",
+        "level": "4"
+      },
+      {
+        "title": "6.4 Other Approaches",
+        "level": "3"
+      },
+      {
+        "title": "6.4.1 Method of Moments (MOM)",
+        "level": "4"
+      },
+      {
+        "title": "6.4.2 Plane Wave Spectra (PWS)",
+        "level": "4"
+      },
+      {
+        "title": "6.4.3 FDTD and Integral Equation Methods",
+        "level": "4"
+      },
+      {
+        "title": "6.5 Sources of Computational Error",
+        "level": "3"
+      },
+      {
+        "title": "6.5.1 Internal Reflections",
+        "level": "4"
+      },
+      {
+        "title": "6.5.2 Wall Model and Statistical Variations",
+        "level": "4"
+      },
+      {
+        "title": "References",
+        "level": "3"
+      },
+      {
+        "title": "Part III Computer Implementation",
+        "level": "2"
+      },
+      {
+        "title": "7 Ray Trace Approaches",
+        "level": "2"
+      },
+      {
+        "title": "7.1 Shape Considerations",
+        "level": "3"
+      },
+      {
+        "title": "7.1.1 Rationale for Choosing a Particular Shape",
+        "level": "4"
+      },
+      {
+        "title": "7.1.2 Mathematical Modeling of the Tangent Ogive Shape",
+        "level": "4"
+      },
+      {
+        "title": "7.1.3 Determining the Intercept Point of a Ray with the Tangent Ogive Wall",
+        "level": "4"
+      },
+      {
+        "title": "7.1.4 Computation of Surface Normal Vector at the Intercept Point",
+        "level": "4"
+      },
+      {
+        "title": "7.1.5 Determining the Ray Angle of Incidence",
+        "level": "4"
+      },
+      {
+        "title": "7.2 Hemispherical Radome Shapes",
+        "level": "3"
+      },
+      {
+        "title": "7.3 Other Radome Shapes Having Axial Symmetry",
+        "level": "3"
+      },
+      {
+        "title": "7.3.1 Mathematical Modeling of the Radome Shape",
+        "level": "4"
+      },
+      {
+        "title": "7.3.2 POLY Polynomial Regression Subroutine",
+        "level": "4"
+      },
+      {
+        "title": "7.3.3 Determining Intercept Point and Surface Normal Vectors",
+        "level": "4"
+      },
+      {
+        "title": "7.4 Wave Decomposition at the Intercept Point",
+        "level": "3"
+      },
+      {
+        "title": "References",
+        "level": "3"
+      },
+      {
+        "title": "Appendix 7A",
+        "level": "3"
+      },
+      {
+        "title": "Appendix 7B",
+        "level": "3"
+      },
+      {
+        "title": "Appendix 7C",
+        "level": "3"
+      },
+      {
+        "title": "Appendix 7D",
+        "level": "3"
+      },
+      {
+        "title": "8 Radome-Enclosed Guidance Antennas",
+        "level": "2"
+      },
+      {
+        "title": "8.1 Definitions of Boresight Error (BSE) and Boresight Error Slope(BSES)",
+        "level": "3"
+      },
+      {
+        "title": "8.2 Calculation of Antenna Patterns and Monopulse Error Voltagesfor an Antenna Without a Radome",
+        "level": "3"
+      },
+      {
+        "title": "8.3 Calculation of Radiation Patterns and Monopulse Error Voltagesfor an Antenna with a Radome",
+        "level": "3"
+      },
+      {
+        "title": "8.3.1 General Approach",
+        "level": "4"
+      },
+      {
+        "title": "8.3.2 Computation of the Antenna Pattern Space Phase Terms",
+        "level": "4"
+      },
+      {
+        "title": "8.3.3 Transformation of All Aperture Points to Radome Coordinates",
+        "level": "4"
+      },
+      {
+        "title": "8.3.4 Transformation of All Ray Vectors from Aperture Sample Points in thePattern Look Direction",
+        "level": "4"
+      },
+      {
+        "title": "8.3.5 Project Rays to the Radome Surface",
+        "level": "4"
+      },
+      {
+        "title": "8.3.6 Compute Angle of Incidence",
+        "level": "4"
+      },
+      {
+        "title": "8.3.7 Computation of Voltage Transmission Coefficients for Each Ray",
+        "level": "4"
+      },
+      {
+        "title": "8.3.8 Perform an Antenna Aperture Integration",
+        "level": "4"
+      },
+      {
+        "title": "8.4 Additional Modeling Considerations",
+        "level": "3"
+      },
+      {
+        "title": "8.4.1 Rain Erosion of Missile Radomes",
+        "level": "4"
+      },
+      {
+        "title": "8.4.2 Aerothermal Heating",
+        "level": "4"
+      },
+      {
+        "title": "8.4.3 Radome Effects on Conscan Antennas",
+        "level": "4"
+      },
+      {
+        "title": "References",
+        "level": "3"
+      },
+      {
+        "title": "Selected Bibliography",
+        "level": "3"
+      },
+      {
+        "title": "9 Miscellaneous Radome-Enclosed Antenna Types",
+        "level": "2"
+      },
+      {
+        "title": "9.1 Spiral Antennas",
+        "level": "3"
+      },
+      {
+        "title": "9.1.1 Single Mode Spiral Antennas",
+        "level": "4"
+      },
+      {
+        "title": "9.1.2 Multimode Spiral Antennas",
+        "level": "4"
+      },
+      {
+        "title": "9.2 Large Parabolic Antennas",
+        "level": "3"
+      },
+      {
+        "title": "9.3 Air-Supported Radomes",
+        "level": "3"
+      },
+      {
+        "title": "9.4 Metal Space Frame Radomes",
+        "level": "3"
+      },
+      {
+        "title": "9.4.1 Dielectric Wall Losses",
+        "level": "4"
+      },
+      {
+        "title": "9.4.2 Frame Blockage Losses",
+        "level": "4"
+      },
+      {
+        "title": "9.4.3 Pointing Errors",
+        "level": "4"
+      },
+      {
+        "title": "9.5 Dielectric Space Frame Radomes",
+        "level": "3"
+      },
+      {
+        "title": "9.6 Radome Enclosed Phased-Array Antennas",
+        "level": "3"
+      },
+      {
+        "title": "References",
+        "level": "3"
+      },
+      {
+        "title": "Selected Bibliography",
+        "level": "3"
+      },
+      {
+        "title": "Part IV Radome Specifications and Environmental Degradations",
+        "level": "2"
+      },
+      {
+        "title": "10 Specifying and Testing Radome Performance",
+        "level": "2"
+      },
+      {
+        "title": "10.1 Specifying Aircraft Radomes",
+        "level": "3"
+      },
+      {
+        "title": "10.2 Specifying Radomes for Terrestrial and Marine SATCOMAntennas",
+        "level": "3"
+      },
+      {
+        "title": "10.3 Radome Testing Methodology",
+        "level": "3"
+      },
+      {
+        "title": "10.3.1 Outdoor Test Facilities",
+        "level": "4"
+      },
+      {
+        "title": "10.3.2 Use of Indoor Anechoic Chambers",
+        "level": "4"
+      },
+      {
+        "title": "10.3.3 Use of Compact Range",
+        "level": "4"
+      },
+      {
+        "title": "10.3.4 Near-Field Testing Options",
+        "level": "4"
+      },
+      {
+        "title": "References",
+        "level": "3"
+      },
+      {
+        "title": "Selected Bibliography",
+        "level": "3"
+      },
+      {
+        "title": "11 Environmental Degradations",
+        "level": "2"
+      },
+      {
+        "title": "11.1 Rain Erosion",
+        "level": "3"
+      },
+      {
+        "title": "11.1.1 Rain Erosion Paints",
+        "level": "4"
+      },
+      {
+        "title": "11.1.2 Rain Erosion Boots",
+        "level": "4"
+      },
+      {
+        "title": "11.2 Atmospheric Electricity",
+        "level": "3"
+      },
+      {
+        "title": "11.2.1 Lighting Strike Damage",
+        "level": "4"
+      },
+      {
+        "title": "11.2.2 Use of Lightning Diverters",
+        "level": "4"
+      },
+      {
+        "title": "11.2.3 Antistatic Systems",
+        "level": "4"
+      },
+      {
+        "title": "11.2.4 Radome Wetting and Hydrophobic Materials",
+        "level": "4"
+      },
+      {
+        "title": "11.3 Radome Impact Resistance",
+        "level": "3"
+      },
+      {
+        "title": "References",
+        "level": "3"
+      },
+      {
+        "title": "Appendix A Vector Operations in Various Coordinate Systems",
+        "level": "2"
+      },
+      {
+        "title": "Appendix B Propagation Constant and WaveImpedance for Arbitrary Media",
+        "level": "2"
+      },
+      {
+        "title": "Appendix C Multilayer Propagation and Fresnel Transmission and Reflection Coefficients",
+        "level": "2"
+      },
+      {
+        "title": "Appendix D Radiation from Elemental Currents",
+        "level": "2"
+      },
+      {
+        "title": "Appendix E Program TORADOME Software Listing",
+        "level": "2"
+      },
+      {
+        "title": "Appendix F Operations Manual for Programs Provided with Book",
+        "level": "2"
+      },
+      {
+        "title": "About the Author",
+        "level": "2"
+      },
+      {
+        "title": "Index",
+        "level": "2"
+      }
+    ]
   }
 ]

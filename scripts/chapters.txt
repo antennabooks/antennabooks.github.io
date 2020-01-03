@@ -1,214 +1,672 @@
-1 Basic properties of antennas — A.D. Olver 1
-1.1 Introduction 1
-1.2 Electromagnetic fields 7
-1.3 Reciprocity 11
-1.4 Radiated field regions 12
-1.5 Radiation patterns 15
-1.6 Gain, directivity and efficiency 19
-1.7 Polarisation 24
-1.8 Impedance 28
-1.9 Bandwidth 31
-1.10 Antenna noise temperature 3 2
-1.11 Field equivalence principles 34
-1.12 Radiation from apertures 3 5
-1.13 Radiation from arrays 46
-1.14 Radiation from current elements 49
-1.15 Radiation from travelling wave sources 53
-1.16 Frequency independent antennas 55
-1.17 Re-radiation from antennas 5 7
-1.18 References 59
-2 Theory of quasi-optical antennas — W.V.T. Rusch, A.C. Ludwig and W.C. Wong 60
-2.1 Introduction 60
-2.2 Basic scattering theory for reflector analysis 60
-2.2.1 Differential geometry of surfaces 60
-2.2.2 Asymptotic solutions: Wavefronts and rays 65
-2.2.3 Geometrical optics for reflectors 67
-2.2.4 Physical optics 74
-2.2.5 Scalar physical optics 84
-2.2.6 Geometrical theory of edge-diffraction 90
-2.3 Spherical wave theory 101
-2.3.1 Fundamental properties 102
-2.3.2 Calculating spherical-wave coefficients 117
-2.4 References 124
-3 Quasi-optical antenna design and applications — W.V.T. Rusch, T.S. Chu, A.R. Dion, P.A. Jensen and A.W. Rudge 128
-3.1 Prime-focus paraboloidal reflectors 128
-3.1.1 Primary radiation characteristics 128
-3.1.2 Effects of random surface errors 130
-3.1.3 Feed defocusing 134
-3.1.4 Aperture blocking 142
-3.1.5 Umbrella reflectors 15 9
-3.2 Cassegrain systems 162
-3.2.1 Geometrical design considerations 164
-3.2.2 Efficiency analysis 16 9
-3.2.3 Improved design techniques 183
-3.2.4 Equivalent parabola 183
-3.2.5 Twist reflectors 184
-3.2.6 Frequency selective subreflectors 184
-3.3 Offset parabolic reflector antennas 185
-3.3.1 Introduction 185
-3.3.2 Single offset reflector analysis 190
-3.3.3 Electrical performance of the single offset reflector antenna 199
-3.3.4 Design procedure for multiple spot-beam antennas 217
-3.3.5 Dual-reflector offset antennas 232
-3.4 Other reflector types 244
-3.4.1 Shaped beam optical reflectors 244
-3.4.2 Spherical reflectors 2 51
-3.4.3 Non-spherical reflectors 253
-3.4.4 Other types 257
-3.5 Reflectors with contoured beams 260
-3.5.1 Design of contoured beam reflector antennas 260
-3.5.2 Examples of contoured beam reflector technology 264
-3.6 Reflector structures and materials 276
-3.6.1 Ground-based antenna systems 276
-3.6.2 Satellite-borne reflector systems 280
-3.6.3 Deploy able spacecraft reflectors 289
-3.6.4 Future deployable antennas 291
-3.7 Lens antennas 293
-3.7.1 Constrained lenses for multiple-beam antenna applications 294
-3.7.2 Computer modelling of constrained lens 310
-3.8 Low-noise antennas 315
-3.8.1 Introduction 315
-3.8.2 Thermal noise components 316
-3.8.3 Earth-station antennas for space communications 320
-3.8.4 Low sidelobes for interference reduction 322
-3.8.5 Noise-cancellation techniques 325
-3.9 References 326
-4 Primary feed antennas — A.W. Love, A.W. Rudge and A.D. Olver 338
-4.1 General considerations 338
-4.2 Polarisation definitions 342
-4.3 Dipole illumination and aperture fields 343
-4.4 Practical dipole feeds 349
-4.5 Simple prime focus horn and waveguide feeds 351
-4.6 Multimode horn feeds 355
-4.7 Hybrid mode horn feeds 359
-Contents vii
-4.8 Tracking feeds 372
-4.9 Multi-octave bandwidth primary feeds 375
-4.10 Mathematical modelling of primary feed 3 80
-4.11 Primary feeds for offset reflector antennas 3 99
-4.12 References 411
-5 Hybrid antennas — R.J. Mailloux 415
-5.1 Introduction 415
-5.2 Aperture scanning fundamentals of hybrid systems 416
-5.2.1 Introduction 416
-5.2.2 The plane aperture: transforms, orthogonal beams and scanning limitations 417
-5.2.3 Scanning systems with no Fourier transform: Transverse feeds 421
-5.2.4 Apertures followed by one Fourier transform: Multiple beam 422
-5.2.5 Scanning systems with two Fourier transforms: The principle of overlapped subarrays 423
-5.3 Hybrid reflector systems for limited sector scanning 427
-5.3.1 Introduction 427
-5.3.2 Scanning characteristics of an off-axis parabola 428
-5.3.3 Transverse feeds for off-axis reflectors 430
-5.3.4 Fourier transform feed for off-axis parabola 435
-5.3.5 Off-axis characteristics of paraboloid sections 438
-5.3.6 Dual reflector and reflector-lens limited scan systems 442
-5.4 Hybrid lens/array scanning systems 447
-5.4.1 Introduction 447
-5.4.2 Scanning lens/array combinations 448
-5.4.3 Lens feeds and reflectarrays 457
-5.5 Radiation pattern control 458
-5.5.1 Sidelobe control 458
-5.5.2 Active pattern control in hybrid systems 462
-5.6 References 463
-6 Multiple beam antennas — L.J. Ricardi 466
-6.1 Introduction 466
-6.2 Composition and performance characteristics of an MBA 467
-6.2.1 Composition of an MBA system 467
-6.2.2 MBA configurations 470
-6.2.3 Pattern shaping 471
-6.2.4 Beam scanning 474
-6.2.5 Fundamental limitations 478
-6.2.6 Degrees of freedom 485
-6.3 Beam-forming network 487
-6.3.1 BFN with circulator switches 487
-6.3.2 BFN with variable power dividers 490
-6.3.3 Switching algorithm 492
-6.3.4 BFN with VPD and variable phase shifters 495
-6.3.5 Other BFN (multiple frequency etc.) 495
-6.4 Pattern synthesis 496
-6.5 Performance evaluation 498
-6.5.1 Illustrative example of an FOM 500
-6.6 References 505
-7 Low and medium gain microwave antennas — J. Bach Andersen 506
-7.1 Introduction 506
-7.2 Helical and spiral antennas 506
-7.2.1 Introduction
-7.2.2 Helical antenna (Unifilar helix) 5Q^ 7.2.3 Multiwire helix, bifilar and quadrifilar 5, *
-7.2.4 Multiwire conical spirals 5*5
-7.2.5 Planar spirals 51 9
-7.3 Slot antennas 521
-7.3.1 Basic concepts 521
-7.3.2 Cavity-backed slot antenna 522
-7.3.3 Broadband slots: T-bar fed and monopole slot 524
-7.4 Microstrip antennas 52 6
-7.4.1 Introduction 526
-7.4.2 Basic properties of microstrip transmission line
-7.4.3 Radiation mechanism of microstrip resonator
-7.4.4 Radiation pattern of rectangular microstrip antenna
-7.4.5 Directivity and gain 53 2
-7.4.6 Admittance and equivalent network 534
-7.4.7 Resonator Q 53g
-7.4.8 Non-rectangular resonator shapes 53p
-7.4.9 Arrays of microstrip antennas 54Q
-7.5 Backfire-antennas 543
-7.5.1 Short backfire antenna 543
-7.5.2 Long backfire antenna 545
-7.5.3 Design methods 547
-7.6 Dielectric antennas 540
-7.6.1 Long cylindrical rod
-7.6.2 Short cylindrical rod
-7.6.3 Non-cylindrical shapes of dielectric
-7.7 Simple horn antennas
-7.7.1 Sectoral horns
-7.7.2 Pyramidal horns
-7.7.3 Conical horns
-7.8 Multimode horns
-7.8.1 Multimode rectangular horn
-7.8.2 Multimode conical horn
-7.9 Corrugated horns 4
-7.9.1 Propagation properties of a corrugated surface ~~*
-7.9.2 Corrugated cylindrical waveguides .« , 7.9.3 Corrugated, conical horns
-7.10 References
-8 Antenna measurements — J. Appel-Hansen, J.D. Dyson, E.S. Gillespie and T G Hickman 584
-8.1 Introduction 584
-8.2 Siting considerations 584
-8.2.1 General concepts 584
-8.2.2 Distance criteria 586
-8.3 Impedance measurements 590
-8.4 Current distribution measurements 592
-8.5 Near-field scanning techniques 594
-8.5.1 Introduction
-8.5.2 The planar technique
-8.5.3 The cylindrical technique
-8.5.4 The spherical technique
-8.5.5 Comparison of the scanning technique
-8.5.6 Test ranges
-8.5.7 Plane-wave synthesis technique
-8.6 Intermediate range techniques
-8.6.1 Compact range
-8.6.2 Defocusing technique
-8.6.3 Extrapolation technique
-8.7 Conventional far-field measurements
-8.7.1 Directivity
-8.7.2 Gain
-8.7.3 Phase centres
-8.7.4 Boresight measurements
-8.8 Scattering measurements
-8.9 Outdoor test ranges
-8.9.1 Introduction
-8.9.2 Error sources
-8.9.3 Elevated antenna ranges
-8.9.4 Slant ranges
-8.9.5 Ground reflection ranges
-8.10 Indoor test ranges
-8.10.1 Introduction
-8.10.2 Rectangular chambers
-8.10.3 Tapered anechoic chambers
-8.11 Evaluation of test ranges
-8.11.1 Introduction
-8.11.2 Basic considerations
-8.11.3 Analysis of interference curves
-8.11.4 Free-space VSWR technique
-8.11.5 Antenna pattern comparison technique
-8.11.6 Diagnosis of extraneous reflections
-8.11.7 Dependence of reflectivity level on test parameters
+BookmarkBegin
+BookmarkTitle: Analysis of Radome-Enclosed Antennas Second Edition
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: Contents
+BookmarkLevel: 2
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Foreword
+BookmarkLevel: 2
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Preface
+BookmarkLevel: 2
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: Acknowledgments
+BookmarkLevel: 2
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: Part I Background and Fundamentals
+BookmarkLevel: 2
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: 1 Overview of Radome Phenomenology
+BookmarkLevel: 2
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: 1.1 History of Radome Development
+BookmarkLevel: 3
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: 1.2 Radome-Antenna Interaction
+BookmarkLevel: 3
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: 1.2.1 Boresight Error (BSE) and Boresight Error Slope (BSES)
+BookmarkLevel: 4
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: 1.2.2 Registration Error
+BookmarkLevel: 4
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: 1.2.3 Antenna Sidelobe Degradation
+BookmarkLevel: 4
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: 1.2.4 Depolarization
+BookmarkLevel: 4
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: 1.2.5 Antenna Voltage Standing Wave Ratio (VSWR)
+BookmarkLevel: 4
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: 1.2.6 Introduction of an Insertion Loss Due to the Presence of the Radome
+BookmarkLevel: 4
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: 1.3 Significance of Parameters in Radome Performance
+BookmarkLevel: 3
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: 1.4 Radome Technology Advances Since the First Edition
+BookmarkLevel: 3
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: 1.4.1 Use of Metamaterials
+BookmarkLevel: 4
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: 1.4.2 Frequency Selective Radomes
+BookmarkLevel: 4
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: 1.4.3 Concealed Radomes
+BookmarkLevel: 4
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 3
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: 2 Basic Principles and Conventions
+BookmarkLevel: 2
+BookmarkPageNumber: 36
+BookmarkBegin
+BookmarkTitle: 2.1 Vector Mathematics
+BookmarkLevel: 3
+BookmarkPageNumber: 36
+BookmarkBegin
+BookmarkTitle: 2.2 Electromagnetic Theory
+BookmarkLevel: 3
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: 2.3 Matrices
+BookmarkLevel: 3
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: 2.4 Coordinate Systems and Gimbal Relationships
+BookmarkLevel: 3
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: 2.5 Specialized Antenna Pointing Gimbals
+BookmarkLevel: 3
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: 2.5.1 Maritime SATCOM
+BookmarkLevel: 4
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: 2.5.2 Vehicular Applications
+BookmarkLevel: 4
+BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: 2.5.3 Airborne Applications
+BookmarkLevel: 4
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 3
+BookmarkPageNumber: 53
+BookmarkBegin
+BookmarkTitle: Selected Bibliography
+BookmarkLevel: 3
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: 3 Antenna Fundamentals
+BookmarkLevel: 2
+BookmarkPageNumber: 56
+BookmarkBegin
+BookmarkTitle: 3.1 Directivity and Gain
+BookmarkLevel: 3
+BookmarkPageNumber: 56
+BookmarkBegin
+BookmarkTitle: 3.2 Radiation from Current Elements
+BookmarkLevel: 3
+BookmarkPageNumber: 59
+BookmarkBegin
+BookmarkTitle: 3.3 Antenna Array Factor
+BookmarkLevel: 3
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle: 3.4 Linear Aperture Distributions
+BookmarkLevel: 3
+BookmarkPageNumber: 61
+BookmarkBegin
+BookmarkTitle: 3.5 Two-Dimensional Distributions
+BookmarkLevel: 3
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle: 3.6 Spiral Antennas
+BookmarkLevel: 3
+BookmarkPageNumber: 69
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 3
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: 4 Radome Dielectric Materials
+BookmarkLevel: 2
+BookmarkPageNumber: 76
+BookmarkBegin
+BookmarkTitle: 4.1 Organic Materials
+BookmarkLevel: 3
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: 4.1.1 Monolithic Radomes
+BookmarkLevel: 4
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: 4.1.2 Sandwich Radomes
+BookmarkLevel: 4
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: 4.2 Inorganic Materials
+BookmarkLevel: 3
+BookmarkPageNumber: 83
+BookmarkBegin
+BookmarkTitle: 4.3 Dual Mode (RF/IR) Materials
+BookmarkLevel: 3
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: 4.3.1 Nonorganic Dual-Mode Materials
+BookmarkLevel: 4
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: 4.3.2 Organic Dual-Mode Materials
+BookmarkLevel: 4
+BookmarkPageNumber: 90
+BookmarkBegin
+BookmarkTitle: 4.4 Effect of Radome Material on Antenna Performance
+BookmarkLevel: 3
+BookmarkPageNumber: 91
+BookmarkBegin
+BookmarkTitle: 4.4.1 Receiver Noise
+BookmarkLevel: 4
+BookmarkPageNumber: 92
+BookmarkBegin
+BookmarkTitle: 4.4.2 Noise Temperature Without Radome
+BookmarkLevel: 4
+BookmarkPageNumber: 94
+BookmarkBegin
+BookmarkTitle: 4.4.3 Noise Temperature with Radome
+BookmarkLevel: 4
+BookmarkPageNumber: 94
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 3
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: Part II Radome Analysis Techniques
+BookmarkLevel: 2
+BookmarkPageNumber: 100
+BookmarkBegin
+BookmarkTitle: 5 Dielectric Wall Constructions
+BookmarkLevel: 2
+BookmarkPageNumber: 102
+BookmarkBegin
+BookmarkTitle: 5.1 Mathematical Formulation for Radome Wall Transmission
+BookmarkLevel: 3
+BookmarkPageNumber: 102
+BookmarkBegin
+BookmarkTitle: 5.2 Radome Types, Classes, and Styles Definition
+BookmarkLevel: 3
+BookmarkPageNumber: 107
+BookmarkBegin
+BookmarkTitle: 5.2.1 Radome Type Definitions
+BookmarkLevel: 4
+BookmarkPageNumber: 107
+BookmarkBegin
+BookmarkTitle: 5.2.2 Radome Class Definitions
+BookmarkLevel: 4
+BookmarkPageNumber: 108
+BookmarkBegin
+BookmarkTitle: 5.2.3 Radome Style Definitions
+BookmarkLevel: 4
+BookmarkPageNumber: 108
+BookmarkBegin
+BookmarkTitle: 5.3 Wall Style Electrical Performance
+BookmarkLevel: 3
+BookmarkPageNumber: 109
+BookmarkBegin
+BookmarkTitle: 5.3.1 Half-Wave Wall Radomes (Style a)
+BookmarkLevel: 4
+BookmarkPageNumber: 109
+BookmarkBegin
+BookmarkTitle: 5.3.2 Thin Walled Radomes (Style b)
+BookmarkLevel: 4
+BookmarkPageNumber: 112
+BookmarkBegin
+BookmarkTitle: 5.3.3 A Sandwich Radome (Style c)
+BookmarkLevel: 4
+BookmarkPageNumber: 112
+BookmarkBegin
+BookmarkTitle: 5.3.4 Multilayer Radomes (Style d)
+BookmarkLevel: 4
+BookmarkPageNumber: 113
+BookmarkBegin
+BookmarkTitle: 5.3.5 B-Sandwich Radomes (Style e)
+BookmarkLevel: 4
+BookmarkPageNumber: 118
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 3
+BookmarkPageNumber: 118
+BookmarkBegin
+BookmarkTitle: Appendix 5A: Program WALL Computer Software Listing
+BookmarkLevel: 3
+BookmarkPageNumber: 119
+BookmarkBegin
+BookmarkTitle: 5.1 Mathematical Formulation for Radome Wall Transmission
+BookmarkLevel: 3
+BookmarkPageNumber: 102
+BookmarkBegin
+BookmarkTitle: 5.1.2 Transmission Coefficients for Circular Polarization
+BookmarkLevel: 3
+BookmarkPageNumber: 105
+BookmarkBegin
+BookmarkTitle: 5.1.3 Transmission for Elliptical Polarization
+BookmarkLevel: 3
+BookmarkPageNumber: 105
+BookmarkBegin
+BookmarkTitle: 6 Radome Analysis Techniques
+BookmarkLevel: 2
+BookmarkPageNumber: 124
+BookmarkBegin
+BookmarkTitle: 6.1 Background
+BookmarkLevel: 3
+BookmarkPageNumber: 125
+BookmarkBegin
+BookmarkTitle: 6.2 Geometric Optics (GO) Approaches
+BookmarkLevel: 3
+BookmarkPageNumber: 128
+BookmarkBegin
+BookmarkTitle: 6.2.1 GO Receive Mode Calculations
+BookmarkLevel: 4
+BookmarkPageNumber: 129
+BookmarkBegin
+BookmarkTitle: 6.2.2 GO Transmit Mode Calculations
+BookmarkLevel: 4
+BookmarkPageNumber: 131
+BookmarkBegin
+BookmarkTitle: 6.3 Physical Optics (PO) Approaches
+BookmarkLevel: 3
+BookmarkPageNumber: 131
+BookmarkBegin
+BookmarkTitle: 6.3.1 PO Receive Mode Calculations
+BookmarkLevel: 4
+BookmarkPageNumber: 132
+BookmarkBegin
+BookmarkTitle: 6.3.2 PO Transmit Mode Calculations
+BookmarkLevel: 4
+BookmarkPageNumber: 133
+BookmarkBegin
+BookmarkTitle: 6.4 Other Approaches
+BookmarkLevel: 3
+BookmarkPageNumber: 134
+BookmarkBegin
+BookmarkTitle: 6.4.1 Method of Moments (MOM)
+BookmarkLevel: 4
+BookmarkPageNumber: 134
+BookmarkBegin
+BookmarkTitle: 6.4.2 Plane Wave Spectra (PWS)
+BookmarkLevel: 4
+BookmarkPageNumber: 135
+BookmarkBegin
+BookmarkTitle: 6.4.3 FDTD and Integral Equation Methods
+BookmarkLevel: 4
+BookmarkPageNumber: 136
+BookmarkBegin
+BookmarkTitle: 6.5 Sources of Computational Error
+BookmarkLevel: 3
+BookmarkPageNumber: 136
+BookmarkBegin
+BookmarkTitle: 6.5.1 Internal Reflections
+BookmarkLevel: 4
+BookmarkPageNumber: 137
+BookmarkBegin
+BookmarkTitle: 6.5.2 Wall Model and Statistical Variations
+BookmarkLevel: 4
+BookmarkPageNumber: 140
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 3
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: Part III Computer Implementation
+BookmarkLevel: 2
+BookmarkPageNumber: 146
+BookmarkBegin
+BookmarkTitle: 7 Ray Trace Approaches
+BookmarkLevel: 2
+BookmarkPageNumber: 148
+BookmarkBegin
+BookmarkTitle: 7.1 Shape Considerations
+BookmarkLevel: 3
+BookmarkPageNumber: 149
+BookmarkBegin
+BookmarkTitle: 7.1.1 Rationale for Choosing a Particular Shape
+BookmarkLevel: 4
+BookmarkPageNumber: 149
+BookmarkBegin
+BookmarkTitle: 7.1.2 Mathematical Modeling of the Tangent Ogive Shape
+BookmarkLevel: 4
+BookmarkPageNumber: 152
+BookmarkBegin
+BookmarkTitle: 7.1.3 Determining the Intercept Point of a Ray with the Tangent Ogive Wall
+BookmarkLevel: 4
+BookmarkPageNumber: 155
+BookmarkBegin
+BookmarkTitle: 7.1.4 Computation of Surface Normal Vector at the Intercept Point
+BookmarkLevel: 4
+BookmarkPageNumber: 159
+BookmarkBegin
+BookmarkTitle: 7.1.5 Determining the Ray Angle of Incidence
+BookmarkLevel: 4
+BookmarkPageNumber: 161
+BookmarkBegin
+BookmarkTitle: 7.2 Hemispherical Radome Shapes
+BookmarkLevel: 3
+BookmarkPageNumber: 161
+BookmarkBegin
+BookmarkTitle: 7.3 Other Radome Shapes Having Axial Symmetry
+BookmarkLevel: 3
+BookmarkPageNumber: 163
+BookmarkBegin
+BookmarkTitle: 7.3.1 Mathematical Modeling of the Radome Shape
+BookmarkLevel: 4
+BookmarkPageNumber: 163
+BookmarkBegin
+BookmarkTitle: 7.3.2 POLY Polynomial Regression Subroutine
+BookmarkLevel: 4
+BookmarkPageNumber: 163
+BookmarkBegin
+BookmarkTitle: 7.3.3 Determining Intercept Point and Surface Normal Vectors
+BookmarkLevel: 4
+BookmarkPageNumber: 164
+BookmarkBegin
+BookmarkTitle: 7.4 Wave Decomposition at the Intercept Point
+BookmarkLevel: 3
+BookmarkPageNumber: 165
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 3
+BookmarkPageNumber: 167
+BookmarkBegin
+BookmarkTitle: Appendix 7A: Program OGIVE Software Listing
+BookmarkLevel: 3
+BookmarkPageNumber: 168
+BookmarkBegin
+BookmarkTitle: Appendix 7B: Program POLY Software Listing
+BookmarkLevel: 3
+BookmarkPageNumber: 170
+BookmarkBegin
+BookmarkTitle: Appendix 7C: Program ARBITRARY Software Listing
+BookmarkLevel: 3
+BookmarkPageNumber: 172
+BookmarkBegin
+BookmarkTitle: Appendix 7D: Program DECOMPOSE Computer Listing
+BookmarkLevel: 3
+BookmarkPageNumber: 174
+BookmarkBegin
+BookmarkTitle: 8 Radome-Enclosed Guidance Antennas
+BookmarkLevel: 2
+BookmarkPageNumber: 178
+BookmarkBegin
+BookmarkTitle: 8.1 Definitions of Boresight Error (BSE) and Boresight Error Slope(BSES)
+BookmarkLevel: 3
+BookmarkPageNumber: 180
+BookmarkBegin
+BookmarkTitle: 8.2 Calculation of Antenna Patterns and Monopulse Error Voltagesfor an Antenna Without a Radome
+BookmarkLevel: 3
+BookmarkPageNumber: 183
+BookmarkBegin
+BookmarkTitle: 8.3 Calculation of Radiation Patterns and Monopulse Error Voltagesfor an Antenna with a Radome
+BookmarkLevel: 3
+BookmarkPageNumber: 192
+BookmarkBegin
+BookmarkTitle: 8.3.1 General Approach
+BookmarkLevel: 4
+BookmarkPageNumber: 192
+BookmarkBegin
+BookmarkTitle: 8.3.2 Computation of the Antenna Pattern Space Phase Terms
+BookmarkLevel: 4
+BookmarkPageNumber: 195
+BookmarkBegin
+BookmarkTitle: 8.3.3 Transformation of All Aperture Points to Radome Coordinates
+BookmarkLevel: 4
+BookmarkPageNumber: 196
+BookmarkBegin
+BookmarkTitle: 8.3.4 Transformation of All Ray Vectors from Aperture Sample Points in thePattern Look Direction
+BookmarkLevel: 4
+BookmarkPageNumber: 196
+BookmarkBegin
+BookmarkTitle: 8.3.5 Project Rays to the Radome Surface
+BookmarkLevel: 4
+BookmarkPageNumber: 196
+BookmarkBegin
+BookmarkTitle: 8.3.6 Compute Angle of Incidence
+BookmarkLevel: 4
+BookmarkPageNumber: 196
+BookmarkBegin
+BookmarkTitle: 8.3.7 Computation of Voltage Transmission Coefficients for Each Ray
+BookmarkLevel: 4
+BookmarkPageNumber: 197
+BookmarkBegin
+BookmarkTitle: 8.3.8 Perform an Antenna Aperture Integration
+BookmarkLevel: 4
+BookmarkPageNumber: 197
+BookmarkBegin
+BookmarkTitle: 8.4 Additional Modeling Considerations
+BookmarkLevel: 3
+BookmarkPageNumber: 199
+BookmarkBegin
+BookmarkTitle: 8.4.1 Rain Erosion of Missile Radomes
+BookmarkLevel: 4
+BookmarkPageNumber: 199
+BookmarkBegin
+BookmarkTitle: 8.4.2 Aerothermal Heating
+BookmarkLevel: 4
+BookmarkPageNumber: 200
+BookmarkBegin
+BookmarkTitle: 8.4.3 Radome Effects on Conscan Antennas
+BookmarkLevel: 4
+BookmarkPageNumber: 201
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 3
+BookmarkPageNumber: 202
+BookmarkBegin
+BookmarkTitle: Selected Bibliography
+BookmarkLevel: 3
+BookmarkPageNumber: 204
+BookmarkBegin
+BookmarkTitle: 9 Miscellaneous Radome-Enclosed Antenna Types
+BookmarkLevel: 2
+BookmarkPageNumber: 206
+BookmarkBegin
+BookmarkTitle: 9.1 Spiral Antennas
+BookmarkLevel: 3
+BookmarkPageNumber: 206
+BookmarkBegin
+BookmarkTitle: 9.1.1 Single Mode Spiral Antennas
+BookmarkLevel: 4
+BookmarkPageNumber: 206
+BookmarkBegin
+BookmarkTitle: 9.1.2 Multimode Spiral Antennas
+BookmarkLevel: 4
+BookmarkPageNumber: 211
+BookmarkBegin
+BookmarkTitle: 9.2 Large Parabolic Antennas
+BookmarkLevel: 3
+BookmarkPageNumber: 213
+BookmarkBegin
+BookmarkTitle: 9.3 Air-Supported Radomes
+BookmarkLevel: 3
+BookmarkPageNumber: 214
+BookmarkBegin
+BookmarkTitle: 9.4 Metal Space Frame Radomes
+BookmarkLevel: 3
+BookmarkPageNumber: 215
+BookmarkBegin
+BookmarkTitle: 9.4.1 Dielectric Wall Losses
+BookmarkLevel: 4
+BookmarkPageNumber: 216
+BookmarkBegin
+BookmarkTitle: 9.4.2 Frame Blockage Losses
+BookmarkLevel: 4
+BookmarkPageNumber: 217
+BookmarkBegin
+BookmarkTitle: 9.4.3 Pointing Errors
+BookmarkLevel: 4
+BookmarkPageNumber: 218
+BookmarkBegin
+BookmarkTitle: 9.5 Dielectric Space Frame Radomes
+BookmarkLevel: 3
+BookmarkPageNumber: 219
+BookmarkBegin
+BookmarkTitle: 9.6 Radome Enclosed Phased-Array Antennas
+BookmarkLevel: 3
+BookmarkPageNumber: 220
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 3
+BookmarkPageNumber: 224
+BookmarkBegin
+BookmarkTitle: Selected Bibliography
+BookmarkLevel: 3
+BookmarkPageNumber: 225
+BookmarkBegin
+BookmarkTitle: Part IV Radome Specifications and Environmental Degradations
+BookmarkLevel: 2
+BookmarkPageNumber: 226
+BookmarkBegin
+BookmarkTitle: 10 Specifying and Testing Radome Performance
+BookmarkLevel: 2
+BookmarkPageNumber: 228
+BookmarkBegin
+BookmarkTitle: 10.1 Specifying Aircraft Radomes
+BookmarkLevel: 3
+BookmarkPageNumber: 228
+BookmarkBegin
+BookmarkTitle: 10.2 Specifying Radomes for Terrestrial and Marine SATCOMAntennas
+BookmarkLevel: 3
+BookmarkPageNumber: 228
+BookmarkBegin
+BookmarkTitle: 10.3 Radome Testing Methodology
+BookmarkLevel: 3
+BookmarkPageNumber: 229
+BookmarkBegin
+BookmarkTitle: 10.3.1 Outdoor Test Facilities
+BookmarkLevel: 4
+BookmarkPageNumber: 229
+BookmarkBegin
+BookmarkTitle: 10.3.2 Use of Indoor Anechoic Chambers
+BookmarkLevel: 4
+BookmarkPageNumber: 231
+BookmarkBegin
+BookmarkTitle: 10.3.3 Use of Compact Range
+BookmarkLevel: 4
+BookmarkPageNumber: 233
+BookmarkBegin
+BookmarkTitle: 10.3.4 Near-Field Testing Options
+BookmarkLevel: 4
+BookmarkPageNumber: 235
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 3
+BookmarkPageNumber: 236
+BookmarkBegin
+BookmarkTitle: Selected Bibliography
+BookmarkLevel: 3
+BookmarkPageNumber: 237
+BookmarkBegin
+BookmarkTitle: 11 Environmental Degradations
+BookmarkLevel: 2
+BookmarkPageNumber: 238
+BookmarkBegin
+BookmarkTitle: 11.1 Rain Erosion
+BookmarkLevel: 3
+BookmarkPageNumber: 238
+BookmarkBegin
+BookmarkTitle: 11.1.1 Rain Erosion Paints
+BookmarkLevel: 4
+BookmarkPageNumber: 239
+BookmarkBegin
+BookmarkTitle: 11.1.2 Rain Erosion Boots
+BookmarkLevel: 4
+BookmarkPageNumber: 240
+BookmarkBegin
+BookmarkTitle: 11.2 Atmospheric Electricity
+BookmarkLevel: 3
+BookmarkPageNumber: 241
+BookmarkBegin
+BookmarkTitle: 11.2.1 Lighting Strike Damage
+BookmarkLevel: 4
+BookmarkPageNumber: 241
+BookmarkBegin
+BookmarkTitle: 11.2.2 Use of Lightning Diverters
+BookmarkLevel: 4
+BookmarkPageNumber: 242
+BookmarkBegin
+BookmarkTitle: 11.2.3 Antistatic Systems
+BookmarkLevel: 4
+BookmarkPageNumber: 244
+BookmarkBegin
+BookmarkTitle: 11.2.4 Radome Wetting and Hydrophobic Materials
+BookmarkLevel: 4
+BookmarkPageNumber: 245
+BookmarkBegin
+BookmarkTitle: 11.3 Radome Impact Resistance
+BookmarkLevel: 3
+BookmarkPageNumber: 245
+BookmarkBegin
+BookmarkTitle: References
+BookmarkLevel: 3
+BookmarkPageNumber: 248
+BookmarkBegin
+BookmarkTitle: Appendix A Vector Operations in Various Coordinate Systems
+BookmarkLevel: 2
+BookmarkPageNumber: 250
+BookmarkBegin
+BookmarkTitle: Appendix B Propagation Constant and WaveImpedance for Arbitrary Media
+BookmarkLevel: 2
+BookmarkPageNumber: 252
+BookmarkBegin
+BookmarkTitle: Appendix C Multilayer Propagation and Fresnel Transmission and Reflection Coefficients
+BookmarkLevel: 2
+BookmarkPageNumber: 258
+BookmarkBegin
+BookmarkTitle: Appendix D Radiation from Elemental Currents
+BookmarkLevel: 2
+BookmarkPageNumber: 262
+BookmarkBegin
+BookmarkTitle: Appendix E Program TORADOME Software Listing
+BookmarkLevel: 2
+BookmarkPageNumber: 268
+BookmarkBegin
+BookmarkTitle: Appendix F Operations Manual for Programs Provided with Book
+BookmarkLevel: 2
+BookmarkPageNumber: 302
+BookmarkBegin
+BookmarkTitle: About the Author
+BookmarkLevel: 2
+BookmarkPageNumber: 306
+BookmarkBegin
+BookmarkTitle: Index
+BookmarkLevel: 2
+BookmarkPageNumber: 308
