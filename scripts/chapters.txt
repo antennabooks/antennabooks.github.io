@@ -1,672 +1,2608 @@
 BookmarkBegin
-BookmarkTitle: Analysis of Radome-Enclosed Antennas Second Edition
+BookmarkTitle: Cover
 BookmarkLevel: 1
-BookmarkPageNumber: 2
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Modern Antennas, 2nd Edition (Springer, 2005)
+BookmarkLevel: 1
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: ISBN 978-1-4020-3216-5
+BookmarkLevel: 2
+BookmarkPageNumber: 4
 BookmarkBegin
 BookmarkTitle: Contents
 BookmarkLevel: 2
-BookmarkPageNumber: 6
+BookmarkPageNumber: 5
 BookmarkBegin
-BookmarkTitle: Foreword
-BookmarkLevel: 2
-BookmarkPageNumber: 14
-BookmarkBegin
-BookmarkTitle: Preface
+BookmarkTitle: List of contributors
 BookmarkLevel: 2
 BookmarkPageNumber: 16
 BookmarkBegin
-BookmarkTitle: Acknowledgments
+BookmarkTitle: Foreword
+BookmarkLevel: 2
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: Acknowledgements
 BookmarkLevel: 2
 BookmarkPageNumber: 20
 BookmarkBegin
-BookmarkTitle: Part I Background and Fundamentals
+BookmarkTitle: Electromagnetism and antennas - a historical Perspective
+BookmarkLevel: 1
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Introduction
 BookmarkLevel: 2
-BookmarkPageNumber: 22
+BookmarkPageNumber: 21
 BookmarkBegin
-BookmarkTitle: 1 Overview of Radome Phenomenology
+BookmarkTitle: Further Reading
 BookmarkLevel: 2
-BookmarkPageNumber: 24
-BookmarkBegin
-BookmarkTitle: 1.1 History of Radome Development
-BookmarkLevel: 3
-BookmarkPageNumber: 24
-BookmarkBegin
-BookmarkTitle: 1.2 Radome-Antenna Interaction
-BookmarkLevel: 3
 BookmarkPageNumber: 26
 BookmarkBegin
-BookmarkTitle: 1.2.1 Boresight Error (BSE) and Boresight Error Slope (BSES)
+BookmarkTitle: Fundamentals of electromagnetism
+BookmarkLevel: 1
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: 1.1 Maxwell&#8217;s Equations1
+BookmarkLevel: 2
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: 1.1.1 Maxwell&#8217;s equations in an arbitrary medium
+BookmarkLevel: 3
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Electromagnetic fields and sources
 BookmarkLevel: 4
 BookmarkPageNumber: 27
 BookmarkBegin
-BookmarkTitle: 1.2.2 Registration Error
+BookmarkTitle: Complex notation
 BookmarkLevel: 4
 BookmarkPageNumber: 28
 BookmarkBegin
-BookmarkTitle: 1.2.3 Antenna Sidelobe Degradation
-BookmarkLevel: 4
-BookmarkPageNumber: 28
-BookmarkBegin
-BookmarkTitle: 1.2.4 Depolarization
-BookmarkLevel: 4
-BookmarkPageNumber: 28
-BookmarkBegin
-BookmarkTitle: 1.2.5 Antenna Voltage Standing Wave Ratio (VSWR)
+BookmarkTitle: Continuity conditions
 BookmarkLevel: 4
 BookmarkPageNumber: 29
 BookmarkBegin
-BookmarkTitle: 1.2.6 Introduction of an Insertion Loss Due to the Presence of the Radome
+BookmarkTitle: Electromagnetic potentials
 BookmarkLevel: 4
-BookmarkPageNumber: 29
+BookmarkPageNumber: 30
 BookmarkBegin
-BookmarkTitle: 1.3 Significance of Parameters in Radome Performance
+BookmarkTitle: 1.1.2 Linear media
 BookmarkLevel: 3
-BookmarkPageNumber: 29
+BookmarkPageNumber: 30
 BookmarkBegin
-BookmarkTitle: 1.4 Radome Technology Advances Since the First Edition
-BookmarkLevel: 3
-BookmarkPageNumber: 31
+BookmarkTitle: Linear dielectric media
+BookmarkLevel: 4
+BookmarkPageNumber: 30
 BookmarkBegin
-BookmarkTitle: 1.4.1 Use of Metamaterials
+BookmarkTitle: Linear magnetic media
 BookmarkLevel: 4
 BookmarkPageNumber: 31
 BookmarkBegin
-BookmarkTitle: 1.4.2 Frequency Selective Radomes
+BookmarkTitle: Maxwell&#8217;s equations in a linear medium
+BookmarkLevel: 4
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: Propagation equations
+BookmarkLevel: 4
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: 1.1.3 Conducting media
+BookmarkLevel: 3
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: Perfect conductor
 BookmarkLevel: 4
 BookmarkPageNumber: 32
 BookmarkBegin
-BookmarkTitle: 1.4.3 Concealed Radomes
+BookmarkTitle: Conducting and linear dielectric media
 BookmarkLevel: 4
 BookmarkPageNumber: 33
 BookmarkBegin
-BookmarkTitle: References
+BookmarkTitle: 1.1.4 Reciprocity theorem
 BookmarkLevel: 3
 BookmarkPageNumber: 34
 BookmarkBegin
-BookmarkTitle: 2 Basic Principles and Conventions
+BookmarkTitle: 1.2 Power and Energy
 BookmarkLevel: 2
-BookmarkPageNumber: 36
+BookmarkPageNumber: 35
 BookmarkBegin
-BookmarkTitle: 2.1 Vector Mathematics
+BookmarkTitle: 1.2.1 Power volume densities
+BookmarkLevel: 3
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: 1.2.2 Energy volume densities
 BookmarkLevel: 3
 BookmarkPageNumber: 36
 BookmarkBegin
-BookmarkTitle: 2.2 Electromagnetic Theory
+BookmarkTitle: 1.2.3 Poynting vector and power
 BookmarkLevel: 3
+BookmarkPageNumber: 37
+BookmarkBegin
+BookmarkTitle: 1.3 Plane Waves in Linear Media
+BookmarkLevel: 2
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: 1.3.1 Plane waves in an isotropic linear medium
+BookmarkLevel: 3
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: Definition of a plane wave
+BookmarkLevel: 4
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: Propagation constant, wavenumber, phase velocity, refractive index, attenuation
+BookmarkLevel: 4
 BookmarkPageNumber: 39
 BookmarkBegin
-BookmarkTitle: 2.3 Matrices
-BookmarkLevel: 3
+BookmarkTitle: Structure, wave impedance
+BookmarkLevel: 4
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: Polarization
+BookmarkLevel: 4
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Power transported by a plane wave in a lossless medium
+BookmarkLevel: 4
 BookmarkPageNumber: 42
 BookmarkBegin
-BookmarkTitle: 2.4 Coordinate Systems and Gimbal Relationships
+BookmarkTitle: Spherical waves in a lossless medium
+BookmarkLevel: 4
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: 1.3.2 Skin effect
 BookmarkLevel: 3
 BookmarkPageNumber: 44
 BookmarkBegin
-BookmarkTitle: 2.5 Specialized Antenna Pointing Gimbals
+BookmarkTitle: Further Reading
+BookmarkLevel: 2
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: Exercises
+BookmarkLevel: 2
+BookmarkPageNumber: 47
+BookmarkBegin
+BookmarkTitle: 1.1 Field propagation equations in a linear medium
+BookmarkLevel: 3
+BookmarkPageNumber: 47
+BookmarkBegin
+BookmarkTitle: 1.2 Electromagnetic potentials
+BookmarkLevel: 3
+BookmarkPageNumber: 47
+BookmarkBegin
+BookmarkTitle: 1.3 Propagation in the direction Oz
+BookmarkLevel: 3
+BookmarkPageNumber: 48
+BookmarkBegin
+BookmarkTitle: 1.4 Polarization
+BookmarkLevel: 3
+BookmarkPageNumber: 48
+BookmarkBegin
+BookmarkTitle: 1.5 Volume density of charge
 BookmarkLevel: 3
 BookmarkPageNumber: 49
 BookmarkBegin
-BookmarkTitle: 2.5.1 Maritime SATCOM
-BookmarkLevel: 4
-BookmarkPageNumber: 50
+BookmarkTitle: 1.6 Skin effect
+BookmarkLevel: 3
+BookmarkPageNumber: 49
 BookmarkBegin
-BookmarkTitle: 2.5.2 Vehicular Applications
-BookmarkLevel: 4
+BookmarkTitle: Radiation
+BookmarkLevel: 1
 BookmarkPageNumber: 51
 BookmarkBegin
-BookmarkTitle: 2.5.3 Airborne Applications
+BookmarkTitle: 2.1 Plane Wave Spectrum
+BookmarkLevel: 2
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: 2.1.1 Spectral domain
+BookmarkLevel: 3
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: 2-D Fourier transform
 BookmarkLevel: 4
 BookmarkPageNumber: 52
 BookmarkBegin
-BookmarkTitle: References
-BookmarkLevel: 3
+BookmarkTitle: Properties
+BookmarkLevel: 4
 BookmarkPageNumber: 53
 BookmarkBegin
-BookmarkTitle: Selected Bibliography
+BookmarkTitle: The electromagnetic field in the spectral domain
+BookmarkLevel: 4
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: 2.1.2 Electromagnetic field in a semi-infinite space with no sources
 BookmarkLevel: 3
 BookmarkPageNumber: 54
 BookmarkBegin
-BookmarkTitle: 3 Antenna Fundamentals
-BookmarkLevel: 2
-BookmarkPageNumber: 56
+BookmarkTitle: Component expressions
+BookmarkLevel: 4
+BookmarkPageNumber: 55
 BookmarkBegin
-BookmarkTitle: 3.1 Directivity and Gain
-BookmarkLevel: 3
-BookmarkPageNumber: 56
+BookmarkTitle: Interpretation: angular plane-wave spectrum
+BookmarkLevel: 4
+BookmarkPageNumber: 57
 BookmarkBegin
-BookmarkTitle: 3.2 Radiation from Current Elements
+BookmarkTitle: Field component relations in the spectral domain
+BookmarkLevel: 4
+BookmarkPageNumber: 57
+BookmarkBegin
+BookmarkTitle: The electric (or magnetic) field can be expressed from the tangential electric (or magnetic) field in the vicinity of the xy plane.
+BookmarkLevel: 4
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle: 2.1.3 The far field
 BookmarkLevel: 3
 BookmarkPageNumber: 59
 BookmarkBegin
-BookmarkTitle: 3.3 Antenna Array Factor
-BookmarkLevel: 3
+BookmarkTitle: Field calculation by the stationary phase method
+BookmarkLevel: 4
 BookmarkPageNumber: 60
 BookmarkBegin
-BookmarkTitle: 3.4 Linear Aperture Distributions
-BookmarkLevel: 3
+BookmarkTitle: Application to the calculation of the far field
+BookmarkLevel: 4
 BookmarkPageNumber: 61
 BookmarkBegin
-BookmarkTitle: 3.5 Two-Dimensional Distributions
+BookmarkTitle: Application to the radiation from an elementary dipole (Hertzian dipole)
+BookmarkLevel: 4
+BookmarkPageNumber: 63
+BookmarkBegin
+BookmarkTitle: 2.2 Kirchhoff&#8217;s Formulation
+BookmarkLevel: 2
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle: 2.2.1 Green&#8217;s identity and Green&#8217;s functions
+BookmarkLevel: 3
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle: Green&#8217;s identity
+BookmarkLevel: 4
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle: Green&#8217;s function in an unbounded space
+BookmarkLevel: 4
+BookmarkPageNumber: 65
+BookmarkBegin
+BookmarkTitle: Even Green&#8217;s function in the half-space z &gt; 0
+BookmarkLevel: 4
+BookmarkPageNumber: 65
+BookmarkBegin
+BookmarkTitle: 2.2.2 Kirchhoff&#8217;s integral formulation
 BookmarkLevel: 3
 BookmarkPageNumber: 66
 BookmarkBegin
-BookmarkTitle: 3.6 Spiral Antennas
+BookmarkTitle: By means of Green&#8217;s function in an unbounded space
+BookmarkLevel: 4
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle: By means of the odd Green&#8217;s function G1 in a half-space
+BookmarkLevel: 4
+BookmarkPageNumber: 67
+BookmarkBegin
+BookmarkTitle: By means of the even Green&#8217;s function G2 in a half-space
+BookmarkLevel: 4
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle: 2.2.3 Plane wave spectrum and Kirchhoff&#8217;s formulation
 BookmarkLevel: 3
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle: Further Reading
+BookmarkLevel: 2
 BookmarkPageNumber: 69
 BookmarkBegin
-BookmarkTitle: References
+BookmarkTitle: Exercises
+BookmarkLevel: 2
+BookmarkPageNumber: 70
+BookmarkBegin
+BookmarkTitle: 2.1 2D Fourier transforms
+BookmarkLevel: 3
+BookmarkPageNumber: 70
+BookmarkBegin
+BookmarkTitle: 2.2 2D Fourier transform of exp(&#8722;jkr)/r
+BookmarkLevel: 3
+BookmarkPageNumber: 70
+BookmarkBegin
+BookmarkTitle: Antennas in transmission
+BookmarkLevel: 1
+BookmarkPageNumber: 72
+BookmarkBegin
+BookmarkTitle: 3.1 Far Field Radiation
+BookmarkLevel: 2
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: 3.1.1 Vector characteristic of the radiation from the antenna
 BookmarkLevel: 3
 BookmarkPageNumber: 73
 BookmarkBegin
-BookmarkTitle: 4 Radome Dielectric Materials
-BookmarkLevel: 2
-BookmarkPageNumber: 76
+BookmarkTitle: 3.1.2 Translation theorem
+BookmarkLevel: 3
+BookmarkPageNumber: 74
 BookmarkBegin
-BookmarkTitle: 4.1 Organic Materials
+BookmarkTitle: 3.1.3 Application: radiation produced by an arbitrary current
+BookmarkLevel: 3
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: Application: calculation of the field radiated by a closed circuit of small dimensions; magnetic dipole
+BookmarkLevel: 4
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle: 3.1.4 Radiated power
 BookmarkLevel: 3
 BookmarkPageNumber: 77
 BookmarkBegin
-BookmarkTitle: 4.1.1 Monolithic Radomes
-BookmarkLevel: 4
-BookmarkPageNumber: 77
+BookmarkTitle: 3.2 Field Radiated from an antenna
+BookmarkLevel: 2
+BookmarkPageNumber: 78
 BookmarkBegin
-BookmarkTitle: 4.1.2 Sandwich Radomes
+BookmarkTitle: 3.2.1 Elementary dipoles
+BookmarkLevel: 3
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: Electric dipole
 BookmarkLevel: 4
 BookmarkPageNumber: 78
 BookmarkBegin
-BookmarkTitle: 4.2 Inorganic Materials
+BookmarkTitle: Magnetic dipole
+BookmarkLevel: 4
+BookmarkPageNumber: 80
+BookmarkBegin
+BookmarkTitle: 3.2.2 Plane-aperture radiation
 BookmarkLevel: 3
+BookmarkPageNumber: 81
+BookmarkBegin
+BookmarkTitle: General formula
+BookmarkLevel: 4
+BookmarkPageNumber: 81
+BookmarkBegin
+BookmarkTitle: Radiated power
+BookmarkLevel: 4
 BookmarkPageNumber: 83
 BookmarkBegin
-BookmarkTitle: 4.3 Dual Mode (RF/IR) Materials
+BookmarkTitle: Uniformly illuminated rectangular aperture
+BookmarkLevel: 4
+BookmarkPageNumber: 84
+BookmarkBegin
+BookmarkTitle: Uniformly illuminated circular aperture
+BookmarkLevel: 4
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: 3.3 Directivity, Gain, Radiation Pattern
+BookmarkLevel: 2
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: 3.3.1 Radiated power
 BookmarkLevel: 3
-BookmarkPageNumber: 88
+BookmarkPageNumber: 85
 BookmarkBegin
-BookmarkTitle: 4.3.1 Nonorganic Dual-Mode Materials
+BookmarkTitle: 3.3.2 Directivity
+BookmarkLevel: 3
+BookmarkPageNumber: 86
+BookmarkBegin
+BookmarkTitle: 3.3.3 Gain
+BookmarkLevel: 3
+BookmarkPageNumber: 87
+BookmarkBegin
+BookmarkTitle: 3.3.4 Radiation pattern
+BookmarkLevel: 3
+BookmarkPageNumber: 89
+BookmarkBegin
+BookmarkTitle: Definition
 BookmarkLevel: 4
-BookmarkPageNumber: 88
+BookmarkPageNumber: 89
 BookmarkBegin
-BookmarkTitle: 4.3.2 Organic Dual-Mode Materials
-BookmarkLevel: 4
-BookmarkPageNumber: 90
-BookmarkBegin
-BookmarkTitle: 4.4 Effect of Radome Material on Antenna Performance
+BookmarkTitle: 3.3.5 Input impedance
 BookmarkLevel: 3
 BookmarkPageNumber: 91
 BookmarkBegin
-BookmarkTitle: 4.4.1 Receiver Noise
+BookmarkTitle: Radiation resistance of elementary dipoles
 BookmarkLevel: 4
 BookmarkPageNumber: 92
 BookmarkBegin
-BookmarkTitle: 4.4.2 Noise Temperature Without Radome
-BookmarkLevel: 4
+BookmarkTitle: Further Reading
+BookmarkLevel: 2
+BookmarkPageNumber: 92
+BookmarkBegin
+BookmarkTitle: Exercises
+BookmarkLevel: 2
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: 3.1 Realization of circular polarization
+BookmarkLevel: 3
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: 3.2 Crossed dipoles
+BookmarkLevel: 3
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: 3.3 Two electric dipoles
+BookmarkLevel: 3
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: 3.4 Electric dipole and magnetic dipole
+BookmarkLevel: 3
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: 3.5 Antenna radiating into a half-space with a function cos&#957;theta
+BookmarkLevel: 3
 BookmarkPageNumber: 94
 BookmarkBegin
-BookmarkTitle: 4.4.3 Noise Temperature with Radome
-BookmarkLevel: 4
+BookmarkTitle: 3.6 Maximum directivity of an aperture antenna
+BookmarkLevel: 3
 BookmarkPageNumber: 94
 BookmarkBegin
-BookmarkTitle: References
+BookmarkTitle: 3.7 Rectangular aperture
+BookmarkLevel: 3
+BookmarkPageNumber: 95
+BookmarkBegin
+BookmarkTitle: 3.8 Circular aperture
+BookmarkLevel: 3
+BookmarkPageNumber: 95
+BookmarkBegin
+BookmarkTitle: 3.9 Uniformly illuminated circular aperture
+BookmarkLevel: 3
+BookmarkPageNumber: 96
+BookmarkBegin
+BookmarkTitle: Receiving antennas
+BookmarkLevel: 1
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: 4.1 Antenna Reciprocity Theorem
+BookmarkLevel: 2
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: 4.1.1 Reciprocity theorem applied to a source-free closed surface
 BookmarkLevel: 3
 BookmarkPageNumber: 97
 BookmarkBegin
-BookmarkTitle: Part II Radome Analysis Techniques
-BookmarkLevel: 2
+BookmarkTitle: Surface used for the application of the reciprocity theorem
+BookmarkLevel: 4
+BookmarkPageNumber: 98
+BookmarkBegin
+BookmarkTitle: Field (E1,H1) when the antenna is transmitting
+BookmarkLevel: 4
+BookmarkPageNumber: 98
+BookmarkBegin
+BookmarkTitle: Field (E2,H2) when the antenna is receiving
+BookmarkLevel: 4
 BookmarkPageNumber: 100
 BookmarkBegin
-BookmarkTitle: 5 Dielectric Wall Constructions
+BookmarkTitle: Calculation of the reciprocity integral
+BookmarkLevel: 4
+BookmarkPageNumber: 101
+BookmarkBegin
+BookmarkTitle: 4.1.2 Relation between the field on transmit and the field on receive
+BookmarkLevel: 3
+BookmarkPageNumber: 101
+BookmarkBegin
+BookmarkTitle: 4.2 Antenna Effective Receiving Area
 BookmarkLevel: 2
 BookmarkPageNumber: 102
 BookmarkBegin
-BookmarkTitle: 5.1 Mathematical Formulation for Radome Wall Transmission
+BookmarkTitle: 4.2.1 Definition
 BookmarkLevel: 3
 BookmarkPageNumber: 102
 BookmarkBegin
-BookmarkTitle: 5.2 Radome Types, Classes, and Styles Definition
+BookmarkTitle: 4.2.2 Relationship between gain and effective receiving area
+BookmarkLevel: 3
+BookmarkPageNumber: 103
+BookmarkBegin
+BookmarkTitle: 4.3 Energy Transmission Between Two Antennas
+BookmarkLevel: 2
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle: 4.3.1 The Friis transmission formula
+BookmarkLevel: 3
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle: 4.3.2 Radar equation
+BookmarkLevel: 3
+BookmarkPageNumber: 105
+BookmarkBegin
+BookmarkTitle: 4.3.3 Antenna Radar Cross Section (RCS)1,2,3,4
 BookmarkLevel: 3
 BookmarkPageNumber: 107
 BookmarkBegin
-BookmarkTitle: 5.2.1 Radome Type Definitions
+BookmarkTitle: Antenna RCS
 BookmarkLevel: 4
 BookmarkPageNumber: 107
 BookmarkBegin
-BookmarkTitle: 5.2.2 Radome Class Definitions
-BookmarkLevel: 4
+BookmarkTitle: 4.4 Antenna Behaviour in the Presence of Noise
+BookmarkLevel: 2
 BookmarkPageNumber: 108
 BookmarkBegin
-BookmarkTitle: 5.2.3 Radome Style Definitions
-BookmarkLevel: 4
-BookmarkPageNumber: 108
-BookmarkBegin
-BookmarkTitle: 5.3 Wall Style Electrical Performance
+BookmarkTitle: 4.4.1 Power radiated by a body at absolute temperature T
 BookmarkLevel: 3
-BookmarkPageNumber: 109
+BookmarkPageNumber: 108
 BookmarkBegin
-BookmarkTitle: 5.3.1 Half-Wave Wall Radomes (Style a)
-BookmarkLevel: 4
-BookmarkPageNumber: 109
+BookmarkTitle: 4.4.2 Noise temperature of the antenna
+BookmarkLevel: 3
+BookmarkPageNumber: 111
 BookmarkBegin
-BookmarkTitle: 5.3.2 Thin Walled Radomes (Style b)
-BookmarkLevel: 4
+BookmarkTitle: 4.4.3 Noise temperature of the receiving system
+BookmarkLevel: 3
 BookmarkPageNumber: 112
 BookmarkBegin
-BookmarkTitle: 5.3.3 A Sandwich Radome (Style c)
-BookmarkLevel: 4
-BookmarkPageNumber: 112
-BookmarkBegin
-BookmarkTitle: 5.3.4 Multilayer Radomes (Style d)
-BookmarkLevel: 4
+BookmarkTitle: Further Reading
+BookmarkLevel: 2
 BookmarkPageNumber: 113
 BookmarkBegin
-BookmarkTitle: 5.3.5 B-Sandwich Radomes (Style e)
+BookmarkTitle: Exercises
+BookmarkLevel: 2
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: 4.1 Earth-Moon radio link
+BookmarkLevel: 3
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: 4.2 Radiocommunication link
+BookmarkLevel: 3
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: 4.3 DBS TV
+BookmarkLevel: 3
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: 4.4 Radio link
+BookmarkLevel: 3
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: Antennas of simple geometry
+BookmarkLevel: 1
+BookmarkPageNumber: 116
+BookmarkBegin
+BookmarkTitle: 5.1 Aperture Antennas
+BookmarkLevel: 2
+BookmarkPageNumber: 116
+BookmarkBegin
+BookmarkTitle: 5.1.1 Parabolic antennas
+BookmarkLevel: 3
+BookmarkPageNumber: 116
+BookmarkBegin
+BookmarkTitle: Geometry of a parabola
+BookmarkLevel: 4
+BookmarkPageNumber: 117
+BookmarkBegin
+BookmarkTitle: Field in the aperture
 BookmarkLevel: 4
 BookmarkPageNumber: 118
 BookmarkBegin
-BookmarkTitle: References
+BookmarkTitle: 5.1.2 Rectangular horns (see also &#167;8.2)
 BookmarkLevel: 3
-BookmarkPageNumber: 118
+BookmarkPageNumber: 122
 BookmarkBegin
-BookmarkTitle: Appendix 5A: Program WALL Computer Software Listing
-BookmarkLevel: 3
-BookmarkPageNumber: 119
-BookmarkBegin
-BookmarkTitle: 5.1 Mathematical Formulation for Radome Wall Transmission
-BookmarkLevel: 3
-BookmarkPageNumber: 102
-BookmarkBegin
-BookmarkTitle: 5.1.2 Transmission Coefficients for Circular Polarization
-BookmarkLevel: 3
-BookmarkPageNumber: 105
-BookmarkBegin
-BookmarkTitle: 5.1.3 Transmission for Elliptical Polarization
-BookmarkLevel: 3
-BookmarkPageNumber: 105
-BookmarkBegin
-BookmarkTitle: 6 Radome Analysis Techniques
-BookmarkLevel: 2
-BookmarkPageNumber: 124
-BookmarkBegin
-BookmarkTitle: 6.1 Background
-BookmarkLevel: 3
-BookmarkPageNumber: 125
-BookmarkBegin
-BookmarkTitle: 6.2 Geometric Optics (GO) Approaches
-BookmarkLevel: 3
-BookmarkPageNumber: 128
-BookmarkBegin
-BookmarkTitle: 6.2.1 GO Receive Mode Calculations
+BookmarkTitle: Pyramidal horn
 BookmarkLevel: 4
 BookmarkPageNumber: 129
 BookmarkBegin
-BookmarkTitle: 6.2.2 GO Transmit Mode Calculations
-BookmarkLevel: 4
+BookmarkTitle: 5.2 Wire Antennas
+BookmarkLevel: 2
 BookmarkPageNumber: 131
 BookmarkBegin
-BookmarkTitle: 6.3 Physical Optics (PO) Approaches
+BookmarkTitle: 5.2.1 Electric dipoles
 BookmarkLevel: 3
 BookmarkPageNumber: 131
 BookmarkBegin
-BookmarkTitle: 6.3.1 PO Receive Mode Calculations
+BookmarkTitle: Hertzian dipole (elementary electric dipole)
 BookmarkLevel: 4
 BookmarkPageNumber: 132
 BookmarkBegin
-BookmarkTitle: 6.3.2 PO Transmit Mode Calculations
+BookmarkTitle: Electric dipoles of arbitrary length
 BookmarkLevel: 4
 BookmarkPageNumber: 133
 BookmarkBegin
-BookmarkTitle: 6.4 Other Approaches
+BookmarkTitle: 5.2.2 Travelling wave rectilinear antennas
 BookmarkLevel: 3
-BookmarkPageNumber: 134
-BookmarkBegin
-BookmarkTitle: 6.4.1 Method of Moments (MOM)
-BookmarkLevel: 4
-BookmarkPageNumber: 134
-BookmarkBegin
-BookmarkTitle: 6.4.2 Plane Wave Spectra (PWS)
-BookmarkLevel: 4
-BookmarkPageNumber: 135
-BookmarkBegin
-BookmarkTitle: 6.4.3 FDTD and Integral Equation Methods
-BookmarkLevel: 4
-BookmarkPageNumber: 136
-BookmarkBegin
-BookmarkTitle: 6.5 Sources of Computational Error
-BookmarkLevel: 3
-BookmarkPageNumber: 136
-BookmarkBegin
-BookmarkTitle: 6.5.1 Internal Reflections
-BookmarkLevel: 4
 BookmarkPageNumber: 137
 BookmarkBegin
-BookmarkTitle: 6.5.2 Wall Model and Statistical Variations
+BookmarkTitle: 5.2.3 Loops and helical antennas
+BookmarkLevel: 3
+BookmarkPageNumber: 140
+BookmarkBegin
+BookmarkTitle: Loops
 BookmarkLevel: 4
 BookmarkPageNumber: 140
 BookmarkBegin
-BookmarkTitle: References
-BookmarkLevel: 3
-BookmarkPageNumber: 141
+BookmarkTitle: Helical antennas
+BookmarkLevel: 4
+BookmarkPageNumber: 142
 BookmarkBegin
-BookmarkTitle: Part III Computer Implementation
+BookmarkTitle: Further Reading
 BookmarkLevel: 2
+BookmarkPageNumber: 144
+BookmarkBegin
+BookmarkTitle: Exercises
+BookmarkLevel: 2
+BookmarkPageNumber: 145
+BookmarkBegin
+BookmarkTitle: 5.1 Half-wave dipole
+BookmarkLevel: 3
+BookmarkPageNumber: 145
+BookmarkBegin
+BookmarkTitle: 5.2 Parabolic reflector of diameter D small compared with the wavelength &#955;, uniformly illuminated by a primary feed
+BookmarkLevel: 3
+BookmarkPageNumber: 145
+BookmarkBegin
+BookmarkTitle: 5.3 Pyramidal horn
+BookmarkLevel: 3
 BookmarkPageNumber: 146
 BookmarkBegin
-BookmarkTitle: 7 Ray Trace Approaches
+BookmarkTitle: 5.4 Rectilinear travelling wave antenna
+BookmarkLevel: 3
+BookmarkPageNumber: 146
+BookmarkBegin
+BookmarkTitle: 5.5 Power radiated by a loop carrying a constant current
+BookmarkLevel: 3
+BookmarkPageNumber: 146
+BookmarkBegin
+BookmarkTitle: Printed antennas
+BookmarkLevel: 1
+BookmarkPageNumber: 148
+BookmarkBegin
+BookmarkTitle: 6.1 Introduction
 BookmarkLevel: 2
 BookmarkPageNumber: 148
 BookmarkBegin
-BookmarkTitle: 7.1 Shape Considerations
-BookmarkLevel: 3
+BookmarkTitle: 6.2 Different Type of Printed Radiating Elements
+BookmarkLevel: 2
 BookmarkPageNumber: 149
 BookmarkBegin
-BookmarkTitle: 7.1.1 Rationale for Choosing a Particular Shape
-BookmarkLevel: 4
-BookmarkPageNumber: 149
-BookmarkBegin
-BookmarkTitle: 7.1.2 Mathematical Modeling of the Tangent Ogive Shape
-BookmarkLevel: 4
+BookmarkTitle: 6.3 Field Analysis Methods 
+BookmarkLevel: 2
 BookmarkPageNumber: 152
 BookmarkBegin
-BookmarkTitle: 7.1.3 Determining the Intercept Point of a Ray with the Tangent Ogive Wall
+BookmarkTitle: 6.3.1 Methods of analysis of printed antennas
+BookmarkLevel: 3
+BookmarkPageNumber: 153
+BookmarkBegin
+BookmarkTitle: 6.3.2 The cavity method
+BookmarkLevel: 3
+BookmarkPageNumber: 153
+BookmarkBegin
+BookmarkTitle: Simplifying hypotheses
+BookmarkLevel: 4
+BookmarkPageNumber: 154
+BookmarkBegin
+BookmarkTitle: Calculation of the radiated field
 BookmarkLevel: 4
 BookmarkPageNumber: 155
 BookmarkBegin
-BookmarkTitle: 7.1.4 Computation of Surface Normal Vector at the Intercept Point
+BookmarkTitle: 6.3.3 Application to a rectangular patch
+BookmarkLevel: 3
+BookmarkPageNumber: 156
+BookmarkBegin
+BookmarkTitle: Expression for the electromagnetic field
 BookmarkLevel: 4
+BookmarkPageNumber: 156
+BookmarkBegin
+BookmarkTitle: Resonant modes
+BookmarkLevel: 4
+BookmarkPageNumber: 157
+BookmarkBegin
+BookmarkTitle: Magnetic field and surface current on the patch
+BookmarkLevel: 4
+BookmarkPageNumber: 157
+BookmarkBegin
+BookmarkTitle: Properties of the fundamental mode
+BookmarkLevel: 4
+BookmarkPageNumber: 158
+BookmarkBegin
+BookmarkTitle: 6.3.4 Application to a circular patch
+BookmarkLevel: 3
 BookmarkPageNumber: 159
 BookmarkBegin
-BookmarkTitle: 7.1.5 Determining the Ray Angle of Incidence
-BookmarkLevel: 4
+BookmarkTitle: 6.4 Input Impedance, Bandwidth and Radiation Pattern
+BookmarkLevel: 2
 BookmarkPageNumber: 161
 BookmarkBegin
-BookmarkTitle: 7.2 Hemispherical Radome Shapes
+BookmarkTitle: 6.4.1 Input impedance
 BookmarkLevel: 3
 BookmarkPageNumber: 161
 BookmarkBegin
-BookmarkTitle: 7.3 Other Radome Shapes Having Axial Symmetry
+BookmarkTitle: 6.4.2 Bandwidth
 BookmarkLevel: 3
-BookmarkPageNumber: 163
+BookmarkPageNumber: 162
 BookmarkBegin
-BookmarkTitle: 7.3.1 Mathematical Modeling of the Radome Shape
-BookmarkLevel: 4
-BookmarkPageNumber: 163
-BookmarkBegin
-BookmarkTitle: 7.3.2 POLY Polynomial Regression Subroutine
-BookmarkLevel: 4
-BookmarkPageNumber: 163
-BookmarkBegin
-BookmarkTitle: 7.3.3 Determining Intercept Point and Surface Normal Vectors
-BookmarkLevel: 4
-BookmarkPageNumber: 164
-BookmarkBegin
-BookmarkTitle: 7.4 Wave Decomposition at the Intercept Point
+BookmarkTitle: 6.4.3 Radiation pattern
 BookmarkLevel: 3
 BookmarkPageNumber: 165
 BookmarkBegin
-BookmarkTitle: References
+BookmarkTitle: 6.4.4 Polarization
 BookmarkLevel: 3
+BookmarkPageNumber: 166
+BookmarkBegin
+BookmarkTitle: Linear polarization
+BookmarkLevel: 4
+BookmarkPageNumber: 166
+BookmarkBegin
+BookmarkTitle: Circular polarization
+BookmarkLevel: 4
 BookmarkPageNumber: 167
 BookmarkBegin
-BookmarkTitle: Appendix 7A: Program OGIVE Software Listing
-BookmarkLevel: 3
-BookmarkPageNumber: 168
+BookmarkTitle: 6.5 Low - Profile, Wideband or Multiband Antennas for Mobile Communications and Short - Range
+BookmarkLevel: 2
+BookmarkPageNumber: 169
 BookmarkBegin
-BookmarkTitle: Appendix 7B: Program POLY Software Listing
+BookmarkTitle: 6.5.1 Miniaturization
 BookmarkLevel: 3
 BookmarkPageNumber: 170
 BookmarkBegin
-BookmarkTitle: Appendix 7C: Program ARBITRARY Software Listing
+BookmarkTitle: 6.5.2 Enlargement of the bandwidth and realization of multiband antennas
 BookmarkLevel: 3
-BookmarkPageNumber: 172
+BookmarkPageNumber: 171
 BookmarkBegin
-BookmarkTitle: Appendix 7D: Program DECOMPOSE Computer Listing
+BookmarkTitle: 6.5.3 Example: multiband antenna for telecommunications5
 BookmarkLevel: 3
-BookmarkPageNumber: 174
+BookmarkPageNumber: 173
 BookmarkBegin
-BookmarkTitle: 8 Radome-Enclosed Guidance Antennas
+BookmarkTitle: Further Reading
+BookmarkLevel: 2
+BookmarkPageNumber: 177
+BookmarkBegin
+BookmarkTitle: Exercises
 BookmarkLevel: 2
 BookmarkPageNumber: 178
 BookmarkBegin
-BookmarkTitle: 8.1 Definitions of Boresight Error (BSE) and Boresight Error Slope(BSES)
+BookmarkTitle: 6.1 Simplified model of a rectangular printed patch
 BookmarkLevel: 3
+BookmarkPageNumber: 178
+BookmarkBegin
+BookmarkTitle: 6.2 Semi-circular patch analyzed using the cavity method
+BookmarkLevel: 3
+BookmarkPageNumber: 179
+BookmarkBegin
+BookmarkTitle: 6.3 Dual-frequency rectangular microstrip antenna
+BookmarkLevel: 3
+BookmarkPageNumber: 179
+BookmarkBegin
+BookmarkTitle: Large antennas and microwave antennas
+BookmarkLevel: 1
 BookmarkPageNumber: 180
 BookmarkBegin
-BookmarkTitle: 8.2 Calculation of Antenna Patterns and Monopulse Error Voltagesfor an Antenna Without a Radome
+BookmarkTitle: 7.1 Introduction
+BookmarkLevel: 2
+BookmarkPageNumber: 180
+BookmarkBegin
+BookmarkTitle: 7.2 Structures and Applications
+BookmarkLevel: 2
+BookmarkPageNumber: 182
+BookmarkBegin
+BookmarkTitle: 7.2.1 Structures
 BookmarkLevel: 3
-BookmarkPageNumber: 183
+BookmarkPageNumber: 182
 BookmarkBegin
-BookmarkTitle: 8.3 Calculation of Radiation Patterns and Monopulse Error Voltagesfor an Antenna with a Radome
+BookmarkTitle: 7.2.2 External characteristics required in applications
 BookmarkLevel: 3
-BookmarkPageNumber: 192
+BookmarkPageNumber: 186
 BookmarkBegin
-BookmarkTitle: 8.3.1 General Approach
+BookmarkTitle: Generalities
 BookmarkLevel: 4
-BookmarkPageNumber: 192
+BookmarkPageNumber: 187
 BookmarkBegin
-BookmarkTitle: 8.3.2 Computation of the Antenna Pattern Space Phase Terms
+BookmarkTitle: Surveillance antenna pattern
 BookmarkLevel: 4
+BookmarkPageNumber: 187
+BookmarkBegin
+BookmarkTitle: Multibeam antenna for 3-D radar (&#167;11.7).
+BookmarkLevel: 4
+BookmarkPageNumber: 189
+BookmarkBegin
+BookmarkTitle: Electronically-scanned arrays (Chapter 11)
+BookmarkLevel: 4
+BookmarkPageNumber: 190
+BookmarkBegin
+BookmarkTitle: Low noise antennas for space communication links
+BookmarkLevel: 4
+BookmarkPageNumber: 190
+BookmarkBegin
+BookmarkTitle: 7.3 Fundamental Propagation Laws
+BookmarkLevel: 2
+BookmarkPageNumber: 193
+BookmarkBegin
+BookmarkTitle: 7.3.1 Wavefronts
+BookmarkLevel: 3
+BookmarkPageNumber: 193
+BookmarkBegin
+BookmarkTitle: 7.3.2 The Huygens&#8722;Fresnel principle of wave propagation
+BookmarkLevel: 3
+BookmarkPageNumber: 194
+BookmarkBegin
+BookmarkTitle: 7.3.3 Stationary phase principle
+BookmarkLevel: 3
 BookmarkPageNumber: 195
 BookmarkBegin
-BookmarkTitle: 8.3.3 Transformation of All Aperture Points to Radome Coordinates
-BookmarkLevel: 4
-BookmarkPageNumber: 196
-BookmarkBegin
-BookmarkTitle: 8.3.4 Transformation of All Ray Vectors from Aperture Sample Points in thePattern Look Direction
-BookmarkLevel: 4
-BookmarkPageNumber: 196
-BookmarkBegin
-BookmarkTitle: 8.3.5 Project Rays to the Radome Surface
-BookmarkLevel: 4
-BookmarkPageNumber: 196
-BookmarkBegin
-BookmarkTitle: 8.3.6 Compute Angle of Incidence
-BookmarkLevel: 4
-BookmarkPageNumber: 196
-BookmarkBegin
-BookmarkTitle: 8.3.7 Computation of Voltage Transmission Coefficients for Each Ray
-BookmarkLevel: 4
-BookmarkPageNumber: 197
-BookmarkBegin
-BookmarkTitle: 8.3.8 Perform an Antenna Aperture Integration
-BookmarkLevel: 4
-BookmarkPageNumber: 197
-BookmarkBegin
-BookmarkTitle: 8.4 Additional Modeling Considerations
+BookmarkTitle: 7.3.4 Geometrical optics ray theory
 BookmarkLevel: 3
-BookmarkPageNumber: 199
+BookmarkPageNumber: 198
 BookmarkBegin
-BookmarkTitle: 8.4.1 Rain Erosion of Missile Radomes
+BookmarkTitle: Rays
+BookmarkLevel: 4
+BookmarkPageNumber: 198
+BookmarkBegin
+BookmarkTitle: Flow of electromagnetic energy and geometrical optics
 BookmarkLevel: 4
 BookmarkPageNumber: 199
 BookmarkBegin
-BookmarkTitle: 8.4.2 Aerothermal Heating
+BookmarkTitle: Optical path
 BookmarkLevel: 4
 BookmarkPageNumber: 200
 BookmarkBegin
-BookmarkTitle: 8.4.3 Radome Effects on Conscan Antennas
+BookmarkTitle: Optical path law - applications
 BookmarkLevel: 4
 BookmarkPageNumber: 201
 BookmarkBegin
-BookmarkTitle: References
+BookmarkTitle: 7.3.5 Ray theory in quasi-homogeneous media
 BookmarkLevel: 3
 BookmarkPageNumber: 202
 BookmarkBegin
-BookmarkTitle: Selected Bibliography
-BookmarkLevel: 3
+BookmarkTitle: (a) Wave surface and ray differential equations
+BookmarkLevel: 4
+BookmarkPageNumber: 203
+BookmarkBegin
+BookmarkTitle: (b) Curvature of rays
+BookmarkLevel: 4
 BookmarkPageNumber: 204
 BookmarkBegin
-BookmarkTitle: 9 Miscellaneous Radome-Enclosed Antenna Types
+BookmarkTitle: (c) Important particular case: radial variation of the index - Bouguer&#8217;s law
+BookmarkLevel: 4
+BookmarkPageNumber: 205
+BookmarkBegin
+BookmarkTitle: (d) Case of a laminar medium:
+BookmarkLevel: 4
+BookmarkPageNumber: 207
+BookmarkBegin
+BookmarkTitle: 7.4 Antennas as Radiating Apertures
 BookmarkLevel: 2
-BookmarkPageNumber: 206
+BookmarkPageNumber: 213
 BookmarkBegin
-BookmarkTitle: 9.1 Spiral Antennas
-BookmarkLevel: 3
-BookmarkPageNumber: 206
-BookmarkBegin
-BookmarkTitle: 9.1.1 Single Mode Spiral Antennas
-BookmarkLevel: 4
-BookmarkPageNumber: 206
-BookmarkBegin
-BookmarkTitle: 9.1.2 Multimode Spiral Antennas
-BookmarkLevel: 4
-BookmarkPageNumber: 211
-BookmarkBegin
-BookmarkTitle: 9.2 Large Parabolic Antennas
+BookmarkTitle: 7.4.1 Antenna radiation and equivalent aperture method
 BookmarkLevel: 3
 BookmarkPageNumber: 213
 BookmarkBegin
-BookmarkTitle: 9.3 Air-Supported Radomes
+BookmarkTitle: 7.4.2 Examples of microwave antennas and equivalent apertures
 BookmarkLevel: 3
 BookmarkPageNumber: 214
 BookmarkBegin
-BookmarkTitle: 9.4 Metal Space Frame Radomes
-BookmarkLevel: 3
+BookmarkTitle: Electromagnetic horn (&#167;5.1.2 and &#167;8.2)
+BookmarkLevel: 4
+BookmarkPageNumber: 214
+BookmarkBegin
+BookmarkTitle: Parabolic reflector
+BookmarkLevel: 4
 BookmarkPageNumber: 215
 BookmarkBegin
-BookmarkTitle: 9.4.1 Dielectric Wall Losses
-BookmarkLevel: 4
-BookmarkPageNumber: 216
-BookmarkBegin
-BookmarkTitle: 9.4.2 Frame Blockage Losses
+BookmarkTitle: Array antenna
 BookmarkLevel: 4
 BookmarkPageNumber: 217
 BookmarkBegin
-BookmarkTitle: 9.4.3 Pointing Errors
+BookmarkTitle: 7.4.3 Far-field radiation from an aperture
+BookmarkLevel: 3
+BookmarkPageNumber: 217
+BookmarkBegin
+BookmarkTitle: Introduction
 BookmarkLevel: 4
-BookmarkPageNumber: 218
+BookmarkPageNumber: 217
 BookmarkBegin
-BookmarkTitle: 9.5 Dielectric Space Frame Radomes
-BookmarkLevel: 3
-BookmarkPageNumber: 219
+BookmarkTitle: Calculation of the total field at P from its transverse component
+BookmarkLevel: 4
+BookmarkPageNumber: 221
 BookmarkBegin
-BookmarkTitle: 9.6 Radome Enclosed Phased-Array Antennas
-BookmarkLevel: 3
-BookmarkPageNumber: 220
+BookmarkTitle: Electric field expression obtained from the magnetic field
+BookmarkLevel: 4
+BookmarkPageNumber: 222
 BookmarkBegin
-BookmarkTitle: References
+BookmarkTitle: 7.4.4 Examples of radiating apertures
 BookmarkLevel: 3
-BookmarkPageNumber: 224
+BookmarkPageNumber: 222
 BookmarkBegin
-BookmarkTitle: Selected Bibliography
-BookmarkLevel: 3
+BookmarkTitle: Rectangular apertures
+BookmarkLevel: 4
+BookmarkPageNumber: 223
+BookmarkBegin
+BookmarkTitle: Circular apertures
+BookmarkLevel: 4
 BookmarkPageNumber: 225
 BookmarkBegin
-BookmarkTitle: Part IV Radome Specifications and Environmental Degradations
-BookmarkLevel: 2
-BookmarkPageNumber: 226
-BookmarkBegin
-BookmarkTitle: 10 Specifying and Testing Radome Performance
-BookmarkLevel: 2
-BookmarkPageNumber: 228
-BookmarkBegin
-BookmarkTitle: 10.1 Specifying Aircraft Radomes
+BookmarkTitle: 7.4.5 Polarization of the radiated field: case where the field in the aperture has the characteristic of a plane wave
 BookmarkLevel: 3
-BookmarkPageNumber: 228
+BookmarkPageNumber: 230
 BookmarkBegin
-BookmarkTitle: 10.2 Specifying Radomes for Terrestrial and Marine SATCOMAntennas
-BookmarkLevel: 3
-BookmarkPageNumber: 228
-BookmarkBegin
-BookmarkTitle: 10.3 Radome Testing Methodology
-BookmarkLevel: 3
-BookmarkPageNumber: 229
-BookmarkBegin
-BookmarkTitle: 10.3.1 Outdoor Test Facilities
+BookmarkTitle: Polarization of reference
 BookmarkLevel: 4
-BookmarkPageNumber: 229
+BookmarkPageNumber: 230
 BookmarkBegin
-BookmarkTitle: 10.3.2 Use of Indoor Anechoic Chambers
-BookmarkLevel: 4
-BookmarkPageNumber: 231
-BookmarkBegin
-BookmarkTitle: 10.3.3 Use of Compact Range
+BookmarkTitle: Huygens sources
 BookmarkLevel: 4
 BookmarkPageNumber: 233
 BookmarkBegin
-BookmarkTitle: 10.3.4 Near-Field Testing Options
+BookmarkTitle: Unit vectors of Huygens coordinates
 BookmarkLevel: 4
-BookmarkPageNumber: 235
+BookmarkPageNumber: 233
 BookmarkBegin
-BookmarkTitle: References
+BookmarkTitle: Arbitrary aperture field
+BookmarkLevel: 4
+BookmarkPageNumber: 234
+BookmarkBegin
+BookmarkTitle: 7.4.6 Geometrical properties of the Huygens coordinates
 BookmarkLevel: 3
+BookmarkPageNumber: 234
+BookmarkBegin
+BookmarkTitle: Rotational symmetric properties
+BookmarkLevel: 4
+BookmarkPageNumber: 234
+BookmarkBegin
+BookmarkTitle: Relations with spherical coordinates
+BookmarkLevel: 4
+BookmarkPageNumber: 234
+BookmarkBegin
+BookmarkTitle: Polarization components of a field
+BookmarkLevel: 4
 BookmarkPageNumber: 236
 BookmarkBegin
-BookmarkTitle: Selected Bibliography
+BookmarkTitle: 7.4.7 Aperture radiation in the near field
 BookmarkLevel: 3
 BookmarkPageNumber: 237
 BookmarkBegin
-BookmarkTitle: 11 Environmental Degradations
-BookmarkLevel: 2
-BookmarkPageNumber: 238
-BookmarkBegin
-BookmarkTitle: 11.1 Rain Erosion
-BookmarkLevel: 3
-BookmarkPageNumber: 238
-BookmarkBegin
-BookmarkTitle: 11.1.1 Rain Erosion Paints
+BookmarkTitle: Far-field or Fraunhofer region
 BookmarkLevel: 4
-BookmarkPageNumber: 239
+BookmarkPageNumber: 237
 BookmarkBegin
-BookmarkTitle: 11.1.2 Rain Erosion Boots
+BookmarkTitle: Near-field or Rayleigh region
+BookmarkLevel: 4
+BookmarkPageNumber: 238
+BookmarkBegin
+BookmarkTitle: Intermediate or Fresnel region
+BookmarkLevel: 4
+BookmarkPageNumber: 238
+BookmarkBegin
+BookmarkTitle: General expression
 BookmarkLevel: 4
 BookmarkPageNumber: 240
 BookmarkBegin
-BookmarkTitle: 11.2 Atmospheric Electricity
-BookmarkLevel: 3
-BookmarkPageNumber: 241
-BookmarkBegin
-BookmarkTitle: 11.2.1 Lighting Strike Damage
+BookmarkTitle: Gain in the normal direction
 BookmarkLevel: 4
 BookmarkPageNumber: 241
 BookmarkBegin
-BookmarkTitle: 11.2.2 Use of Lightning Diverters
+BookmarkTitle: Maximal theoretical gain
 BookmarkLevel: 4
 BookmarkPageNumber: 242
 BookmarkBegin
-BookmarkTitle: 11.2.3 Antistatic Systems
+BookmarkTitle: Maximum gain is obtained when
 BookmarkLevel: 4
+BookmarkPageNumber: 242
+BookmarkBegin
+BookmarkTitle: Illumination factor of an aperture
+BookmarkLevel: 4
+BookmarkPageNumber: 243
+BookmarkBegin
+BookmarkTitle: Application
+BookmarkLevel: 4
+BookmarkPageNumber: 243
+BookmarkBegin
+BookmarkTitle: Appendix 7A: Deduction of the Huygens-Fresnel principle (&#167;7.3.2) from the Kirchhoff integral
+BookmarkLevel: 3
 BookmarkPageNumber: 244
 BookmarkBegin
-BookmarkTitle: 11.2.4 Radome Wetting and Hydrophobic Materials
-BookmarkLevel: 4
+BookmarkTitle: Further Reading
+BookmarkLevel: 2
 BookmarkPageNumber: 245
 BookmarkBegin
-BookmarkTitle: 11.3 Radome Impact Resistance
+BookmarkTitle: Exercises
+BookmarkLevel: 2
+BookmarkPageNumber: 246
+BookmarkBegin
+BookmarkTitle: 7.1 Factor of merit of a ground station antenna
 BookmarkLevel: 3
-BookmarkPageNumber: 245
+BookmarkPageNumber: 246
 BookmarkBegin
-BookmarkTitle: References
+BookmarkTitle: 7.2 Effect of cosecant-squared pattern on maximum gain
+BookmarkLevel: 3
+BookmarkPageNumber: 247
+BookmarkBegin
+BookmarkTitle: 7.3 Wave propagation in a laminar medium
 BookmarkLevel: 3
 BookmarkPageNumber: 248
 BookmarkBegin
-BookmarkTitle: Appendix A Vector Operations in Various Coordinate Systems
-BookmarkLevel: 2
+BookmarkTitle: 7.4 Gain of an aperture with tapered illumination
+BookmarkLevel: 3
 BookmarkPageNumber: 250
 BookmarkBegin
-BookmarkTitle: Appendix B Propagation Constant and WaveImpedance for Arbitrary Media
+BookmarkTitle: Primary feeds
+BookmarkLevel: 1
+BookmarkPageNumber: 251
+BookmarkBegin
+BookmarkTitle: 8.1 General Properties
 BookmarkLevel: 2
+BookmarkPageNumber: 251
+BookmarkBegin
+BookmarkTitle: 8.1.1 Introduction
+BookmarkLevel: 3
+BookmarkPageNumber: 251
+BookmarkBegin
+BookmarkTitle: 8.1.2 General characteristics of primary feeds
+BookmarkLevel: 3
 BookmarkPageNumber: 252
 BookmarkBegin
-BookmarkTitle: Appendix C Multilayer Propagation and Fresnel Transmission and Reflection Coefficients
-BookmarkLevel: 2
-BookmarkPageNumber: 258
+BookmarkTitle: Matching of the feed to the feed guide
+BookmarkLevel: 4
+BookmarkPageNumber: 252
 BookmarkBegin
-BookmarkTitle: Appendix D Radiation from Elemental Currents
-BookmarkLevel: 2
+BookmarkTitle: Radiation pattern
+BookmarkLevel: 4
+BookmarkPageNumber: 252
+BookmarkBegin
+BookmarkTitle: Phase centre, astigmatism, caustic
+BookmarkLevel: 4
+BookmarkPageNumber: 253
+BookmarkBegin
+BookmarkTitle: Caustic surface
+BookmarkLevel: 4
+BookmarkPageNumber: 255
+BookmarkBegin
+BookmarkTitle: Polarization: vectorial expression of the radiated field
+BookmarkLevel: 4
+BookmarkPageNumber: 256
+BookmarkBegin
+BookmarkTitle: 8.1.3 Radiation from radially-symmetric structures
+BookmarkLevel: 3
+BookmarkPageNumber: 259
+BookmarkBegin
+BookmarkTitle: General expressions for fields
+BookmarkLevel: 4
+BookmarkPageNumber: 259
+BookmarkBegin
+BookmarkTitle: Properties of the radiation patterns
+BookmarkLevel: 4
 BookmarkPageNumber: 262
 BookmarkBegin
-BookmarkTitle: Appendix E Program TORADOME Software Listing
+BookmarkTitle: Expressions from the fields over the aperture
+BookmarkLevel: 4
+BookmarkPageNumber: 264
+BookmarkBegin
+BookmarkTitle: 8.1.4 Primary aperture in an incident field
+BookmarkLevel: 3
+BookmarkPageNumber: 266
+BookmarkBegin
+BookmarkTitle: Introduction
+BookmarkLevel: 4
+BookmarkPageNumber: 266
+BookmarkBegin
+BookmarkTitle: Gain factor of the focusing system
+BookmarkLevel: 4
+BookmarkPageNumber: 266
+BookmarkBegin
+BookmarkTitle: Primary feed gain
+BookmarkLevel: 4
+BookmarkPageNumber: 267
+BookmarkBegin
+BookmarkTitle: 8.2 Horns3
 BookmarkLevel: 2
+BookmarkPageNumber: 267
+BookmarkBegin
+BookmarkTitle: 8.2.1 General properties
+BookmarkLevel: 3
+BookmarkPageNumber: 267
+BookmarkBegin
+BookmarkTitle: 8.2.2 Small flare angle horns and open-ended guides
+BookmarkLevel: 3
 BookmarkPageNumber: 268
 BookmarkBegin
-BookmarkTitle: Appendix F Operations Manual for Programs Provided with Book
-BookmarkLevel: 2
-BookmarkPageNumber: 302
+BookmarkTitle: 8.2.3 Flared horns
+BookmarkLevel: 3
+BookmarkPageNumber: 269
 BookmarkBegin
-BookmarkTitle: About the Author
+BookmarkTitle: 8.2.4 Multimode horns5
+BookmarkLevel: 3
+BookmarkPageNumber: 270
+BookmarkBegin
+BookmarkTitle: General characteristics
+BookmarkLevel: 4
+BookmarkPageNumber: 270
+BookmarkBegin
+BookmarkTitle: Generation of modes
+BookmarkLevel: 4
+BookmarkPageNumber: 270
+BookmarkBegin
+BookmarkTitle: Examples
+BookmarkLevel: 4
+BookmarkPageNumber: 271
+BookmarkBegin
+BookmarkTitle: 8.3 Hybrid Modes and Corrugated Horns
 BookmarkLevel: 2
+BookmarkPageNumber: 273
+BookmarkBegin
+BookmarkTitle: 8.3.1 Circular aperture radiating a pure polarization
+BookmarkLevel: 3
+BookmarkPageNumber: 273
+BookmarkBegin
+BookmarkTitle: 8.3.2 Search for hybrid mode waves
+BookmarkLevel: 3
+BookmarkPageNumber: 274
+BookmarkBegin
+BookmarkTitle: Method used
+BookmarkLevel: 4
+BookmarkPageNumber: 274
+BookmarkBegin
+BookmarkTitle: Hybrid mode generated by a conical spectrum of plane waves
+BookmarkLevel: 4
+BookmarkPageNumber: 274
+BookmarkBegin
+BookmarkTitle: Search for a cylindrical guide possessing the required boundary conditions - propagation conditions
+BookmarkLevel: 4
+BookmarkPageNumber: 276
+BookmarkBegin
+BookmarkTitle: Field line structure of modes HE1m
+BookmarkLevel: 4
+BookmarkPageNumber: 277
+BookmarkBegin
+BookmarkTitle: Realization of the anisotropic surface admittance
+BookmarkLevel: 4
+BookmarkPageNumber: 278
+BookmarkBegin
+BookmarkTitle: 8.3.3 Radiation pattern
+BookmarkLevel: 3
+BookmarkPageNumber: 279
+BookmarkBegin
+BookmarkTitle: Radiation from an open-ended corrugated waveguide
+BookmarkLevel: 4
+BookmarkPageNumber: 279
+BookmarkBegin
+BookmarkTitle: Radiation from a corrugated horn
+BookmarkLevel: 4
+BookmarkPageNumber: 279
+BookmarkBegin
+BookmarkTitle: Further Reading
+BookmarkLevel: 2
+BookmarkPageNumber: 284
+BookmarkBegin
+BookmarkTitle: Exercises
+BookmarkLevel: 2
+BookmarkPageNumber: 285
+BookmarkBegin
+BookmarkTitle: 8.1 Circular horn
+BookmarkLevel: 3
+BookmarkPageNumber: 285
+BookmarkBegin
+BookmarkTitle: 8.2 Astigmatic horn
+BookmarkLevel: 3
+BookmarkPageNumber: 286
+BookmarkBegin
+BookmarkTitle: Axially-symmetric systems
+BookmarkLevel: 1
+BookmarkPageNumber: 288
+BookmarkBegin
+BookmarkTitle: 9.1 Introduction
+BookmarkLevel: 2
+BookmarkPageNumber: 288
+BookmarkBegin
+BookmarkTitle: 9.2 Symmetry Properties - Propagation of Polarization, Radiation Patterns
+BookmarkLevel: 2
+BookmarkPageNumber: 289
+BookmarkBegin
+BookmarkTitle: 9.3 Principal Surface
+BookmarkLevel: 2
+BookmarkPageNumber: 291
+BookmarkBegin
+BookmarkTitle: 9.3.1 Definition
+BookmarkLevel: 3
+BookmarkPageNumber: 291
+BookmarkBegin
+BookmarkTitle: 9.3.2 Pupil - aperture angle - focal length
+BookmarkLevel: 3
+BookmarkPageNumber: 292
+BookmarkBegin
+BookmarkTitle: 9.3.3 Equivalent aperture of the system
+BookmarkLevel: 3
+BookmarkPageNumber: 293
+BookmarkBegin
+BookmarkTitle: 9.4 Transfer Function
+BookmarkLevel: 2
+BookmarkPageNumber: 294
+BookmarkBegin
+BookmarkTitle: 9.5 System Gain
+BookmarkLevel: 2
+BookmarkPageNumber: 296
+BookmarkBegin
+BookmarkTitle: 9.5.1 General expression
+BookmarkLevel: 3
+BookmarkPageNumber: 296
+BookmarkBegin
+BookmarkTitle: 9.5.2 Expression obtained from the primary gain g&#180; and the trans ferfunction
+BookmarkLevel: 3
+BookmarkPageNumber: 296
+BookmarkBegin
+BookmarkTitle: 9.5.3 Effect of various factors in the gain function
+BookmarkLevel: 3
+BookmarkPageNumber: 297
+BookmarkBegin
+BookmarkTitle: 9.5.4 Concept of optimal primary directivity
+BookmarkLevel: 3
+BookmarkPageNumber: 299
+BookmarkBegin
+BookmarkTitle: 9.6 Radiation Patterns
+BookmarkLevel: 2
+BookmarkPageNumber: 301
+BookmarkBegin
+BookmarkTitle: 9.6.1 Equivalent aperture illumination
+BookmarkLevel: 3
+BookmarkPageNumber: 301
+BookmarkBegin
+BookmarkTitle: 9.6.2 Axisymmetric primary pattern with pure polarization
+BookmarkLevel: 3
+BookmarkPageNumber: 301
+BookmarkBegin
+BookmarkTitle: 9.6.3 Effect of blockage
+BookmarkLevel: 3
+BookmarkPageNumber: 304
+BookmarkBegin
+BookmarkTitle: 9.7 Aberrations in Axially- Symmetric Systems 
+BookmarkLevel: 2
+BookmarkPageNumber: 305
+BookmarkBegin
+BookmarkTitle: 9.7.1 Introduction
+BookmarkLevel: 3
+BookmarkPageNumber: 305
+BookmarkBegin
+BookmarkTitle: 9.7.2 Main aberrations in the defocusing plane
+BookmarkLevel: 3
 BookmarkPageNumber: 306
 BookmarkBegin
-BookmarkTitle: Index
+BookmarkTitle: 9.8 Axially Symmetric System Considered in Reception: Diffraction Pattern
 BookmarkLevel: 2
-BookmarkPageNumber: 308
+BookmarkPageNumber: 311
+BookmarkBegin
+BookmarkTitle: 9.8.1 Effect of transfer function
+BookmarkLevel: 3
+BookmarkPageNumber: 311
+BookmarkBegin
+BookmarkTitle: 9.8.2 Diffraction in the vicinity of the focus F of an element dS&#180; of a spherical wave S&#180;
+BookmarkLevel: 3
+BookmarkPageNumber: 312
+BookmarkBegin
+BookmarkTitle: 9.8.3 Analysis of a diffraction pattern - contribution of an elementary crown of the spherical wave - hybrid waves
+BookmarkLevel: 3
+BookmarkPageNumber: 314
+BookmarkBegin
+BookmarkTitle: 9.8.4 Axial field
+BookmarkLevel: 3
+BookmarkPageNumber: 315
+BookmarkBegin
+BookmarkTitle: 9.8.5 Transverse distribution of the diffracted field in the focal plane
+BookmarkLevel: 3
+BookmarkPageNumber: 316
+BookmarkBegin
+BookmarkTitle: 9.8.6 Axially-symmetric systems with a small aperture Thita
+BookmarkLevel: 3
+BookmarkPageNumber: 317
+BookmarkBegin
+BookmarkTitle: 9.8.7 Constant transfer function
+BookmarkLevel: 3
+BookmarkPageNumber: 318
+BookmarkBegin
+BookmarkTitle: 9.8.8 Non-constant transfer function
+BookmarkLevel: 3
+BookmarkPageNumber: 321
+BookmarkBegin
+BookmarkTitle: 9.8.9 General case: system with a very large aperture
+BookmarkLevel: 3
+BookmarkPageNumber: 321
+BookmarkBegin
+BookmarkTitle: 9.9 System Considered in Reception: Transfer of the Energy Contained in the Diffraction Pattern to the Primary Aperture
+BookmarkLevel: 2
+BookmarkPageNumber: 323
+BookmarkBegin
+BookmarkTitle: 9.9.1 Diffraction pattern produced around the focus by an incident non axial plane wave
+BookmarkLevel: 3
+BookmarkPageNumber: 323
+BookmarkBegin
+BookmarkTitle: 9.9.2 Radiation pattern of the system associated with a given primary aperture
+BookmarkLevel: 3
+BookmarkPageNumber: 324
+BookmarkBegin
+BookmarkTitle: 9.9.3 Examples of applications
+BookmarkLevel: 3
+BookmarkPageNumber: 325
+BookmarkBegin
+BookmarkTitle: 9.9.4 Axial gain of an axially-symmetric system - effect of the diameter of the primary aperture
+BookmarkLevel: 3
+BookmarkPageNumber: 327
+BookmarkBegin
+BookmarkTitle: 9.10 Radiation in the Fresnel Zone of A Gaussian Illumination - Application to the Transport of Energy by Radiation (Goubeau's Waves)
+BookmarkLevel: 2
+BookmarkPageNumber: 329
+BookmarkBegin
+BookmarkTitle: Further Reading
+BookmarkLevel: 2
+BookmarkPageNumber: 332
+BookmarkBegin
+BookmarkTitle: Exercises
+BookmarkLevel: 2
+BookmarkPageNumber: 333
+BookmarkBegin
+BookmarkTitle: 9.1 Axial gain of a focusing system operating in a planar space
+BookmarkLevel: 3
+BookmarkPageNumber: 333
+BookmarkBegin
+BookmarkTitle: 9.2 Characteristic radiation function of an annular feed with radial polarization
+BookmarkLevel: 3
+BookmarkPageNumber: 333
+BookmarkBegin
+BookmarkTitle: Focused systems
+BookmarkLevel: 1
+BookmarkPageNumber: 338
+BookmarkBegin
+BookmarkTitle: 10.1 Introduction
+BookmarkLevel: 2
+BookmarkPageNumber: 338
+BookmarkBegin
+BookmarkTitle: 10.2 The Cassegrain Antenna
+BookmarkLevel: 2
+BookmarkPageNumber: 339
+BookmarkBegin
+BookmarkTitle: 10.2.1 Introduction1
+BookmarkLevel: 3
+BookmarkPageNumber: 339
+BookmarkBegin
+BookmarkTitle: 10.2.2 Geometry
+BookmarkLevel: 3
+BookmarkPageNumber: 340
+BookmarkBegin
+BookmarkTitle: 10.2.3 Equivalent primary feed
+BookmarkLevel: 3
+BookmarkPageNumber: 342
+BookmarkBegin
+BookmarkTitle: 10.2.4 Principal surface
+BookmarkLevel: 3
+BookmarkPageNumber: 343
+BookmarkBegin
+BookmarkTitle: 10.2.5 Cassegrain with shaped reflectors2
+BookmarkLevel: 3
+BookmarkPageNumber: 344
+BookmarkBegin
+BookmarkTitle: Subreflector
+BookmarkLevel: 4
+BookmarkPageNumber: 344
+BookmarkBegin
+BookmarkTitle: Main reflector
+BookmarkLevel: 4
+BookmarkPageNumber: 346
+BookmarkBegin
+BookmarkTitle: Generalization
+BookmarkLevel: 4
+BookmarkPageNumber: 346
+BookmarkBegin
+BookmarkTitle: 10.2.6 Diffraction pattern of the subreflector
+BookmarkLevel: 3
+BookmarkPageNumber: 347
+BookmarkBegin
+BookmarkTitle: Calculation assumptions
+BookmarkLevel: 4
+BookmarkPageNumber: 347
+BookmarkBegin
+BookmarkTitle: Notations used
+BookmarkLevel: 4
+BookmarkPageNumber: 348
+BookmarkBegin
+BookmarkTitle: Incident field at M
+BookmarkLevel: 4
+BookmarkPageNumber: 349
+BookmarkBegin
+BookmarkTitle: Reflected field at M
+BookmarkLevel: 4
+BookmarkPageNumber: 349
+BookmarkBegin
+BookmarkTitle: Calculation of integral 5
+BookmarkLevel: 4
+BookmarkPageNumber: 350
+BookmarkBegin
+BookmarkTitle: Numerical results
+BookmarkLevel: 4
+BookmarkPageNumber: 352
+BookmarkBegin
+BookmarkTitle: 10.2.7 Blockage by the subreflector
+BookmarkLevel: 3
+BookmarkPageNumber: 353
+BookmarkBegin
+BookmarkTitle: Blockage effect
+BookmarkLevel: 4
+BookmarkPageNumber: 353
+BookmarkBegin
+BookmarkTitle: Suppression of blockage effect by rotation of the plane of polarization
+BookmarkLevel: 4
+BookmarkPageNumber: 354
+BookmarkBegin
+BookmarkTitle: 10.2.8 Schwarzschild aplanatic reflector
+BookmarkLevel: 3
+BookmarkPageNumber: 356
+BookmarkBegin
+BookmarkTitle: 10.3 Tracking Systems
+BookmarkLevel: 2
+BookmarkPageNumber: 356
+BookmarkBegin
+BookmarkTitle: 10.3.1 Introduction
+BookmarkLevel: 3
+BookmarkPageNumber: 356
+BookmarkBegin
+BookmarkTitle: Angular and angle-error tracking
+BookmarkLevel: 4
+BookmarkPageNumber: 358
+BookmarkBegin
+BookmarkTitle: 10.3.2 General characteristics of radar echoes
+BookmarkLevel: 3
+BookmarkPageNumber: 359
+BookmarkBegin
+BookmarkTitle: Scattering pattern of a targe
+BookmarkLevel: 4
+BookmarkPageNumber: 359
+BookmarkBegin
+BookmarkTitle: Polarization of the echo - the polarization matrix
+BookmarkLevel: 4
+BookmarkPageNumber: 360
+BookmarkBegin
+BookmarkTitle: Target identification (see also &#167;12.4)
+BookmarkLevel: 4
+BookmarkPageNumber: 362
+BookmarkBegin
+BookmarkTitle: 10.3.3 Conical scanning
+BookmarkLevel: 3
+BookmarkPageNumber: 363
+BookmarkBegin
+BookmarkTitle: Principle of operation - receiver block diagram
+BookmarkLevel: 4
+BookmarkPageNumber: 363
+BookmarkBegin
+BookmarkTitle: Examples of conical scanning antennas
+BookmarkLevel: 4
+BookmarkPageNumber: 370
+BookmarkBegin
+BookmarkTitle: 10.3.4 &#8216;Monopulse&#8217; antennas
+BookmarkLevel: 3
+BookmarkPageNumber: 372
+BookmarkBegin
+BookmarkTitle: Principle of radar monopulse antennas
+BookmarkLevel: 4
+BookmarkPageNumber: 372
+BookmarkBegin
+BookmarkTitle: Main characteristics of a classical monopulse antenna
+BookmarkLevel: 4
+BookmarkPageNumber: 377
+BookmarkBegin
+BookmarkTitle: Angular accuracy of monopulse radar - Influence of antenna characteristics
+BookmarkLevel: 4
+BookmarkPageNumber: 381
+BookmarkBegin
+BookmarkTitle: Various types of classical monopulse antennas
+BookmarkLevel: 4
+BookmarkPageNumber: 383
+BookmarkBegin
+BookmarkTitle: Primary feeds allowing the simultaneous optimization of both sum and difference patterns
+BookmarkLevel: 4
+BookmarkPageNumber: 385
+BookmarkBegin
+BookmarkTitle: Influence of cross polarization on the tracking accuracy
+BookmarkLevel: 4
+BookmarkPageNumber: 385
+BookmarkBegin
+BookmarkTitle: Comparison of conical scanning and monopulse
+BookmarkLevel: 4
+BookmarkPageNumber: 387
+BookmarkBegin
+BookmarkTitle: 10.3.5 Beacon tracking
+BookmarkLevel: 3
+BookmarkPageNumber: 388
+BookmarkBegin
+BookmarkTitle: 10.4 Non Axially - Symmetric Systems
+BookmarkLevel: 2
+BookmarkPageNumber: 389
+BookmarkBegin
+BookmarkTitle: 10.4.1 Offset reflector
+BookmarkLevel: 3
+BookmarkPageNumber: 389
+BookmarkBegin
+BookmarkTitle: Illumination
+BookmarkLevel: 4
+BookmarkPageNumber: 389
+BookmarkBegin
+BookmarkTitle: Cross polarization11
+BookmarkLevel: 4
+BookmarkPageNumber: 390
+BookmarkBegin
+BookmarkTitle: 10.4.2 Shaped reflectors - pattern synthesis
+BookmarkLevel: 3
+BookmarkPageNumber: 393
+BookmarkBegin
+BookmarkTitle: Introduction
+BookmarkLevel: 4
+BookmarkPageNumber: 393
+BookmarkBegin
+BookmarkTitle: Definition of the reflector shape from that of the &#8216;main curve&#8217;
+BookmarkLevel: 4
+BookmarkPageNumber: 393
+BookmarkBegin
+BookmarkTitle: Determination of the central curve &#915;
+BookmarkLevel: 4
+BookmarkPageNumber: 395
+BookmarkBegin
+BookmarkTitle: Diffraction pattern
+BookmarkLevel: 4
+BookmarkPageNumber: 396
+BookmarkBegin
+BookmarkTitle: Numerical example
+BookmarkLevel: 4
+BookmarkPageNumber: 398
+BookmarkBegin
+BookmarkTitle: Further Reading
+BookmarkLevel: 2
+BookmarkPageNumber: 400
+BookmarkBegin
+BookmarkTitle: Exercises
+BookmarkLevel: 2
+BookmarkPageNumber: 401
+BookmarkBegin
+BookmarkTitle: 10.1 Cassegrain antenna
+BookmarkLevel: 3
+BookmarkPageNumber: 401
+BookmarkBegin
+BookmarkTitle: 10.2 Monopulse null depth
+BookmarkLevel: 3
+BookmarkPageNumber: 402
+BookmarkBegin
+BookmarkTitle: 10.3 Monopulse feed with radial polarization
+BookmarkLevel: 3
+BookmarkPageNumber: 403
+BookmarkBegin
+BookmarkTitle: Arrays
+BookmarkLevel: 1
+BookmarkPageNumber: 408
+BookmarkBegin
+BookmarkTitle: 11.1 Introduction
+BookmarkLevel: 2
+BookmarkPageNumber: 408
+BookmarkBegin
+BookmarkTitle: 11.1.1 Phased arrays
+BookmarkLevel: 3
+BookmarkPageNumber: 409
+BookmarkBegin
+BookmarkTitle: 11.1.2 Bandwidth - use of delay lines - subarrays
+BookmarkLevel: 3
+BookmarkPageNumber: 409
+BookmarkBegin
+BookmarkTitle: 11.1.3 Active arrays
+BookmarkLevel: 3
+BookmarkPageNumber: 411
+BookmarkBegin
+BookmarkTitle: Active arrays in transmission
+BookmarkLevel: 4
+BookmarkPageNumber: 411
+BookmarkBegin
+BookmarkTitle: Active arrays on receive
+BookmarkLevel: 4
+BookmarkPageNumber: 412
+BookmarkBegin
+BookmarkTitle: Transmitting-receiving active arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 413
+BookmarkBegin
+BookmarkTitle: 11.2 General Structure of A Phased Array (Examples)  
+BookmarkLevel: 2
+BookmarkPageNumber: 413
+BookmarkBegin
+BookmarkTitle: 11.2.1 General structure
+BookmarkLevel: 3
+BookmarkPageNumber: 413
+BookmarkBegin
+BookmarkTitle: Feed network - comment
+BookmarkLevel: 4
+BookmarkPageNumber: 414
+BookmarkBegin
+BookmarkTitle: Phase shifter structures
+BookmarkLevel: 4
+BookmarkPageNumber: 414
+BookmarkBegin
+BookmarkTitle: 11.2.2 Examples of array structures
+BookmarkLevel: 3
+BookmarkPageNumber: 418
+BookmarkBegin
+BookmarkTitle: Corporate feed
+BookmarkLevel: 4
+BookmarkPageNumber: 418
+BookmarkBegin
+BookmarkTitle: Feed network using a lens between two parallel planes
+BookmarkLevel: 4
+BookmarkPageNumber: 420
+BookmarkBegin
+BookmarkTitle: &#8216;Disk&#8217; feed network
+BookmarkLevel: 4
+BookmarkPageNumber: 421
+BookmarkBegin
+BookmarkTitle: Phased reflector array
+BookmarkLevel: 4
+BookmarkPageNumber: 422
+BookmarkBegin
+BookmarkTitle: 11.3 Linear Array Theory
+BookmarkLevel: 2
+BookmarkPageNumber: 423
+BookmarkBegin
+BookmarkTitle: 11.3.1 Basic equation - array factor
+BookmarkLevel: 3
+BookmarkPageNumber: 423
+BookmarkBegin
+BookmarkTitle: 11.3.2 Uniform illumination and constant phase gradient
+BookmarkLevel: 3
+BookmarkPageNumber: 424
+BookmarkBegin
+BookmarkTitle: 11.3.3 Half-power beamwidth
+BookmarkLevel: 3
+BookmarkPageNumber: 427
+BookmarkBegin
+BookmarkTitle: 11.3.4 Spectral bandwidth available on a phased array
+BookmarkLevel: 3
+BookmarkPageNumber: 428
+BookmarkBegin
+BookmarkTitle: 11.3.5 Condition to prevent grating lobes from occurring in the scanning region
+BookmarkLevel: 3
+BookmarkPageNumber: 428
+BookmarkBegin
+BookmarkTitle: 11.3.6 Effect of weighting the array illumination function
+BookmarkLevel: 3
+BookmarkPageNumber: 429
+BookmarkBegin
+BookmarkTitle: Application: difference pattern
+BookmarkLevel: 4
+BookmarkPageNumber: 429
+BookmarkBegin
+BookmarkTitle: 11.3.7 Effect of element directivity
+BookmarkLevel: 3
+BookmarkPageNumber: 430
+BookmarkBegin
+BookmarkTitle: 11.4 Variation of Pointing Direction
+BookmarkLevel: 2
+BookmarkPageNumber: 431
+BookmarkBegin
+BookmarkTitle: 11.4.1 Array operating on transmission
+BookmarkLevel: 3
+BookmarkPageNumber: 431
+BookmarkBegin
+BookmarkTitle: 11.4.2 Array on receive
+BookmarkLevel: 3
+BookmarkPageNumber: 433
+BookmarkBegin
+BookmarkTitle: 11.4.3 Array active reflection coefficient - mutual coupling5
+BookmarkLevel: 3
+BookmarkPageNumber: 433
+BookmarkBegin
+BookmarkTitle: Active reflection coefficient
+BookmarkLevel: 4
+BookmarkPageNumber: 433
+BookmarkBegin
+BookmarkTitle: Form of the coupling coefficients
+BookmarkLevel: 4
+BookmarkPageNumber: 434
+BookmarkBegin
+BookmarkTitle: 11.4.4 Blind angle phenomenon5, 6, 7
+BookmarkLevel: 3
+BookmarkPageNumber: 435
+BookmarkBegin
+BookmarkTitle: Mutual coupling
+BookmarkLevel: 4
+BookmarkPageNumber: 435
+BookmarkBegin
+BookmarkTitle: Expression for &#961;(&#964;) in a simple theoretical model
+BookmarkLevel: 4
+BookmarkPageNumber: 436
+BookmarkBegin
+BookmarkTitle: 11.4.5 Case where the element spacing is relatively large
+BookmarkLevel: 3
+BookmarkPageNumber: 438
+BookmarkBegin
+BookmarkTitle: 11.4.6 Study of an array of open-ended guides considered as a periodic structure
+BookmarkLevel: 3
+BookmarkPageNumber: 438
+BookmarkBegin
+BookmarkTitle: 11.5 Effects of Phase Quantization
+BookmarkLevel: 2
+BookmarkPageNumber: 439
+BookmarkBegin
+BookmarkTitle: 11.5.1 Case where all phase shifters are fed in phase
+BookmarkLevel: 3
+BookmarkPageNumber: 439
+BookmarkBegin
+BookmarkTitle: 11.5.2 Effects of quantization when the phase origin varies from one phase shifter to another
+BookmarkLevel: 3
+BookmarkPageNumber: 441
+BookmarkBegin
+BookmarkTitle: 11.6 Frequency - Scanned Arrays
+BookmarkLevel: 2
+BookmarkPageNumber: 445
+BookmarkBegin
+BookmarkTitle: 11.7 Analogue Beamforming Matrice
+BookmarkLevel: 2
+BookmarkPageNumber: 447
+BookmarkBegin
+BookmarkTitle: 11.7.1 Introduction
+BookmarkLevel: 3
+BookmarkPageNumber: 447
+BookmarkBegin
+BookmarkTitle: 11.7.2 General properties of multi-port networks
+BookmarkLevel: 3
+BookmarkPageNumber: 448
+BookmarkBegin
+BookmarkTitle: 11.7.3 Beamforming applications
+BookmarkLevel: 3
+BookmarkPageNumber: 450
+BookmarkBegin
+BookmarkTitle: Orthogonality of the illuminations of an array
+BookmarkLevel: 4
+BookmarkPageNumber: 450
+BookmarkBegin
+BookmarkTitle: Orthogonality of the characteristic functions
+BookmarkLevel: 4
+BookmarkPageNumber: 451
+BookmarkBegin
+BookmarkTitle: Directional beams
+BookmarkLevel: 4
+BookmarkPageNumber: 452
+BookmarkBegin
+BookmarkTitle: 11.7.4 Examples of matrices
+BookmarkLevel: 3
+BookmarkPageNumber: 453
+BookmarkBegin
+BookmarkTitle: Butler matrix9
+BookmarkLevel: 4
+BookmarkPageNumber: 453
+BookmarkBegin
+BookmarkTitle: Blass matrix
+BookmarkLevel: 4
+BookmarkPageNumber: 456
+BookmarkBegin
+BookmarkTitle: 11.7.5 Non-orthogonal directional beams
+BookmarkLevel: 3
+BookmarkPageNumber: 459
+BookmarkBegin
+BookmarkTitle: Problem of multiple-beam angular coverage
+BookmarkLevel: 4
+BookmarkPageNumber: 459
+BookmarkBegin
+BookmarkTitle: Quasi optical matrix: Rotman lens
+BookmarkLevel: 4
+BookmarkPageNumber: 460
+BookmarkBegin
+BookmarkTitle: 11.8 Further Topics
+BookmarkLevel: 2
+BookmarkPageNumber: 463
+BookmarkBegin
+BookmarkTitle: 11.8.1 Active modules
+BookmarkLevel: 3
+BookmarkPageNumber: 463
+BookmarkBegin
+BookmarkTitle: Passive and active phased arrays - requirements for modules
+BookmarkLevel: 4
+BookmarkPageNumber: 463
+BookmarkBegin
+BookmarkTitle: Optical control of phased arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 465
+BookmarkBegin
+BookmarkTitle: 11.8.2 Digital beamforming
+BookmarkLevel: 3
+BookmarkPageNumber: 467
+BookmarkBegin
+BookmarkTitle: Implementation
+BookmarkLevel: 4
+BookmarkPageNumber: 467
+BookmarkBegin
+BookmarkTitle: Array calibration
+BookmarkLevel: 4
+BookmarkPageNumber: 470
+BookmarkBegin
+BookmarkTitle: 11.8.3 MEMS technology in phased arrays
+BookmarkLevel: 3
+BookmarkPageNumber: 470
+BookmarkBegin
+BookmarkTitle: RF MEMS phase shifters
+BookmarkLevel: 4
+BookmarkPageNumber: 472
+BookmarkBegin
+BookmarkTitle: 11.8.4 Circular, cylindrical, spherical and conformal arrays
+BookmarkLevel: 3
+BookmarkPageNumber: 473
+BookmarkBegin
+BookmarkTitle: Beam cophasal excitation
+BookmarkLevel: 4
+BookmarkPageNumber: 474
+BookmarkBegin
+BookmarkTitle: Phase mode excitation
+BookmarkLevel: 4
+BookmarkPageNumber: 475
+BookmarkBegin
+BookmarkTitle: Null steering
+BookmarkLevel: 4
+BookmarkPageNumber: 479
+BookmarkBegin
+BookmarkTitle: Direction finding
+BookmarkLevel: 4
+BookmarkPageNumber: 480
+BookmarkBegin
+BookmarkTitle: Pattern synthesis
+BookmarkLevel: 4
+BookmarkPageNumber: 481
+BookmarkBegin
+BookmarkTitle: Isolated omnidirectional patterns
+BookmarkLevel: 4
+BookmarkPageNumber: 481
+BookmarkBegin
+BookmarkTitle: Sectoral phase modes22
+BookmarkLevel: 4
+BookmarkPageNumber: 482
+BookmarkBegin
+BookmarkTitle: Spherical phase modes23
+BookmarkLevel: 4
+BookmarkPageNumber: 486
+BookmarkBegin
+BookmarkTitle: Conformal arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 490
+BookmarkBegin
+BookmarkTitle: 11.8.5 Sparse and random arrays
+BookmarkLevel: 3
+BookmarkPageNumber: 490
+BookmarkBegin
+BookmarkTitle: Introduction
+BookmarkLevel: 4
+BookmarkPageNumber: 490
+BookmarkBegin
+BookmarkTitle: Synthesis techniques for irregular arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 491
+BookmarkBegin
+BookmarkTitle: Statistical methods
+BookmarkLevel: 4
+BookmarkPageNumber: 492
+BookmarkBegin
+BookmarkTitle: Average radiation pattern
+BookmarkLevel: 4
+BookmarkPageNumber: 493
+BookmarkBegin
+BookmarkTitle: Average gain (or average power pattern)
+BookmarkLevel: 4
+BookmarkPageNumber: 493
+BookmarkBegin
+BookmarkTitle: Probability function of diffuse sidelobes
+BookmarkLevel: 4
+BookmarkPageNumber: 495
+BookmarkBegin
+BookmarkTitle: Retrodirective arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 496
+BookmarkBegin
+BookmarkTitle: Self-phasing arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 498
+BookmarkBegin
+BookmarkTitle: Random symmetrical pair arrays
+BookmarkLevel: 4
+BookmarkPageNumber: 500
+BookmarkBegin
+BookmarkTitle: Appendix 11a: Comparison of Linear and Cricular Arrays
+BookmarkLevel: 2
+BookmarkPageNumber: 502
+BookmarkBegin
+BookmarkTitle: 11A.1 Gain of an arbitrary array
+BookmarkLevel: 3
+BookmarkPageNumber: 502
+BookmarkBegin
+BookmarkTitle: Condition for maximum gain
+BookmarkLevel: 4
+BookmarkPageNumber: 502
+BookmarkBegin
+BookmarkTitle: Conclusion
+BookmarkLevel: 4
+BookmarkPageNumber: 503
+BookmarkBegin
+BookmarkTitle: 11A.2 Gain of a beam cophasal circular array
+BookmarkLevel: 3
+BookmarkPageNumber: 504
+BookmarkBegin
+BookmarkTitle: 11A.3 Radiation pattern of a beam cophasal circular array
+BookmarkLevel: 3
+BookmarkPageNumber: 505
+BookmarkBegin
+BookmarkTitle: Condition for maximum gain
+BookmarkLevel: 4
+BookmarkPageNumber: 506
+BookmarkBegin
+BookmarkTitle: Array with a large number N of elements
+BookmarkLevel: 4
+BookmarkPageNumber: 506
+BookmarkBegin
+BookmarkTitle: 11A.4 Example: cos&#945; element patterns
+BookmarkLevel: 3
+BookmarkPageNumber: 506
+BookmarkBegin
+BookmarkTitle: 11A.5 Comparison of linear and circular arrays
+BookmarkLevel: 3
+BookmarkPageNumber: 507
+BookmarkBegin
+BookmarkTitle: Further Reading
+BookmarkLevel: 2
+BookmarkPageNumber: 509
+BookmarkBegin
+BookmarkTitle: Exercises
+BookmarkLevel: 2
+BookmarkPageNumber: 510
+BookmarkBegin
+BookmarkTitle: 11.1 Design of an electronically-scanned array antenna
+BookmarkLevel: 3
+BookmarkPageNumber: 510
+BookmarkBegin
+BookmarkTitle: 11.2 Grating lobes produced by use of phased subarrays fed by delay lines
+BookmarkLevel: 3
+BookmarkPageNumber: 512
+BookmarkBegin
+BookmarkTitle: Fundamentals of polarimetry
+BookmarkLevel: 1
+BookmarkPageNumber: 514
+BookmarkBegin
+BookmarkTitle: 12.1 Introduction
+BookmarkLevel: 2
+BookmarkPageNumber: 514
+BookmarkBegin
+BookmarkTitle: 12.1.1 Applications of polarimetry in radar and telecommunications
+BookmarkLevel: 3
+BookmarkPageNumber: 514
+BookmarkBegin
+BookmarkTitle: 12.1.2 Some historical references
+BookmarkLevel: 3
+BookmarkPageNumber: 516
+BookmarkBegin
+BookmarkTitle: 12.1.3 Basics
+BookmarkLevel: 3
+BookmarkPageNumber: 516
+BookmarkBegin
+BookmarkTitle: 12.2 Fully Polarized Waves  
+BookmarkLevel: 2
+BookmarkPageNumber: 518
+BookmarkBegin
+BookmarkTitle: 12.2.1 Definition
+BookmarkLevel: 3
+BookmarkPageNumber: 518
+BookmarkBegin
+BookmarkTitle: 12.2.2 Algebraic representation of elliptical polarization
+BookmarkLevel: 3
+BookmarkPageNumber: 518
+BookmarkBegin
+BookmarkTitle: 12.2.3 Normalized Cartesian coordinate system
+BookmarkLevel: 3
+BookmarkPageNumber: 520
+BookmarkBegin
+BookmarkTitle: 12.2.4 Base of circular polarizations
+BookmarkLevel: 3
+BookmarkPageNumber: 521
+BookmarkBegin
+BookmarkTitle: 12.2.5 Polarization ratio
+BookmarkLevel: 3
+BookmarkPageNumber: 523
+BookmarkBegin
+BookmarkTitle: 12.2.6 Polarization diagram
+BookmarkLevel: 3
+BookmarkPageNumber: 524
+BookmarkBegin
+BookmarkTitle: 12.2.7 Polarization coupling to the receiving antenna
+BookmarkLevel: 3
+BookmarkPageNumber: 527
+BookmarkBegin
+BookmarkTitle: 12.3 Partially Polarised Waves
+BookmarkLevel: 2
+BookmarkPageNumber: 530
+BookmarkBegin
+BookmarkTitle: 12.3.1 Definition and physical origin
+BookmarkLevel: 3
+BookmarkPageNumber: 530
+BookmarkBegin
+BookmarkTitle: Physical examples
+BookmarkLevel: 4
+BookmarkPageNumber: 531
+BookmarkBegin
+BookmarkTitle: 12.3.2 Coherence matrix
+BookmarkLevel: 3
+BookmarkPageNumber: 532
+BookmarkBegin
+BookmarkTitle: 12.3.3 Completely unpolarized wave
+BookmarkLevel: 3
+BookmarkPageNumber: 534
+BookmarkBegin
+BookmarkTitle: 12.3.4 Completely polarized wave
+BookmarkLevel: 3
+BookmarkPageNumber: 535
+BookmarkBegin
+BookmarkTitle: 12.3.5 Stokes parameters (Stokes, 1819&#8722;1903)
+BookmarkLevel: 3
+BookmarkPageNumber: 536
+BookmarkBegin
+BookmarkTitle: 12.3.6 Decomposition of a partially polarized wave
+BookmarkLevel: 3
+BookmarkPageNumber: 536
+BookmarkBegin
+BookmarkTitle: 12.3.7 Geometrical interpretation of the preceding results: Stokes parameters and Poincar&#233; sphere
+BookmarkLevel: 3
+BookmarkPageNumber: 537
+BookmarkBegin
+BookmarkTitle: 12.3.8 Polarization coupling and Stokes vectors
+BookmarkLevel: 3
+BookmarkPageNumber: 540
+BookmarkBegin
+BookmarkTitle: 12.4 Polarimetric Representation of Radar Targets
+BookmarkLevel: 2
+BookmarkPageNumber: 542
+BookmarkBegin
+BookmarkTitle: 12.4.1 Introduction
+BookmarkLevel: 3
+BookmarkPageNumber: 542
+BookmarkBegin
+BookmarkTitle: 12.4.2 Sinclair diffraction matrix
+BookmarkLevel: 3
+BookmarkPageNumber: 542
+BookmarkBegin
+BookmarkTitle: 12.5 Partially Polarized Waves: The Mueller Matrix
+BookmarkLevel: 2
+BookmarkPageNumber: 553
+BookmarkBegin
+BookmarkTitle: 12.5.1 The Mueller matrix
+BookmarkLevel: 3
+BookmarkPageNumber: 553
+BookmarkBegin
+BookmarkTitle: 12.5.2 Application example
+BookmarkLevel: 3
+BookmarkPageNumber: 553
+BookmarkBegin
+BookmarkTitle: 12.6 Polarizers and Polarization Separators for Telecommunications Antennas and Polarimetric Radars
+BookmarkLevel: 2
+BookmarkPageNumber: 557
+BookmarkBegin
+BookmarkTitle: 12.6.1 Introduction
+BookmarkLevel: 3
+BookmarkPageNumber: 557
+BookmarkBegin
+BookmarkTitle: 12.6.2 Non-symmetrical polarization separator
+BookmarkLevel: 3
+BookmarkPageNumber: 557
+BookmarkBegin
+BookmarkTitle: 12.6.3 Semi-symmetrical polarization separator
+BookmarkLevel: 3
+BookmarkPageNumber: 558
+BookmarkBegin
+BookmarkTitle: 12.6.4 Symmetrical polarization separator (turnstile)
+BookmarkLevel: 3
+BookmarkPageNumber: 559
+BookmarkBegin
+BookmarkTitle: 12.6.5 Dielectric vane polarizer
+BookmarkLevel: 3
+BookmarkPageNumber: 560
+BookmarkBegin
+BookmarkTitle: Further Reading
+BookmarkLevel: 2
+BookmarkPageNumber: 562
+BookmarkBegin
+BookmarkTitle: Exercises
+BookmarkLevel: 2
+BookmarkPageNumber: 562
+BookmarkBegin
+BookmarkTitle: Antennas and signal theory
+BookmarkLevel: 1
+BookmarkPageNumber: 563
+BookmarkBegin
+BookmarkTitle: 13.1 Introduction 
+BookmarkLevel: 2
+BookmarkPageNumber: 563
+BookmarkBegin
+BookmarkTitle: 13.2 Equivalence of an Aperture and A Spatial Frequency Filter
+BookmarkLevel: 2
+BookmarkPageNumber: 564
+BookmarkBegin
+BookmarkTitle: 13.2.1 Concept of spatial frequency
+BookmarkLevel: 3
+BookmarkPageNumber: 564
+BookmarkBegin
+BookmarkTitle: 13.2.2 Consequences of the limitation of the aperture dimensions on thepro perties of the radiation characteristic function
+BookmarkLevel: 3
+BookmarkPageNumber: 565
+BookmarkBegin
+BookmarkTitle: Application of the sampling theorem
+BookmarkLevel: 4
+BookmarkPageNumber: 566
+BookmarkBegin
+BookmarkTitle: Application of Bernstein&#8217;s theorem
+BookmarkLevel: 4
+BookmarkPageNumber: 568
+BookmarkBegin
+BookmarkTitle: 13.2.3 Consequences of the limitation of the aperture dimensions on the &#8216;gain&#8217; function of the antenna
+BookmarkLevel: 3
+BookmarkPageNumber: 569
+BookmarkBegin
+BookmarkTitle: 13.3 Synthesis of an Aperture to Radiate A Given Radiation Pattern
+BookmarkLevel: 2
+BookmarkPageNumber: 570
+BookmarkBegin
+BookmarkTitle: 13.3.1 Statement of problem
+BookmarkLevel: 3
+BookmarkPageNumber: 570
+BookmarkBegin
+BookmarkTitle: 13.3.2 Generalization of the approximation method
+BookmarkLevel: 3
+BookmarkPageNumber: 572
+BookmarkBegin
+BookmarkTitle: 13.3.3 Use of sampling methods
+BookmarkLevel: 3
+BookmarkPageNumber: 573
+BookmarkBegin
+BookmarkTitle: 13.3.4 Role of phase - stationary phase method
+BookmarkLevel: 3
+BookmarkPageNumber: 576
+BookmarkBegin
+BookmarkTitle: 13.3.5 Pattern synthesis for a focusing system
+BookmarkLevel: 3
+BookmarkPageNumber: 579
+BookmarkBegin
+BookmarkTitle: 13.4 Superdirective Antennas
+BookmarkLevel: 2
+BookmarkPageNumber: 580
+BookmarkBegin
+BookmarkTitle: 13.4.1 Introduction
+BookmarkLevel: 3
+BookmarkPageNumber: 580
+BookmarkBegin
+BookmarkTitle: 13.5 The Antenna as A Filter of Angular Signals6,7
+BookmarkLevel: 2
+BookmarkPageNumber: 583
+BookmarkBegin
+BookmarkTitle: 13.5.1 Introduction
+BookmarkLevel: 3
+BookmarkPageNumber: 583
+BookmarkBegin
+BookmarkTitle: 13.5.2 Optical or microwave imaging and linear filters
+BookmarkLevel: 3
+BookmarkPageNumber: 584
+BookmarkBegin
+BookmarkTitle: 13.5.3 False echoes and resolving power
+BookmarkLevel: 3
+BookmarkPageNumber: 585
+BookmarkBegin
+BookmarkTitle: 13.5.4 Case where the antenna is treated as an aperture
+BookmarkLevel: 3
+BookmarkPageNumber: 585
+BookmarkBegin
+BookmarkTitle: 13.5.5 Spectrum of fixed echoes of a rotating radar
+BookmarkLevel: 3
+BookmarkPageNumber: 586
+BookmarkBegin
+BookmarkTitle: Further Reading
+BookmarkLevel: 2
+BookmarkPageNumber: 587
+BookmarkBegin
+BookmarkTitle: Exercises
+BookmarkLevel: 2
+BookmarkPageNumber: 588
+BookmarkBegin
+BookmarkTitle: 13.1 Woodward synthesis
+BookmarkLevel: 3
+BookmarkPageNumber: 588
+BookmarkBegin
+BookmarkTitle: 13.2 Optimum &#8216;difference&#8217; illumination
+BookmarkLevel: 3
+BookmarkPageNumber: 589
+BookmarkBegin
+BookmarkTitle: Signal processing antennas
+BookmarkLevel: 1
+BookmarkPageNumber: 591
+BookmarkBegin
+BookmarkTitle: 14.1 Introduction
+BookmarkLevel: 2
+BookmarkPageNumber: 591
+BookmarkBegin
+BookmarkTitle: 14.2 Synthetic Antennas in Radar and Sonar
+BookmarkLevel: 2
+BookmarkPageNumber: 592
+BookmarkBegin
+BookmarkTitle: 14.2.1 Principles of synthetic antennas
+BookmarkLevel: 3
+BookmarkPageNumber: 592
+BookmarkBegin
+BookmarkTitle: 14.2.2 Synthetic receive array with non-directional beam
+BookmarkLevel: 3
+BookmarkPageNumber: 593
+BookmarkBegin
+BookmarkTitle: 14.2.3 Synthetic receive array with multiple beams
+BookmarkLevel: 3
+BookmarkPageNumber: 594
+BookmarkBegin
+BookmarkTitle: 14.2.4 Examples of spatio-temporal coding
+BookmarkLevel: 3
+BookmarkPageNumber: 595
+BookmarkBegin
+BookmarkTitle: Binary phase coding
+BookmarkLevel: 4
+BookmarkPageNumber: 595
+BookmarkBegin
+BookmarkTitle: Binary amplitude coding
+BookmarkLevel: 4
+BookmarkPageNumber: 595
+BookmarkBegin
+BookmarkTitle: Sideways-looking Synthetic Aperture Radar (SAR)1,2
+BookmarkLevel: 4
+BookmarkPageNumber: 596
+BookmarkBegin
+BookmarkTitle: Frequency-scanning synthetic antenna
+BookmarkLevel: 4
+BookmarkPageNumber: 600
+BookmarkBegin
+BookmarkTitle: 14.3 Imaging of Coherent Sources
+BookmarkLevel: 2
+BookmarkPageNumber: 600
+BookmarkBegin
+BookmarkTitle: 14.3.1 Introduction
+BookmarkLevel: 3
+BookmarkPageNumber: 600
+BookmarkBegin
+BookmarkTitle: 14.3.2 Two-source distribution
+BookmarkLevel: 3
+BookmarkPageNumber: 601
+BookmarkBegin
+BookmarkTitle: 14.3.3 Estimation of the elevation angle of a low-altitude target above a reflecting plane
+BookmarkLevel: 3
+BookmarkPageNumber: 601
+BookmarkBegin
+BookmarkTitle: 14.3.4 Effect of noise: a posteriori probabilities and decision theory
+BookmarkLevel: 3
+BookmarkPageNumber: 604
+BookmarkBegin
+BookmarkTitle: Choice of decision criterion
+BookmarkLevel: 4
+BookmarkPageNumber: 605
+BookmarkBegin
+BookmarkTitle: 14.4 Imaging of Incoherent Source
+BookmarkLevel: 2
+BookmarkPageNumber: 606
+BookmarkBegin
+BookmarkTitle: 14.4.1 Introduction
+BookmarkLevel: 3
+BookmarkPageNumber: 606
+BookmarkBegin
+BookmarkTitle: 14.4.2 Conditions for incoherence
+BookmarkLevel: 3
+BookmarkPageNumber: 607
+BookmarkBegin
+BookmarkTitle: 14.4.3 Multiplicative arrays
+BookmarkLevel: 3
+BookmarkPageNumber: 608
+BookmarkBegin
+BookmarkTitle: Another example: the Mills Cross
+BookmarkLevel: 4
+BookmarkPageNumber: 610
+BookmarkBegin
+BookmarkTitle: 14.4.4 Relationship between an angular distribution of incoherent sources and the observed field: the Van Cittert-Zernicke Theorem
+BookmarkLevel: 3
+BookmarkPageNumber: 610
+BookmarkBegin
+BookmarkTitle: Calculation of the coherence function:
+BookmarkLevel: 4
+BookmarkPageNumber: 611
+BookmarkBegin
+BookmarkTitle: Generalization to three dimensions
+BookmarkLevel: 4
+BookmarkPageNumber: 612
+BookmarkBegin
+BookmarkTitle: Remarks
+BookmarkLevel: 4
+BookmarkPageNumber: 613
+BookmarkBegin
+BookmarkTitle: 14.4.5 Sampling of the coherence function
+BookmarkLevel: 3
+BookmarkPageNumber: 613
+BookmarkBegin
+BookmarkTitle: 14.4.6 Measurement of the coefficients of correlation or covariance C (n-n&#8242;)
+BookmarkLevel: 3
+BookmarkPageNumber: 614
+BookmarkBegin
+BookmarkTitle: 14.4.7 The covariance matrix
+BookmarkLevel: 3
+BookmarkPageNumber: 615
+BookmarkBegin
+BookmarkTitle: 14.5 High Resolution Imagery and the Maximum Entropy Method
+BookmarkLevel: 2
+BookmarkPageNumber: 616
+BookmarkBegin
+BookmarkTitle: 14.5.1 Introduction
+BookmarkLevel: 3
+BookmarkPageNumber: 616
+BookmarkBegin
+BookmarkTitle: 14.5.2 Classical method of &#8216;correlogram&#8217;
+BookmarkLevel: 3
+BookmarkPageNumber: 617
+BookmarkBegin
+BookmarkTitle: 14.5.3 Method of Maximum Entropy6
+BookmarkLevel: 3
+BookmarkPageNumber: 618
+BookmarkBegin
+BookmarkTitle: 14.5.4 Estimation of T under conditions of Maximum Entropy
+BookmarkLevel: 3
+BookmarkPageNumber: 618
+BookmarkBegin
+BookmarkTitle: 14.5.5 Factorization of T(&#964; ) - properties
+BookmarkLevel: 3
+BookmarkPageNumber: 619
+BookmarkBegin
+BookmarkTitle: 14.5.6 Determination of the coefficients an in equation (14.71)
+BookmarkLevel: 3
+BookmarkPageNumber: 620
+BookmarkBegin
+BookmarkTitle: 14.5.7 Generalization: ARMA model
+BookmarkLevel: 3
+BookmarkPageNumber: 622
+BookmarkBegin
+BookmarkTitle: 14.5.8 Numerical example
+BookmarkLevel: 3
+BookmarkPageNumber: 622
+BookmarkBegin
+BookmarkTitle: 14.5.9 Minimum redundance arrays
+BookmarkLevel: 3
+BookmarkPageNumber: 623
+BookmarkBegin
+BookmarkTitle: 14.6 Other Methods of Spectral Estimation
+BookmarkLevel: 2
+BookmarkPageNumber: 625
+BookmarkBegin
+BookmarkTitle: 14.6.1 Introduction
+BookmarkLevel: 3
+BookmarkPageNumber: 625
+BookmarkBegin
+BookmarkTitle: 14.6.2 The MUSIC algorithm
+BookmarkLevel: 3
+BookmarkPageNumber: 626
+BookmarkBegin
+BookmarkTitle: 14.6.3 Illustration of the MUSIC algorithm
+BookmarkLevel: 3
+BookmarkPageNumber: 630
+BookmarkBegin
+BookmarkTitle: 14.6.4 Other superresolution algorithms
+BookmarkLevel: 3
+BookmarkPageNumber: 631
+BookmarkBegin
+BookmarkTitle: 14.6.5 Superresolution with circular arrays
+BookmarkLevel: 3
+BookmarkPageNumber: 632
+BookmarkBegin
+BookmarkTitle: 14.7 Spatial Filtering
+BookmarkLevel: 2
+BookmarkPageNumber: 633
+BookmarkBegin
+BookmarkTitle: 14.7.1 Introduction
+BookmarkLevel: 3
+BookmarkPageNumber: 633
+BookmarkBegin
+BookmarkTitle: 14.7.2 What is an adaptive array ?
+BookmarkLevel: 3
+BookmarkPageNumber: 633
+BookmarkBegin
+BookmarkTitle: 14.7.3 Simple example: two-element array
+BookmarkLevel: 3
+BookmarkPageNumber: 634
+BookmarkBegin
+BookmarkTitle: 14.7.4 Howells-Applebaum correlation loop17
+BookmarkLevel: 3
+BookmarkPageNumber: 637
+BookmarkBegin
+BookmarkTitle: 14.7.5 Minimum noise criterion
+BookmarkLevel: 3
+BookmarkPageNumber: 640
+BookmarkBegin
+BookmarkTitle: 14.7.6 Effect of internal receiver noise
+BookmarkLevel: 3
+BookmarkPageNumber: 640
+BookmarkBegin
+BookmarkTitle: 14.7.7 Multiple correlation loops: the coherent sidelobe canceller (CSLC)
+BookmarkLevel: 3
+BookmarkPageNumber: 642
+BookmarkBegin
+BookmarkTitle: 14.7.8 The optimum array
+BookmarkLevel: 3
+BookmarkPageNumber: 644
+BookmarkBegin
+BookmarkTitle: 14.7.9 Interpretation
+BookmarkLevel: 3
+BookmarkPageNumber: 647
+BookmarkBegin
+BookmarkTitle: 14.7.10 Digital implementation
+BookmarkLevel: 3
+BookmarkPageNumber: 647
+BookmarkBegin
+BookmarkTitle: 14.7.11 Smart antennas
+BookmarkLevel: 3
+BookmarkPageNumber: 648
+BookmarkBegin
+BookmarkTitle: Applications in radiocommunications
+BookmarkLevel: 4
+BookmarkPageNumber: 649
+BookmarkBegin
+BookmarkTitle: The techniques used to combine the diverse signals include20:
+BookmarkLevel: 4
+BookmarkPageNumber: 650
+BookmarkBegin
+BookmarkTitle: Applications in radar: Space-Time Adaptive Processing (STAP)
+BookmarkLevel: 4
+BookmarkPageNumber: 650
+BookmarkBegin
+BookmarkTitle: Waveform diversity
+BookmarkLevel: 4
+BookmarkPageNumber: 653
+BookmarkBegin
+BookmarkTitle: Appendix 14A : Entropy and Probability
+BookmarkLevel: 2
+BookmarkPageNumber: 654
+BookmarkBegin
+BookmarkTitle: 14A.1 Uncertainty of an event A of probability p(A)
+BookmarkLevel: 3
+BookmarkPageNumber: 654
+BookmarkBegin
+BookmarkTitle: 14A.2 Information gained by the knowledge of an event
+BookmarkLevel: 3
+BookmarkPageNumber: 654
+BookmarkBegin
+BookmarkTitle: 14A.3 Uncertainty relative to an alternative
+BookmarkLevel: 3
+BookmarkPageNumber: 654
+BookmarkBegin
+BookmarkTitle: 14A.4 First generalization: entropy of a set of events
+BookmarkLevel: 3
+BookmarkPageNumber: 655
+BookmarkBegin
+BookmarkTitle: 14A.5 Second generalization: random variable
+BookmarkLevel: 3
+BookmarkPageNumber: 656
+BookmarkBegin
+BookmarkTitle: 14A.6 Decision theory: Maximum Entropy
+BookmarkLevel: 3
+BookmarkPageNumber: 657
+BookmarkBegin
+BookmarkTitle: 14A.7 Entropy and spectral density
+BookmarkLevel: 3
+BookmarkPageNumber: 657
+BookmarkBegin
+BookmarkTitle: 14A.8 Justification of this relationship
+BookmarkLevel: 3
+BookmarkPageNumber: 658
+BookmarkBegin
+BookmarkTitle: Further Reading
+BookmarkLevel: 2
+BookmarkPageNumber: 661
+BookmarkBegin
+BookmarkTitle: Exercises
+BookmarkLevel: 2
+BookmarkPageNumber: 663
+BookmarkBegin
+BookmarkTitle: 14.1 Coherence function of the Sun
+BookmarkLevel: 3
+BookmarkPageNumber: 663
+BookmarkBegin
+BookmarkTitle: Antenna measurements
+BookmarkLevel: 1
+BookmarkPageNumber: 665
+BookmarkBegin
+BookmarkTitle: 15.1 Introduction
+BookmarkLevel: 2
+BookmarkPageNumber: 665
+BookmarkBegin
+BookmarkTitle: 15.2 Gain Measurements
+BookmarkLevel: 2
+BookmarkPageNumber: 666
+BookmarkBegin
+BookmarkTitle: 15.2.1 Comparison with a standard-gain horn
+BookmarkLevel: 3
+BookmarkPageNumber: 666
+BookmarkBegin
+BookmarkTitle: 15.2.2 Two-antenna measurement
+BookmarkLevel: 3
+BookmarkPageNumber: 666
+BookmarkBegin
+BookmarkTitle: 15.2.3 Three-antenna measurement
+BookmarkLevel: 3
+BookmarkPageNumber: 667
+BookmarkBegin
+BookmarkTitle: 15.2.4 Extrapolation
+BookmarkLevel: 3
+BookmarkPageNumber: 667
+BookmarkBegin
+BookmarkTitle: 15.3 Radiation Pattern Measurements 
+BookmarkLevel: 2
+BookmarkPageNumber: 668
+BookmarkBegin
+BookmarkTitle: 15.3.1 Anechoic chambers and far-field ranges
+BookmarkLevel: 3
+BookmarkPageNumber: 669
+BookmarkBegin
+BookmarkTitle: 15.3.2 Compact ranges
+BookmarkLevel: 3
+BookmarkPageNumber: 673
+BookmarkBegin
+BookmarkTitle: 15.3.3 Wavefront quality
+BookmarkLevel: 3
+BookmarkPageNumber: 675
+BookmarkBegin
+BookmarkTitle: 15.3.4 Near-field techniques
+BookmarkLevel: 3
+BookmarkPageNumber: 676
+BookmarkBegin
+BookmarkTitle: 15.3.5 Other techniques
+BookmarkLevel: 3
+BookmarkPageNumber: 679
+BookmarkBegin
+BookmarkTitle: 15.3.6 Polarization
+BookmarkLevel: 3
+BookmarkPageNumber: 682
+BookmarkBegin
+BookmarkTitle: 15.4 Time - Domain Gating
+BookmarkLevel: 2
+BookmarkPageNumber: 683
+BookmarkBegin
+BookmarkTitle: 15.4.1 Principles
+BookmarkLevel: 3
+BookmarkPageNumber: 683
+BookmarkBegin
+BookmarkTitle: 15.4.2 Limitations
+BookmarkLevel: 3
+BookmarkPageNumber: 685
+BookmarkBegin
+BookmarkTitle: 15.5 Antenna Noise Temperature and G/T
+BookmarkLevel: 2
+BookmarkPageNumber: 686
+BookmarkBegin
+BookmarkTitle: 15.5.1 Measurement of antenna noise temperature
+BookmarkLevel: 3
+BookmarkPageNumber: 686
+BookmarkBegin
+BookmarkTitle: 15.5.2 Direct measurement of G/T using solar noise
+BookmarkLevel: 3
+BookmarkPageNumber: 686
+BookmarkBegin
+BookmarkTitle: 15.6 Impedance and Bandwidth
+BookmarkLevel: 2
+BookmarkPageNumber: 688
+BookmarkBegin
+BookmarkTitle: 15.7 Measurments of Cellular Radio Handset Antennas
+BookmarkLevel: 2
+BookmarkPageNumber: 690
+BookmarkBegin
+BookmarkTitle: 15.7.1 Specific Absorption Rate
+BookmarkLevel: 3
+BookmarkPageNumber: 691
+BookmarkBegin
+BookmarkTitle: 15.7.2 Reverberation chambers
+BookmarkLevel: 3
+BookmarkPageNumber: 692
+BookmarkBegin
+BookmarkTitle: Further Reading
+BookmarkLevel: 2
+BookmarkPageNumber: 694
+BookmarkBegin
+BookmarkTitle: Exercises 
+BookmarkLevel: 2
+BookmarkPageNumber: 695
+BookmarkBegin
+BookmarkTitle: 15.1 Purcell&#8217;s method
+BookmarkLevel: 3
+BookmarkPageNumber: 695
+BookmarkBegin
+BookmarkTitle: 15.2 Three antenna measurement
+BookmarkLevel: 3
+BookmarkPageNumber: 695
+BookmarkBegin
+BookmarkTitle: 15.3 Rayleigh distance
+BookmarkLevel: 3
+BookmarkPageNumber: 695
+BookmarkBegin
+BookmarkTitle: 15.4 Solar method of G/T measurement
+BookmarkLevel: 3
+BookmarkPageNumber: 695
+BookmarkBegin
+BookmarkTitle: Index
+BookmarkLevel: 1
+BookmarkPageNumber: 697
