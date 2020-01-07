@@ -1,2582 +1,594 @@
 [
   {
-    "title": "Electromagnetism and antennas - a historical Perspective",
-    "level": "1"
-  },
-  {
     "title": "Introduction",
-    "level": "2"
+    "level": 1
   },
   {
-    "title": "Further Reading",
-    "level": "2"
+    "title": "1.1 Why Consider Finite Arrays?",
+    "level": 2
   },
   {
-    "title": "Fundamentals of electromagnetism",
-    "level": "1"
+    "title": "1.2 Surface Waves Unique to Finite Periodic Structures",
+    "level": 2
   },
   {
-    "title": "1.1 Maxwell&#8217;s Equations1",
-    "level": "2"
+    "title": "1.3 Effects of Surface Waves",
+    "level": 2
   },
   {
-    "title": "1.1.1 Maxwell&#8217;s equations in an arbitrary medium",
-    "level": "3"
+    "title": "1.4 How do We Control the Surface Waves?",
+    "level": 2
   },
   {
-    "title": "Electromagnetic fields and sources",
-    "level": "4"
+    "title": "1.5 Common Misconceptions",
+    "level": 2
   },
   {
-    "title": "Complex notation",
-    "level": "4"
+    "title": "1.6 Conclusion",
+    "level": 2
   },
   {
-    "title": "Continuity conditions",
-    "level": "4"
+    "title": "1.7 Problems",
+    "level": 2
   },
   {
-    "title": "Electromagnetic potentials",
-    "level": "4"
+    "title": "On Radar Cross Section of Antennas in General",
+    "level": 1
   },
   {
-    "title": "1.1.2 Linear media",
-    "level": "3"
+    "title": "2.1 Introduction",
+    "level": 2
   },
   {
-    "title": "Linear dielectric media",
-    "level": "4"
+    "title": "2.2 Fundamentals of Antenna RCS",
+    "level": 2
   },
   {
-    "title": "Linear magnetic media",
-    "level": "4"
+    "title": "2.3 How to Obtain a Low ?> tot by Cancellation (Not Recommended)",
+    "level": 2
   },
   {
-    "title": "Maxwell&#8217;s equations in a linear medium",
-    "level": "4"
+    "title": "2.4 How do We Obtain Low ?> tot Over a Broad Band?",
+    "level": 2
   },
   {
-    "title": "Propagation equations",
-    "level": "4"
+    "title": "2.5 A Little History",
+    "level": 2
   },
   {
-    "title": "1.1.3 Conducting media",
-    "level": "3"
+    "title": "2.6 On the RCS of Arrays",
+    "level": 2
   },
   {
-    "title": "Perfect conductor",
-    "level": "4"
+    "title": "2.7 An Alternative Approach: The Equivalent Circuit",
+    "level": 2
   },
   {
-    "title": "Conducting and linear dielectric media",
-    "level": "4"
+    "title": "2.8 On the Radiation from Infinite Versus Finite Arrays",
+    "level": 2
   },
   {
-    "title": "1.1.4 Reciprocity theorem",
-    "level": "3"
+    "title": "2.9 On Transmitting, Receiving, and Scattering Radiation Pattern of Finite Arrays",
+    "level": 2
   },
   {
-    "title": "1.2 Power and Energy",
-    "level": "2"
+    "title": "2.10 Minimum Versus Nonminimum Scattering Antennas",
+    "level": 2
   },
   {
-    "title": "1.2.1 Power volume densities",
-    "level": "3"
+    "title": "2.11 Other Nonminimum Scattering Antennas",
+    "level": 2
   },
   {
-    "title": "1.2.2 Energy volume densities",
-    "level": "3"
+    "title": "2.12 How to Prevent Coupling Between the Elements Through the Feed Network",
+    "level": 2
   },
   {
-    "title": "1.2.3 Poynting vector and power",
-    "level": "3"
+    "title": "2.13 How to Eliminate Backscatter due to Tapered Aperture Illumination",
+    "level": 2
   },
   {
-    "title": "1.3 Plane Waves in Linear Media",
-    "level": "2"
+    "title": "2.14 Common Misconceptions",
+    "level": 2
   },
   {
-    "title": "1.3.1 Plane waves in an isotropic linear medium",
-    "level": "3"
+    "title": "2.15 Summary",
+    "level": 2
   },
   {
-    "title": "Definition of a plane wave",
-    "level": "4"
+    "title": "2.16 Problems",
+    "level": 2
   },
   {
-    "title": "Propagation constant, wavenumber, phase velocity, refractive index, attenuation",
-    "level": "4"
+    "title": "Theory",
+    "level": 1
   },
   {
-    "title": "Structure, wave impedance",
-    "level": "4"
+    "title": "3.1 Introduction",
+    "level": 2
   },
   {
-    "title": "Polarization",
-    "level": "4"
+    "title": "3.2 The Vector Potential and the H Field for Column Arrays of Hertzian Elements",
+    "level": 2
   },
   {
-    "title": "Power transported by a plane wave in a lossless medium",
-    "level": "4"
+    "title": "3.3 Case I: Longitudinal Elements",
+    "level": 2
   },
   {
-    "title": "Spherical waves in a lossless medium",
-    "level": "4"
+    "title": "3.4 Case II: Transverse Elements",
+    "level": 2
   },
   {
-    "title": "1.3.2 Skin effect",
-    "level": "3"
+    "title": "3.5 Discussion",
+    "level": 2
   },
   {
-    "title": "Further Reading",
-    "level": "2"
+    "title": "3.6 Determination of the Element Currents",
+    "level": 2
   },
   {
-    "title": "Exercises",
-    "level": "2"
+    "title": "3.7 The Double Infinite Arrays with Arbitrary Element Orientation",
+    "level": 2
   },
   {
-    "title": "1.1 Field propagation equations in a linear medium",
-    "level": "3"
+    "title": "3.8 Conclusions",
+    "level": 2
   },
   {
-    "title": "1.2 Electromagnetic potentials",
-    "level": "3"
+    "title": "3.9 Problems",
+    "level": 2
   },
   {
-    "title": "1.3 Propagation in the direction Oz",
-    "level": "3"
+    "title": "Surface Waves on Passive Surfaces of Finite Extent",
+    "level": 1
   },
   {
-    "title": "1.4 Polarization",
-    "level": "3"
+    "title": "4.1 Introduction",
+    "level": 2
   },
   {
-    "title": "1.5 Volume density of charge",
-    "level": "3"
+    "title": "4.2 Model",
+    "level": 2
   },
   {
-    "title": "1.6 Skin effect",
-    "level": "3"
+    "title": "4.3 The Infinite Array Case",
+    "level": 2
   },
   {
-    "title": "Radiation",
-    "level": "1"
+    "title": "4.4 The Finite Array Case Excited by Generators",
+    "level": 2
   },
   {
-    "title": "2.1 Plane Wave Spectrum",
-    "level": "2"
+    "title": "4.5 The Element Currents on a Finite Array Excited by an Incident Wave",
+    "level": 2
   },
   {
-    "title": "2.1.1 Spectral domain",
-    "level": "3"
+    "title": "4.6 How the Surface Waves are Excited on a Finite Array",
+    "level": 2
   },
   {
-    "title": "2-D Fourier transform",
-    "level": "4"
+    "title": "4.7 How to Obtain the Actual Current Components",
+    "level": 2
   },
   {
-    "title": "Properties",
-    "level": "4"
+    "title": "4.8 The Bistatic Scattered Field from a Finite Array",
+    "level": 2
   },
   {
-    "title": "The electromagnetic field in the spectral domain",
-    "level": "4"
+    "title": "4.9 Parametric Study",
+    "level": 2
   },
   {
-    "title": "2.1.2 Electromagnetic field in a semi-infinite space with no sources",
-    "level": "3"
+    "title": "4.10 How to Control Surface Waves",
+    "level": 2
   },
   {
-    "title": "Component expressions",
-    "level": "4"
+    "title": "4.11 Fine Tuning the Load Resistors at a Single Frequency",
+    "level": 2
   },
   {
-    "title": "Interpretation",
-    "level": "4"
+    "title": "4.12 Variation with Angle of Incidence",
+    "level": 2
   },
   {
-    "title": "Field component relations in the spectral domain",
-    "level": "4"
+    "title": "4.13 The Bistatic Scattered Field",
+    "level": 2
   },
   {
-    "title": "The electric (or magnetic) field can be expressed from the tangential electric (or magnetic) field in the vicinity of the xy plane.",
-    "level": "4"
+    "title": "4.14 Previous Work",
+    "level": 2
   },
   {
-    "title": "2.1.3 The far field",
-    "level": "3"
+    "title": "4.15 On Scattering from Faceted Radomes",
+    "level": 2
   },
   {
-    "title": "Field calculation by the stationary phase method",
-    "level": "4"
+    "title": "4.16 Effects of Discontinuities in the Panels",
+    "level": 2
   },
   {
-    "title": "Application to the calculation of the far field",
-    "level": "4"
+    "title": "4.17 Scanning in the E Plane",
+    "level": 2
   },
   {
-    "title": "Application to the radiation from an elementary dipole (Hertzian dipole)",
-    "level": "4"
+    "title": "4.18 Effect of a Groundplane",
+    "level": 2
   },
   {
-    "title": "2.2 Kirchhoff&#8217;s Formulation",
-    "level": "2"
+    "title": "4.19 Common Misconceptions Concerning Element Currents on Finite Arrays",
+    "level": 2
   },
   {
-    "title": "2.2.1 Green&#8217;s identity and Green&#8217;s functions",
-    "level": "3"
+    "title": "4.20 Conclusion",
+    "level": 2
   },
   {
-    "title": "Green&#8217;s identity",
-    "level": "4"
+    "title": "4.21 Problems",
+    "level": 2
   },
   {
-    "title": "Green&#8217;s function in an unbounded space",
-    "level": "4"
+    "title": "Finite Active Arrays",
+    "level": 1
   },
   {
-    "title": "Even Green&#8217;s function in the half-space z &gt; 0",
-    "level": "4"
+    "title": "5.1 Introduction",
+    "level": 2
   },
   {
-    "title": "2.2.2 Kirchhoff&#8217;s integral formulation",
-    "level": "3"
+    "title": "5.2 Modeling of a Finite Infinite Groundplane",
+    "level": 2
   },
   {
-    "title": "By means of Green&#8217;s function in an unbounded space",
-    "level": "4"
+    "title": "5.3 Finite Infinite Array With an FSS Groundplane",
+    "level": 2
   },
   {
-    "title": "By means of the odd Green&#8217;s function G1 in a half-space",
-    "level": "4"
+    "title": "5.4 Micromanagement of the Backscattered Field",
+    "level": 2
   },
   {
-    "title": "By means of the even Green&#8217;s function G2 in a half-space",
-    "level": "4"
+    "title": "5.5 The Model for Studying Surface Waves",
+    "level": 2
   },
   {
-    "title": "2.2.3 Plane wave spectrum and Kirchhoff&#8217;s formulation",
-    "level": "3"
+    "title": "5.6 Controlling Surface Waves on Finite FSS Groundplanes",
+    "level": 2
   },
   {
-    "title": "Further Reading",
-    "level": "2"
+    "title": "5.7 Controlling Surface Waves on Finite Arrays of Active Elements With FSS Groundplane",
+    "level": 2
   },
   {
-    "title": "Exercises",
-    "level": "2"
+    "title": "5.8 The Backscattered Fields from the Triads in a Large Array",
+    "level": 2
   },
   {
-    "title": "2.1 2D Fourier transforms",
-    "level": "3"
+    "title": "5.9 On the Bistatic Scattered Field from a Large Array",
+    "level": 2
   },
   {
-    "title": "2.2 2D Fourier transform of exp(&#8722;jkr)/r",
-    "level": "3"
+    "title": "5.10 Further Reduction: Broadband Matching",
+    "level": 2
   },
   {
-    "title": "Antennas in transmission",
-    "level": "1"
+    "title": "5.11 Common Misconceptions",
+    "level": 2
   },
   {
-    "title": "3.1 Far Field Radiation",
-    "level": "2"
+    "title": "5.12 Conclusion",
+    "level": 2
   },
   {
-    "title": "3.1.1 Vector characteristic of the radiation from the antenna",
-    "level": "3"
+    "title": "5.13 Problems",
+    "level": 2
   },
   {
-    "title": "3.1.2 Translation theorem",
-    "level": "3"
-  },
-  {
-    "title": "3.1.3 Application",
-    "level": "3"
-  },
-  {
-    "title": "Application",
-    "level": "4"
-  },
-  {
-    "title": "3.1.4 Radiated power",
-    "level": "3"
-  },
-  {
-    "title": "3.2 Field Radiated from an antenna",
-    "level": "2"
-  },
-  {
-    "title": "3.2.1 Elementary dipoles",
-    "level": "3"
-  },
-  {
-    "title": "Electric dipole",
-    "level": "4"
-  },
-  {
-    "title": "Magnetic dipole",
-    "level": "4"
-  },
-  {
-    "title": "3.2.2 Plane-aperture radiation",
-    "level": "3"
-  },
-  {
-    "title": "General formula",
-    "level": "4"
-  },
-  {
-    "title": "Radiated power",
-    "level": "4"
-  },
-  {
-    "title": "Uniformly illuminated rectangular aperture",
-    "level": "4"
-  },
-  {
-    "title": "Uniformly illuminated circular aperture",
-    "level": "4"
-  },
-  {
-    "title": "3.3 Directivity, Gain, Radiation Pattern",
-    "level": "2"
-  },
-  {
-    "title": "3.3.1 Radiated power",
-    "level": "3"
-  },
-  {
-    "title": "3.3.2 Directivity",
-    "level": "3"
-  },
-  {
-    "title": "3.3.3 Gain",
-    "level": "3"
-  },
-  {
-    "title": "3.3.4 Radiation pattern",
-    "level": "3"
-  },
-  {
-    "title": "Definition",
-    "level": "4"
-  },
-  {
-    "title": "3.3.5 Input impedance",
-    "level": "3"
-  },
-  {
-    "title": "Radiation resistance of elementary dipoles",
-    "level": "4"
-  },
-  {
-    "title": "Further Reading",
-    "level": "2"
-  },
-  {
-    "title": "Exercises",
-    "level": "2"
-  },
-  {
-    "title": "3.1 Realization of circular polarization",
-    "level": "3"
-  },
-  {
-    "title": "3.2 Crossed dipoles",
-    "level": "3"
-  },
-  {
-    "title": "3.3 Two electric dipoles",
-    "level": "3"
-  },
-  {
-    "title": "3.4 Electric dipole and magnetic dipole",
-    "level": "3"
-  },
-  {
-    "title": "3.5 Antenna radiating into a half-space with a function cos&#957;theta",
-    "level": "3"
-  },
-  {
-    "title": "3.6 Maximum directivity of an aperture antenna",
-    "level": "3"
-  },
-  {
-    "title": "3.7 Rectangular aperture",
-    "level": "3"
-  },
-  {
-    "title": "3.8 Circular aperture",
-    "level": "3"
-  },
-  {
-    "title": "3.9 Uniformly illuminated circular aperture",
-    "level": "3"
-  },
-  {
-    "title": "Receiving antennas",
-    "level": "1"
-  },
-  {
-    "title": "4.1 Antenna Reciprocity Theorem",
-    "level": "2"
-  },
-  {
-    "title": "4.1.1 Reciprocity theorem applied to a source-free closed surface",
-    "level": "3"
-  },
-  {
-    "title": "Surface used for the application of the reciprocity theorem",
-    "level": "4"
-  },
-  {
-    "title": "Field (E1,H1) when the antenna is transmitting",
-    "level": "4"
-  },
-  {
-    "title": "Field (E2,H2) when the antenna is receiving",
-    "level": "4"
-  },
-  {
-    "title": "Calculation of the reciprocity integral",
-    "level": "4"
-  },
-  {
-    "title": "4.1.2 Relation between the field on transmit and the field on receive",
-    "level": "3"
-  },
-  {
-    "title": "4.2 Antenna Effective Receiving Area",
-    "level": "2"
-  },
-  {
-    "title": "4.2.1 Definition",
-    "level": "3"
-  },
-  {
-    "title": "4.2.2 Relationship between gain and effective receiving area",
-    "level": "3"
-  },
-  {
-    "title": "4.3 Energy Transmission Between Two Antennas",
-    "level": "2"
-  },
-  {
-    "title": "4.3.1 The Friis transmission formula",
-    "level": "3"
-  },
-  {
-    "title": "4.3.2 Radar equation",
-    "level": "3"
-  },
-  {
-    "title": "4.3.3 Antenna Radar Cross Section (RCS)1,2,3,4",
-    "level": "3"
-  },
-  {
-    "title": "Antenna RCS",
-    "level": "4"
-  },
-  {
-    "title": "4.4 Antenna Behaviour in the Presence of Noise",
-    "level": "2"
-  },
-  {
-    "title": "4.4.1 Power radiated by a body at absolute temperature T",
-    "level": "3"
-  },
-  {
-    "title": "4.4.2 Noise temperature of the antenna",
-    "level": "3"
-  },
-  {
-    "title": "4.4.3 Noise temperature of the receiving system",
-    "level": "3"
-  },
-  {
-    "title": "Further Reading",
-    "level": "2"
-  },
-  {
-    "title": "Exercises",
-    "level": "2"
-  },
-  {
-    "title": "4.1 Earth-Moon radio link",
-    "level": "3"
-  },
-  {
-    "title": "4.2 Radiocommunication link",
-    "level": "3"
-  },
-  {
-    "title": "4.3 DBS TV",
-    "level": "3"
-  },
-  {
-    "title": "4.4 Radio link",
-    "level": "3"
-  },
-  {
-    "title": "Antennas of simple geometry",
-    "level": "1"
-  },
-  {
-    "title": "5.1 Aperture Antennas",
-    "level": "2"
-  },
-  {
-    "title": "5.1.1 Parabolic antennas",
-    "level": "3"
-  },
-  {
-    "title": "Geometry of a parabola",
-    "level": "4"
-  },
-  {
-    "title": "Field in the aperture",
-    "level": "4"
-  },
-  {
-    "title": "5.1.2 Rectangular horns (see also &#167;8.2)",
-    "level": "3"
-  },
-  {
-    "title": "Pyramidal horn",
-    "level": "4"
-  },
-  {
-    "title": "5.2 Wire Antennas",
-    "level": "2"
-  },
-  {
-    "title": "5.2.1 Electric dipoles",
-    "level": "3"
-  },
-  {
-    "title": "Hertzian dipole (elementary electric dipole)",
-    "level": "4"
-  },
-  {
-    "title": "Electric dipoles of arbitrary length",
-    "level": "4"
-  },
-  {
-    "title": "5.2.2 Travelling wave rectilinear antennas",
-    "level": "3"
-  },
-  {
-    "title": "5.2.3 Loops and helical antennas",
-    "level": "3"
-  },
-  {
-    "title": "Loops",
-    "level": "4"
-  },
-  {
-    "title": "Helical antennas",
-    "level": "4"
-  },
-  {
-    "title": "Further Reading",
-    "level": "2"
-  },
-  {
-    "title": "Exercises",
-    "level": "2"
-  },
-  {
-    "title": "5.1 Half-wave dipole",
-    "level": "3"
-  },
-  {
-    "title": "5.2 Parabolic reflector of diameter D small compared with the wavelength &#955;, uniformly illuminated by a primary feed",
-    "level": "3"
-  },
-  {
-    "title": "5.3 Pyramidal horn",
-    "level": "3"
-  },
-  {
-    "title": "5.4 Rectilinear travelling wave antenna",
-    "level": "3"
-  },
-  {
-    "title": "5.5 Power radiated by a loop carrying a constant current",
-    "level": "3"
-  },
-  {
-    "title": "Printed antennas",
-    "level": "1"
+    "title": "Broadband Wire Arrays",
+    "level": 1
   },
   {
     "title": "6.1 Introduction",
-    "level": "2"
+    "level": 2
   },
   {
-    "title": "6.2 Different Type of Printed Radiating Elements",
-    "level": "2"
+    "title": "6.2 The Equivalent Circuit",
+    "level": 2
   },
   {
-    "title": "6.3 Field Analysis Methods ",
-    "level": "2"
+    "title": "6.3 An Array With Groundplane and no Dielectric",
+    "level": 2
   },
   {
-    "title": "6.3.1 Methods of analysis of printed antennas",
-    "level": "3"
+    "title": "6.4 Practical Layouts of Closely Spaced Dipole Arrays",
+    "level": 2
   },
   {
-    "title": "6.3.2 The cavity method",
-    "level": "3"
+    "title": "6.5 Combination of the Impedance Components",
+    "level": 2
   },
   {
-    "title": "Simplifying hypotheses",
-    "level": "4"
+    "title": "6.6 How to Obtain Greater Bandwidth",
+    "level": 2
   },
   {
-    "title": "Calculation of the radiated field",
-    "level": "4"
+    "title": "6.7 Array with a Groundplane and a Single Dielectric Slab",
+    "level": 2
   },
   {
-    "title": "6.3.3 Application to a rectangular patch",
-    "level": "3"
+    "title": "6.8 Actual Calculated Case: Array with Groundplane and Single Dielectric Slab",
+    "level": 2
   },
   {
-    "title": "Expression for the electromagnetic field",
-    "level": "4"
+    "title": "6.9 Array with Groundplane and Two Dielectric Slabs",
+    "level": 2
   },
   {
-    "title": "Resonant modes",
-    "level": "4"
+    "title": "6.10 Comparison Between the Single- and Double-Slab Array",
+    "level": 2
   },
   {
-    "title": "Magnetic field and surface current on the patch",
-    "level": "4"
+    "title": "6.11 Calculated Scan Impedance for Array with Groundplane and Two Dielectric Slabs",
+    "level": 2
   },
   {
-    "title": "Properties of the fundamental mode",
-    "level": "4"
+    "title": "6.12 Common Misconceptions",
+    "level": 2
   },
   {
-    "title": "6.3.4 Application to a circular patch",
-    "level": "3"
+    "title": "6.13 Conclusions",
+    "level": 2
   },
   {
-    "title": "6.4 Input Impedance, Bandwidth and Radiation Pattern",
-    "level": "2"
-  },
-  {
-    "title": "6.4.1 Input impedance",
-    "level": "3"
-  },
-  {
-    "title": "6.4.2 Bandwidth",
-    "level": "3"
-  },
-  {
-    "title": "6.4.3 Radiation pattern",
-    "level": "3"
-  },
-  {
-    "title": "6.4.4 Polarization",
-    "level": "3"
-  },
-  {
-    "title": "Linear polarization",
-    "level": "4"
-  },
-  {
-    "title": "Circular polarization",
-    "level": "4"
-  },
-  {
-    "title": "6.5 Low - Profile, Wideband or Multiband Antennas for Mobile Communications and Short - Range",
-    "level": "2"
-  },
-  {
-    "title": "6.5.1 Miniaturization",
-    "level": "3"
-  },
-  {
-    "title": "6.5.2 Enlargement of the bandwidth and realization of multiband antennas",
-    "level": "3"
-  },
-  {
-    "title": "6.5.3 Example",
-    "level": "3"
-  },
-  {
-    "title": "Further Reading",
-    "level": "2"
-  },
-  {
-    "title": "Exercises",
-    "level": "2"
-  },
-  {
-    "title": "6.1 Simplified model of a rectangular printed patch",
-    "level": "3"
-  },
-  {
-    "title": "6.2 Semi-circular patch analyzed using the cavity method",
-    "level": "3"
-  },
-  {
-    "title": "6.3 Dual-frequency rectangular microstrip antenna",
-    "level": "3"
-  },
-  {
-    "title": "Large antennas and microwave antennas",
-    "level": "1"
+    "title": "An Omnidirectional Antenna with Low RCS",
+    "level": 1
   },
   {
     "title": "7.1 Introduction",
-    "level": "2"
+    "level": 2
   },
   {
-    "title": "7.2 Structures and Applications",
-    "level": "2"
+    "title": "7.2 The Concept",
+    "level": 2
   },
   {
-    "title": "7.2.1 Structures",
-    "level": "3"
+    "title": "7.3 How do We Feed the Elements?",
+    "level": 2
   },
   {
-    "title": "7.2.2 External characteristics required in applications",
-    "level": "3"
+    "title": "7.4 Calculated Scattering Pattern for Omnidirectional Antenna with Low RCS",
+    "level": 2
   },
   {
-    "title": "Generalities",
-    "level": "4"
+    "title": "7.5 Measured Backscatter from a Low RCS Omnidirectional Antenna",
+    "level": 2
   },
   {
-    "title": "Surveillance antenna pattern",
-    "level": "4"
+    "title": "7.6 Common Misconceptions",
+    "level": 2
   },
   {
-    "title": "Multibeam antenna for 3-D radar (&#167;11.7).",
-    "level": "4"
+    "title": "7.7 Conclusions and Recommendations",
+    "level": 2
   },
   {
-    "title": "Electronically-scanned arrays (Chapter 11)",
-    "level": "4"
+    "title": "The RCS of Two-Dimensional Parabolic Antennas",
+    "level": 1
   },
   {
-    "title": "Low noise antennas for space communication links",
-    "level": "4"
+    "title": "8.1 The Major Scattering Components",
+    "level": 2
   },
   {
-    "title": "7.3 Fundamental Propagation Laws",
-    "level": "2"
+    "title": "8.2 Total Scattering from a Parabolic Reflector with Low",
+    "level": 2
   },
   {
-    "title": "7.3.1 Wavefronts",
-    "level": "3"
+    "title": "8.3 Practical Execution of the Low RCS Feed",
+    "level": 2
   },
   {
-    "title": "7.3.2 The Huygens&#8722;Fresnel principle of wave propagation",
-    "level": "3"
+    "title": "8.4 Out-Of-Band Reduction",
+    "level": 2
   },
   {
-    "title": "7.3.3 Stationary phase principle",
-    "level": "3"
+    "title": "8.5 Common Misconceptions on Edge Currents",
+    "level": 2
   },
   {
-    "title": "7.3.4 Geometrical optics ray theory",
-    "level": "3"
+    "title": "8.6 Conclusion",
+    "level": 2
   },
   {
-    "title": "Rays",
-    "level": "4"
-  },
-  {
-    "title": "Flow of electromagnetic energy and geometrical optics",
-    "level": "4"
-  },
-  {
-    "title": "Optical path",
-    "level": "4"
-  },
-  {
-    "title": "Optical path law - applications",
-    "level": "4"
-  },
-  {
-    "title": "7.3.5 Ray theory in quasi-homogeneous media",
-    "level": "3"
-  },
-  {
-    "title": "(a) Wave surface and ray differential equations",
-    "level": "4"
-  },
-  {
-    "title": "(b) Curvature of rays",
-    "level": "4"
-  },
-  {
-    "title": "(c) Important particular case",
-    "level": "4"
-  },
-  {
-    "title": "(d) Case of a laminar medium:",
-    "level": "4"
-  },
-  {
-    "title": "7.4 Antennas as Radiating Apertures",
-    "level": "2"
-  },
-  {
-    "title": "7.4.1 Antenna radiation and equivalent aperture method",
-    "level": "3"
-  },
-  {
-    "title": "7.4.2 Examples of microwave antennas and equivalent apertures",
-    "level": "3"
-  },
-  {
-    "title": "Electromagnetic horn (&#167;5.1.2 and &#167;8.2)",
-    "level": "4"
-  },
-  {
-    "title": "Parabolic reflector",
-    "level": "4"
-  },
-  {
-    "title": "Array antenna",
-    "level": "4"
-  },
-  {
-    "title": "7.4.3 Far-field radiation from an aperture",
-    "level": "3"
-  },
-  {
-    "title": "Introduction",
-    "level": "4"
-  },
-  {
-    "title": "Calculation of the total field at P from its transverse component",
-    "level": "4"
-  },
-  {
-    "title": "Electric field expression obtained from the magnetic field",
-    "level": "4"
-  },
-  {
-    "title": "7.4.4 Examples of radiating apertures",
-    "level": "3"
-  },
-  {
-    "title": "Rectangular apertures",
-    "level": "4"
-  },
-  {
-    "title": "Circular apertures",
-    "level": "4"
-  },
-  {
-    "title": "7.4.5 Polarization of the radiated field",
-    "level": "3"
-  },
-  {
-    "title": "Polarization of reference",
-    "level": "4"
-  },
-  {
-    "title": "Huygens sources",
-    "level": "4"
-  },
-  {
-    "title": "Unit vectors of Huygens coordinates",
-    "level": "4"
-  },
-  {
-    "title": "Arbitrary aperture field",
-    "level": "4"
-  },
-  {
-    "title": "7.4.6 Geometrical properties of the Huygens coordinates",
-    "level": "3"
-  },
-  {
-    "title": "Rotational symmetric properties",
-    "level": "4"
-  },
-  {
-    "title": "Relations with spherical coordinates",
-    "level": "4"
-  },
-  {
-    "title": "Polarization components of a field",
-    "level": "4"
-  },
-  {
-    "title": "7.4.7 Aperture radiation in the near field",
-    "level": "3"
-  },
-  {
-    "title": "Far-field or Fraunhofer region",
-    "level": "4"
-  },
-  {
-    "title": "Near-field or Rayleigh region",
-    "level": "4"
-  },
-  {
-    "title": "Intermediate or Fresnel region",
-    "level": "4"
-  },
-  {
-    "title": "General expression",
-    "level": "4"
-  },
-  {
-    "title": "Gain in the normal direction",
-    "level": "4"
-  },
-  {
-    "title": "Maximal theoretical gain",
-    "level": "4"
-  },
-  {
-    "title": "Maximum gain is obtained when",
-    "level": "4"
-  },
-  {
-    "title": "Illumination factor of an aperture",
-    "level": "4"
-  },
-  {
-    "title": "Application",
-    "level": "4"
-  },
-  {
-    "title": "Appendix 7A",
-    "level": "3"
-  },
-  {
-    "title": "Further Reading",
-    "level": "2"
-  },
-  {
-    "title": "Exercises",
-    "level": "2"
-  },
-  {
-    "title": "7.1 Factor of merit of a ground station antenna",
-    "level": "3"
-  },
-  {
-    "title": "7.2 Effect of cosecant-squared pattern on maximum gain",
-    "level": "3"
-  },
-  {
-    "title": "7.3 Wave propagation in a laminar medium",
-    "level": "3"
-  },
-  {
-    "title": "7.4 Gain of an aperture with tapered illumination",
-    "level": "3"
-  },
-  {
-    "title": "Primary feeds",
-    "level": "1"
-  },
-  {
-    "title": "8.1 General Properties",
-    "level": "2"
-  },
-  {
-    "title": "8.1.1 Introduction",
-    "level": "3"
-  },
-  {
-    "title": "8.1.2 General characteristics of primary feeds",
-    "level": "3"
-  },
-  {
-    "title": "Matching of the feed to the feed guide",
-    "level": "4"
-  },
-  {
-    "title": "Radiation pattern",
-    "level": "4"
-  },
-  {
-    "title": "Phase centre, astigmatism, caustic",
-    "level": "4"
-  },
-  {
-    "title": "Caustic surface",
-    "level": "4"
-  },
-  {
-    "title": "Polarization",
-    "level": "4"
-  },
-  {
-    "title": "8.1.3 Radiation from radially-symmetric structures",
-    "level": "3"
-  },
-  {
-    "title": "General expressions for fields",
-    "level": "4"
-  },
-  {
-    "title": "Properties of the radiation patterns",
-    "level": "4"
-  },
-  {
-    "title": "Expressions from the fields over the aperture",
-    "level": "4"
-  },
-  {
-    "title": "8.1.4 Primary aperture in an incident field",
-    "level": "3"
-  },
-  {
-    "title": "Introduction",
-    "level": "4"
-  },
-  {
-    "title": "Gain factor of the focusing system",
-    "level": "4"
-  },
-  {
-    "title": "Primary feed gain",
-    "level": "4"
-  },
-  {
-    "title": "8.2 Horns3",
-    "level": "2"
-  },
-  {
-    "title": "8.2.1 General properties",
-    "level": "3"
-  },
-  {
-    "title": "8.2.2 Small flare angle horns and open-ended guides",
-    "level": "3"
-  },
-  {
-    "title": "8.2.3 Flared horns",
-    "level": "3"
-  },
-  {
-    "title": "8.2.4 Multimode horns5",
-    "level": "3"
-  },
-  {
-    "title": "General characteristics",
-    "level": "4"
-  },
-  {
-    "title": "Generation of modes",
-    "level": "4"
-  },
-  {
-    "title": "Examples",
-    "level": "4"
-  },
-  {
-    "title": "8.3 Hybrid Modes and Corrugated Horns",
-    "level": "2"
-  },
-  {
-    "title": "8.3.1 Circular aperture radiating a pure polarization",
-    "level": "3"
-  },
-  {
-    "title": "8.3.2 Search for hybrid mode waves",
-    "level": "3"
-  },
-  {
-    "title": "Method used",
-    "level": "4"
-  },
-  {
-    "title": "Hybrid mode generated by a conical spectrum of plane waves",
-    "level": "4"
-  },
-  {
-    "title": "Search for a cylindrical guide possessing the required boundary conditions - propagation conditions",
-    "level": "4"
-  },
-  {
-    "title": "Field line structure of modes HE1m",
-    "level": "4"
-  },
-  {
-    "title": "Realization of the anisotropic surface admittance",
-    "level": "4"
-  },
-  {
-    "title": "8.3.3 Radiation pattern",
-    "level": "3"
-  },
-  {
-    "title": "Radiation from an open-ended corrugated waveguide",
-    "level": "4"
-  },
-  {
-    "title": "Radiation from a corrugated horn",
-    "level": "4"
-  },
-  {
-    "title": "Further Reading",
-    "level": "2"
-  },
-  {
-    "title": "Exercises",
-    "level": "2"
-  },
-  {
-    "title": "8.1 Circular horn",
-    "level": "3"
-  },
-  {
-    "title": "8.2 Astigmatic horn",
-    "level": "3"
-  },
-  {
-    "title": "Axially-symmetric systems",
-    "level": "1"
+    "title": "Aperiodicity: Is It a Good Idea?",
+    "level": 1
   },
   {
     "title": "9.1 Introduction",
-    "level": "2"
+    "level": 2
   },
   {
-    "title": "9.2 Symmetry Properties - Propagation of Polarization, Radiation Patterns",
-    "level": "2"
+    "title": "9.2 General Analysis of Periodic Structures with Perturbation of Element Loads and/or Interelement Spacings",
+    "level": 2
   },
   {
-    "title": "9.3 Principal Surface",
-    "level": "2"
+    "title": "9.3 Perturbation of Arrays of Tripoles",
+    "level": 2
   },
   {
-    "title": "9.3.1 Definition",
-    "level": "3"
+    "title": "9.4 Making Use of Our Observations",
+    "level": 2
   },
   {
-    "title": "9.3.2 Pupil - aperture angle - focal length",
-    "level": "3"
+    "title": "9.5 Anomalies due to Insufficient Number of Modes (The Unnamed Anomaly)",
+    "level": 2
   },
   {
-    "title": "9.3.3 Equivalent aperture of the system",
-    "level": "3"
+    "title": "9.6 Tapered Periodic Surfaces",
+    "level": 2
   },
   {
-    "title": "9.4 Transfer Function",
-    "level": "2"
+    "title": "9.7 Conclusions",
+    "level": 2
   },
   {
-    "title": "9.5 System Gain",
-    "level": "2"
+    "title": "Summary and Final Remarks",
+    "level": 1
   },
   {
-    "title": "9.5.1 General expression",
-    "level": "3"
+    "title": "Appendix A: Determination of Transformation and Position Circles",
+    "level": 1
   },
   {
-    "title": "9.5.2 Expression obtained from the primary gain g&#180; and the trans ferfunction",
-    "level": "3"
+    "title": "A.1 Introduction",
+    "level": 2
   },
   {
-    "title": "9.5.3 Effect of various factors in the gain function",
-    "level": "3"
+    "title": "A.2 Cases Demonstrating How to Construct Transformation Circles",
+    "level": 2
   },
   {
-    "title": "9.5.4 Concept of optimal primary directivity",
-    "level": "3"
+    "title": "A.3 Where is Zin Located on the Transformation Circle? Determination of the Position Circles",
+    "level": 2
   },
   {
-    "title": "9.6 Radiation Patterns",
-    "level": "2"
+    "title": "A.4 Problems",
+    "level": 2
   },
   {
-    "title": "9.6.1 Equivalent aperture illumination",
-    "level": "3"
+    "title": "Appendix B: Broadband Matching",
+    "level": 1
   },
   {
-    "title": "9.6.2 Axisymmetric primary pattern with pure polarization",
-    "level": "3"
+    "title": "B.1 Introduction",
+    "level": 2
   },
   {
-    "title": "9.6.3 Effect of blockage",
-    "level": "3"
+    "title": "B.2 Matching Tools",
+    "level": 2
   },
   {
-    "title": "9.7 Aberrations in Axially- Symmetric Systems ",
-    "level": "2"
+    "title": "B.3 Example: The Single Series Stub Tuner (Not Recommended for Broadband Applications)",
+    "level": 2
   },
   {
-    "title": "9.7.1 Introduction",
-    "level": "3"
+    "title": "B.4 Example: Broadband Matching",
+    "level": 2
   },
   {
-    "title": "9.7.2 Main aberrations in the defocusing plane",
-    "level": "3"
+    "title": "B.5 The ?>TRICKS?>",
+    "level": 2
   },
   {
-    "title": "9.8 Axially Symmetric System Considered in Reception",
-    "level": "2"
+    "title": "B.6 Discussion",
+    "level": 2
   },
   {
-    "title": "9.8.1 Effect of transfer function",
-    "level": "3"
+    "title": "B.7 On the Load Impedance ZL",
+    "level": 2
   },
   {
-    "title": "9.8.2 Diffraction in the vicinity of the focus F of an element dS&#180; of a spherical wave S&#180;",
-    "level": "3"
+    "title": "B.8 Example of a Practical Execution",
+    "level": 2
   },
   {
-    "title": "9.8.3 Analysis of a diffraction pattern - contribution of an elementary crown of the spherical wave - hybrid waves",
-    "level": "3"
+    "title": "B.9 Common Misconceptions",
+    "level": 2
   },
   {
-    "title": "9.8.4 Axial field",
-    "level": "3"
+    "title": "B.10 Concluding Remarks",
+    "level": 2
   },
   {
-    "title": "9.8.5 Transverse distribution of the diffracted field in the focal plane",
-    "level": "3"
+    "title": "B.11 Problems",
+    "level": 2
   },
   {
-    "title": "9.8.6 Axially-symmetric systems with a small aperture Thita",
-    "level": "3"
+    "title": "Appendix C: MeanderLine Polarizers for Oblique Incidence",
+    "level": 1
   },
   {
-    "title": "9.8.7 Constant transfer function",
-    "level": "3"
+    "title": "C.1 Introduction",
+    "level": 2
   },
   {
-    "title": "9.8.8 Non-constant transfer function",
-    "level": "3"
+    "title": "C.2 Multilayered Meander-Line Polarizers",
+    "level": 2
   },
   {
-    "title": "9.8.9 General case",
-    "level": "3"
+    "title": "C.3 Individual Meander-Line Impedances",
+    "level": 2
   },
   {
-    "title": "9.9 System Considered in Reception",
-    "level": "2"
+    "title": "C.4 Design 1",
+    "level": 2
   },
   {
-    "title": "9.9.1 Diffraction pattern produced around the focus by an incident non axial plane wave",
-    "level": "3"
+    "title": "C.5 Design 2",
+    "level": 2
   },
   {
-    "title": "9.9.2 Radiation pattern of the system associated with a given primary aperture",
-    "level": "3"
+    "title": "C.6 Design 3",
+    "level": 2
   },
   {
-    "title": "9.9.3 Examples of applications",
-    "level": "3"
+    "title": "C.7 Design 4",
+    "level": 2
   },
   {
-    "title": "9.9.4 Axial gain of an axially-symmetric system - effect of the diameter of the primary aperture",
-    "level": "3"
+    "title": "C.8 Design 5",
+    "level": 2
   },
   {
-    "title": "9.10 Radiation in the Fresnel Zone of A Gaussian Illumination - Application to the Transport of Energy by Radiation (Goubeau's Waves)",
-    "level": "2"
+    "title": "C.9 Conclusion",
+    "level": 2
   },
   {
-    "title": "Further Reading",
-    "level": "2"
+    "title": "C.10 Problems",
+    "level": 2
   },
   {
-    "title": "Exercises",
-    "level": "2"
+    "title": "Appendix D: On the Scan Versus the Embedded Impedance",
+    "level": 1
   },
   {
-    "title": "9.1 Axial gain of a focusing system operating in a planar space",
-    "level": "3"
+    "title": "D.1 Introduction",
+    "level": 2
   },
   {
-    "title": "9.2 Characteristic radiation function of an annular feed with radial polarization",
-    "level": "3"
+    "title": "D.2 The Scan Impedance",
+    "level": 2
   },
   {
-    "title": "Focused systems",
-    "level": "1"
+    "title": "D.3 The Embedded Stick Impedance",
+    "level": 2
   },
   {
-    "title": "10.1 Introduction",
-    "level": "2"
+    "title": "D.4 The Embedded Element Stick Impedance",
+    "level": 2
   },
   {
-    "title": "10.2 The Cassegrain Antenna",
-    "level": "2"
+    "title": "D.5 On The Scan Impedance of a Finite Array",
+    "level": 2
   },
   {
-    "title": "10.2.1 Introduction1",
-    "level": "3"
+    "title": "D.6 How to Measure The Scan Impedance ZA",
+    "level": 2
   },
   {
-    "title": "10.2.2 Geometry",
-    "level": "3"
+    "title": "D.7 Conclusions",
+    "level": 2
   },
   {
-    "title": "10.2.3 Equivalent primary feed",
-    "level": "3"
+    "title": "D.8 Postscript",
+    "level": 2
   },
   {
-    "title": "10.2.4 Principal surface",
-    "level": "3"
-  },
-  {
-    "title": "10.2.5 Cassegrain with shaped reflectors2",
-    "level": "3"
-  },
-  {
-    "title": "Subreflector",
-    "level": "4"
-  },
-  {
-    "title": "Main reflector",
-    "level": "4"
-  },
-  {
-    "title": "Generalization",
-    "level": "4"
-  },
-  {
-    "title": "10.2.6 Diffraction pattern of the subreflector",
-    "level": "3"
-  },
-  {
-    "title": "Calculation assumptions",
-    "level": "4"
-  },
-  {
-    "title": "Notations used",
-    "level": "4"
-  },
-  {
-    "title": "Incident field at M",
-    "level": "4"
-  },
-  {
-    "title": "Reflected field at M",
-    "level": "4"
-  },
-  {
-    "title": "Calculation of integral 5",
-    "level": "4"
-  },
-  {
-    "title": "Numerical results",
-    "level": "4"
-  },
-  {
-    "title": "10.2.7 Blockage by the subreflector",
-    "level": "3"
-  },
-  {
-    "title": "Blockage effect",
-    "level": "4"
-  },
-  {
-    "title": "Suppression of blockage effect by rotation of the plane of polarization",
-    "level": "4"
-  },
-  {
-    "title": "10.2.8 Schwarzschild aplanatic reflector",
-    "level": "3"
-  },
-  {
-    "title": "10.3 Tracking Systems",
-    "level": "2"
-  },
-  {
-    "title": "10.3.1 Introduction",
-    "level": "3"
-  },
-  {
-    "title": "Angular and angle-error tracking",
-    "level": "4"
-  },
-  {
-    "title": "10.3.2 General characteristics of radar echoes",
-    "level": "3"
-  },
-  {
-    "title": "Scattering pattern of a targe",
-    "level": "4"
-  },
-  {
-    "title": "Polarization of the echo - the polarization matrix",
-    "level": "4"
-  },
-  {
-    "title": "Target identification (see also &#167;12.4)",
-    "level": "4"
-  },
-  {
-    "title": "10.3.3 Conical scanning",
-    "level": "3"
-  },
-  {
-    "title": "Principle of operation - receiver block diagram",
-    "level": "4"
-  },
-  {
-    "title": "Examples of conical scanning antennas",
-    "level": "4"
-  },
-  {
-    "title": "10.3.4 &#8216;Monopulse&#8217; antennas",
-    "level": "3"
-  },
-  {
-    "title": "Principle of radar monopulse antennas",
-    "level": "4"
-  },
-  {
-    "title": "Main characteristics of a classical monopulse antenna",
-    "level": "4"
-  },
-  {
-    "title": "Angular accuracy of monopulse radar - Influence of antenna characteristics",
-    "level": "4"
-  },
-  {
-    "title": "Various types of classical monopulse antennas",
-    "level": "4"
-  },
-  {
-    "title": "Primary feeds allowing the simultaneous optimization of both sum and difference patterns",
-    "level": "4"
-  },
-  {
-    "title": "Influence of cross polarization on the tracking accuracy",
-    "level": "4"
-  },
-  {
-    "title": "Comparison of conical scanning and monopulse",
-    "level": "4"
-  },
-  {
-    "title": "10.3.5 Beacon tracking",
-    "level": "3"
-  },
-  {
-    "title": "10.4 Non Axially - Symmetric Systems",
-    "level": "2"
-  },
-  {
-    "title": "10.4.1 Offset reflector",
-    "level": "3"
-  },
-  {
-    "title": "Illumination",
-    "level": "4"
-  },
-  {
-    "title": "Cross polarization11",
-    "level": "4"
-  },
-  {
-    "title": "10.4.2 Shaped reflectors - pattern synthesis",
-    "level": "3"
-  },
-  {
-    "title": "Introduction",
-    "level": "4"
-  },
-  {
-    "title": "Definition of the reflector shape from that of the &#8216;main curve&#8217;",
-    "level": "4"
-  },
-  {
-    "title": "Determination of the central curve &#915;",
-    "level": "4"
-  },
-  {
-    "title": "Diffraction pattern",
-    "level": "4"
-  },
-  {
-    "title": "Numerical example",
-    "level": "4"
-  },
-  {
-    "title": "Further Reading",
-    "level": "2"
-  },
-  {
-    "title": "Exercises",
-    "level": "2"
-  },
-  {
-    "title": "10.1 Cassegrain antenna",
-    "level": "3"
-  },
-  {
-    "title": "10.2 Monopulse null depth",
-    "level": "3"
-  },
-  {
-    "title": "10.3 Monopulse feed with radial polarization",
-    "level": "3"
-  },
-  {
-    "title": "Arrays",
-    "level": "1"
-  },
-  {
-    "title": "11.1 Introduction",
-    "level": "2"
-  },
-  {
-    "title": "11.1.1 Phased arrays",
-    "level": "3"
-  },
-  {
-    "title": "11.1.2 Bandwidth - use of delay lines - subarrays",
-    "level": "3"
-  },
-  {
-    "title": "11.1.3 Active arrays",
-    "level": "3"
-  },
-  {
-    "title": "Active arrays in transmission",
-    "level": "4"
-  },
-  {
-    "title": "Active arrays on receive",
-    "level": "4"
-  },
-  {
-    "title": "Transmitting-receiving active arrays",
-    "level": "4"
-  },
-  {
-    "title": "11.2 General Structure of A Phased Array (Examples)  ",
-    "level": "2"
-  },
-  {
-    "title": "11.2.1 General structure",
-    "level": "3"
-  },
-  {
-    "title": "Feed network - comment",
-    "level": "4"
-  },
-  {
-    "title": "Phase shifter structures",
-    "level": "4"
-  },
-  {
-    "title": "11.2.2 Examples of array structures",
-    "level": "3"
-  },
-  {
-    "title": "Corporate feed",
-    "level": "4"
-  },
-  {
-    "title": "Feed network using a lens between two parallel planes",
-    "level": "4"
-  },
-  {
-    "title": "&#8216;Disk&#8217; feed network",
-    "level": "4"
-  },
-  {
-    "title": "Phased reflector array",
-    "level": "4"
-  },
-  {
-    "title": "11.3 Linear Array Theory",
-    "level": "2"
-  },
-  {
-    "title": "11.3.1 Basic equation - array factor",
-    "level": "3"
-  },
-  {
-    "title": "11.3.2 Uniform illumination and constant phase gradient",
-    "level": "3"
-  },
-  {
-    "title": "11.3.3 Half-power beamwidth",
-    "level": "3"
-  },
-  {
-    "title": "11.3.4 Spectral bandwidth available on a phased array",
-    "level": "3"
-  },
-  {
-    "title": "11.3.5 Condition to prevent grating lobes from occurring in the scanning region",
-    "level": "3"
-  },
-  {
-    "title": "11.3.6 Effect of weighting the array illumination function",
-    "level": "3"
-  },
-  {
-    "title": "Application",
-    "level": "4"
-  },
-  {
-    "title": "11.3.7 Effect of element directivity",
-    "level": "3"
-  },
-  {
-    "title": "11.4 Variation of Pointing Direction",
-    "level": "2"
-  },
-  {
-    "title": "11.4.1 Array operating on transmission",
-    "level": "3"
-  },
-  {
-    "title": "11.4.2 Array on receive",
-    "level": "3"
-  },
-  {
-    "title": "11.4.3 Array active reflection coefficient - mutual coupling5",
-    "level": "3"
-  },
-  {
-    "title": "Active reflection coefficient",
-    "level": "4"
-  },
-  {
-    "title": "Form of the coupling coefficients",
-    "level": "4"
-  },
-  {
-    "title": "11.4.4 Blind angle phenomenon5, 6, 7",
-    "level": "3"
-  },
-  {
-    "title": "Mutual coupling",
-    "level": "4"
-  },
-  {
-    "title": "Expression for &#961;(&#964;) in a simple theoretical model",
-    "level": "4"
-  },
-  {
-    "title": "11.4.5 Case where the element spacing is relatively large",
-    "level": "3"
-  },
-  {
-    "title": "11.4.6 Study of an array of open-ended guides considered as a periodic structure",
-    "level": "3"
-  },
-  {
-    "title": "11.5 Effects of Phase Quantization",
-    "level": "2"
-  },
-  {
-    "title": "11.5.1 Case where all phase shifters are fed in phase",
-    "level": "3"
-  },
-  {
-    "title": "11.5.2 Effects of quantization when the phase origin varies from one phase shifter to another",
-    "level": "3"
-  },
-  {
-    "title": "11.6 Frequency - Scanned Arrays",
-    "level": "2"
-  },
-  {
-    "title": "11.7 Analogue Beamforming Matrice",
-    "level": "2"
-  },
-  {
-    "title": "11.7.1 Introduction",
-    "level": "3"
-  },
-  {
-    "title": "11.7.2 General properties of multi-port networks",
-    "level": "3"
-  },
-  {
-    "title": "11.7.3 Beamforming applications",
-    "level": "3"
-  },
-  {
-    "title": "Orthogonality of the illuminations of an array",
-    "level": "4"
-  },
-  {
-    "title": "Orthogonality of the characteristic functions",
-    "level": "4"
-  },
-  {
-    "title": "Directional beams",
-    "level": "4"
-  },
-  {
-    "title": "11.7.4 Examples of matrices",
-    "level": "3"
-  },
-  {
-    "title": "Butler matrix9",
-    "level": "4"
-  },
-  {
-    "title": "Blass matrix",
-    "level": "4"
-  },
-  {
-    "title": "11.7.5 Non-orthogonal directional beams",
-    "level": "3"
-  },
-  {
-    "title": "Problem of multiple-beam angular coverage",
-    "level": "4"
-  },
-  {
-    "title": "Quasi optical matrix",
-    "level": "4"
-  },
-  {
-    "title": "11.8 Further Topics",
-    "level": "2"
-  },
-  {
-    "title": "11.8.1 Active modules",
-    "level": "3"
-  },
-  {
-    "title": "Passive and active phased arrays - requirements for modules",
-    "level": "4"
-  },
-  {
-    "title": "Optical control of phased arrays",
-    "level": "4"
-  },
-  {
-    "title": "11.8.2 Digital beamforming",
-    "level": "3"
-  },
-  {
-    "title": "Implementation",
-    "level": "4"
-  },
-  {
-    "title": "Array calibration",
-    "level": "4"
-  },
-  {
-    "title": "11.8.3 MEMS technology in phased arrays",
-    "level": "3"
-  },
-  {
-    "title": "RF MEMS phase shifters",
-    "level": "4"
-  },
-  {
-    "title": "11.8.4 Circular, cylindrical, spherical and conformal arrays",
-    "level": "3"
-  },
-  {
-    "title": "Beam cophasal excitation",
-    "level": "4"
-  },
-  {
-    "title": "Phase mode excitation",
-    "level": "4"
-  },
-  {
-    "title": "Null steering",
-    "level": "4"
-  },
-  {
-    "title": "Direction finding",
-    "level": "4"
-  },
-  {
-    "title": "Pattern synthesis",
-    "level": "4"
-  },
-  {
-    "title": "Isolated omnidirectional patterns",
-    "level": "4"
-  },
-  {
-    "title": "Sectoral phase modes22",
-    "level": "4"
-  },
-  {
-    "title": "Spherical phase modes23",
-    "level": "4"
-  },
-  {
-    "title": "Conformal arrays",
-    "level": "4"
-  },
-  {
-    "title": "11.8.5 Sparse and random arrays",
-    "level": "3"
-  },
-  {
-    "title": "Introduction",
-    "level": "4"
-  },
-  {
-    "title": "Synthesis techniques for irregular arrays",
-    "level": "4"
-  },
-  {
-    "title": "Statistical methods",
-    "level": "4"
-  },
-  {
-    "title": "Average radiation pattern",
-    "level": "4"
-  },
-  {
-    "title": "Average gain (or average power pattern)",
-    "level": "4"
-  },
-  {
-    "title": "Probability function of diffuse sidelobes",
-    "level": "4"
-  },
-  {
-    "title": "Retrodirective arrays",
-    "level": "4"
-  },
-  {
-    "title": "Self-phasing arrays",
-    "level": "4"
-  },
-  {
-    "title": "Random symmetrical pair arrays",
-    "level": "4"
-  },
-  {
-    "title": "Appendix 11a",
-    "level": "2"
-  },
-  {
-    "title": "11A.1 Gain of an arbitrary array",
-    "level": "3"
-  },
-  {
-    "title": "Condition for maximum gain",
-    "level": "4"
-  },
-  {
-    "title": "Conclusion",
-    "level": "4"
-  },
-  {
-    "title": "11A.2 Gain of a beam cophasal circular array",
-    "level": "3"
-  },
-  {
-    "title": "11A.3 Radiation pattern of a beam cophasal circular array",
-    "level": "3"
-  },
-  {
-    "title": "Condition for maximum gain",
-    "level": "4"
-  },
-  {
-    "title": "Array with a large number N of elements",
-    "level": "4"
-  },
-  {
-    "title": "11A.4 Example",
-    "level": "3"
-  },
-  {
-    "title": "11A.5 Comparison of linear and circular arrays",
-    "level": "3"
-  },
-  {
-    "title": "Further Reading",
-    "level": "2"
-  },
-  {
-    "title": "Exercises",
-    "level": "2"
-  },
-  {
-    "title": "11.1 Design of an electronically-scanned array antenna",
-    "level": "3"
-  },
-  {
-    "title": "11.2 Grating lobes produced by use of phased subarrays fed by delay lines",
-    "level": "3"
-  },
-  {
-    "title": "Fundamentals of polarimetry",
-    "level": "1"
-  },
-  {
-    "title": "12.1 Introduction",
-    "level": "2"
-  },
-  {
-    "title": "12.1.1 Applications of polarimetry in radar and telecommunications",
-    "level": "3"
-  },
-  {
-    "title": "12.1.2 Some historical references",
-    "level": "3"
-  },
-  {
-    "title": "12.1.3 Basics",
-    "level": "3"
-  },
-  {
-    "title": "12.2 Fully Polarized Waves  ",
-    "level": "2"
-  },
-  {
-    "title": "12.2.1 Definition",
-    "level": "3"
-  },
-  {
-    "title": "12.2.2 Algebraic representation of elliptical polarization",
-    "level": "3"
-  },
-  {
-    "title": "12.2.3 Normalized Cartesian coordinate system",
-    "level": "3"
-  },
-  {
-    "title": "12.2.4 Base of circular polarizations",
-    "level": "3"
-  },
-  {
-    "title": "12.2.5 Polarization ratio",
-    "level": "3"
-  },
-  {
-    "title": "12.2.6 Polarization diagram",
-    "level": "3"
-  },
-  {
-    "title": "12.2.7 Polarization coupling to the receiving antenna",
-    "level": "3"
-  },
-  {
-    "title": "12.3 Partially Polarised Waves",
-    "level": "2"
-  },
-  {
-    "title": "12.3.1 Definition and physical origin",
-    "level": "3"
-  },
-  {
-    "title": "Physical examples",
-    "level": "4"
-  },
-  {
-    "title": "12.3.2 Coherence matrix",
-    "level": "3"
-  },
-  {
-    "title": "12.3.3 Completely unpolarized wave",
-    "level": "3"
-  },
-  {
-    "title": "12.3.4 Completely polarized wave",
-    "level": "3"
-  },
-  {
-    "title": "12.3.5 Stokes parameters (Stokes, 1819&#8722;1903)",
-    "level": "3"
-  },
-  {
-    "title": "12.3.6 Decomposition of a partially polarized wave",
-    "level": "3"
-  },
-  {
-    "title": "12.3.7 Geometrical interpretation of the preceding results",
-    "level": "3"
-  },
-  {
-    "title": "12.3.8 Polarization coupling and Stokes vectors",
-    "level": "3"
-  },
-  {
-    "title": "12.4 Polarimetric Representation of Radar Targets",
-    "level": "2"
-  },
-  {
-    "title": "12.4.1 Introduction",
-    "level": "3"
-  },
-  {
-    "title": "12.4.2 Sinclair diffraction matrix",
-    "level": "3"
-  },
-  {
-    "title": "12.5 Partially Polarized Waves",
-    "level": "2"
-  },
-  {
-    "title": "12.5.1 The Mueller matrix",
-    "level": "3"
-  },
-  {
-    "title": "12.5.2 Application example",
-    "level": "3"
-  },
-  {
-    "title": "12.6 Polarizers and Polarization Separators for Telecommunications Antennas and Polarimetric Radars",
-    "level": "2"
-  },
-  {
-    "title": "12.6.1 Introduction",
-    "level": "3"
-  },
-  {
-    "title": "12.6.2 Non-symmetrical polarization separator",
-    "level": "3"
-  },
-  {
-    "title": "12.6.3 Semi-symmetrical polarization separator",
-    "level": "3"
-  },
-  {
-    "title": "12.6.4 Symmetrical polarization separator (turnstile)",
-    "level": "3"
-  },
-  {
-    "title": "12.6.5 Dielectric vane polarizer",
-    "level": "3"
-  },
-  {
-    "title": "Further Reading",
-    "level": "2"
-  },
-  {
-    "title": "Exercises",
-    "level": "2"
-  },
-  {
-    "title": "Antennas and signal theory",
-    "level": "1"
-  },
-  {
-    "title": "13.1 Introduction ",
-    "level": "2"
-  },
-  {
-    "title": "13.2 Equivalence of an Aperture and A Spatial Frequency Filter",
-    "level": "2"
-  },
-  {
-    "title": "13.2.1 Concept of spatial frequency",
-    "level": "3"
-  },
-  {
-    "title": "13.2.2 Consequences of the limitation of the aperture dimensions on thepro perties of the radiation characteristic function",
-    "level": "3"
-  },
-  {
-    "title": "Application of the sampling theorem",
-    "level": "4"
-  },
-  {
-    "title": "Application of Bernstein&#8217;s theorem",
-    "level": "4"
-  },
-  {
-    "title": "13.2.3 Consequences of the limitation of the aperture dimensions on the &#8216;gain&#8217; function of the antenna",
-    "level": "3"
-  },
-  {
-    "title": "13.3 Synthesis of an Aperture to Radiate A Given Radiation Pattern",
-    "level": "2"
-  },
-  {
-    "title": "13.3.1 Statement of problem",
-    "level": "3"
-  },
-  {
-    "title": "13.3.2 Generalization of the approximation method",
-    "level": "3"
-  },
-  {
-    "title": "13.3.3 Use of sampling methods",
-    "level": "3"
-  },
-  {
-    "title": "13.3.4 Role of phase - stationary phase method",
-    "level": "3"
-  },
-  {
-    "title": "13.3.5 Pattern synthesis for a focusing system",
-    "level": "3"
-  },
-  {
-    "title": "13.4 Superdirective Antennas",
-    "level": "2"
-  },
-  {
-    "title": "13.4.1 Introduction",
-    "level": "3"
-  },
-  {
-    "title": "13.5 The Antenna as A Filter of Angular Signals6,7",
-    "level": "2"
-  },
-  {
-    "title": "13.5.1 Introduction",
-    "level": "3"
-  },
-  {
-    "title": "13.5.2 Optical or microwave imaging and linear filters",
-    "level": "3"
-  },
-  {
-    "title": "13.5.3 False echoes and resolving power",
-    "level": "3"
-  },
-  {
-    "title": "13.5.4 Case where the antenna is treated as an aperture",
-    "level": "3"
-  },
-  {
-    "title": "13.5.5 Spectrum of fixed echoes of a rotating radar",
-    "level": "3"
-  },
-  {
-    "title": "Further Reading",
-    "level": "2"
-  },
-  {
-    "title": "Exercises",
-    "level": "2"
-  },
-  {
-    "title": "13.1 Woodward synthesis",
-    "level": "3"
-  },
-  {
-    "title": "13.2 Optimum &#8216;difference&#8217; illumination",
-    "level": "3"
-  },
-  {
-    "title": "Signal processing antennas",
-    "level": "1"
-  },
-  {
-    "title": "14.1 Introduction",
-    "level": "2"
-  },
-  {
-    "title": "14.2 Synthetic Antennas in Radar and Sonar",
-    "level": "2"
-  },
-  {
-    "title": "14.2.1 Principles of synthetic antennas",
-    "level": "3"
-  },
-  {
-    "title": "14.2.2 Synthetic receive array with non-directional beam",
-    "level": "3"
-  },
-  {
-    "title": "14.2.3 Synthetic receive array with multiple beams",
-    "level": "3"
-  },
-  {
-    "title": "14.2.4 Examples of spatio-temporal coding",
-    "level": "3"
-  },
-  {
-    "title": "Binary phase coding",
-    "level": "4"
-  },
-  {
-    "title": "Binary amplitude coding",
-    "level": "4"
-  },
-  {
-    "title": "Sideways-looking Synthetic Aperture Radar (SAR)1,2",
-    "level": "4"
-  },
-  {
-    "title": "Frequency-scanning synthetic antenna",
-    "level": "4"
-  },
-  {
-    "title": "14.3 Imaging of Coherent Sources",
-    "level": "2"
-  },
-  {
-    "title": "14.3.1 Introduction",
-    "level": "3"
-  },
-  {
-    "title": "14.3.2 Two-source distribution",
-    "level": "3"
-  },
-  {
-    "title": "14.3.3 Estimation of the elevation angle of a low-altitude target above a reflecting plane",
-    "level": "3"
-  },
-  {
-    "title": "14.3.4 Effect of noise",
-    "level": "3"
-  },
-  {
-    "title": "Choice of decision criterion",
-    "level": "4"
-  },
-  {
-    "title": "14.4 Imaging of Incoherent Source",
-    "level": "2"
-  },
-  {
-    "title": "14.4.1 Introduction",
-    "level": "3"
-  },
-  {
-    "title": "14.4.2 Conditions for incoherence",
-    "level": "3"
-  },
-  {
-    "title": "14.4.3 Multiplicative arrays",
-    "level": "3"
-  },
-  {
-    "title": "Another example",
-    "level": "4"
-  },
-  {
-    "title": "14.4.4 Relationship between an angular distribution of incoherent sources and the observed field",
-    "level": "3"
-  },
-  {
-    "title": "Calculation of the coherence function:",
-    "level": "4"
-  },
-  {
-    "title": "Generalization to three dimensions",
-    "level": "4"
-  },
-  {
-    "title": "Remarks",
-    "level": "4"
-  },
-  {
-    "title": "14.4.5 Sampling of the coherence function",
-    "level": "3"
-  },
-  {
-    "title": "14.4.6 Measurement of the coefficients of correlation or covariance C (n-n&#8242;)",
-    "level": "3"
-  },
-  {
-    "title": "14.4.7 The covariance matrix",
-    "level": "3"
-  },
-  {
-    "title": "14.5 High Resolution Imagery and the Maximum Entropy Method",
-    "level": "2"
-  },
-  {
-    "title": "14.5.1 Introduction",
-    "level": "3"
-  },
-  {
-    "title": "14.5.2 Classical method of &#8216;correlogram&#8217;",
-    "level": "3"
-  },
-  {
-    "title": "14.5.3 Method of Maximum Entropy6",
-    "level": "3"
-  },
-  {
-    "title": "14.5.4 Estimation of T under conditions of Maximum Entropy",
-    "level": "3"
-  },
-  {
-    "title": "14.5.5 Factorization of T(&#964; ) - properties",
-    "level": "3"
-  },
-  {
-    "title": "14.5.6 Determination of the coefficients an in equation (14.71)",
-    "level": "3"
-  },
-  {
-    "title": "14.5.7 Generalization",
-    "level": "3"
-  },
-  {
-    "title": "14.5.8 Numerical example",
-    "level": "3"
-  },
-  {
-    "title": "14.5.9 Minimum redundance arrays",
-    "level": "3"
-  },
-  {
-    "title": "14.6 Other Methods of Spectral Estimation",
-    "level": "2"
-  },
-  {
-    "title": "14.6.1 Introduction",
-    "level": "3"
-  },
-  {
-    "title": "14.6.2 The MUSIC algorithm",
-    "level": "3"
-  },
-  {
-    "title": "14.6.3 Illustration of the MUSIC algorithm",
-    "level": "3"
-  },
-  {
-    "title": "14.6.4 Other superresolution algorithms",
-    "level": "3"
-  },
-  {
-    "title": "14.6.5 Superresolution with circular arrays",
-    "level": "3"
-  },
-  {
-    "title": "14.7 Spatial Filtering",
-    "level": "2"
-  },
-  {
-    "title": "14.7.1 Introduction",
-    "level": "3"
-  },
-  {
-    "title": "14.7.2 What is an adaptive array ?",
-    "level": "3"
-  },
-  {
-    "title": "14.7.3 Simple example",
-    "level": "3"
-  },
-  {
-    "title": "14.7.4 Howells-Applebaum correlation loop17",
-    "level": "3"
-  },
-  {
-    "title": "14.7.5 Minimum noise criterion",
-    "level": "3"
-  },
-  {
-    "title": "14.7.6 Effect of internal receiver noise",
-    "level": "3"
-  },
-  {
-    "title": "14.7.7 Multiple correlation loops",
-    "level": "3"
-  },
-  {
-    "title": "14.7.8 The optimum array",
-    "level": "3"
-  },
-  {
-    "title": "14.7.9 Interpretation",
-    "level": "3"
-  },
-  {
-    "title": "14.7.10 Digital implementation",
-    "level": "3"
-  },
-  {
-    "title": "14.7.11 Smart antennas",
-    "level": "3"
-  },
-  {
-    "title": "Applications in radiocommunications",
-    "level": "4"
-  },
-  {
-    "title": "The techniques used to combine the diverse signals include20:",
-    "level": "4"
-  },
-  {
-    "title": "Applications in radar",
-    "level": "4"
-  },
-  {
-    "title": "Waveform diversity",
-    "level": "4"
-  },
-  {
-    "title": "Appendix 14A ",
-    "level": "2"
-  },
-  {
-    "title": "14A.1 Uncertainty of an event A of probability p(A)",
-    "level": "3"
-  },
-  {
-    "title": "14A.2 Information gained by the knowledge of an event",
-    "level": "3"
-  },
-  {
-    "title": "14A.3 Uncertainty relative to an alternative",
-    "level": "3"
-  },
-  {
-    "title": "14A.4 First generalization",
-    "level": "3"
-  },
-  {
-    "title": "14A.5 Second generalization",
-    "level": "3"
-  },
-  {
-    "title": "14A.6 Decision theory",
-    "level": "3"
-  },
-  {
-    "title": "14A.7 Entropy and spectral density",
-    "level": "3"
-  },
-  {
-    "title": "14A.8 Justification of this relationship",
-    "level": "3"
-  },
-  {
-    "title": "Further Reading",
-    "level": "2"
-  },
-  {
-    "title": "Exercises",
-    "level": "2"
-  },
-  {
-    "title": "14.1 Coherence function of the Sun",
-    "level": "3"
-  },
-  {
-    "title": "Antenna measurements",
-    "level": "1"
-  },
-  {
-    "title": "15.1 Introduction",
-    "level": "2"
-  },
-  {
-    "title": "15.2 Gain Measurements",
-    "level": "2"
-  },
-  {
-    "title": "15.2.1 Comparison with a standard-gain horn",
-    "level": "3"
-  },
-  {
-    "title": "15.2.2 Two-antenna measurement",
-    "level": "3"
-  },
-  {
-    "title": "15.2.3 Three-antenna measurement",
-    "level": "3"
-  },
-  {
-    "title": "15.2.4 Extrapolation",
-    "level": "3"
-  },
-  {
-    "title": "15.3 Radiation Pattern Measurements ",
-    "level": "2"
-  },
-  {
-    "title": "15.3.1 Anechoic chambers and far-field ranges",
-    "level": "3"
-  },
-  {
-    "title": "15.3.2 Compact ranges",
-    "level": "3"
-  },
-  {
-    "title": "15.3.3 Wavefront quality",
-    "level": "3"
-  },
-  {
-    "title": "15.3.4 Near-field techniques",
-    "level": "3"
-  },
-  {
-    "title": "15.3.5 Other techniques",
-    "level": "3"
-  },
-  {
-    "title": "15.3.6 Polarization",
-    "level": "3"
-  },
-  {
-    "title": "15.4 Time - Domain Gating",
-    "level": "2"
-  },
-  {
-    "title": "15.4.1 Principles",
-    "level": "3"
-  },
-  {
-    "title": "15.4.2 Limitations",
-    "level": "3"
-  },
-  {
-    "title": "15.5 Antenna Noise Temperature and G/T",
-    "level": "2"
-  },
-  {
-    "title": "15.5.1 Measurement of antenna noise temperature",
-    "level": "3"
-  },
-  {
-    "title": "15.5.2 Direct measurement of G/T using solar noise",
-    "level": "3"
-  },
-  {
-    "title": "15.6 Impedance and Bandwidth",
-    "level": "2"
-  },
-  {
-    "title": "15.7 Measurments of Cellular Radio Handset Antennas",
-    "level": "2"
-  },
-  {
-    "title": "15.7.1 Specific Absorption Rate",
-    "level": "3"
-  },
-  {
-    "title": "15.7.2 Reverberation chambers",
-    "level": "3"
-  },
-  {
-    "title": "Further Reading",
-    "level": "2"
-  },
-  {
-    "title": "Exercises ",
-    "level": "2"
-  },
-  {
-    "title": "15.1 Purcell&#8217;s method",
-    "level": "3"
-  },
-  {
-    "title": "15.2 Three antenna measurement",
-    "level": "3"
-  },
-  {
-    "title": "15.3 Rayleigh distance",
-    "level": "3"
-  },
-  {
-    "title": "15.4 Solar method of G/T measurement",
-    "level": "3"
+    "title": "References",
+    "level": 1
   },
   {
     "title": "Index",
-    "level": "1"
+    "level": 1
   }
 ]
