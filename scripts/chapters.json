@@ -1,594 +1,246 @@
 [
   {
-    "title": "Introduction",
+    "title": "Chapter 1 Introduction",
     "level": 1
   },
   {
-    "title": "1.1 Why Consider Finite Arrays?",
+    "title": "1.1 Introduction",
     "level": 2
   },
   {
-    "title": "1.2 Surface Waves Unique to Finite Periodic Structures",
+    "title": "1.2 Organization of the Book",
     "level": 2
   },
   {
-    "title": "1.3 Effects of Surface Waves",
-    "level": 2
-  },
-  {
-    "title": "1.4 How do We Control the Surface Waves?",
-    "level": 2
-  },
-  {
-    "title": "1.5 Common Misconceptions",
-    "level": 2
-  },
-  {
-    "title": "1.6 Conclusion",
-    "level": 2
-  },
-  {
-    "title": "1.7 Problems",
-    "level": 2
-  },
-  {
-    "title": "On Radar Cross Section of Antennas in General",
+    "title": "Chapter 2 Near-Field Measurement Concepts",
     "level": 1
   },
   {
-    "title": "2.1 Introduction",
+    "title": "2.1 Near- and Far-Field Regions",
     "level": 2
   },
   {
-    "title": "2.2 Fundamentals of Antenna RCS",
+    "title": "2.2 Near-Field Measurement Concepts",
     "level": 2
   },
   {
-    "title": "2.3 How to Obtain a Low ?> tot by Cancellation (Not Recommended)",
+    "title": "2.3 Fourier Optics",
     "level": 2
   },
   {
-    "title": "2.4 How do We Obtain Low ?> tot Over a Broad Band?",
+    "title": "2.4 Doppler Beam Forming",
     "level": 2
   },
   {
-    "title": "2.5 A Little History",
+    "title": "2.5 Aperture Synthesis",
     "level": 2
   },
   {
-    "title": "2.6 On the RCS of Arrays",
+    "title": "2.6 Other Related Technologies",
     "level": 2
   },
   {
-    "title": "2.7 An Alternative Approach: The Equivalent Circuit",
-    "level": 2
-  },
-  {
-    "title": "2.8 On the Radiation from Infinite Versus Finite Arrays",
-    "level": 2
-  },
-  {
-    "title": "2.9 On Transmitting, Receiving, and Scattering Radiation Pattern of Finite Arrays",
-    "level": 2
-  },
-  {
-    "title": "2.10 Minimum Versus Nonminimum Scattering Antennas",
-    "level": 2
-  },
-  {
-    "title": "2.11 Other Nonminimum Scattering Antennas",
-    "level": 2
-  },
-  {
-    "title": "2.12 How to Prevent Coupling Between the Elements Through the Feed Network",
-    "level": 2
-  },
-  {
-    "title": "2.13 How to Eliminate Backscatter due to Tapered Aperture Illumination",
-    "level": 2
-  },
-  {
-    "title": "2.14 Common Misconceptions",
-    "level": 2
-  },
-  {
-    "title": "2.15 Summary",
-    "level": 2
-  },
-  {
-    "title": "2.16 Problems",
-    "level": 2
-  },
-  {
-    "title": "Theory",
+    "title": "Chapter 3 Near-Field Measurement Theory",
     "level": 1
   },
   {
-    "title": "3.1 Introduction",
+    "title": "3.1 Near-Field Sampling Theory",
     "level": 2
   },
   {
-    "title": "3.2 The Vector Potential and the H Field for Column Arrays of Hertzian Elements",
+    "title": "3.2 Far-Field Transformation Algorithms",
     "level": 2
   },
   {
-    "title": "3.3 Case I: Longitudinal Elements",
+    "title": "3.3 Probe Compensation",
     "level": 2
   },
   {
-    "title": "3.4 Case II: Transverse Elements",
-    "level": 2
-  },
-  {
-    "title": "3.5 Discussion",
-    "level": 2
-  },
-  {
-    "title": "3.6 Determination of the Element Currents",
-    "level": 2
-  },
-  {
-    "title": "3.7 The Double Infinite Arrays with Arbitrary Element Orientation",
-    "level": 2
-  },
-  {
-    "title": "3.8 Conclusions",
-    "level": 2
-  },
-  {
-    "title": "3.9 Problems",
-    "level": 2
-  },
-  {
-    "title": "Surface Waves on Passive Surfaces of Finite Extent",
+    "title": "Chapter 4 Microwave Interferometer",
     "level": 1
   },
   {
-    "title": "4.1 Introduction",
+    "title": "4.1 Vector Network Analyzers",
     "level": 2
   },
   {
-    "title": "4.2 Model",
+    "title": "4.2 Microwave Sources",
     "level": 2
   },
   {
-    "title": "4.3 The Infinite Array Case",
+    "title": "4.3 Phase Reference Cable",
     "level": 2
   },
   {
-    "title": "4.4 The Finite Array Case Excited by Generators",
+    "title": "4.4 Phase Reference Thermal Compensation",
     "level": 2
   },
   {
-    "title": "4.5 The Element Currents on a Finite Array Excited by an Incident Wave",
+    "title": "4.5 Microwave Receivers",
     "level": 2
   },
   {
-    "title": "4.6 How the Surface Waves are Excited on a Finite Array",
+    "title": "4.6 Radar Imaging and Multipath Suppression Techniques",
     "level": 2
   },
   {
-    "title": "4.7 How to Obtain the Actual Current Components",
-    "level": 2
-  },
-  {
-    "title": "4.8 The Bistatic Scattered Field from a Finite Array",
-    "level": 2
-  },
-  {
-    "title": "4.9 Parametric Study",
-    "level": 2
-  },
-  {
-    "title": "4.10 How to Control Surface Waves",
-    "level": 2
-  },
-  {
-    "title": "4.11 Fine Tuning the Load Resistors at a Single Frequency",
-    "level": 2
-  },
-  {
-    "title": "4.12 Variation with Angle of Incidence",
-    "level": 2
-  },
-  {
-    "title": "4.13 The Bistatic Scattered Field",
-    "level": 2
-  },
-  {
-    "title": "4.14 Previous Work",
-    "level": 2
-  },
-  {
-    "title": "4.15 On Scattering from Faceted Radomes",
-    "level": 2
-  },
-  {
-    "title": "4.16 Effects of Discontinuities in the Panels",
-    "level": 2
-  },
-  {
-    "title": "4.17 Scanning in the E Plane",
-    "level": 2
-  },
-  {
-    "title": "4.18 Effect of a Groundplane",
-    "level": 2
-  },
-  {
-    "title": "4.19 Common Misconceptions Concerning Element Currents on Finite Arrays",
-    "level": 2
-  },
-  {
-    "title": "4.20 Conclusion",
-    "level": 2
-  },
-  {
-    "title": "4.21 Problems",
-    "level": 2
-  },
-  {
-    "title": "Finite Active Arrays",
+    "title": "Chapter 5 Coordinate Measurements and Machining",
     "level": 1
   },
   {
-    "title": "5.1 Introduction",
+    "title": "5.1 Mechanical Coordinate Measurements",
     "level": 2
   },
   {
-    "title": "5.2 Modeling of a Finite Infinite Groundplane",
+    "title": "5.2 Optical Coordinate Measurements",
     "level": 2
   },
   {
-    "title": "5.3 Finite Infinite Array With an FSS Groundplane",
+    "title": "5.3 Microwave Holographic Metrology",
     "level": 2
   },
   {
-    "title": "5.4 Micromanagement of the Backscattered Field",
+    "title": "5.4 On-Orbit Holographic Metrology of Spacecraft Antennas",
     "level": 2
   },
   {
-    "title": "5.5 The Model for Studying Surface Waves",
+    "title": "5.5 Machining Operations",
     "level": 2
   },
   {
-    "title": "5.6 Controlling Surface Waves on Finite FSS Groundplanes",
-    "level": 2
-  },
-  {
-    "title": "5.7 Controlling Surface Waves on Finite Arrays of Active Elements With FSS Groundplane",
-    "level": 2
-  },
-  {
-    "title": "5.8 The Backscattered Fields from the Triads in a Large Array",
-    "level": 2
-  },
-  {
-    "title": "5.9 On the Bistatic Scattered Field from a Large Array",
-    "level": 2
-  },
-  {
-    "title": "5.10 Further Reduction: Broadband Matching",
-    "level": 2
-  },
-  {
-    "title": "5.11 Common Misconceptions",
-    "level": 2
-  },
-  {
-    "title": "5.12 Conclusion",
-    "level": 2
-  },
-  {
-    "title": "5.13 Problems",
-    "level": 2
-  },
-  {
-    "title": "Broadband Wire Arrays",
+    "title": "Chapter 6 Small, Near-Field Range Mensurement Systems",
     "level": 1
   },
   {
-    "title": "6.1 Introduction",
+    "title": "6.1 Simple, Low-Cost, Near-Field Range Measurement Systems",
     "level": 2
   },
   {
-    "title": "6.2 The Equivalent Circuit",
+    "title": "6.2 Portable Near-Field Range Measurement Systoms",
     "level": 2
   },
   {
-    "title": "6.3 An Array With Groundplane and no Dielectric",
-    "level": 2
-  },
-  {
-    "title": "6.4 Practical Layouts of Closely Spaced Dipole Arrays",
-    "level": 2
-  },
-  {
-    "title": "6.5 Combination of the Impedance Components",
-    "level": 2
-  },
-  {
-    "title": "6.6 How to Obtain Greater Bandwidth",
-    "level": 2
-  },
-  {
-    "title": "6.7 Array with a Groundplane and a Single Dielectric Slab",
-    "level": 2
-  },
-  {
-    "title": "6.8 Actual Calculated Case: Array with Groundplane and Single Dielectric Slab",
-    "level": 2
-  },
-  {
-    "title": "6.9 Array with Groundplane and Two Dielectric Slabs",
-    "level": 2
-  },
-  {
-    "title": "6.10 Comparison Between the Single- and Double-Slab Array",
-    "level": 2
-  },
-  {
-    "title": "6.11 Calculated Scan Impedance for Array with Groundplane and Two Dielectric Slabs",
-    "level": 2
-  },
-  {
-    "title": "6.12 Common Misconceptions",
-    "level": 2
-  },
-  {
-    "title": "6.13 Conclusions",
-    "level": 2
-  },
-  {
-    "title": "An Omnidirectional Antenna with Low RCS",
+    "title": "Chapfer 7 Robotic System Design",
     "level": 1
   },
   {
-    "title": "7.1 Introduction",
+    "title": "7.1 Overview",
     "level": 2
   },
   {
-    "title": "7.2 The Concept",
+    "title": "7.2 Robot Skeleton",
     "level": 2
   },
   {
-    "title": "7.3 How do We Feed the Elements?",
+    "title": "7.3 Payload Position Measurenment System",
     "level": 2
   },
   {
-    "title": "7.4 Calculated Scattering Pattern for Omnidirectional Antenna with Low RCS",
-    "level": 2
-  },
-  {
-    "title": "7.5 Measured Backscatter from a Low RCS Omnidirectional Antenna",
-    "level": 2
-  },
-  {
-    "title": "7.6 Common Misconceptions",
-    "level": 2
-  },
-  {
-    "title": "7.7 Conclusions and Recommendations",
-    "level": 2
-  },
-  {
-    "title": "The RCS of Two-Dimensional Parabolic Antennas",
+    "title": "7.4 Servo Control System",
     "level": 1
   },
   {
-    "title": "8.1 The Major Scattering Components",
+    "title": "7.5 Robot Computational System",
     "level": 2
   },
   {
-    "title": "8.2 Total Scattering from a Parabolic Reflector with Low",
+    "title": "7.6 Fault Protection",
     "level": 2
   },
   {
-    "title": "8.3 Practical Execution of the Low RCS Feed",
-    "level": 2
-  },
-  {
-    "title": "8.4 Out-Of-Band Reduction",
-    "level": 2
-  },
-  {
-    "title": "8.5 Common Misconceptions on Edge Currents",
-    "level": 2
-  },
-  {
-    "title": "8.6 Conclusion",
-    "level": 2
-  },
-  {
-    "title": "Aperiodicity: Is It a Good Idea?",
+    "title": "Chapter 8 Operations",
     "level": 1
   },
   {
-    "title": "9.1 Introduction",
-    "level": 2
-  },
-  {
-    "title": "9.2 General Analysis of Periodic Structures with Perturbation of Element Loads and/or Interelement Spacings",
-    "level": 2
-  },
-  {
-    "title": "9.3 Perturbation of Arrays of Tripoles",
-    "level": 2
-  },
-  {
-    "title": "9.4 Making Use of Our Observations",
-    "level": 2
-  },
-  {
-    "title": "9.5 Anomalies due to Insufficient Number of Modes (The Unnamed Anomaly)",
-    "level": 2
-  },
-  {
-    "title": "9.6 Tapered Periodic Surfaces",
-    "level": 2
-  },
-  {
-    "title": "9.7 Conclusions",
-    "level": 2
-  },
-  {
-    "title": "Summary and Final Remarks",
+    "title": "8,1 Test Design",
     "level": 1
   },
   {
-    "title": "Appendix A: Determination of Transformation and Position Circles",
+    "title": "8.2 Automated Operations",
+    "level": 2
+  },
+  {
+    "title": "8.3 Documentation and User Training",
+    "level": 2
+  },
+  {
+    "title": "Chapter 9 Antenna Test Range Error Analysis",
     "level": 1
   },
   {
-    "title": "A.1 Introduction",
+    "title": "9.1 Near-Field Measurement Assumptions",
     "level": 2
   },
   {
-    "title": "A.2 Cases Demonstrating How to Construct Transformation Circles",
+    "title": "9.2 Far-Field Pattern Uncertainty",
     "level": 2
   },
   {
-    "title": "A.3 Where is Zin Located on the Transformation Circle? Determination of the Position Circles",
+    "title": "9.3 RF Stability Test",
     "level": 2
   },
   {
-    "title": "A.4 Problems",
+    "title": "9.4 System Linearity Test",
     "level": 2
   },
   {
-    "title": "Appendix B: Broadband Matching",
+    "title": "9.5 Leakage Test",
+    "level": 2
+  },
+  {
+    "title": "9.6 Reference Cable Stability Test",
+    "level": 2
+  },
+  {
+    "title": "9.7 Multipath and Mutual Coupling Tests",
+    "level": 2
+  },
+  {
+    "title": "9.8 Scan Plane Truncation",
+    "level": 2
+  },
+  {
+    "title": "9.9 Probe Positioning Errors",
+    "level": 2
+  },
+  {
+    "title": "9.10 Far-Field Pattern Measurement Uncertainty",
+    "level": 2
+  },
+  {
+    "title": "9.11 Gain Measurement Uncertainty",
+    "level": 2
+  },
+  {
+    "title": "9.12 Boresight Measurement Uncertainty",
+    "level": 2
+  },
+  {
+    "title": "9.13 Minimization of Measurement Errors",
+    "level": 2
+  },
+  {
+    "title": "9.14 Accuracy of Holographic Measurements",
+    "level": 2
+  },
+  {
+    "title": "Appendix A Near-Field Test Facility Coordinate System",
     "level": 1
   },
   {
-    "title": "B.1 Introduction",
-    "level": 2
-  },
-  {
-    "title": "B.2 Matching Tools",
-    "level": 2
-  },
-  {
-    "title": "B.3 Example: The Single Series Stub Tuner (Not Recommended for Broadband Applications)",
-    "level": 2
-  },
-  {
-    "title": "B.4 Example: Broadband Matching",
-    "level": 2
-  },
-  {
-    "title": "B.5 The ?>TRICKS?>",
-    "level": 2
-  },
-  {
-    "title": "B.6 Discussion",
-    "level": 2
-  },
-  {
-    "title": "B.7 On the Load Impedance ZL",
-    "level": 2
-  },
-  {
-    "title": "B.8 Example of a Practical Execution",
-    "level": 2
-  },
-  {
-    "title": "B.9 Common Misconceptions",
-    "level": 2
-  },
-  {
-    "title": "B.10 Concluding Remarks",
-    "level": 2
-  },
-  {
-    "title": "B.11 Problems",
-    "level": 2
-  },
-  {
-    "title": "Appendix C: MeanderLine Polarizers for Oblique Incidence",
+    "title": "Appendix B Near-Field Measurement Terminology",
     "level": 1
   },
   {
-    "title": "C.1 Introduction",
-    "level": 2
-  },
-  {
-    "title": "C.2 Multilayered Meander-Line Polarizers",
-    "level": 2
-  },
-  {
-    "title": "C.3 Individual Meander-Line Impedances",
-    "level": 2
-  },
-  {
-    "title": "C.4 Design 1",
-    "level": 2
-  },
-  {
-    "title": "C.5 Design 2",
-    "level": 2
-  },
-  {
-    "title": "C.6 Design 3",
-    "level": 2
-  },
-  {
-    "title": "C.7 Design 4",
-    "level": 2
-  },
-  {
-    "title": "C.8 Design 5",
-    "level": 2
-  },
-  {
-    "title": "C.9 Conclusion",
-    "level": 2
-  },
-  {
-    "title": "C.10 Problems",
-    "level": 2
-  },
-  {
-    "title": "Appendix D: On the Scan Versus the Embedded Impedance",
+    "title": "Appendix C Common Misconceptions about Near-Field Measurements",
     "level": 1
   },
   {
-    "title": "D.1 Introduction",
-    "level": 2
-  },
-  {
-    "title": "D.2 The Scan Impedance",
-    "level": 2
-  },
-  {
-    "title": "D.3 The Embedded Stick Impedance",
-    "level": 2
-  },
-  {
-    "title": "D.4 The Embedded Element Stick Impedance",
-    "level": 2
-  },
-  {
-    "title": "D.5 On The Scan Impedance of a Finite Array",
-    "level": 2
-  },
-  {
-    "title": "D.6 How to Measure The Scan Impedance ZA",
-    "level": 2
-  },
-  {
-    "title": "D.7 Conclusions",
-    "level": 2
-  },
-  {
-    "title": "D.8 Postscript",
-    "level": 2
-  },
-  {
-    "title": "References",
+    "title": "Appendix D Fourier and Related Transforms",
     "level": 1
   },
   {
-    "title": "Index",
+    "title": "Appendix E Near- to Far-Field Transformation Program",
     "level": 1
   }
 ]

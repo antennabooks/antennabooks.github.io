@@ -15560,5 +15560,263 @@
         "level": 1
       }
     ]
+  },
+  {
+    "cover": "https://uk.artechhouse.com/Assets/ProductImages/3610I_t.jpg",
+    "title": "Near-Field Antenna Measurements",
+    "author": "Dan Slater",
+    "publisher": "Artech House",
+    "granted": true,
+    "publisherSite": "https://uk.artechhouse.com/Near-Field-Antenna-Measurements-P313.aspx",
+    "amazonSite": "https://www.amazon.com/Finite-Antenna-Arrays-FSS-Wiley-ebook/dp/B000VU2MVO",
+    "edition": 1,
+    "year": 1991,
+    "description": "This comprehensive reference shows you how to calculate antenna gain, pattern, and beam pointing faster and more accurately than ever before. Emphasizing practical solutions to real-world problems, it presents a detailed technical overview of the theory and practice of antenna near-field measurements.",
+    "chapters": [
+      {
+        "title": "Chapter 1 Introduction",
+        "level": 1
+      },
+      {
+        "title": "1.1 Introduction",
+        "level": 2
+      },
+      {
+        "title": "1.2 Organization of the Book",
+        "level": 2
+      },
+      {
+        "title": "Chapter 2 Near-Field Measurement Concepts",
+        "level": 1
+      },
+      {
+        "title": "2.1 Near- and Far-Field Regions",
+        "level": 2
+      },
+      {
+        "title": "2.2 Near-Field Measurement Concepts",
+        "level": 2
+      },
+      {
+        "title": "2.3 Fourier Optics",
+        "level": 2
+      },
+      {
+        "title": "2.4 Doppler Beam Forming",
+        "level": 2
+      },
+      {
+        "title": "2.5 Aperture Synthesis",
+        "level": 2
+      },
+      {
+        "title": "2.6 Other Related Technologies",
+        "level": 2
+      },
+      {
+        "title": "Chapter 3 Near-Field Measurement Theory",
+        "level": 1
+      },
+      {
+        "title": "3.1 Near-Field Sampling Theory",
+        "level": 2
+      },
+      {
+        "title": "3.2 Far-Field Transformation Algorithms",
+        "level": 2
+      },
+      {
+        "title": "3.3 Probe Compensation",
+        "level": 2
+      },
+      {
+        "title": "Chapter 4 Microwave Interferometer",
+        "level": 1
+      },
+      {
+        "title": "4.1 Vector Network Analyzers",
+        "level": 2
+      },
+      {
+        "title": "4.2 Microwave Sources",
+        "level": 2
+      },
+      {
+        "title": "4.3 Phase Reference Cable",
+        "level": 2
+      },
+      {
+        "title": "4.4 Phase Reference Thermal Compensation",
+        "level": 2
+      },
+      {
+        "title": "4.5 Microwave Receivers",
+        "level": 2
+      },
+      {
+        "title": "4.6 Radar Imaging and Multipath Suppression Techniques",
+        "level": 2
+      },
+      {
+        "title": "Chapter 5 Coordinate Measurements and Machining",
+        "level": 1
+      },
+      {
+        "title": "5.1 Mechanical Coordinate Measurements",
+        "level": 2
+      },
+      {
+        "title": "5.2 Optical Coordinate Measurements",
+        "level": 2
+      },
+      {
+        "title": "5.3 Microwave Holographic Metrology",
+        "level": 2
+      },
+      {
+        "title": "5.4 On-Orbit Holographic Metrology of Spacecraft Antennas",
+        "level": 2
+      },
+      {
+        "title": "5.5 Machining Operations",
+        "level": 2
+      },
+      {
+        "title": "Chapter 6 Small, Near-Field Range Mensurement Systems",
+        "level": 1
+      },
+      {
+        "title": "6.1 Simple, Low-Cost, Near-Field Range Measurement Systems",
+        "level": 2
+      },
+      {
+        "title": "6.2 Portable Near-Field Range Measurement Systoms",
+        "level": 2
+      },
+      {
+        "title": "Chapfer 7 Robotic System Design",
+        "level": 1
+      },
+      {
+        "title": "7.1 Overview",
+        "level": 2
+      },
+      {
+        "title": "7.2 Robot Skeleton",
+        "level": 2
+      },
+      {
+        "title": "7.3 Payload Position Measurenment System",
+        "level": 2
+      },
+      {
+        "title": "7.4 Servo Control System",
+        "level": 1
+      },
+      {
+        "title": "7.5 Robot Computational System",
+        "level": 2
+      },
+      {
+        "title": "7.6 Fault Protection",
+        "level": 2
+      },
+      {
+        "title": "Chapter 8 Operations",
+        "level": 1
+      },
+      {
+        "title": "8,1 Test Design",
+        "level": 1
+      },
+      {
+        "title": "8.2 Automated Operations",
+        "level": 2
+      },
+      {
+        "title": "8.3 Documentation and User Training",
+        "level": 2
+      },
+      {
+        "title": "Chapter 9 Antenna Test Range Error Analysis",
+        "level": 1
+      },
+      {
+        "title": "9.1 Near-Field Measurement Assumptions",
+        "level": 2
+      },
+      {
+        "title": "9.2 Far-Field Pattern Uncertainty",
+        "level": 2
+      },
+      {
+        "title": "9.3 RF Stability Test",
+        "level": 2
+      },
+      {
+        "title": "9.4 System Linearity Test",
+        "level": 2
+      },
+      {
+        "title": "9.5 Leakage Test",
+        "level": 2
+      },
+      {
+        "title": "9.6 Reference Cable Stability Test",
+        "level": 2
+      },
+      {
+        "title": "9.7 Multipath and Mutual Coupling Tests",
+        "level": 2
+      },
+      {
+        "title": "9.8 Scan Plane Truncation",
+        "level": 2
+      },
+      {
+        "title": "9.9 Probe Positioning Errors",
+        "level": 2
+      },
+      {
+        "title": "9.10 Far-Field Pattern Measurement Uncertainty",
+        "level": 2
+      },
+      {
+        "title": "9.11 Gain Measurement Uncertainty",
+        "level": 2
+      },
+      {
+        "title": "9.12 Boresight Measurement Uncertainty",
+        "level": 2
+      },
+      {
+        "title": "9.13 Minimization of Measurement Errors",
+        "level": 2
+      },
+      {
+        "title": "9.14 Accuracy of Holographic Measurements",
+        "level": 2
+      },
+      {
+        "title": "Appendix A Near-Field Test Facility Coordinate System",
+        "level": 1
+      },
+      {
+        "title": "Appendix B Near-Field Measurement Terminology",
+        "level": 1
+      },
+      {
+        "title": "Appendix C Common Misconceptions about Near-Field Measurements",
+        "level": 1
+      },
+      {
+        "title": "Appendix D Fourier and Related Transforms",
+        "level": 1
+      },
+      {
+        "title": "Appendix E Near- to Far-Field Transformation Program",
+        "level": 1
+      }
+    ]
   }
 ]

@@ -40,7 +40,7 @@ readInterface.on('close', function () {
     //   console.log(lines[i+1].split(": ")[1])
     //   console.log(lines[i+2].split(": ")[1])
 
-    lines[i] = lines[i].replace(lines[i].split(":")[0] + ": ", "")
+    // lines[i] = lines[i].replace(lines[i].split(":")[0] + ": ", "")
     // console.log(lines[i])
 
     var levelNumber = lines[i].split(" ")[0]

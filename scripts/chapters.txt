@@ -1,148 +1,61 @@
-1: Introduction
-0: 1.1 Why Consider Finite Arrays?
-1: 1.2 Surface Waves Unique to Finite Periodic Structures
-2: 1.3 Effects of Surface Waves
-3: 1.4 How do We Control the Surface Waves?
-4: 1.5 Common Misconceptions
-5: 1.6 Conclusion
-6: 1.7 Problems
-2: On Radar Cross Section of Antennas in General
-0: 2.1 Introduction
-1: 2.2 Fundamentals of Antenna RCS
-2: 2.3 How to Obtain a Low ?> tot by Cancellation (Not Recommended)
-3: 2.4 How do We Obtain Low ?> tot Over a Broad Band?
-4: 2.5 A Little History
-5: 2.6 On the RCS of Arrays
-6: 2.7 An Alternative Approach: The Equivalent Circuit
-7: 2.8 On the Radiation from Infinite Versus Finite Arrays
-8: 2.9 On Transmitting, Receiving, and Scattering Radiation Pattern of Finite Arrays
-9: 2.10 Minimum Versus Nonminimum Scattering Antennas
-10: 2.11 Other Nonminimum Scattering Antennas
-11: 2.12 How to Prevent Coupling Between the Elements Through the Feed Network
-12: 2.13 How to Eliminate Backscatter due to Tapered Aperture Illumination
-13: 2.14 Common Misconceptions
-14: 2.15 Summary
-15: 2.16 Problems
-3: Theory
-0: 3.1 Introduction
-1: 3.2 The Vector Potential and the H Field for Column Arrays of Hertzian Elements
-2: 3.3 Case I: Longitudinal Elements
-3: 3.4 Case II: Transverse Elements
-4: 3.5 Discussion
-5: 3.6 Determination of the Element Currents
-6: 3.7 The Double Infinite Arrays with Arbitrary Element Orientation
-7: 3.8 Conclusions
-8: 3.9 Problems
-4: Surface Waves on Passive Surfaces of Finite Extent
-0: 4.1 Introduction
-1: 4.2 Model
-2: 4.3 The Infinite Array Case
-3: 4.4 The Finite Array Case Excited by Generators
-4: 4.5 The Element Currents on a Finite Array Excited by an Incident Wave
-5: 4.6 How the Surface Waves are Excited on a Finite Array
-6: 4.7 How to Obtain the Actual Current Components
-7: 4.8 The Bistatic Scattered Field from a Finite Array
-8: 4.9 Parametric Study
-9: 4.10 How to Control Surface Waves
-10: 4.11 Fine Tuning the Load Resistors at a Single Frequency
-11: 4.12 Variation with Angle of Incidence
-12: 4.13 The Bistatic Scattered Field
-13: 4.14 Previous Work
-14: 4.15 On Scattering from Faceted Radomes
-15: 4.16 Effects of Discontinuities in the Panels
-16: 4.17 Scanning in the E Plane
-17: 4.18 Effect of a Groundplane
-18: 4.19 Common Misconceptions Concerning Element Currents on Finite Arrays
-19: 4.20 Conclusion
-20: 4.21 Problems
-5: Finite Active Arrays
-0: 5.1 Introduction
-1: 5.2 Modeling of a Finite Infinite Groundplane
-2: 5.3 Finite Infinite Array With an FSS Groundplane
-3: 5.4 Micromanagement of the Backscattered Field
-4: 5.5 The Model for Studying Surface Waves
-5: 5.6 Controlling Surface Waves on Finite FSS Groundplanes
-6: 5.7 Controlling Surface Waves on Finite Arrays of Active Elements With FSS Groundplane
-7: 5.8 The Backscattered Fields from the Triads in a Large Array
-8: 5.9 On the Bistatic Scattered Field from a Large Array
-9: 5.10 Further Reduction: Broadband Matching
-10: 5.11 Common Misconceptions
-11: 5.12 Conclusion
-12: 5.13 Problems
-6: Broadband Wire Arrays
-0: 6.1 Introduction
-1: 6.2 The Equivalent Circuit
-2: 6.3 An Array With Groundplane and no Dielectric
-3: 6.4 Practical Layouts of Closely Spaced Dipole Arrays
-4: 6.5 Combination of the Impedance Components
-5: 6.6 How to Obtain Greater Bandwidth
-6: 6.7 Array with a Groundplane and a Single Dielectric Slab
-7: 6.8 Actual Calculated Case: Array with Groundplane and Single Dielectric Slab
-8: 6.9 Array with Groundplane and Two Dielectric Slabs
-9: 6.10 Comparison Between the Single- and Double-Slab Array
-10: 6.11 Calculated Scan Impedance for Array with Groundplane and Two Dielectric Slabs
-11: 6.12 Common Misconceptions
-12: 6.13 Conclusions
-7: An Omnidirectional Antenna with Low RCS
-0: 7.1 Introduction
-1: 7.2 The Concept
-2: 7.3 How do We Feed the Elements?
-3: 7.4 Calculated Scattering Pattern for Omnidirectional Antenna with Low RCS
-4: 7.5 Measured Backscatter from a Low RCS Omnidirectional Antenna
-5: 7.6 Common Misconceptions
-6: 7.7 Conclusions and Recommendations
-8: The RCS of Two-Dimensional Parabolic Antennas
-0: 8.1 The Major Scattering Components
-1: 8.2 Total Scattering from a Parabolic Reflector with Low
-2: 8.3 Practical Execution of the Low RCS Feed
-3: 8.4 Out-Of-Band Reduction
-4: 8.5 Common Misconceptions on Edge Currents
-5: 8.6 Conclusion
-9: Aperiodicity: Is It a Good Idea?
-0: 9.1 Introduction
-1: 9.2 General Analysis of Periodic Structures with Perturbation of Element Loads and/or Interelement Spacings
-2: 9.3 Perturbation of Arrays of Tripoles
-3: 9.4 Making Use of Our Observations
-4: 9.5 Anomalies due to Insufficient Number of Modes (The Unnamed Anomaly)
-5: 9.6 Tapered Periodic Surfaces
-6: 9.7 Conclusions
-10: Summary and Final Remarks
-11: Appendix A: Determination of Transformation and Position Circles
-0: A.1 Introduction
-1: A.2 Cases Demonstrating How to Construct Transformation Circles
-2: A.3 Where is Zin Located on the Transformation Circle? Determination of the Position Circles
-3: A.4 Problems
-12: Appendix B: Broadband Matching
-0: B.1 Introduction
-1: B.2 Matching Tools
-2: B.3 Example: The Single Series Stub Tuner (Not Recommended for Broadband Applications)
-3: B.4 Example: Broadband Matching
-4: B.5 The ?>TRICKS?>
-5: B.6 Discussion
-6: B.7 On the Load Impedance ZL
-7: B.8 Example of a Practical Execution
-8: B.9 Common Misconceptions
-9: B.10 Concluding Remarks
-10: B.11 Problems
-13: Appendix C: MeanderLine Polarizers for Oblique Incidence
-0: C.1 Introduction
-1: C.2 Multilayered Meander-Line Polarizers
-2: C.3 Individual Meander-Line Impedances
-3: C.4 Design 1
-4: C.5 Design 2
-5: C.6 Design 3
-6: C.7 Design 4
-7: C.8 Design 5
-8: C.9 Conclusion
-9: C.10 Problems
-14: Appendix D: On the Scan Versus the Embedded Impedance
-0: D.1 Introduction
-1: D.2 The Scan Impedance
-2: D.3 The Embedded Stick Impedance
-3: D.4 The Embedded Element Stick Impedance
-4: D.5 On The Scan Impedance of a Finite Array
-5: D.6 How to Measure The Scan Impedance ZA
-6: D.7 Conclusions
-7: D.8 Postscript
-15: References
-16: Index
+Chapter 1 Introduction
+1.1 Introduction
+1.2 Organization of the Book
+Chapter 2 Near-Field Measurement Concepts
+2.1 Near- and Far-Field Regions
+2.2 Near-Field Measurement Concepts
+2.3 Fourier Optics
+2.4 Doppler Beam Forming
+2.5 Aperture Synthesis
+2.6 Other Related Technologies
+Chapter 3 Near-Field Measurement Theory
+3.1 Near-Field Sampling Theory
+3.2 Far-Field Transformation Algorithms
+3.3 Probe Compensation
+Chapter 4 Microwave Interferometer
+4.1 Vector Network Analyzers
+4.2 Microwave Sources
+4.3 Phase Reference Cable
+4.4 Phase Reference Thermal Compensation
+4.5 Microwave Receivers
+4.6 Radar Imaging and Multipath Suppression Techniques
+Chapter 5 Coordinate Measurements and Machining
+5.1 Mechanical Coordinate Measurements
+5.2 Optical Coordinate Measurements
+5.3 Microwave Holographic Metrology
+5.4 On-Orbit Holographic Metrology of Spacecraft Antennas
+5.5 Machining Operations
+Chapter 6 Small, Near-Field Range Mensurement Systems
+6.1 Simple, Low-Cost, Near-Field Range Measurement Systems
+6.2 Portable Near-Field Range Measurement Systoms
+Chapfer 7 Robotic System Design
+7.1 Overview
+7.2 Robot Skeleton
+7.3 Payload Position Measurenment System
+7,4 Servo Control System
+7.5 Robot Computational System
+7.6 Fault Protection
+Chapter 8 Operations
+8,1 Test Design
+8.2 Automated Operations
+8.3 Documentation and User Training
+Chapter 9 Antenna Test Range Error Analysis
+9.1 Near-Field Measurement Assumptions
+9.2 Far-Field Pattern Uncertainty
+9.3 RF Stability Test
+9.4 System Linearity Test
+9.5 Leakage Test
+9.6 Reference Cable Stability Test
+9.7 Multipath and Mutual Coupling Tests
+9.8 Scan Plane Truncation
+9.9 Probe Positioning Errors
+9.10 Far-Field Pattern Measurement Uncertainty
+9,11 Gain Measurement Uncertainty
+9.12 Boresight Measurement Uncertainty
+9.13 Minimization of Measurement Errors
+9.14 Accuracy of Holographic Measurements
+Appendix A Near-Field Test Facility Coordinate System
+Appendix B Near-Field Measurement Terminology
+Appendix C Common Misconceptions about Near-Field Measurements
+Appendix D Fourier and Related Transforms
+Appendix E Near- to Far-Field Transformation Program
