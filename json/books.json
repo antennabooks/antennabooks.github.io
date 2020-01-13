@@ -6467,12 +6467,12 @@
     ]
   },
   {
-    "cover": "https://onlinelibrary.wiley.com/cms/attachment/8f258736-81e4-4a84-9b30-b1e30c775459/0471720615.cover.gif",
+    "cover": "https://ieeexplore.ieee.org/ebooks/5238188/5238188.jpg",
     "title": "Modern Antenna Design",
     "author": "Thomas A. Milligan",
-    "publisher": "Wiley",
-    "granted": false,
-    "publisherSite": "https://onlinelibrary.wiley.com/doi/book/10.1002/0471720615",
+    "publisher": "Wiley - IEEE Press",
+    "granted": true,
+    "publisherSite": "https://ieeexplore.ieee.org/book/5238188",
     "amazonSite": "https://www.amazon.com/Modern-Antenna-Design-Thomas-Milligan/dp/0471457760",
     "edition": 2,
     "year": 2005,
@@ -6484,9 +6484,364 @@
         "page": 20
       },
       {
+        "level": 2,
+        "title": "  1.1 Antenna Radiation ",
+        "page": 21
+      },
+      {
+        "level": 2,
+        "title": "  1.2 Gain ",
+        "page": 22
+      },
+      {
+        "level": 2,
+        "title": "  1.3 Effective Area ",
+        "page": 25
+      },
+      {
+        "level": 2,
+        "title": "  1.4 Path Loss ",
+        "page": 25
+      },
+      {
+        "level": 2,
+        "title": "  1.5 Radar Range Equation and Cross Section ",
+        "page": 26
+      },
+      {
+        "level": 2,
+        "title": "  1.6 Why Use an Antenna? ",
+        "page": 28
+      },
+      {
+        "level": 2,
+        "title": "  1.7 Directivity ",
+        "page": 29
+      },
+      {
+        "level": 2,
+        "title": "  1.8 Directivity Estimates ",
+        "page": 30
+      },
+      {
+        "level": 3,
+        "title": "  1.8.1 Pencil Beam ",
+        "page": 30
+      },
+      {
+        "level": 3,
+        "title": "  1.8.2 Butterfly or Omnidirectional Pattern ",
+        "page": 32
+      },
+      {
+        "level": 2,
+        "title": "  1.9 Beam Efficiency ",
+        "page": 35
+      },
+      {
+        "level": 2,
+        "title": "  1.10 Input-Impedance Mismatch Loss ",
+        "page": 36
+      },
+      {
+        "level": 2,
+        "title": "  1.11 Polarization ",
+        "page": 37
+      },
+      {
+        "level": 3,
+        "title": "  1.11.1 Circular Polarization Components ",
+        "page": 38
+      },
+      {
+        "level": 3,
+        "title": "  1.11.2 Huygens Source Polarization ",
+        "page": 40
+      },
+      {
+        "level": 3,
+        "title": "  1.11.3 Relations Between Bases ",
+        "page": 41
+      },
+      {
+        "level": 3,
+        "title": "  1.11.4 Antenna Polarization Response ",
+        "page": 42
+      },
+      {
+        "level": 3,
+        "title": "  1.11.5 Phase Response of Rotating Antennas ",
+        "page": 44
+      },
+      {
+        "level": 3,
+        "title": "  1.11.6 Partial Gain ",
+        "page": 45
+      },
+      {
+        "level": 3,
+        "title": "  1.11.7 Measurement of Circular Polarization Using Amplitude Only ",
+        "page": 45
+      },
+      {
+        "level": 2,
+        "title": "  1.12 Vector Effective Height ",
+        "page": 46
+      },
+      {
+        "level": 2,
+        "title": "  1.13 Antenna Factor ",
+        "page": 48
+      },
+      {
+        "level": 2,
+        "title": "  1.14 Mutual Coupling Between Antennas ",
+        "page": 48
+      },
+      {
+        "level": 2,
+        "title": "  1.15 Antenna Noise Temperature ",
+        "page": 49
+      },
+      {
+        "level": 2,
+        "title": "  1.16 Communication Link Budget and Radar Range ",
+        "page": 54
+      },
+      {
+        "level": 2,
+        "title": "  1.17 Multipath ",
+        "page": 55
+      },
+      {
+        "level": 2,
+        "title": "  1.18 Propagation Over Soil ",
+        "page": 56
+      },
+      {
+        "level": 2,
+        "title": "  1.19 Multipath Fading ",
+        "page": 58
+      },
+      {
         "level": 1,
         "title": "2 Radiation Structures and Numerical Methods ",
         "page": 61
+      },
+      {
+        "level": 2,
+        "title": "  2.1 Auxiliary Vector Potentials ",
+        "page": 62
+      },
+      {
+        "level": 3,
+        "title": "  2.1.1 Radiation from Electric Currents ",
+        "page": 63
+      },
+      {
+        "level": 3,
+        "title": "  2.1.2 Radiation from Magnetic Currents ",
+        "page": 68
+      },
+      {
+        "level": 2,
+        "title": "  2.2 Apertures: Huygens Source Approximation ",
+        "page": 70
+      },
+      {
+        "level": 3,
+        "title": "  2.2.1 Near-Field and Far-Field Regions ",
+        "page": 74
+      },
+      {
+        "level": 3,
+        "title": "  2.2.2 Huygens Source ",
+        "page": 76
+      },
+      {
+        "level": 2,
+        "title": "  2.3 Boundary Conditions ",
+        "page": 76
+      },
+      {
+        "level": 2,
+        "title": "  2.4 Physical Optics ",
+        "page": 78
+      },
+      {
+        "level": 3,
+        "title": "  2.4.1 Radiated Fields Given Currents ",
+        "page": 78
+      },
+      {
+        "level": 3,
+        "title": "  2.4.2 Applying Physical Optics ",
+        "page": 79
+      },
+      {
+        "level": 3,
+        "title": "  2.4.3 Equivalent Currents ",
+        "page": 84
+      },
+      {
+        "level": 3,
+        "title": "  2.4.4 Reactance Theorem and Mutual Coupling ",
+        "page": 85
+      },
+      {
+        "level": 2,
+        "title": "  2.5 Method of Moments ",
+        "page": 86
+      },
+      {
+        "level": 3,
+        "title": "  2.5.1 Use of the Reactance Theorem for the Method of Moments ",
+        "page": 87
+      },
+      {
+        "level": 3,
+        "title": "  2.5.2 General Moments Method Approach ",
+        "page": 88
+      },
+      {
+        "level": 3,
+        "title": "  2.5.3 Thin-Wire Moment Method Codes ",
+        "page": 90
+      },
+      {
+        "level": 3,
+        "title": "  2.5.4 Surface and Volume Moment Method Codes ",
+        "page": 90
+      },
+      {
+        "level": 3,
+        "title": "  2.5.5 Examples of Moment Method Models ",
+        "page": 91
+      },
+      {
+        "level": 2,
+        "title": "  2.6 Finite-Difference Time-Domain Method ",
+        "page": 95
+      },
+      {
+        "level": 3,
+        "title": "  2.6.1 Implementation ",
+        "page": 95
+      },
+      {
+        "level": 3,
+        "title": "  2.6.2 Central Difference Derivative ",
+        "page": 96
+      },
+      {
+        "level": 3,
+        "title": "  2.6.3 Finite-Difference Maxwells Equations ",
+        "page": 96
+      },
+      {
+        "level": 3,
+        "title": "  2.6.4 Time Step for Stability ",
+        "page": 98
+      },
+      {
+        "level": 3,
+        "title": "  2.6.5 Numerical Dispersion and Stability ",
+        "page": 99
+      },
+      {
+        "level": 3,
+        "title": "  2.6.6 Computer Storage and Execution Times ",
+        "page": 99
+      },
+      {
+        "level": 3,
+        "title": "  2.6.7 Excitation ",
+        "page": 100
+      },
+      {
+        "level": 3,
+        "title": "  2.6.8 Waveguide Horn Example ",
+        "page": 102
+      },
+      {
+        "level": 2,
+        "title": "  2.7 Ray Optics and the Geometric Theory of Diffraction ",
+        "page": 103
+      },
+      {
+        "level": 3,
+        "title": "  2.7.1 Fermats Principle ",
+        "page": 104
+      },
+      {
+        "level": 3,
+        "title": "  2.7.2 H-Plane Pattern of a Dipole Located Over a Finite Strip ",
+        "page": 104
+      },
+      {
+        "level": 3,
+        "title": "  2.7.3 E-Plane Pattern of a Rectangular Horn ",
+        "page": 106
+      },
+      {
+        "level": 3,
+        "title": "  2.7.4 H-Plane Pattern of a Rectangular Horn ",
+        "page": 108
+      },
+      {
+        "level": 3,
+        "title": "  2.7.5 Amplitude Variations Along a Ray ",
+        "page": 109
+      },
+      {
+        "level": 3,
+        "title": "  2.7.6 Extra Phase Shift Through Caustics ",
+        "page": 112
+      },
+      {
+        "level": 3,
+        "title": "  2.7.7 Snells Laws and Reflection ",
+        "page": 112
+      },
+      {
+        "level": 3,
+        "title": "  2.7.8 Polarization Effects in Reflections ",
+        "page": 113
+      },
+      {
+        "level": 3,
+        "title": "  2.7.9 Reflection from a Curved Surface ",
+        "page": 113
+      },
+      {
+        "level": 3,
+        "title": "  2.7.10 Ray Tracing ",
+        "page": 115
+      },
+      {
+        "level": 3,
+        "title": "  2.7.11 Edge Diffraction ",
+        "page": 115
+      },
+      {
+        "level": 3,
+        "title": "  2.7.12 Slope Diffraction ",
+        "page": 117
+      },
+      {
+        "level": 3,
+        "title": "  2.7.13 Corner Diffraction ",
+        "page": 118
+      },
+      {
+        "level": 3,
+        "title": "  2.7.14 Equivalent Currents ",
+        "page": 118
+      },
+      {
+        "level": 3,
+        "title": "  2.7.15 Diffraction from Curved Surfaces ",
+        "page": 118
       },
       {
         "level": 1,
@@ -6494,9 +6849,209 @@
         "page": 121
       },
       {
+        "level": 2,
+        "title": "  3.1 Two.Element Array ",
+        "page": 123
+      },
+      {
+        "level": 2,
+        "title": "  3.2 Linear Array of N Elements ",
+        "page": 128
+      },
+      {
+        "level": 2,
+        "title": "  3.3 Hansen and Woodyard End-Fire Array ",
+        "page": 133
+      },
+      {
+        "level": 2,
+        "title": "  3.4 Phased Arrays ",
+        "page": 134
+      },
+      {
+        "level": 2,
+        "title": "  3.5 Grating Lobes ",
+        "page": 136
+      },
+      {
+        "level": 2,
+        "title": "  3.6 Multiple Beams ",
+        "page": 137
+      },
+      {
+        "level": 2,
+        "title": "  3.7 Planar Array ",
+        "page": 139
+      },
+      {
+        "level": 2,
+        "title": "  3.8 Grating Lobes in Planar Arrays ",
+        "page": 144
+      },
+      {
+        "level": 2,
+        "title": "  3.9 Mutual Impedance ",
+        "page": 146
+      },
+      {
+        "level": 2,
+        "title": "  3.10 Scan Blindness and Array Element Pattern ",
+        "page": 146
+      },
+      {
+        "level": 2,
+        "title": "  3.11 Compensating Array Feeding for Mutual Coupling ",
+        "page": 147
+      },
+      {
+        "level": 2,
+        "title": "  3.12 Array Gain ",
+        "page": 148
+      },
+      {
+        "level": 2,
+        "title": "  3.13 Arrays Using Arbitrarily Oriented Elements ",
+        "page": 152
+      },
+      {
         "level": 1,
         "title": "4 Aperture Distributions and Array Synthesis ",
         "page": 155
+      },
+      {
+        "level": 2,
+        "title": "  4.1 Amplitude Taper and Phase Error Efficiencies ",
+        "page": 156
+      },
+      {
+        "level": 3,
+        "title": "  4.1.1 Separable Rectangular Aperture Distributions ",
+        "page": 158
+      },
+      {
+        "level": 3,
+        "title": "  4.1.2 Circularly Symmetrical Distributions ",
+        "page": 159
+      },
+      {
+        "level": 2,
+        "title": "  4.2 Simple Linear Distributions ",
+        "page": 159
+      },
+      {
+        "level": 2,
+        "title": "  4.3 Taylor One-Parameter Linear Distribution ",
+        "page": 163
+      },
+      {
+        "level": 2,
+        "title": "  4.4 Taylor n Line Distribution ",
+        "page": 166
+      },
+      {
+        "level": 2,
+        "title": "  4.5 Taylor Line Distribution with Edge Nulls ",
+        "page": 171
+      },
+      {
+        "level": 2,
+        "title": "  4.6 Elliotts Method for Modified Taylor Distribution and Arbitrary Sidelobes ",
+        "page": 174
+      },
+      {
+        "level": 2,
+        "title": "  4.7 Bayliss Line-Source Distribution ",
+        "page": 177
+      },
+      {
+        "level": 2,
+        "title": "  4.8 Woodward Line-Source Synthesis ",
+        "page": 181
+      },
+      {
+        "level": 2,
+        "title": "  4.9 Schelkunoffs Unit-Circle Method ",
+        "page": 183
+      },
+      {
+        "level": 2,
+        "title": "  4.10 DolphChebyshev Linear Array ",
+        "page": 189
+      },
+      {
+        "level": 2,
+        "title": "  4.11 Villeneuve Array Synthesis ",
+        "page": 191
+      },
+      {
+        "level": 2,
+        "title": "  4.12 Zero Sampling of Continuous Distributions ",
+        "page": 192
+      },
+      {
+        "level": 2,
+        "title": "  4.13 Fourier Series Shaped-Beam Array Synthesis ",
+        "page": 194
+      },
+      {
+        "level": 2,
+        "title": "  4.14 Orchard Method of Array Synthesis ",
+        "page": 197
+      },
+      {
+        "level": 2,
+        "title": "  4.15 Series-Fed Array and Traveling-Wave Feed Synthesis ",
+        "page": 207
+      },
+      {
+        "level": 2,
+        "title": "  4.16 Circular Apertures ",
+        "page": 210
+      },
+      {
+        "level": 2,
+        "title": "  4.17 Circular Gaussian Distribution ",
+        "page": 213
+      },
+      {
+        "level": 2,
+        "title": "  4.18 Hansen Single-Parameter Circular Distribution ",
+        "page": 214
+      },
+      {
+        "level": 2,
+        "title": "  4.19 Taylor Circular-Aperture Distribution ",
+        "page": 215
+      },
+      {
+        "level": 2,
+        "title": "  4.20 Bayliss Circular-Aperture Distribution ",
+        "page": 219
+      },
+      {
+        "level": 2,
+        "title": "  4.21 Planar Arrays ",
+        "page": 221
+      },
+      {
+        "level": 2,
+        "title": "  4.22 Convolution Technique for Planar Arrays ",
+        "page": 222
+      },
+      {
+        "level": 2,
+        "title": "  4.23 Aperture Blockage ",
+        "page": 227
+      },
+      {
+        "level": 2,
+        "title": "  4.24 Quadratic Phase Error ",
+        "page": 230
+      },
+      {
+        "level": 2,
+        "title": "  4.25 Beam Efficiency of Circular Apertures with Axisymmetric Distribution ",
+        "page": 233
       },
       {
         "level": 1,
@@ -6504,9 +7059,274 @@
         "page": 236
       },
       {
+        "level": 2,
+        "title": "  5.1 Standing-Wave Currents ",
+        "page": 237
+      },
+      {
+        "level": 2,
+        "title": "  5.2 Radiation Resistance (Conductance) ",
+        "page": 239
+      },
+      {
+        "level": 2,
+        "title": "  5.3 BabinetBooker Principle ",
+        "page": 241
+      },
+      {
+        "level": 2,
+        "title": "  5.4 Dipoles Located Over a Ground Plane ",
+        "page": 242
+      },
+      {
+        "level": 2,
+        "title": "  5.5 Dipole Mounted Over Finite Ground Planes ",
+        "page": 244
+      },
+      {
+        "level": 2,
+        "title": "  5.6 Crossed Dipoles for Circular Polarization ",
+        "page": 250
+      },
+      {
+        "level": 2,
+        "title": "  5.7 Super Turnstile or Batwing Antenna ",
+        "page": 253
+      },
+      {
+        "level": 2,
+        "title": "  5.8 Corner Reflector ",
+        "page": 256
+      },
+      {
+        "level": 2,
+        "title": "  5.9 Monopole ",
+        "page": 261
+      },
+      {
+        "level": 2,
+        "title": "  5.10 Sleeve Antenna ",
+        "page": 261
+      },
+      {
+        "level": 2,
+        "title": "  5.11 Cavity-Mounted Dipole Antenna ",
+        "page": 264
+      },
+      {
+        "level": 2,
+        "title": "  5.12 Folded Dipole ",
+        "page": 266
+      },
+      {
+        "level": 2,
+        "title": "  5.13 Shunt Feeding ",
+        "page": 267
+      },
+      {
+        "level": 2,
+        "title": "  5.14 Discone Antenna ",
+        "page": 268
+      },
+      {
+        "level": 2,
+        "title": "  5.15 Baluns ",
+        "page": 270
+      },
+      {
+        "level": 3,
+        "title": "  5.15.1 Folded Balun ",
+        "page": 271
+      },
+      {
+        "level": 3,
+        "title": "  5.15.2 Sleeve or Bazooka Baluns ",
+        "page": 272
+      },
+      {
+        "level": 3,
+        "title": "  5.15.3 Split Coax Balun ",
+        "page": 274
+      },
+      {
+        "level": 3,
+        "title": "  5.15.4 Half-Wavelength Balun ",
+        "page": 275
+      },
+      {
+        "level": 3,
+        "title": "  5.15.5 Candelabra Balun ",
+        "page": 275
+      },
+      {
+        "level": 3,
+        "title": "  5.15.6 Ferrite Core Baluns ",
+        "page": 275
+      },
+      {
+        "level": 3,
+        "title": "  5.15.7 Ferrite Candelabra Balun ",
+        "page": 277
+      },
+      {
+        "level": 3,
+        "title": "  5.15.8 Transformer Balun ",
+        "page": 277
+      },
+      {
+        "level": 3,
+        "title": "  5.15.9 Split Tapered Coax Balun ",
+        "page": 278
+      },
+      {
+        "level": 3,
+        "title": "  5.15.10 Natural Balun ",
+        "page": 279
+      },
+      {
+        "level": 2,
+        "title": "  5.16 Small Loop ",
+        "page": 279
+      },
+      {
+        "level": 2,
+        "title": "  5.17 Alford Loop ",
+        "page": 280
+      },
+      {
+        "level": 2,
+        "title": "  5.18 Resonant Loop ",
+        "page": 282
+      },
+      {
+        "level": 2,
+        "title": "  5.19 Quadrifilar Helix ",
+        "page": 283
+      },
+      {
+        "level": 2,
+        "title": "  5.20 Cavity-Backed Slots ",
+        "page": 285
+      },
+      {
+        "level": 2,
+        "title": "  5.21 Stripline Series Slots ",
+        "page": 285
+      },
+      {
+        "level": 2,
+        "title": "  5.22 Shallow-Cavity Crossed-Slot Antenna ",
+        "page": 288
+      },
+      {
+        "level": 2,
+        "title": "  5.23 Waveguide-Fed Slots ",
+        "page": 289
+      },
+      {
+        "level": 2,
+        "title": "  5.24 Rectangular.Waveguide Wall Slots ",
+        "page": 290
+      },
+      {
+        "level": 2,
+        "title": "  5.25 Circular-Waveguide Slots ",
+        "page": 295
+      },
+      {
+        "level": 2,
+        "title": "  5.26 Waveguide Slot Arrays ",
+        "page": 297
+      },
+      {
+        "level": 3,
+        "title": "  5.26.1 Nonresonant Array ",
+        "page": 298
+      },
+      {
+        "level": 3,
+        "title": "  5.26.2 Resonant Array ",
+        "page": 301
+      },
+      {
+        "level": 3,
+        "title": "  5.26.3 Improved Design Methods ",
+        "page": 301
+      },
+      {
         "level": 1,
         "title": "6 Microstrip Antennas ",
         "page": 304
+      },
+      {
+        "level": 2,
+        "title": "  6.1 Microstrip Antenna Patterns ",
+        "page": 306
+      },
+      {
+        "level": 2,
+        "title": "  6.2 Microstrip Patch Bandwidth and Surface-Wave Efficiency ",
+        "page": 312
+      },
+      {
+        "level": 2,
+        "title": "  6.3 Rectangular Microstrip Patch Antenna ",
+        "page": 318
+      },
+      {
+        "level": 2,
+        "title": "  6.4 Quarter-Wave Patch Antenna ",
+        "page": 329
+      },
+      {
+        "level": 2,
+        "title": "  6.5 Circular Microstrip Patch ",
+        "page": 332
+      },
+      {
+        "level": 2,
+        "title": "  6.6 Circularly Polarized Patch Antennas ",
+        "page": 335
+      },
+      {
+        "level": 2,
+        "title": "  6.7 Compact Patches ",
+        "page": 338
+      },
+      {
+        "level": 2,
+        "title": "  6.8 Directly Fed Stacked Patches ",
+        "page": 342
+      },
+      {
+        "level": 2,
+        "title": "  6.9 Aperture-Coupled Stacked Patches ",
+        "page": 344
+      },
+      {
+        "level": 2,
+        "title": "  6.10 Patch Antenna Feed Networks ",
+        "page": 346
+      },
+      {
+        "level": 2,
+        "title": "  6.11 Series-Fed Array ",
+        "page": 348
+      },
+      {
+        "level": 2,
+        "title": "  6.12 Microstrip Dipole ",
+        "page": 349
+      },
+      {
+        "level": 2,
+        "title": "  6.13 Microstrip Franklin Array ",
+        "page": 351
+      },
+      {
+        "level": 2,
+        "title": "  6.14 Microstrip Antenna Mechanical Properties ",
+        "page": 352
       },
       {
         "level": 1,
@@ -6514,9 +7334,249 @@
         "page": 355
       },
       {
+        "level": 2,
+        "title": "  7.1 Rectangular Horn (Pyramidal) ",
+        "page": 356
+      },
+      {
+        "level": 3,
+        "title": "  7.1.1 Beamwidth ",
+        "page": 360
+      },
+      {
+        "level": 3,
+        "title": "  7.1.2 Optimum Rectangular Horn ",
+        "page": 362
+      },
+      {
+        "level": 3,
+        "title": "  7.1.3 Designing to Given Beamwidths ",
+        "page": 365
+      },
+      {
+        "level": 3,
+        "title": "  7.1.4 Phase Center ",
+        "page": 366
+      },
+      {
+        "level": 2,
+        "title": "  7.2 Circular-Aperture Horn ",
+        "page": 367
+      },
+      {
+        "level": 3,
+        "title": "  7.2.1 Beamwidth ",
+        "page": 369
+      },
+      {
+        "level": 3,
+        "title": "  7.2.2 Phase Center ",
+        "page": 371
+      },
+      {
+        "level": 2,
+        "title": "  7.3 Circular (Conical) Corrugated Horn ",
+        "page": 372
+      },
+      {
+        "level": 3,
+        "title": "  7.3.1 Scalar Horn ",
+        "page": 376
+      },
+      {
+        "level": 3,
+        "title": "  7.3.2 Corrugation Design ",
+        "page": 376
+      },
+      {
+        "level": 3,
+        "title": "  7.3.3 Choke Horns ",
+        "page": 377
+      },
+      {
+        "level": 3,
+        "title": "  7.3.4 Rectangular Corrugated Horns ",
+        "page": 378
+      },
+      {
+        "level": 2,
+        "title": "  7.4 Corrugated Ground Plane ",
+        "page": 378
+      },
+      {
+        "level": 2,
+        "title": "  7.5 Gaussian Beam ",
+        "page": 381
+      },
+      {
+        "level": 2,
+        "title": "  7.6 Ridged Waveguide Horns ",
+        "page": 384
+      },
+      {
+        "level": 2,
+        "title": "  7.7 Box Horn ",
+        "page": 391
+      },
+      {
+        "level": 2,
+        "title": "  7.8 T-Bar-Fed Slot Antenna ",
+        "page": 393
+      },
+      {
+        "level": 2,
+        "title": "  7.9 Multimode Circular Horn ",
+        "page": 395
+      },
+      {
+        "level": 2,
+        "title": "  7.10 Biconical Horn ",
+        "page": 395
+      },
+      {
         "level": 1,
         "title": "8 Reflector Antennas ",
         "page": 399
+      },
+      {
+        "level": 2,
+        "title": "  8.1 Paraboloidal Reflector Geometry ",
+        "page": 400
+      },
+      {
+        "level": 2,
+        "title": "  8.2 Paraboloidal Reflector Aperture Distribution Losses ",
+        "page": 402
+      },
+      {
+        "level": 2,
+        "title": "  8.3 Approximate Spillover and Amplitude Taper Trade-offs ",
+        "page": 404
+      },
+      {
+        "level": 2,
+        "title": "  8.4 Phase Error Losses and Axial Defocusing ",
+        "page": 406
+      },
+      {
+        "level": 2,
+        "title": "  8.5 Astigmatism ",
+        "page": 408
+      },
+      {
+        "level": 2,
+        "title": "  8.6 Feed Scanning ",
+        "page": 409
+      },
+      {
+        "level": 2,
+        "title": "  8.7 Random Phase Errors ",
+        "page": 412
+      },
+      {
+        "level": 2,
+        "title": "  8.8 Focal Plane Fields ",
+        "page": 415
+      },
+      {
+        "level": 2,
+        "title": "  8.9 Feed Mismatch Due to the Reflector ",
+        "page": 416
+      },
+      {
+        "level": 2,
+        "title": "  8.10 Front-to-Back Ratio ",
+        "page": 418
+      },
+      {
+        "level": 2,
+        "title": "  8.11 Offset-Fed Reflector ",
+        "page": 418
+      },
+      {
+        "level": 2,
+        "title": "  8.12 Reflections from Conic Sections ",
+        "page": 424
+      },
+      {
+        "level": 2,
+        "title": "  8.13 Dual-Reflector Antennas ",
+        "page": 427
+      },
+      {
+        "level": 3,
+        "title": "  8.13.1 Feed Blockage ",
+        "page": 429
+      },
+      {
+        "level": 3,
+        "title": "  8.13.2 Diffraction Loss ",
+        "page": 432
+      },
+      {
+        "level": 3,
+        "title": "  8.13.3 Cassegrain Tolerances ",
+        "page": 433
+      },
+      {
+        "level": 2,
+        "title": "  8.14 Feed and Subreflector Support Strut Radiation ",
+        "page": 435
+      },
+      {
+        "level": 2,
+        "title": "  8.15 Gain/Noise Temperature of a Dual Reflector ",
+        "page": 440
+      },
+      {
+        "level": 2,
+        "title": "  8.16 Displaced-Axis Dual Reflector ",
+        "page": 440
+      },
+      {
+        "level": 2,
+        "title": "  8.17 Offset-Fed Dual Reflector ",
+        "page": 443
+      },
+      {
+        "level": 2,
+        "title": "  8.18 Horn Reflector and Dragonian Dual Reflector ",
+        "page": 446
+      },
+      {
+        "level": 2,
+        "title": "  8.19 Spherical Reflector ",
+        "page": 448
+      },
+      {
+        "level": 2,
+        "title": "  8.20 Shaped Reflectors ",
+        "page": 451
+      },
+      {
+        "level": 3,
+        "title": "  8.20.1 Cylindrical Reflector Synthesis ",
+        "page": 452
+      },
+      {
+        "level": 3,
+        "title": "  8.20.2 Circularly Symmetrical Reflector Synthesis ",
+        "page": 453
+      },
+      {
+        "level": 3,
+        "title": "  8.20.3 Doubly Curved Reflector for Shaped Beams ",
+        "page": 456
+      },
+      {
+        "level": 3,
+        "title": "  8.20.4 Dual Shaped Reflectors ",
+        "page": 458
+      },
+      {
+        "level": 2,
+        "title": "  8.21 Optimization Synthesis of Shaped and Multiple-Beam Reflectors ",
+        "page": 461
       },
       {
         "level": 1,
@@ -6524,9 +7584,174 @@
         "page": 466
       },
       {
+        "level": 2,
+        "title": "  9.1 Single Refracting Surface Lenses ",
+        "page": 467
+      },
+      {
+        "level": 2,
+        "title": "  9.2 Zoned Lenses ",
+        "page": 470
+      },
+      {
+        "level": 2,
+        "title": "  9.3 General Two-Surface Lenses ",
+        "page": 473
+      },
+      {
+        "level": 2,
+        "title": "  9.4 Single-Surface or Contact Lenses ",
+        "page": 478
+      },
+      {
+        "level": 2,
+        "title": "  9.5 Metal Plate Lenses ",
+        "page": 480
+      },
+      {
+        "level": 2,
+        "title": "  9.6 Surface Mismatch and Dielectric Losses ",
+        "page": 482
+      },
+      {
+        "level": 2,
+        "title": "  9.7 Feed Scanning of a Hyperboloidal Lens ",
+        "page": 483
+      },
+      {
+        "level": 2,
+        "title": "  9.8 Dual-Surface Lenses ",
+        "page": 484
+      },
+      {
+        "level": 3,
+        "title": "  9.8.1 Coma-Free Axisymmetric Dielectric Lens ",
+        "page": 485
+      },
+      {
+        "level": 3,
+        "title": "  9.8.2 Specified Aperture Distribution Axisymmetric ",
+        "page": 487
+      },
+      {
+        "level": 2,
+        "title": "  9.9 Bootlace Lens ",
+        "page": 489
+      },
+      {
+        "level": 2,
+        "title": "  9.10 Luneburg Lens ",
+        "page": 491
+      },
+      {
         "level": 1,
         "title": "10 Traveling-Wave Antennas ",
         "page": 493
+      },
+      {
+        "level": 2,
+        "title": "  10.1 General Traveling Waves ",
+        "page": 494
+      },
+      {
+        "level": 3,
+        "title": "  10.1.1 Slow Wave ",
+        "page": 497
+      },
+      {
+        "level": 3,
+        "title": "  10.1.2 Fast Waves (Leaky Wave Structure) ",
+        "page": 499
+      },
+      {
+        "level": 2,
+        "title": "  10.2 Long Wire Antennas ",
+        "page": 500
+      },
+      {
+        "level": 3,
+        "title": "  10.2.1 Beverage Antenna ",
+        "page": 500
+      },
+      {
+        "level": 3,
+        "title": "  10.2.2 V Antenna ",
+        "page": 501
+      },
+      {
+        "level": 3,
+        "title": "  10.2.3 Rhombic Antenna ",
+        "page": 502
+      },
+      {
+        "level": 2,
+        "title": "  10.3 YagiUda Antennas ",
+        "page": 504
+      },
+      {
+        "level": 3,
+        "title": "  10.3.1 Multiple-Feed YagiUda Antennas ",
+        "page": 511
+      },
+      {
+        "level": 3,
+        "title": "  10.3.2 Resonant Loop YagiUda Antennas ",
+        "page": 514
+      },
+      {
+        "level": 2,
+        "title": "  10.4 Corrugated Rod (Cigar) Antenna ",
+        "page": 516
+      },
+      {
+        "level": 2,
+        "title": "  10.5 Dielectric Rod (Polyrod) Antenna ",
+        "page": 518
+      },
+      {
+        "level": 2,
+        "title": "  10.6 Helical Wire Antenna ",
+        "page": 521
+      },
+      {
+        "level": 3,
+        "title": "  10.6.1 Helical Modes ",
+        "page": 522
+      },
+      {
+        "level": 3,
+        "title": "  10.6.2 Axial Mode ",
+        "page": 523
+      },
+      {
+        "level": 3,
+        "title": "  10.6.3 Feed of a Helical Antenna ",
+        "page": 525
+      },
+      {
+        "level": 3,
+        "title": "  10.6.4 Long Helical Antenna ",
+        "page": 526
+      },
+      {
+        "level": 3,
+        "title": "  10.6.5 Short Helical Antenna ",
+        "page": 527
+      },
+      {
+        "level": 2,
+        "title": "  10.7 Short Backfire Antenna ",
+        "page": 528
+      },
+      {
+        "level": 2,
+        "title": "  10.8 Tapered Slot Antennas ",
+        "page": 531
+      },
+      {
+        "level": 2,
+        "title": "  10.9 Leaky Wave Structures ",
+        "page": 535
       },
       {
         "level": 1,
@@ -6534,9 +7759,219 @@
         "page": 540
       },
       {
+        "level": 2,
+        "title": "  11.1 Modal Expansion of Antenna Patterns ",
+        "page": 543
+      },
+      {
+        "level": 2,
+        "title": "  11.2 Archimedean Spiral ",
+        "page": 545
+      },
+      {
+        "level": 2,
+        "title": "  11.3 Equiangular Spiral ",
+        "page": 546
+      },
+      {
+        "level": 2,
+        "title": "  11.4 Pattern Analysis of Spiral Antennas ",
+        "page": 549
+      },
+      {
+        "level": 2,
+        "title": "  11.5 Spiral Construction and Feeding ",
+        "page": 554
+      },
+      {
+        "level": 3,
+        "title": "  11.5.1 Spiral Construction ",
+        "page": 554
+      },
+      {
+        "level": 3,
+        "title": "  11.5.2 Balun Feed ",
+        "page": 555
+      },
+      {
+        "level": 3,
+        "title": "  11.5.3 Infinite Balun ",
+        "page": 557
+      },
+      {
+        "level": 3,
+        "title": "  11.5.4 Beamformer and Coaxial Line Feed ",
+        "page": 557
+      },
+      {
+        "level": 2,
+        "title": "  11.6 Spiral and Beamformer Measurements ",
+        "page": 557
+      },
+      {
+        "level": 2,
+        "title": "  11.7 Feed Network and Antenna Interaction ",
+        "page": 559
+      },
+      {
+        "level": 2,
+        "title": "  11.8 Modulated Arm Width Spiral ",
+        "page": 560
+      },
+      {
+        "level": 2,
+        "title": "  11.9 Conical Log Spiral Antenna ",
+        "page": 562
+      },
+      {
+        "level": 2,
+        "title": "  11.10 Mode 2 Conical Log Spiral Antenna ",
+        "page": 568
+      },
+      {
+        "level": 2,
+        "title": "  11.11 Feeding Conical Log Spirals ",
+        "page": 569
+      },
+      {
+        "level": 2,
+        "title": "  11.12 Log-Periodic Dipole Antenna ",
+        "page": 570
+      },
+      {
+        "level": 3,
+        "title": "  11.12.1 Feeding a Log-Periodic Dipole Antenna ",
+        "page": 575
+      },
+      {
+        "level": 3,
+        "title": "  11.12.2 Phase Center ",
+        "page": 577
+      },
+      {
+        "level": 3,
+        "title": "  11.12.3 Elevation Angle ",
+        "page": 578
+      },
+      {
+        "level": 3,
+        "title": "  11.12.4 Arrays of Log-Periodic Dipole Antennas ",
+        "page": 579
+      },
+      {
+        "level": 2,
+        "title": "  11.13 Other Log-Periodic Types ",
+        "page": 580
+      },
+      {
+        "level": 2,
+        "title": "  11.14 Log-Periodic Antenna Feeding Paraboloidal Reflector ",
+        "page": 582
+      },
+      {
+        "level": 2,
+        "title": "  11.15 V Log-Periodic Array ",
+        "page": 586
+      },
+      {
+        "level": 2,
+        "title": "  11.16 Cavity-Backed Planar Log-Periodic Antennas ",
+        "page": 588
+      },
+      {
         "level": 1,
         "title": "12 Phased Arrays ",
         "page": 592
+      },
+      {
+        "level": 2,
+        "title": "  12.1 Fixed Phase Shifters (Phasers) ",
+        "page": 593
+      },
+      {
+        "level": 2,
+        "title": "  12.2 Quantization Lobes ",
+        "page": 597
+      },
+      {
+        "level": 2,
+        "title": "  12.3 Array Errors ",
+        "page": 599
+      },
+      {
+        "level": 2,
+        "title": "  12.4 Nonuniform and Random Element Existence Arrays ",
+        "page": 601
+      },
+      {
+        "level": 3,
+        "title": "  12.4.1 Linear Space Tapered Array ",
+        "page": 601
+      },
+      {
+        "level": 3,
+        "title": "  12.4.2 Circular Space Tapered Array ",
+        "page": 603
+      },
+      {
+        "level": 3,
+        "title": "  12.4.3 Statistically Thinned Array ",
+        "page": 606
+      },
+      {
+        "level": 2,
+        "title": "  12.5 Array Element Pattern ",
+        "page": 607
+      },
+      {
+        "level": 2,
+        "title": "  12.6 Feed Networks ",
+        "page": 609
+      },
+      {
+        "level": 3,
+        "title": "  12.6.1 Corporate Feed ",
+        "page": 609
+      },
+      {
+        "level": 3,
+        "title": "  12.6.2 Series Feed ",
+        "page": 611
+      },
+      {
+        "level": 3,
+        "title": "  12.6.3 Variable Power Divider and Phase Shifter ",
+        "page": 611
+      },
+      {
+        "level": 3,
+        "title": "  12.6.4 Butler Matrix ",
+        "page": 613
+      },
+      {
+        "level": 3,
+        "title": "  12.6.5 Space Feeding ",
+        "page": 615
+      },
+      {
+        "level": 3,
+        "title": "  12.6.6 Tapered Feed Network with Uniform-Amplitude Subarrays ",
+        "page": 616
+      },
+      {
+        "level": 2,
+        "title": "  12.7 Pattern Null Formation in Arbitrary Array ",
+        "page": 618
+      },
+      {
+        "level": 2,
+        "title": "  12.8 Phased Array Application to Communication Systems ",
+        "page": 620
+      },
+      {
+        "level": 2,
+        "title": "  12.9 Near-Field Measurements on Phased Arrays ",
+        "page": 621
       }
     ]
   },
