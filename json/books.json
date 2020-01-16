@@ -17253,5 +17253,239 @@
         "level": 1
       }
     ]
+  },
+  {
+    "cover": "https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-349-19384-4",
+    "title": "Introduction to Antennas",
+    "author": "Martin S. Smith",
+    "publisher": "Macmillan New Electronics Series - Springer",
+    "granted": true,
+    "publisherSite": "https://link.springer.com/book/10.1007/978-1-349-19384-4",
+    "amazonSite": "https://www.amazon.com/Introduction-Antennas-Macmillan-New-Electronics/dp/0333445589",
+    "edition": 1,
+    "year": 1988,
+    "description": "The rapid development of electronics and its engineering applications ensures that new topics are always competing for a place in university and polytechnic courses. But it is often difficult for lecturers to find suitable books for recommendation to students, particularly when a topic is covered by a short lecture module, or as an 'option'.\n Macmillan New Electronics offers introductions to advanced topics. The level is generally that of second and subsequent years of undergraduate courses in electronic and electrical engineering, computer science and physics. Some of the authors will paint with a broad brush; others will concentrate on a narrower topic, and cover it in greater detail. But in all cases the titles in the Series will provide a sound basis for further reading of the specialist literature, and an up-to-date appreciation of practical applications and likely trends.\n The level, scope and approach of the Series should also appeal to practising engineers and scientists encountering an area of electronics for the first time, or needing a rapid and authoritative update. ",   
+    "chapters": [
+      {
+        "title": "1 Basic Antenna Concepts",
+        "level": 1
+      },
+      {
+        "title": "1.1 Introduction",
+        "level": 2
+      },
+      {
+        "title": "1.2 From ELF to mm waves",
+        "level": 2
+      },
+      {
+        "title": "1.3 Maxwell's equations and plane waves",
+        "level": 2
+      },
+      {
+        "title": "1.4 Basic antenna properties",
+        "level": 2
+      },
+      {
+        "title": "1.5 Reciprocity and receiving antennas ",
+        "level": 2
+      },
+      {
+        "title": "1.6 Choice of frequency ",
+        "level": 2
+      },
+      {
+        "title": "1.7 Antenna analysis and design ",
+        "level": 2
+      },
+      {
+        "title": "2 Wire Antennas",
+        "level": 1
+      },
+      {
+        "title": "2.1 Introduction",
+        "level": 2
+      },
+      {
+        "title": "2.2 The Hertzian dipole",
+        "level": 2
+      },
+      {
+        "title": "2.3 Dipoles and monopoles",
+        "level": 2
+      },
+      {
+        "title": "2.4 Parasitic elements",
+        "level": 2
+      },
+      {
+        "title": "2.5 Loops and slots",
+        "level": 2
+      },
+      {
+        "title": "2.6 Printed antennas",
+        "level": 2
+      },
+      {
+        "title": "2.7 An introduction to moment methods",
+        "level": 2
+      },
+      {
+        "title": "2.8 Case study: antennas on aircraft",
+        "level": 2
+      },
+      {
+        "title": "3 Aperture Theory",
+        "level": 1
+      },
+      {
+        "title": "3.1 Diffraction by apertures",
+        "level": 2
+      },
+      {
+        "title": "3.2 Aperture theory in two dimensions",
+        "level": 2
+      },
+      {
+        "title": "3.3 Applications of aperture theory",
+        "level": 2
+      },
+      {
+        "title": "3.4 Aperture theory in three dimensions",
+        "level": 2
+      },
+      {
+        "title": "3.5 Gain 55",
+        "level": 2
+      },
+      {
+        "title": "3.6 Case study: airport radar antennas",
+        "level": 2
+      },
+      {
+        "title": "4 Linear Arrays",
+        "level": 1
+      },
+      {
+        "title": "4.1 Introduction",
+        "level": 2
+      },
+      {
+        "title": "4.2 The radiation pattern of a linear array",
+        "level": 2
+      },
+      {
+        "title": "4.3 Nulls",
+        "level": 2
+      },
+      {
+        "title": "4.4 Pattern multiplication",
+        "level": 2
+      },
+      {
+        "title": "4.5 Beam steering",
+        "level": 2
+      },
+      {
+        "title": "4.6 Woodward synthesis of antenna patterns",
+        "level": 2
+      },
+      {
+        "title": "4.7 Case study: the ILS array system",
+        "level": 2
+      },
+      {
+        "title": "5 Antenna Measurements",
+        "level": 1
+      },
+      {
+        "title": "5.1 Introduction",
+        "level": 2
+      },
+      {
+        "title": "5.2 Input impedance",
+        "level": 2
+      },
+      {
+        "title": "5.3 Radiation patterns",
+        "level": 2
+      },
+      {
+        "title": "5.4 Gain measurements",
+        "level": 2
+      },
+      {
+        "title": "5.5 Polarisation measurements",
+        "level": 2
+      },
+      {
+        "title": "5.6 Case study: a vertical antenna range",
+        "level": 2
+      },
+      {
+        "title": "6 Further Array Topics",
+        "level": 1
+      },
+      {
+        "title": "6.1 Introduction",
+        "level": 2
+      },
+      {
+        "title": "6.2 Scanning antennas",
+        "level": 2
+      },
+      {
+        "title": "6.3 Orthogonal beams and multiple beam formers",
+        "level": 2
+      },
+      {
+        "title": "6.4 Planar arrays",
+        "level": 2
+      },
+      {
+        "title": "6.5 Mutual coupling in phased arrays",
+        "level": 2
+      },
+      {
+        "title": "6.6 Circular arrays",
+        "level": 2
+      },
+      {
+        "title": "6.7 Case study: a Rotman lens multiple beam former",
+        "level": 2
+      },
+      {
+        "title": "Appendix A: Vector Differential Operators",
+        "level": 1
+      },
+      {
+        "title": "Appendix B: The Fields of a Hertzian Dipole",
+        "level": 1
+      },
+      {
+        "title": "Appendix C: Derivation of Aperture Theory in Three",
+        "level": 1
+      },
+      {
+        "title": "Dimensions",
+        "level": 1
+      },
+      {
+        "title": "Exercises",
+        "level": 1
+      },
+      {
+        "title": "Bibliography",
+        "level": 1
+      },
+      {
+        "title": "Answers to Exercises",
+        "level": 1
+      },
+      {
+        "title": "Index",
+        "level": 1
+      }
+    ]
   }
 ]
