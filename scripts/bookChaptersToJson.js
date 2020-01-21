@@ -60,7 +60,8 @@ readInterface.on('close', function () {
     chapters.push({
       // title: lines[i].replace(lines[i].split(" ").last(), ""),
       title: lines[i],
-      level: level
+      // level: level
+      level: level + 1
       // title: lines[i+1].split(": ")[1],
       // level: lines[i+2].split(": ")[1]
     })

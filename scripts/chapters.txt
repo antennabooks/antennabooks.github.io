@@ -1,55 +1,486 @@
-1 Basic Antenna Concepts
+Part 1 Introduction and Fundamentals
+Chapter 1. Fundamentals of Antennas, Arrays, and Mobile Communications
 1.1 Introduction
-1.2 From ELF to mm waves
-1.3 Maxwell's equations and plane waves
-1.4 Basic antenna properties
-1.5 Reciprocity and receiving antennas 
-1.6 Choice of frequency 
-1.7 Antenna analysis and design 
-2 Wire Antennas
-2.1 Introduction
-2.2 The Hertzian dipole
-2.3 Dipoles and monopoles
-2.4 Parasitic elements
-2.5 Loops and slots
-2.6 Printed antennas
-2.7 An introduction to moment methods
-2.8 Case study: antennas on aircraft
-3 Aperture Theory
-3.1 Diffraction by apertures
-3.2 Aperture theory in two dimensions
-3.3 Applications of aperture theory
-3.4 Aperture theory in three dimensions
-3.5 Gain 55
-3.6 Case study: airport radar antennas
-4 Linear Arrays
+1.2 Huygens’ and Equivalence Principles
+1.3 Hertzian and Fitzgerald Radiators
+1.4 Far-Field Antenna Properties, Power Transfer, and Reciprocity
+1.5 Antennas as Electromagnetic Circuits
+1.6 Polarization
+1.7 Directivity Patterns from Continuous Line Sources
+1.8 Directivity Patterns from Area Source Distributions
+1.9 Fundamentals of Antenna Arrays
+1.10 Basic Concepts in Mobile Communications
+1.11 References
+Chapter 2. Frequency Bands for Military and Commercial Applications
+2.1 Introduction to Frequency Bands
+2.2 Commercial Frequency Bands
+2.3 Military and Satellite Frequency Bands
+2.4 Trends and Expected Future Paths
+2.5 References
+Chapter 3. Arrays of Discrete Elements
+3.1 Introduction
+3.2 Antenna Array Factor and Antenna Indices
+3.3 Linear Arrays
+3.4 Planar Arrays
+3.5 3D and Conformal Arrays
+3.6 Array Synthesis Techniques
+3.7 Smart Antennas
+3.8 Element Pattern and Mutual Coupling
+3.9 References
+Part 2 Types and Design Methods
+Chapter 4. Classic Antennas: Dipole, Monopole, Loop, and Slot Antennas
 4.1 Introduction
-4.2 The radiation pattern of a linear array
-4.3 Nulls
-4.4 Pattern multiplication
-4.5 Beam steering
-4.6 Woodward synthesis of antenna patterns
-4.7 Case study: the ILS array system
-5 Antenna Measurements
+4.2 Dipole Antennas
+4.3 Loop Antennas
+4.4 Slot Antennas
+4.5 References
+Chapter 5. Helical Antennas
 5.1 Introduction
-5.2 Input impedance
-5.3 Radiation patterns
-5.4 Gain measurements
-5.5 Polarisation measurements
-5.6 Case study: a vertical antenna range
-6 Further Array Topics
-6.1 Introduction
-6.2 Scanning antennas
-6.3 Orthogonal beams and multiple beam formers
-6.4 Planar arrays
-6.5 Mutual coupling in phased arrays
-6.6 Circular arrays
-6.7 Case study: a Rotman lens multiple beam former
-Appendix A: Vector Differential Operators
-Appendix B: The Fields of a Hertzian Dipole
-Appendix C: Derivation of Aperture Theory in Three
-Dimensions
-Exercises
-Bibliography
-Answers to Exercises
+5.2 Axial-Mode Helical Antennas
+5.3 Normal-Mode Helical Antennas
+5.4 Array of Helical Antennas
+5.5 Fractional-Turn Resonant Quadrifilar
+5.6 Short Axial-Mode Helical Antennas
+5.7 Backfire Axial-Mode Helical Antennas
+5.8 Recent Trends Employing Helical Antennas
+5.9 References
+Chapter 6. Small Antennas
+6.1 The Definition of Electrically Small
+6.2 The General Electrically Small Antenna
+6.3 Electrically Small Dipole and Loop Antennas
+6.4 Power Factor, Quality Factor, and Bandwidth
+6.5 The Effective Volume
+6.6 Fundamental Limits on Small Antenna Q
+6.7 References
+Chapter 7. Microstrip Antennas
+7.1 Introduction
+7.2 Basic Principles of Operation
+7.3 CAD Model for the Input Impedance
+7.4 Radiation Patterns
+7.5 CAD Formulas for Rectangular Patch
+7.6 Results for Rectangular Patch
+7.7 CAD Formulas for Circular Patch
+7.8 Circular Polarization
+7.9 Microstrip Antennas with Improved Performance
+7.10 Acknowledgment
+7.11 References
+Chapter 8. Multiband Planar Antennas for Wireless Communications
+8.1 Multiband Planar Antenna Arrays
+8.2 Multiband Antennas in the Smartphone
+8.3 References
+Chapter 9. Wideband Microstrip Antennas
+9.1 Introduction
+9.2 Substrate Effect on Bandwidth
+9.3 Effect of Patch Shape on Bandwidth
+9.4 Proximity Coupled Microstrip Antennas
+9.5 Aperture Coupled Microstrip Antennas
+9.6 Stacked Microstrip Patch Antennas
+9.7 High-Gain Stacked Patch Antennas
+9.8 Slotted Wideband Patch Antennas
+9.9 Microstrip Patch Antennas with EBG
+9.10 Effects of Size Reduction on Wideband Antennas
+9.11 References
+Chapter 10. Small Antennas and Miniaturization Techniques
+10.1 Introduction
+10.2 Antenna Miniaturization with Metamaterial Loadings
+10.3 Low-Profile Antennas Using EBG Structures
+10.4 Antenna Miniaturization Using Magnetodielectric Materials
+10.5 Volumetric Antennas
+10.6 Additive Manufacturing of Antennas
+10.7 Concluding Remarks
+10.8 References
+Chapter 11. Flexible, Thin Film, and Wearable Antennas
+11.1 Introduction
+11.2 Flexible Antenna Designs and Operation Frequencies
+11.3 Thin Film (Non-Fabric) Antennas
+11.4 Fabric-Based Antennas
+11.5 Flexible Antenna Applications
+11.6 Future Directions
+11.7 References
+Chapter 12. Origami Antennas
+12.1 Origami Monofilar Helical Antenna
+12.2 Morphing Origami Conical Spiral Antenna
+12.3 References
+Chapter 13. On-Chip Antennas
+13.1 Introduction
+13.2 Radiation-Efficiency-Improved Millimeter-Wave On-Chip Antennas
+13.3 Miniaturized On-Chip Antenna for Biomedical Applications
+13.4 References
+Chapter 14. Active Antennas
+14.1 Introduction and Basic Terms
+14.2 Frequency-Agile Active Antennas
+14.3 Oscillator Antennas and Arrays
+14.4 Amplifier Antennas and Arrays
+14.5 Frequency-Conversion Antennas
+14.6 Rectennas
+14.7 Other Active Antennas
+14.8 References
+Chapter 15. Surface-Wave and Leaky-Wave Antennas
+15.1 Introduction
+15.2 Surface-Wave Antennas
+15.3 Leaky-Wave Antennas
+15.4 Acknowledgment
+15.5 References
+Chapter 16. Waveguide Slot Antenna Arrays
+16.1 Introduction
+16.2 Waveguide Slot Radiators
+16.3 Slotted Waveguide Array Designs
+16.4 Slot Admittance or Impedance
+16.5 Design Parameters
+16.6 Power-Handling Capabilities
+16.7 Tolerance and Fabrication Techniques
+16.8 References
+Chapter 17. MIMO Antenna Systems
+17.1 Introduction
+17.2 Performance Metrics of MIMO Antenna Systems
+17.3 MIMO Antennas for USB Dongles
+17.4 MIMO Antennas for Mobile Phones
+17.5 MIMO Antennas for Wireless Access Points
+17.6 Reconfigurable MIMO Antennas for Cognitive Radios
+17.7 MIMO Antennas for 5G Systems
+17.8 Conclusion
+17.9 References
+Chapter 18. Frequency-Independent Antennas
+18.1 Spiral Antennas
+18.2 Log-Periodic Antennas
+18.3 Dual-Polarized Frequency-Independent Antennas
+18.4 Summary
+18.5 References
+Chapter 19. Horn Antennas
+19.1 Introduction
+19.2 Basic Horn Types
+19.3 Other Classes of Horns
+19.4 Recent Developments in Horn Design and Technology
+19.5 Conclusion
+19.6 References
+Chapter 20. Reflector Antennas
+20.1 Introduction
+20.2 Diffraction Analysis Techniques for Reflector Antennas
+20.3 Conventional Reflector Antennas
+20.4 Reflectors Other Than Parabolic
+20.5 Large-Aperture Reflector Antennas
+20.6 Diffraction Shaping
+20.7 Emerging Applications of Mesh Reflector Antennas
+20.8 References
+Chapter 21. Dielectric Resonator Antennas
+21.1 Introduction
+21.2 Possible Methods of Analysis
+21.3 Progress in DRA Research
+21.4 DRA Arrays
+21.5 References
+Chapter 22. Ultra-Wide Bandwidth Antenna Design
+22.1 Introduction
+22.2 Fundamentals of UWB Antenna Design
+22.3 Type-I UWB Antenna Design
+22.4 Type-II UWB Antenna Design
+22.5 Type-III UWB Antenna Design
+22.6 The Dual-Polarization UWB Dielectric Rod Probe Antenna
+22.7 The Dual-Polarization UWB Dielectric Horn Antenna Design
+22.8 References
+Chapter 23. Phased Arrays
+23.1 Introduction
+23.2 Theory of Phased Arrays
+23.3 Pattern Control
+23.4 Radiating Element Design
+23.5 Phased Array Antenna Architectures
+23.6 Applications
+23.7 References
+Chapter 24. Array Phase Shifters: Theory and Technology
+24.1 Introduction
+24.2 Semiconductor
+24.3 Thin Film Ferroelectric
+24.4 Micro-Electromechanical Systems
+24.5 Slow-Wave
+24.6 Ferrite
+24.7 Effect of Phase Shifter Behavior on Phased Array Bit Error Rate
+24.8 Trends
+24.9 Summary
+24.10 References
+Chapter 25. Conformal and Low-Profile Arrays
+25.1 Introduction
+25.2 Fundamental Principles
+25.3 Antennas and Arrays on Cylinders
+25.4 Pattern Synthesis for Conformal Arrays
+25.5 References
+Chapter 26. Millimeter-Wave Antennas
+26.1 Millimeter-Wave Applications
+26.2 Types of Millimeter-Wave Antennas
+26.3 References
+Chapter 27. Terahertz Antennas and Arrays
+27.1 Terahertz Applications
+27.2 Quasi-Optical Coupling of Terahertz Radiation
+27.3 Terahertz Antennas
+27.4 THz Antenna Arrays
+27.5 References
+Chapter 28. Nanoantennas
+28.1 Nanocircuits and Nanoantennas
+28.2 Metamaterial-Inspired Nanoantennas
+28.3 Optical Magnetism in Nanoantennas
+28.4 Nanoantenna Directivity
+28.5 Active Nanoantennas
+28.6 Nonlinear Nanoantennas
+28.7 Enhanced Emission and Quantum Responses with Nanoantennas
+28.8 Conclusions
+28.9 Acknowledgments
+28.10 References
+Chapter 29. Ultra-Wideband Dipole, Monopole, and Loop Arrays
+29.1 Resistively Loaded Dipole and Monopole Arrays for Ground Penetrating Radar
+29.2 Cylindrical Dipole Arrays for Airborne Systems
+29.3 Vector Sensor Array Antennas
+29.4 References
+Chapter 30. Ultra-Wideband Phased Arrays
+30.1 Applications of Ultra-Wideband Phased Arrays
+30.2 Tapered Slot Antenna
+30.3 Connected and Tightly Coupled Arrays
+30.4 References
+Chapter 31. Smart Antennas
+31.1 Introduction
+31.2 Adaptive Beamforming
+31.3 References
+Part 3 Applications
+Chapter 32. Metamaterial Electronically Scanning Array
+32.1 Background
+32.2 Theory of MESA Antennas
+32.3 Realized K-Band MESA: Modeling and Measurements
+32.4 References
+Chapter 33. Low- and Medium-Frequency Antennas
+33.1 Introduction
+33.2 Fundamentals of Vertical Monopole Antenna Radiation Properties
+33.3 Practical Low and Medium Antenna Structures: Design and Construction Basics
+33.4 Environmental Considerations
+33.5 References
+Chapter 34. HF Antennas
+34.1 Introduction
+34.2 Specifying the Right Antenna for the Job
+34.3 Antennas Mounted Above Ground
+34.4 Major Forms of HF Communications Antennas
+34.5 Other Types of HF Communications Antennas
+34.6 Broadband Dipole Curtain Arrays
+34.7 References
+34.8 Bibliography
+Chapter 35. VHF/UHF Antennas
+35.1 Introduction
+35.2 Antennas for the ISM Bands (Typically 433 MHz, 868/915 MHz, and 2.4/5 GHz)
+35.3 Antennas for Global Navigation Satellite Systems
+35.4 Antennas on Printed Circuit Laminates
+35.5 Antennas for Point-to-Point and Point-to-Multipoint Services
+35.6 Baluns
+35.7 Exposure to Electromagnetic Fields
+35.8 References
+Chapter 36. Reconfigurable Antennas
+36.1 Introduction
+36.2 Reconfigurable Apertures
+36.3 Reconfigurable Traveling Wave Antennas
+36.4 Reconfigurable Arrays
+36.5 Reconfigurable Microstrip Antennas
+36.6 Reconfigurable Slot Antennas
+36.7 Reconfigurable Monopole/Dipole Antennas
+36.8 Concluding Remarks
+36.9 References
+Chapter 37. Low-Profile Antennas on Engineered Electromagnetic Surfaces
+37.1 Introduction
+37.2 Characterizations and Designs of Electromagnetic Band-Gap Structures
+37.3 Low-Profile Wire Antennas on EBG Ground Plane
+37.4 Patch Antennas with Enhanced Performance Using EBG Structures
+37.5 Impedance and Magneto-Dielectric Substrates for Small Antenna Designs
+37.6 References
+Chapter 38. Reflectarray Antennas
+38.1 Introduction
+38.2 Analysis and Design Techniques
+38.3 Techniques for Bandwidth Improvement
+38.4 Multifrequency Reflectarrays
+38.5 Contoured Beam Reflectarrays
+38.6 Beam Scanning Reflectarrays
+38.7 Recent Developments and Technological Challenges
+38.8 Summary
+38.9 Acknowledgments
+38.10 References
+Chapter 39. Mobile Handset Antennas
+39.1 Introduction
+39.2 Handset Antenna Types
+39.3 Design Aspects of Handset Antennas
+39.4 Fabrication Technologies for Handset Antennas
+39.5 Active Handset Antennas
+39.6 Applications
+39.7 Conclusion and Remarks
+39.8 References
+Chapter 40. Base Station Antennas
+40.1 Introduction
+40.2 Base Station Antenna Requirements
+40.3 Base Station Antenna Radiating Elements
+40.4 Multibeam Antennas
+40.5 References
+Chapter 41. Antennas for CubeSats
+41.1 Traditional CubeSat Antennas
+41.2 Conformal Integrated Solar Panel Antennas
+41.3 High-Gain Antennas
+41.4 Acknowledgment
+41.5 References
+Chapter 42. 3D Additive Manufacturing of Antennas
+42.1 Introduction
+42.2 Additive Manufacturing Techniques for Antenna Applications
+42.3 Additive Manufacturing–Enabled Antennas
+42.4 Additive Manufacturing of Antenna Arrays and Systems
+42.5 References
+Chapter 43. Antennas for Medical Applications
+43.1 Overview
+43.2 The Environment
+43.3 Antennas for Medical Imaging
+43.4 Heating
+43.5 Biotelemetry
+43.6 Pulsed Electromagnetic Fields
+43.7 Sensing
+43.8 Future Directions
+43.9 Acknowledgments
+43.10 References
+Chapter 44. Automobile Antennas
+44.1 Introduction
+44.2 AM/FM Antennas
+44.3 FM Diversity Antennas
+44.4 RKE and TPMS Antennas
+44.5 Mobile Telephone Antennas
+44.6 GNSS Antennas
+44.7 SDARS Antennas
+44.8 DSRC Antennas
+44.9 Emerging Technologies (Observed)
+44.10 Emerging Technologies (Predicted)
+44.11 Antenna Measurements
+44.12 References
+Chapter 45. Aircraft Antennas
+45.1 Introduction
+45.2 Low-Frequency and High-Frequency Antennas
+45.3 Unidirectional Very-High-Frequency Antennas
+45.4 Omnidirectional VHF and UHF Antennas
+45.5 Omnidirectional L-Band Antennas
+45.6 GPS Antennas
+45.7 Traffic Collision Avoidance System Antennas
+45.8 Satellite Communication (SATCOM) Antennas
+45.9 Low Observable Antennas
+45.10 Nonmetallic Aircraft Antennas
+45.11 Small Aircraft Antennas
+45.12 Radar Antennas
+45.13 Electronic Warfare
+45.14 Antenna Performance and Aircraft Interaction
+45.15 Acknowledgments
+45.16 References
+Chapter 46. Radiometer Antennas
+46.1 Introduction
+46.2 Basic Principles
+46.3 System Principles
+46.4 Radiometer Antenna Types
+46.5 Recent Developments and Trends in Radiometry
+46.6 References
+Chapter 47. Antenna Tracking
+47.1 Introduction
+47.2 Tracking Requirements
+47.3 Open Loop Antenna Tracking
+47.4 Closed Loop Antenna Tracking
+47.5 Acquisition Issues
+47.6 Interferometric Systems
+47.7 Antenna Tracking Evaluation
+47.8 References
+Chapter 48. Satellite Antennas
+48.1 Introduction
+48.2 Space Segment Antennas
+48.3 Ground Segment Antennas
+48.4 Interference Protection
+48.5 Satellite Antenna Testing
+48.6 References
+Chapter 49. Earth Station Antennas
+49.1 Introduction
+49.2 Single-Beam Earth Station Antennas
+49.3 Multiple-Beam Earth Station Antennas
+49.4 Measurement Techniques
+49.6 Acknowledgment
+49.7 References
+Chapter 50. Direction Finding Antennas and Systems
+50.1 Introduction
+50.2 Direction Finding Systems
+50.3 Direction Finding Algorithms
+50.4 DF Algorithm Performance
+50.5 Geolocation Algorithms
+50.6 References
+Chapter 51. ESM and ECM Antennas
+51.1 Introduction
+51.2 Communication ESM and ECM System Antennas
+51.3 Radar ESM and ECM System Antennas
+51.4 References
+Chapter 52. Radio-Telescope Antennas
+52.1 Introduction
+52.2 Single-Aperture Radio Telescopes
+52.3 The Two-Element Interferometer
+52.4 Aperture Synthesis
+52.5 Major Radio Telescopes
+52.6 Conclusion
+52.7 Acknowledgment
+52.8 References
+52.9 Bibliography
+Chapter 53. Indoor Antenna Measurements
+53.1 Facilities
+53.2 Test Setup and Calibration
+53.3 Typical Antenna Measurement Properties
+53.4 Data Analysis Tools
+53.5 Conclusion
+53.6 References
+Part 4 Topics Associated with Antennas
+Chapter 54. Printed Transmission Lines
+54.1 General
+54.2 Printed Transmission Lines
+54.3 List of Symbols
+54.4 References
+Chapter 55. Impedance Matching, Broadbanding, and Baluns
+55.1 General Matching Techniques
+55.2 Impedance Matching with Lumped Elements
+55.3 Impedance Matching with Distributed Elements
+55.4 Combinations of Transformers and Stubs
+55.5 Tapered Lines
+55.6 Broadbanding
+55.7 Baluns
+55.8 References
+Chapter 56. Propagation
+56.1 Introduction and Overview of Propagation Effects
+56.2 Free-Space Propagation
+56.3 Atmospheric Refraction
+56.4 Atmospheric Gas and Rain Attenuation
+56.5 Empirical Path Loss Models for Line-of-Sight Links
+56.6 Fading and Multipath
+56.7 Ionospheric Effects at Microwave Frequencies
+56.8 Ionosphere and Ground Wave Effects at Frequencies Less Than 50 MHz
+56.9 References
+Chapter 57. Materials and Design Data
+57.1 Properties of Materials
+57.2 Absorbing Materials
+57.3 Nonsolid Surfaces
+57.4 Radio-Frequency Band Designations
+57.5 Antenna-Pattern Characteristics
+57.6 Electrically Small Horns
+57.7 References
+Chapter 58. Frequency Selective Surfaces
+58.1 Introduction
+58.2 Single-Layer Surfaces
+58.3 Multilayer Surfaces
+58.4 Three-Dimensional Structures
+58.5 Active FSSs
+58.6 Conclusion
+58.7 References
+Chapter 59. Advanced Huygens’ Metasurfaces for Beam Manipulation and Antenna Applications
+59.1 Introduction
+59.2 Scalar Huygens’ Metasurfaces
+59.3 Scalar (Omega) Bianisotropic Huygens’ Metasurfaces
+59.4 Concluding Remarks
+59.5 References
+Chapter 60. Computational Electromagnetics for Antennas
+60.1 Introduction
+60.2 Electromagnetics for Antenna Engineering
+60.3 Integral Equation Formulations for Antenna Analysis
+60.4 MoM and FEM Procedure for Solving Linear Operator Equations
+60.5 Examples of MoM Discretizations of Integral Equations for Antennas
+60.6 Finite Element Method in Antenna Analysis and Design
+60.7 Finite-Difference Time-Domain Method for Antennas
+60.8 Postprocessing: Evaluation of Antenna Parameters
+60.9 Parallelization and High-Performance Computing for Antenna Modeling
+60.10 Commercial Codes for Antenna Analysis and Design
+60.11 Conclusion
+60.12 Acknowledgments
+60.13 References
 Index
