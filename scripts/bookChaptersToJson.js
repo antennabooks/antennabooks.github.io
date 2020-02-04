@@ -48,20 +48,20 @@ readInterface.on('close', function () {
     var level = 1
     // if(levelNumber.split(".").length == 3){
     // if(levelNumber.split("-").length == 2){
-    console.log(levelNumber)
+    // console.log(levelNumber)
     if (levelNumber.split(".").length == 2) {
       level = 2
     }
     console.log(level)
-    // if(levelNumber.split(".").length == 3){
-    // if(levelNumber.split(".").length == 4){
-    // level = 3
-    // }
+    if (levelNumber.split(".").length == 3) {
+      // if(levelNumber.split(".").length == 4){
+      level = 3
+    }
     chapters.push({
-      // title: lines[i].replace(lines[i].split(" ").last(), ""),
-      title: lines[i],
-      // level: level
-      level: level + 1
+      title: lines[i].replace(lines[i].split(" ").last(), ""),
+      // title: lines[i],
+      level: level
+      // level: level + 1
       // title: lines[i+1].split(": ")[1],
       // level: lines[i+2].split(": ")[1]
     })

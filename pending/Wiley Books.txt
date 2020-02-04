@@ -1,0 +1,107 @@
+Antenna Theory and Applications
+Hubregt J. Visser
+ISBN: 978-1-119-94521-5
+
+Antenna Theory: Analysis and Design, 4th Edition
+Constantine A. Balanis
+ISBN: 978-1-119-17899-6
+
+Modern Antenna Design, 2nd Edition
+Thomas A. Milligan
+ISBN: 978-0-471-72060-7
+
+Introduction to RF Propagation
+John S. Seybold
+ISBN: 978-0-471-74368-2
+
+Antenna Theory and Design, 3rd Edition
+Warren L. Stutzman, Gary A. Thiele
+ISBN: 978-1-118-32420-2
+
+Microstrip Antennas: The Analysis and Design of Microstrip Antennas and Arrays
+David M. Pozar (Editor), Daniel H. Schaubert (Editor)
+ISBN: 978-0-780-31078-0
+
+Circularly Polarized Antennas
+Steven Shichang Gao, Qi Luo, Fuguo Zhu
+ISBN: 978-1-118-79051-9
+
+Ultra Wide Band Antennas
+Xavier Begaud (Editor)
+ISBN: 978-1-118-58657-0
+
+Space Antenna Handbook
+William A. Imbriale, Steven Shichang Gao, Luigi Boccia
+ISBN: 978-1-119-94584-0
+
+Small Antenna Handbook
+Robert C. Hansen, Robert E. Collin
+ISBN: 978-1-118-10685-3
+
+Modern Antenna Handbook
+Constantine A. Balanis (Editor)
+ISBN: 978-1-118-20975-2
+
+Antenna Arrays: A Computational Approach
+Randy L. Haupt
+ISBN: 978-0-470-93743-3
+
+Introduction to Antenna Placement and Installation
+Thereza Macnamara
+ISBN: 978-0-470-68688-1
+
+Spaceborne Antennas for Planetary Exploration
+William A. Imbriale (Editor), Joseph H. Yuen (Series Editor)
+ISBN: 978-0-470-05277-8
+
+Finite Antenna Arrays and FSS
+Ben A. Munk
+ISBN: 978-0-471-27305-9
+
+Reflectarray Antennas: Theory, Designs, and Applications
+Payam Nayeri, Fan Yang, Atef Z. Elsherbeni
+ISBN: 978-1-118-84675-9
+
+Antennas for Global Navigation Satellite Systems
+Xiaodong Chen, Clive G. Parini, Brian Collins, Yuan Yao, Masood Ur Rehman
+ISBN: 978-1-119-94032-6
+
+Phased Array Antennas, 2nd Edition
+Robert C. Hansen
+ISBN: 978-0-470-52917-1
+
+Broadband Planar Antennas: Design and Applications
+Zhi Ning Chen, Michael Yan Wah Chia
+ISBN: 978-0-470-87175-1
+
+Handbook of Smart Antennas for RFID Systems
+Nemai Chandra Karmakar (Editor)
+ISBN: 978-1-118-07439-8
+
+Antenna Design for Mobile Devices, 2nd Edition
+Zhijun Zhang
+ISBN: 978-1-119-13234-9
+
+Characteristic Modes: Theory and Applications in Antenna Engineering
+Yikai Chen, Chao-Fu Wang
+ISBN: 978-1-119-03889-4
+
+Timed Arrays: Wideband and Time Varying Antenna Arrays
+Randy L. Haupt
+ISBN: 978-1-119-07191-4
+
+Fundamentals of Aperture Antennas and Arrays: From Theory to Design, Fabrication and Testing
+Trevor S. Bird
+ISBN: 978-1-118-92354-2
+
+Radio Propagation and Adaptive Antennas for Wireless Communication Networks: Terrestrial, Atmospheric, and Ionospheric, 2nd Edition
+Nathan Blaunstein, Christos G. Christodoulou
+ISBN: 978-1-118-81672-1
+
+Microwave Radio Links: From Theory to Design
+Carlos Salema
+ISBN: 978-0-471-42026-2
+
+Radome Electromagnetic Theory and Design
+Reuven Shavit
+Print ISBN:9781119410799

@@ -19111,5 +19111,1031 @@
         "level": 1
       }
     ]
+  },
+  {
+    "cover": "https://digital-library.theiet.org/docserver/fulltext/PBEW028Fmedium.jpg",
+    "title": "Handbook of Microstrip Antennas, Volume 1",
+    "author": "J. R. James, P. S. Hall",
+    "publisher": "IET - Peter Peregrinus Ltd.",
+    "granted": true,
+    "publisherSite": "https://digital-library.theiet.org/content/books/ew/pbew028f",
+    "amazonSite": "#",
+    "edition": 1,
+    "year": 1989,
+    "description": "This book presents a wide ranging coverage of principles, state-of-the-art design and up-to-date applications of microstrip antennas; Includes detailed explanations of a variety of analytical techniques from transmission line theory to moments methods and their applications to CAD; Covers the numerous patch designs and array configurations giving many examples of practical applications; Discusses microstrip technology in detail including substrates, processing and environmental aspects; Addresses measurement methods particular to printed antennas such as substrate and connector characterisation and near field probing; Application areas covered include antennas for satellite terrestrial and mobile communications, conformal and aerospace antennas, phased arrays, hyperthermia applicators and millimetric antennas.",
+    "chapters": [
+      {
+        "title": " Introduction — J.R. James and P.S. Hall 1",
+        "level": 1
+      },
+      {
+        "title": ".1 Historical development and future prospects 1",
+        "level": 2
+      },
+      {
+        "title": "1.2 Fundamental issues and design challenges ",
+        "level": 2
+      },
+      {
+        "title": "1.2.1 Features of microstrip antenna technology ",
+        "level": 3
+      },
+      {
+        "title": "1.2.2 Fundamental problems ",
+        "level": 3
+      },
+      {
+        "title": "1.3 The handbook and advances presented ",
+        "level": 2
+      },
+      {
+        "title": "1.4 Glossary of printed antenna types ",
+        "level": 2
+      },
+      {
+        "title": "1.5 Summary comments ",
+        "level": 2
+      },
+      {
+        "title": "1.6 References ",
+        "level": 2
+      },
+      {
+        "title": "2 Analysis of circular microstrip antennas — L. Shafai and A.A. Kishk ",
+        "level": 1
+      },
+      {
+        "title": "2.1 Introduction ",
+        "level": 2
+      },
+      {
+        "title": "2.2 Formulation of the problem ",
+        "level": 2
+      },
+      {
+        "title": "2.2.1 Matrix formulation ",
+        "level": 3
+      },
+      {
+        "title": "2.2.2 Excitation matrix ",
+        "level": 3
+      },
+      {
+        "title": "2.2.3 Radiation fields ",
+        "level": 3
+      },
+      {
+        "title": "2.3 Application 1: Circular patch antenna ",
+        "level": 2
+      },
+      {
+        "title": "2.3.1 Surface fields ",
+        "level": 3
+      },
+      {
+        "title": "2.3.2 Feed location ",
+        "level": 3
+      },
+      {
+        "title": "2.3.3 Effect of the substrate permittivity ",
+        "level": 3
+      },
+      {
+        "title": "2.3.4 Effect of the substrate thickness ",
+        "level": 3
+      },
+      {
+        "title": "2.3.5 Effect of the ground-plane radius ",
+        "level": 3
+      },
+      {
+        "title": "2.3.6 Effect of the ground-plane thickness ",
+        "level": 3
+      },
+      {
+        "title": "2.3.7 Circular polarisation ",
+        "level": 3
+      },
+      {
+        "title": "2.3.8 Effect of a central shorting pin ",
+        "level": 3
+      },
+      {
+        "title": "2.4 Application 2: Wraparound microstrip antenna ",
+        "level": 2
+      },
+      {
+        "title": "2.5 Application 3: Reflector antenna feeds ",
+        "level": 2
+      },
+      {
+        "title": "2.6 Concluding remarks ",
+        "level": 2
+      },
+      {
+        "title": "2.7 References ",
+        "level": 2
+      },
+      {
+        "title": "3 Characteristics of microstrip patch antennas and some methods of improving frequency agility and bandwidth — K.F. Lee and J.S. Dahele ",
+        "level": 1
+      },
+      {
+        "title": "3.1 Introduction ",
+        "level": 2
+      },
+      {
+        "title": "3.2 Cavity model for analysing microstrip patch antennas ",
+        "level": 2
+      },
+      {
+        "title": "3.2.1 Introduction ",
+        "level": 3
+      },
+      {
+        "title": "3.2.2 Feed modelling, resonant frequencies and internal fields ",
+        "level": 3
+      },
+      {
+        "title": "3.2.3 Radiation field ",
+        "level": 3
+      },
+      {
+        "title": "3.2.4 Losses in the cavity ",
+        "level": 3
+      },
+      {
+        "title": "3.2.5 Input impedance ",
+        "level": 3
+      },
+      {
+        "title": "3.2.6 VSWR bandwidth ",
+        "level": 3
+      },
+      {
+        "title": "3.2.7 Qualitative description of the results predicted by the model ",
+        "level": 3
+      },
+      {
+        "title": "3.3 Basic characteristics of some common patches ",
+        "level": 2
+      },
+      {
+        "title": "3.3.1 The rectangular patch ",
+        "level": 3
+      },
+      {
+        "title": "3.3.2 The circular patch ",
+        "level": 3
+      },
+      {
+        "title": "3.3.3 The equitriangular patch ",
+        "level": 3
+      },
+      {
+        "title": "3.3.4 Annular-ring patch ",
+        "level": 3
+      },
+      {
+        "title": "3.3.5 Comparison of characteristics of rectangular, circular, equitriangular and annular-ring patches ",
+        "level": 3
+      },
+      {
+        "title": "3.3.6 Brief mention of other patches ",
+        "level": 3
+      },
+      {
+        "title": "3.4 Some methods of improving the frequency agility and bandwidth of microstrip patch antennas ",
+        "level": 2
+      },
+      {
+        "title": "3.4.1 Introduction ",
+        "level": 3
+      },
+      {
+        "title": "3.4.2 Some methods of tuning MPAs ",
+        "level": 3
+      },
+      {
+        "title": "3.4.3 Dual-band structures ",
+        "level": 3
+      },
+      {
+        "title": "3.4.4 Electromagnetic-coupled patch antenna (EMCP) ",
+        "level": 3
+      },
+      {
+        "title": "3.5 Summary ",
+        "level": 2
+      },
+      {
+        "title": "3.6 Acknowledgments ",
+        "level": 2
+      },
+      {
+        "title": "3.7 References ",
+        "level": 2
+      },
+      {
+        "title": "4 Circular polarisation and bandwidth — M. Haneishi and Y. Suzuki ",
+        "level": 1
+      },
+      {
+        "title": "4.1 Various types of circularly polarised antenna ",
+        "level": 2
+      },
+      {
+        "title": "4.1.1 Microstrip patch antennas ",
+        "level": 3
+      },
+      {
+        "title": "4.1.2 Other types of circularly polarised printed antennas ",
+        "level": 3
+      },
+      {
+        "title": "4.2 Simple design techniques for singly-fed circularly polarised microstrip antennas ",
+        "level": 2
+      },
+      {
+        "title": "4.2.1 Rectangular type ",
+        "level": 3
+      },
+      {
+        "title": "4.2.2 Circular type ",
+        "level": 3
+      },
+      {
+        "title": "4.3 More exact treatment for singly-fed circularly polarised microstrip antennas ",
+        "level": 2
+      },
+      {
+        "title": "4.3.1 Analysis ",
+        "level": 3
+      },
+      {
+        "title": "4.3.2 Conditions for circularly polarised radiation ",
+        "level": 3
+      },
+      {
+        "title": "4.3.3 Example ",
+        "level": 3
+      },
+      {
+        "title": "4.4 Some considerations on mutual coupling ",
+        "level": 2
+      },
+      {
+        "title": "4.5 Wideband techniques ",
+        "level": 2
+      },
+      {
+        "title": "4.5.1 Design of wideband element ",
+        "level": 3
+      },
+      {
+        "title": "4.5.2 Technique using parasitic element ",
+        "level": 3
+      },
+      {
+        "title": "4.5.3 Technique using paired element ",
+        "level": 3
+      },
+      {
+        "title": "4.6 References ",
+        "level": 2
+      },
+      {
+        "title": "5 Microstrip dipoles — P.B. Katehi, D.R. Jackson and N.G. Alexopoulis ",
+        "level": 1
+      },
+      {
+        "title": "5.1 Introduction ",
+        "level": 2
+      },
+      {
+        "title": "5.2 Infinitesimal dipole ",
+        "level": 2
+      },
+      {
+        "title": "5.2.1 Analysis ",
+        "level": 3
+      },
+      {
+        "title": "5.2.2 Substrate effects ",
+        "level": 3
+      },
+      {
+        "title": "5.2.3 Superstate effects ",
+        "level": 3
+      },
+      {
+        "title": "5.3 Moment-method techniques for planar strip geometries ",
+        "level": 2
+      },
+      {
+        "title": "5.3.1 Basis functions ",
+        "level": 3
+      },
+      {
+        "title": "5.3.2 Reaction between basis functions ",
+        "level": 3
+      },
+      {
+        "title": "5.3.3 Plane-wave-spectrum method ",
+        "level": 3
+      },
+      {
+        "title": "5.3.4 Real-space integration method ",
+        "level": 3
+      },
+      {
+        "title": "5.3.5 Point-dipole approximation ",
+        "level": 3
+      },
+      {
+        "title": "5.3.6 Moment-method equations ",
+        "level": 3
+      },
+      {
+        "title": "5.4 Centre-fed dipoles ",
+        "level": 2
+      },
+      {
+        "title": "5.4.1 Single dipole ",
+        "level": 3
+      },
+      {
+        "title": "5.4.2 Mutual impedance ",
+        "level": 3
+      },
+      {
+        "title": "5.5 EMC dipoles ",
+        "level": 2
+      },
+      {
+        "title": "5.5.1 Methods of analysis ",
+        "level": 3
+      },
+      {
+        "title": "5.5.2 Single dipole ",
+        "level": 3
+      },
+      {
+        "title": "5.5.3 Multiple dipoles ",
+        "level": 3
+      },
+      {
+        "title": "5.6 Finite array of EMC dipoles ",
+        "level": 2
+      },
+      {
+        "title": "5.6.1 Analysis ",
+        "level": 3
+      },
+      {
+        "title": "5.6.2 Calculation of coefficients ",
+        "level": 3
+      },
+      {
+        "title": "5.6.3 Array design ",
+        "level": 3
+      },
+      {
+        "title": "5.7 Conclusions ",
+        "level": 2
+      },
+      {
+        "title": "5.8 References ",
+        "level": 2
+      },
+      {
+        "title": "6 Multilayer and parasitic configurations — D.H. Schaubert ",
+        "level": 1
+      },
+      {
+        "title": "6.1 Introduction ",
+        "level": 2
+      },
+      {
+        "title": "6.2 Stacked elements for dual-frequency or dual polarisation operation ",
+        "level": 2
+      },
+      {
+        "title": "6.2.1 Antennas with separate feeds for each function ",
+        "level": 3
+      },
+      {
+        "title": "6.2.2 Antennas for multiple frequencies and increased bandwidth ",
+        "level": 3
+      },
+      {
+        "title": "6.3 Two-sided aperture-coupled patch ",
+        "level": 2
+      },
+      {
+        "title": "6.4 Parasitic elements on antenna substrate ",
+        "level": 2
+      },
+      {
+        "title": "6.5 Summary ",
+        "level": 2
+      },
+      {
+        "title": "6.6 References ",
+        "level": 2
+      },
+      {
+        "title": "7 Wideband flat dipole and short-circuit microstrip patch elements and arrays — G. Dubost ",
+        "level": 1
+      },
+      {
+        "title": "7.1 Flat dipole elements and arrays ",
+        "level": 2
+      },
+      {
+        "title": "7.1.1 Elementary sources ",
+        "level": 3
+      },
+      {
+        "title": "7.1.2 Array designs: losses and efficiencies ",
+        "level": 3
+      },
+      {
+        "title": "7.2 Short-circuit microstrip patches and arrays ",
+        "level": 2
+      },
+      {
+        "title": "7.2.1 Elementary source ",
+        "level": 3
+      },
+      {
+        "title": "7.2.2 Array designs ",
+        "level": 3
+      },
+      {
+        "title": "7.3 References ",
+        "level": 2
+      },
+      {
+        "title": "8 Numerical analysis of microstrip patch antennas — J.R. Mosig, R.C. Hall and F.E. Gardiol ",
+        "level": 1
+      },
+      {
+        "title": "8.1 Introduction ",
+        "level": 2
+      },
+      {
+        "title": "8.1.1 General description ",
+        "level": 3
+      },
+      {
+        "title": "8.1.2 The integral equation model ",
+        "level": 3
+      },
+      {
+        "title": "8.2 Model based on the electric surface current ",
+        "level": 2
+      },
+      {
+        "title": "8.2.1 Geometry of the model and boundary conditions ",
+        "level": 3
+      },
+      {
+        "title": "8.2.2 Potentials for the diffracted fields ",
+        "level": 3
+      },
+      {
+        "title": "8.2.3 Green's functions ",
+        "level": 3
+      },
+      {
+        "title": "8.2.4 Mixed potential integral equation (MPIE) ",
+        "level": 3
+      },
+      {
+        "title": "8.2.5 Sketch of the proposed technique ",
+        "level": 3
+      },
+      {
+        "title": "8.3 Horizontal electric dipole (HED) in microstrip ",
+        "level": 2
+      },
+      {
+        "title": "8.3.1 The vector potential ",
+        "level": 3
+      },
+      {
+        "title": "8.3.2 Scalar potential and the fields ",
+        "level": 3
+      },
+      {
+        "title": "8.3.3 Surface waves and spectral plane k ",
+        "level": 3
+      },
+      {
+        "title": "8.3.4 Far-field approximations ",
+        "level": 3
+      },
+      {
+        "title": "8.3.5 Radiation resistance and antenna efficiency ",
+        "level": 3
+      },
+      {
+        "title": "8.4 Numerical techniques for Sommerfeld integrals ",
+        "level": 2
+      },
+      {
+        "title": "8.4.1 Numerical integration on the real axis ",
+        "level": 3
+      },
+      {
+        "title": "8.4.2 Integrating oscillating functions over unbounded intervals ",
+        "level": 3
+      },
+      {
+        "title": "8.5 Construction of the Green's functions ",
+        "level": 2
+      },
+      {
+        "title": "8.6 Method of moments ",
+        "level": 2
+      },
+      {
+        "title": "8.6.1 Rooftop (subsectional) — basis functions ",
+        "level": 3
+      },
+      {
+        "title": "8.6.2 Entire domain basis functions ",
+        "level": 3
+      },
+      {
+        "title": "8.7 Excitation and loading ",
+        "level": 2
+      },
+      {
+        "title": "8.7.1 Several microstrip-antenna excitations ",
+        "level": 3
+      },
+      {
+        "title": "8.7.2 Coaxial excitation and input impedance ",
+        "level": 3
+      },
+      {
+        "title": "8.7.3 Multiport analysis ",
+        "level": 3
+      },
+      {
+        "title": "8.8 Single rectangular patch antenna ",
+        "level": 2
+      },
+      {
+        "title": "8.8.1 Entire-domain versus subdomain basis functions ",
+        "level": 3
+      },
+      {
+        "title": "8.8.2 Convergence using subsectional basis functions ",
+        "level": 3
+      },
+      {
+        "title": "8.8.3 Surface currents ",
+        "level": 3
+      },
+      {
+        "title": "8.9 Microstrip arrays ",
+        "level": 2
+      },
+      {
+        "title": "8.9.1 Array modelling ",
+        "level": 3
+      },
+      {
+        "title": "8.9.2 Mutual coupling ",
+        "level": 3
+      },
+      {
+        "title": "8.9.3 Linear array of few patches ",
+        "level": 3
+      },
+      {
+        "title": "8.10 Acknowledgments ",
+        "level": 2
+      },
+      {
+        "title": "8.11 References ",
+        "level": 2
+      },
+      {
+        "title": "9 Multiport network approach for modelling and analysis of microstrip patch antennas and arrays — K.C. Gupta ",
+        "level": 1
+      },
+      {
+        "title": "9.1 Introduction ",
+        "level": 2
+      },
+      {
+        "title": "9.2 Models for microstrip antennas ",
+        "level": 2
+      },
+      {
+        "title": "9.2.1 Transmission-line model ",
+        "level": 3
+      },
+      {
+        "title": "9.2.2 Cavity model ",
+        "level": 3
+      },
+      {
+        "title": "9.2.3 Multiport network model ",
+        "level": 3
+      },
+      {
+        "title": "9.3 Z-matrix characterisation of planar segments ",
+        "level": 2
+      },
+      {
+        "title": "9.3.1 Green's functions ",
+        "level": 3
+      },
+      {
+        "title": "9.3.2 Evaluation of Z-matrix from Green's functions ",
+        "level": 3
+      },
+      {
+        "title": "9.3.3 Z-matrices for segments of arbitrary shape ",
+        "level": 3
+      },
+      {
+        "title": "9.4 Edge-admittance and mutual-coupling networks ",
+        "level": 2
+      },
+      {
+        "title": "9.4.1 Edge-admittance networks ",
+        "level": 3
+      },
+      {
+        "title": "9.4.2 Mutual-coupling network ",
+        "level": 3
+      },
+      {
+        "title": "9.5 Analysis of multiport-network model ",
+        "level": 2
+      },
+      {
+        "title": "9.5.1 Segmentation method ",
+        "level": 3
+      },
+      {
+        "title": "9.5.2 Desegmentation method ",
+        "level": 3
+      },
+      {
+        "title": "9.6 Examples of microstrip antenna structures analysed by multiportnetwork approach ",
+        "level": 2
+      },
+      {
+        "title": "9.6.1 Circularly polarised microstrip patches ",
+        "level": 3
+      },
+      {
+        "title": "9.6.2 Broadband multiresonator microstrip antennas ",
+        "level": 3
+      },
+      {
+        "title": "9.6.3 Multiport microstrip patches and series-fed arrays ",
+        "level": 3
+      },
+      {
+        "title": "9.7 CAD of microstrip patch antennas and arrays ",
+        "level": 2
+      },
+      {
+        "title": "9.8 Appendix: Green's functions for various planar configurations ",
+        "level": 2
+      },
+      {
+        "title": "9.9 Acknowledgments ",
+        "level": 2
+      },
+      {
+        "title": "9.10 References ",
+        "level": 2
+      },
+      {
+        "title": "10 Transmission-line model for rectangular microstrip antennas A. Van de Capelle ",
+        "level": 1
+      },
+      {
+        "title": "10.1 Introduction ",
+        "level": 2
+      },
+      {
+        "title": "10.2 Simple transmission-line model ",
+        "level": 2
+      },
+      {
+        "title": "10.2.1 Description of the transmission line model ",
+        "level": 3
+      },
+      {
+        "title": "10.2.2 Expressions for Gs and Bs ",
+        "level": 3
+      },
+      {
+        "title": "10.2.3 Expressions for the line parameters ",
+        "level": 3
+      },
+      {
+        "title": "10.3 Improved transmission-line model ",
+        "level": 2
+      },
+      {
+        "title": "10.3.1 Description of the improved transmission-line model ",
+        "level": 3
+      },
+      {
+        "title": "10.3.2 Expression for the self-susceptance Bs ",
+        "level": 3
+      },
+      {
+        "title": "10.3.3 Expression for the self-conductance Gs ",
+        "level": 3
+      },
+      {
+        "title": "10.3.4 Expression for the mutual conductance Gm ",
+        "level": 3
+      },
+      {
+        "title": "10.3.5 Expression for the mutual susceptance Bm ",
+        "level": 3
+      },
+      {
+        "title": "10.3.6 Expressions for the line parameters ",
+        "level": 3
+      },
+      {
+        "title": "10.4 Application of the improved transmission-line model ",
+        "level": 2
+      },
+      {
+        "title": "10.4.1 Analysis and design of rectangular microstrip antennas ",
+        "level": 3
+      },
+      {
+        "title": "10.4.2 Comparison with other methods ",
+        "level": 3
+      },
+      {
+        "title": "10.4.3 Comparison with experimental results ",
+        "level": 3
+      },
+      {
+        "title": "10.4.4 Design application ",
+        "level": 3
+      },
+      {
+        "title": "10.5 Transmission-line model for mutual coupling ",
+        "level": 2
+      },
+      {
+        "title": "10.5.1 Description of the model ",
+        "level": 3
+      },
+      {
+        "title": "10.5.2 Calculation of the model parameters ",
+        "level": 3
+      },
+      {
+        "title": "10.5.3 Comparison with other methods ",
+        "level": 3
+      },
+      {
+        "title": "10.6 Acknowledgements ",
+        "level": 2
+      },
+      {
+        "title": "10.7 References ",
+        "level": 2
+      },
+      {
+        "title": "11 Design and technology of low-cost printed antennas — J.P. Daniel, E. Penard and C. Terret ",
+        "level": 1
+      },
+      {
+        "title": "11.1 Introduction ",
+        "level": 2
+      },
+      {
+        "title": "11.2 Analysis of simple patches and slots ",
+        "level": 2
+      },
+      {
+        "title": "11.2.1 Rectangular and circular patches ",
+        "level": 3
+      },
+      {
+        "title": "11.2.2 Conical antennas ",
+        "level": 3
+      },
+      {
+        "title": "11.2.3 Linear and annular slots ",
+        "level": 3
+      },
+      {
+        "title": "11.3 Design of planar printed arrays ",
+        "level": 2
+      },
+      {
+        "title": "11.3.1 Design parameters ",
+        "level": 3
+      },
+      {
+        "title": "11.3.2 Cavity model analysis of mutual coupling ",
+        "level": 3
+      },
+      {
+        "title": "11.3.3 Linear series array of corner-fed square patches ",
+        "level": 3
+      },
+      {
+        "title": "11.3.4 Two-dimensional cross-fed arrays ",
+        "level": 3
+      },
+      {
+        "title": "11.4 Synthesis methods for linear arrays ",
+        "level": 2
+      },
+      {
+        "title": "11.4.1 Relaxation methods ",
+        "level": 3
+      },
+      {
+        "title": "11.4.2 Simplex method ",
+        "level": 3
+      },
+      {
+        "title": "11.4.3 Experimental results ",
+        "level": 3
+      },
+      {
+        "title": "11.5 New low-cost low-loss substrate ",
+        "level": 2
+      },
+      {
+        "title": "11.5.1 Substrate choice ",
+        "level": 3
+      },
+      {
+        "title": "11.5.2 Fabrication procedure ",
+        "level": 3
+      },
+      {
+        "title": "11.5.3 Electrical characteristics ",
+        "level": 3
+      },
+      {
+        "title": "11.5.4 Environmental tests ",
+        "level": 3
+      },
+      {
+        "title": "11.5.5 Examples of printed antennas on polypropylene substrate ",
+        "level": 3
+      },
+      {
+        "title": "11.6 Concluding remarks ",
+        "level": 2
+      },
+      {
+        "title": "11.7 References ",
+        "level": 2
+      },
+      {
+        "title": "12 Analysis and design considerations for printed phased-array antennas D.M. Pozar ",
+        "level": 1
+      },
+      {
+        "title": "12.1 Introduction ",
+        "level": 2
+      },
+      {
+        "title": "12.2 Analysis of some canonical printed phased-array geometries ",
+        "level": 2
+      },
+      {
+        "title": "12.2.1 Some preliminaries ",
+        "level": 3
+      },
+      {
+        "title": "12.2.2 Infinite-planar-array solutions ",
+        "level": 3
+      },
+      {
+        "title": "12.2.3 Finite-array solutions ",
+        "level": 3
+      },
+      {
+        "title": "12.3 Design considerations for printed phased arrays ",
+        "level": 2
+      },
+      {
+        "title": "12.3.1 Introduction ",
+        "level": 3
+      },
+      {
+        "title": "12.3.2 Array architectures ",
+        "level": 3
+      },
+      {
+        "title": "12.4 Conclusion ",
+        "level": 2
+      },
+      {
+        "title": "12.5 Acknowledgments ",
+        "level": 2
+      },
+      {
+        "title": "12.6 References ",
+        "level": 2
+      },
+      {
+        "title": "13 Circularly polarised antenna arrays — K. Ito, T. Teshirogi and S. Nishimura ",
+        "level": 1
+      },
+      {
+        "title": "13.1 Various types of circularly polarised arrays ",
+        "level": 2
+      },
+      {
+        "title": "13.1.1 Arrays of patch radiators ",
+        "level": 3
+      },
+      {
+        "title": "13.1.2 Arrays of composite elements ",
+        "level": 3
+      },
+      {
+        "title": "13.1.3 Travelling-wave arrays ",
+        "level": 3
+      },
+      {
+        "title": "13.1.4 Other types of arrays ",
+        "level": 3
+      },
+      {
+        "title": "13.2 Design of circularly polarised arrays ",
+        "level": 2
+      },
+      {
+        "title": "13.2.1 Arrays of patch radiators ",
+        "level": 3
+      },
+      {
+        "title": "13.2.2 Arrays of composite elements ",
+        "level": 3
+      },
+      {
+        "title": "13.2.3 Design of travelling-wave arrays ",
+        "level": 3
+      },
+      {
+        "title": "13.3 Practical design problems ",
+        "level": 2
+      },
+      {
+        "title": "13.3.1 Mutual coupling ",
+        "level": 3
+      },
+      {
+        "title": "13.3.2 Unwanted radiation ",
+        "level": 3
+      },
+      {
+        "title": "13.3.3 Limitations and trade-offs ",
+        "level": 3
+      },
+      {
+        "title": "13.3.4 Non-planar scanning arrays ",
+        "level": 3
+      },
+      {
+        "title": "13.4 Wideband circularly polarised arrays ",
+        "level": 2
+      },
+      {
+        "title": "13.4.1 Arrays of wideband elements ",
+        "level": 3
+      },
+      {
+        "title": "13.4.2 Arrays of dual-frequency stacked elements ",
+        "level": 3
+      },
+      {
+        "title": "13.4.3 Wideband-array techniques ",
+        "level": 3
+      },
+      {
+        "title": "13.5 References ",
+        "level": 2
+      }
+    ]
   }
 ]

@@ -1,1942 +1,1014 @@
 [
   {
-    "title": "Part 1 Introduction and Fundamentals",
+    "title": " Introduction — J.R. James and P.S. Hall 1",
     "level": 1
   },
   {
-    "title": "Chapter 1. Fundamentals of Antennas, Arrays, and Mobile Communications",
+    "title": ".1 Historical development and future prospects 1",
     "level": 2
   },
   {
-    "title": "1.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "1.2 Huygens’ and Equivalence Principles",
-    "level": 3
-  },
-  {
-    "title": "1.3 Hertzian and Fitzgerald Radiators",
-    "level": 3
-  },
-  {
-    "title": "1.4 Far-Field Antenna Properties, Power Transfer, and Reciprocity",
-    "level": 3
-  },
-  {
-    "title": "1.5 Antennas as Electromagnetic Circuits",
-    "level": 3
-  },
-  {
-    "title": "1.6 Polarization",
-    "level": 3
-  },
-  {
-    "title": "1.7 Directivity Patterns from Continuous Line Sources",
-    "level": 3
-  },
-  {
-    "title": "1.8 Directivity Patterns from Area Source Distributions",
-    "level": 3
-  },
-  {
-    "title": "1.9 Fundamentals of Antenna Arrays",
-    "level": 3
-  },
-  {
-    "title": "1.10 Basic Concepts in Mobile Communications",
-    "level": 3
-  },
-  {
-    "title": "1.11 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 2. Frequency Bands for Military and Commercial Applications",
+    "title": "1.2 Fundamental issues and design challenges ",
     "level": 2
   },
   {
-    "title": "2.1 Introduction to Frequency Bands",
+    "title": "1.2.1 Features of microstrip antenna technology ",
     "level": 3
   },
   {
-    "title": "2.2 Commercial Frequency Bands",
+    "title": "1.2.2 Fundamental problems ",
     "level": 3
   },
   {
-    "title": "2.3 Military and Satellite Frequency Bands",
-    "level": 3
-  },
-  {
-    "title": "2.4 Trends and Expected Future Paths",
-    "level": 3
-  },
-  {
-    "title": "2.5 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 3. Arrays of Discrete Elements",
+    "title": "1.3 The handbook and advances presented ",
     "level": 2
   },
   {
-    "title": "3.1 Introduction",
-    "level": 3
+    "title": "1.4 Glossary of printed antenna types ",
+    "level": 2
   },
   {
-    "title": "3.2 Antenna Array Factor and Antenna Indices",
-    "level": 3
+    "title": "1.5 Summary comments ",
+    "level": 2
   },
   {
-    "title": "3.3 Linear Arrays",
-    "level": 3
+    "title": "1.6 References ",
+    "level": 2
   },
   {
-    "title": "3.4 Planar Arrays",
-    "level": 3
-  },
-  {
-    "title": "3.5 3D and Conformal Arrays",
-    "level": 3
-  },
-  {
-    "title": "3.6 Array Synthesis Techniques",
-    "level": 3
-  },
-  {
-    "title": "3.7 Smart Antennas",
-    "level": 3
-  },
-  {
-    "title": "3.8 Element Pattern and Mutual Coupling",
-    "level": 3
-  },
-  {
-    "title": "3.9 References",
-    "level": 3
-  },
-  {
-    "title": "Part 2 Types and Design Methods",
+    "title": "2 Analysis of circular microstrip antennas — L. Shafai and A.A. Kishk ",
     "level": 1
   },
   {
-    "title": "Chapter 4. Classic Antennas: Dipole, Monopole, Loop, and Slot Antennas",
+    "title": "2.1 Introduction ",
     "level": 2
   },
   {
-    "title": "4.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "4.2 Dipole Antennas",
-    "level": 3
-  },
-  {
-    "title": "4.3 Loop Antennas",
-    "level": 3
-  },
-  {
-    "title": "4.4 Slot Antennas",
-    "level": 3
-  },
-  {
-    "title": "4.5 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 5. Helical Antennas",
+    "title": "2.2 Formulation of the problem ",
     "level": 2
   },
   {
-    "title": "5.1 Introduction",
+    "title": "2.2.1 Matrix formulation ",
     "level": 3
   },
   {
-    "title": "5.2 Axial-Mode Helical Antennas",
+    "title": "2.2.2 Excitation matrix ",
     "level": 3
   },
   {
-    "title": "5.3 Normal-Mode Helical Antennas",
+    "title": "2.2.3 Radiation fields ",
     "level": 3
   },
   {
-    "title": "5.4 Array of Helical Antennas",
-    "level": 3
-  },
-  {
-    "title": "5.5 Fractional-Turn Resonant Quadrifilar",
-    "level": 3
-  },
-  {
-    "title": "5.6 Short Axial-Mode Helical Antennas",
-    "level": 3
-  },
-  {
-    "title": "5.7 Backfire Axial-Mode Helical Antennas",
-    "level": 3
-  },
-  {
-    "title": "5.8 Recent Trends Employing Helical Antennas",
-    "level": 3
-  },
-  {
-    "title": "5.9 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 6. Small Antennas",
+    "title": "2.3 Application 1: Circular patch antenna ",
     "level": 2
   },
   {
-    "title": "6.1 The Definition of Electrically Small",
+    "title": "2.3.1 Surface fields ",
     "level": 3
   },
   {
-    "title": "6.2 The General Electrically Small Antenna",
+    "title": "2.3.2 Feed location ",
     "level": 3
   },
   {
-    "title": "6.3 Electrically Small Dipole and Loop Antennas",
+    "title": "2.3.3 Effect of the substrate permittivity ",
     "level": 3
   },
   {
-    "title": "6.4 Power Factor, Quality Factor, and Bandwidth",
+    "title": "2.3.4 Effect of the substrate thickness ",
     "level": 3
   },
   {
-    "title": "6.5 The Effective Volume",
+    "title": "2.3.5 Effect of the ground-plane radius ",
     "level": 3
   },
   {
-    "title": "6.6 Fundamental Limits on Small Antenna Q",
+    "title": "2.3.6 Effect of the ground-plane thickness ",
     "level": 3
   },
   {
-    "title": "6.7 References",
+    "title": "2.3.7 Circular polarisation ",
     "level": 3
   },
   {
-    "title": "Chapter 7. Microstrip Antennas",
+    "title": "2.3.8 Effect of a central shorting pin ",
+    "level": 3
+  },
+  {
+    "title": "2.4 Application 2: Wraparound microstrip antenna ",
     "level": 2
   },
   {
-    "title": "7.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "7.2 Basic Principles of Operation",
-    "level": 3
-  },
-  {
-    "title": "7.3 CAD Model for the Input Impedance",
-    "level": 3
-  },
-  {
-    "title": "7.4 Radiation Patterns",
-    "level": 3
-  },
-  {
-    "title": "7.5 CAD Formulas for Rectangular Patch",
-    "level": 3
-  },
-  {
-    "title": "7.6 Results for Rectangular Patch",
-    "level": 3
-  },
-  {
-    "title": "7.7 CAD Formulas for Circular Patch",
-    "level": 3
-  },
-  {
-    "title": "7.8 Circular Polarization",
-    "level": 3
-  },
-  {
-    "title": "7.9 Microstrip Antennas with Improved Performance",
-    "level": 3
-  },
-  {
-    "title": "7.10 Acknowledgment",
-    "level": 3
-  },
-  {
-    "title": "7.11 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 8. Multiband Planar Antennas for Wireless Communications",
+    "title": "2.5 Application 3: Reflector antenna feeds ",
     "level": 2
   },
   {
-    "title": "8.1 Multiband Planar Antenna Arrays",
-    "level": 3
-  },
-  {
-    "title": "8.2 Multiband Antennas in the Smartphone",
-    "level": 3
-  },
-  {
-    "title": "8.3 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 9. Wideband Microstrip Antennas",
+    "title": "2.6 Concluding remarks ",
     "level": 2
   },
   {
-    "title": "9.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "9.2 Substrate Effect on Bandwidth",
-    "level": 3
-  },
-  {
-    "title": "9.3 Effect of Patch Shape on Bandwidth",
-    "level": 3
-  },
-  {
-    "title": "9.4 Proximity Coupled Microstrip Antennas",
-    "level": 3
-  },
-  {
-    "title": "9.5 Aperture Coupled Microstrip Antennas",
-    "level": 3
-  },
-  {
-    "title": "9.6 Stacked Microstrip Patch Antennas",
-    "level": 3
-  },
-  {
-    "title": "9.7 High-Gain Stacked Patch Antennas",
-    "level": 3
-  },
-  {
-    "title": "9.8 Slotted Wideband Patch Antennas",
-    "level": 3
-  },
-  {
-    "title": "9.9 Microstrip Patch Antennas with EBG",
-    "level": 3
-  },
-  {
-    "title": "9.10 Effects of Size Reduction on Wideband Antennas",
-    "level": 3
-  },
-  {
-    "title": "9.11 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 10. Small Antennas and Miniaturization Techniques",
+    "title": "2.7 References ",
     "level": 2
   },
   {
-    "title": "10.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "10.2 Antenna Miniaturization with Metamaterial Loadings",
-    "level": 3
-  },
-  {
-    "title": "10.3 Low-Profile Antennas Using EBG Structures",
-    "level": 3
-  },
-  {
-    "title": "10.4 Antenna Miniaturization Using Magnetodielectric Materials",
-    "level": 3
-  },
-  {
-    "title": "10.5 Volumetric Antennas",
-    "level": 3
-  },
-  {
-    "title": "10.6 Additive Manufacturing of Antennas",
-    "level": 3
-  },
-  {
-    "title": "10.7 Concluding Remarks",
-    "level": 3
-  },
-  {
-    "title": "10.8 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 11. Flexible, Thin Film, and Wearable Antennas",
-    "level": 2
-  },
-  {
-    "title": "11.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "11.2 Flexible Antenna Designs and Operation Frequencies",
-    "level": 3
-  },
-  {
-    "title": "11.3 Thin Film (Non-Fabric) Antennas",
-    "level": 3
-  },
-  {
-    "title": "11.4 Fabric-Based Antennas",
-    "level": 3
-  },
-  {
-    "title": "11.5 Flexible Antenna Applications",
-    "level": 3
-  },
-  {
-    "title": "11.6 Future Directions",
-    "level": 3
-  },
-  {
-    "title": "11.7 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 12. Origami Antennas",
-    "level": 2
-  },
-  {
-    "title": "12.1 Origami Monofilar Helical Antenna",
-    "level": 3
-  },
-  {
-    "title": "12.2 Morphing Origami Conical Spiral Antenna",
-    "level": 3
-  },
-  {
-    "title": "12.3 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 13. On-Chip Antennas",
-    "level": 2
-  },
-  {
-    "title": "13.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "13.2 Radiation-Efficiency-Improved Millimeter-Wave On-Chip Antennas",
-    "level": 3
-  },
-  {
-    "title": "13.3 Miniaturized On-Chip Antenna for Biomedical Applications",
-    "level": 3
-  },
-  {
-    "title": "13.4 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 14. Active Antennas",
-    "level": 2
-  },
-  {
-    "title": "14.1 Introduction and Basic Terms",
-    "level": 3
-  },
-  {
-    "title": "14.2 Frequency-Agile Active Antennas",
-    "level": 3
-  },
-  {
-    "title": "14.3 Oscillator Antennas and Arrays",
-    "level": 3
-  },
-  {
-    "title": "14.4 Amplifier Antennas and Arrays",
-    "level": 3
-  },
-  {
-    "title": "14.5 Frequency-Conversion Antennas",
-    "level": 3
-  },
-  {
-    "title": "14.6 Rectennas",
-    "level": 3
-  },
-  {
-    "title": "14.7 Other Active Antennas",
-    "level": 3
-  },
-  {
-    "title": "14.8 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 15. Surface-Wave and Leaky-Wave Antennas",
-    "level": 2
-  },
-  {
-    "title": "15.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "15.2 Surface-Wave Antennas",
-    "level": 3
-  },
-  {
-    "title": "15.3 Leaky-Wave Antennas",
-    "level": 3
-  },
-  {
-    "title": "15.4 Acknowledgment",
-    "level": 3
-  },
-  {
-    "title": "15.5 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 16. Waveguide Slot Antenna Arrays",
-    "level": 2
-  },
-  {
-    "title": "16.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "16.2 Waveguide Slot Radiators",
-    "level": 3
-  },
-  {
-    "title": "16.3 Slotted Waveguide Array Designs",
-    "level": 3
-  },
-  {
-    "title": "16.4 Slot Admittance or Impedance",
-    "level": 3
-  },
-  {
-    "title": "16.5 Design Parameters",
-    "level": 3
-  },
-  {
-    "title": "16.6 Power-Handling Capabilities",
-    "level": 3
-  },
-  {
-    "title": "16.7 Tolerance and Fabrication Techniques",
-    "level": 3
-  },
-  {
-    "title": "16.8 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 17. MIMO Antenna Systems",
-    "level": 2
-  },
-  {
-    "title": "17.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "17.2 Performance Metrics of MIMO Antenna Systems",
-    "level": 3
-  },
-  {
-    "title": "17.3 MIMO Antennas for USB Dongles",
-    "level": 3
-  },
-  {
-    "title": "17.4 MIMO Antennas for Mobile Phones",
-    "level": 3
-  },
-  {
-    "title": "17.5 MIMO Antennas for Wireless Access Points",
-    "level": 3
-  },
-  {
-    "title": "17.6 Reconfigurable MIMO Antennas for Cognitive Radios",
-    "level": 3
-  },
-  {
-    "title": "17.7 MIMO Antennas for 5G Systems",
-    "level": 3
-  },
-  {
-    "title": "17.8 Conclusion",
-    "level": 3
-  },
-  {
-    "title": "17.9 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 18. Frequency-Independent Antennas",
-    "level": 2
-  },
-  {
-    "title": "18.1 Spiral Antennas",
-    "level": 3
-  },
-  {
-    "title": "18.2 Log-Periodic Antennas",
-    "level": 3
-  },
-  {
-    "title": "18.3 Dual-Polarized Frequency-Independent Antennas",
-    "level": 3
-  },
-  {
-    "title": "18.4 Summary",
-    "level": 3
-  },
-  {
-    "title": "18.5 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 19. Horn Antennas",
-    "level": 2
-  },
-  {
-    "title": "19.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "19.2 Basic Horn Types",
-    "level": 3
-  },
-  {
-    "title": "19.3 Other Classes of Horns",
-    "level": 3
-  },
-  {
-    "title": "19.4 Recent Developments in Horn Design and Technology",
-    "level": 3
-  },
-  {
-    "title": "19.5 Conclusion",
-    "level": 3
-  },
-  {
-    "title": "19.6 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 20. Reflector Antennas",
-    "level": 2
-  },
-  {
-    "title": "20.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "20.2 Diffraction Analysis Techniques for Reflector Antennas",
-    "level": 3
-  },
-  {
-    "title": "20.3 Conventional Reflector Antennas",
-    "level": 3
-  },
-  {
-    "title": "20.4 Reflectors Other Than Parabolic",
-    "level": 3
-  },
-  {
-    "title": "20.5 Large-Aperture Reflector Antennas",
-    "level": 3
-  },
-  {
-    "title": "20.6 Diffraction Shaping",
-    "level": 3
-  },
-  {
-    "title": "20.7 Emerging Applications of Mesh Reflector Antennas",
-    "level": 3
-  },
-  {
-    "title": "20.8 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 21. Dielectric Resonator Antennas",
-    "level": 2
-  },
-  {
-    "title": "21.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "21.2 Possible Methods of Analysis",
-    "level": 3
-  },
-  {
-    "title": "21.3 Progress in DRA Research",
-    "level": 3
-  },
-  {
-    "title": "21.4 DRA Arrays",
-    "level": 3
-  },
-  {
-    "title": "21.5 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 22. Ultra-Wide Bandwidth Antenna Design",
-    "level": 2
-  },
-  {
-    "title": "22.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "22.2 Fundamentals of UWB Antenna Design",
-    "level": 3
-  },
-  {
-    "title": "22.3 Type-I UWB Antenna Design",
-    "level": 3
-  },
-  {
-    "title": "22.4 Type-II UWB Antenna Design",
-    "level": 3
-  },
-  {
-    "title": "22.5 Type-III UWB Antenna Design",
-    "level": 3
-  },
-  {
-    "title": "22.6 The Dual-Polarization UWB Dielectric Rod Probe Antenna",
-    "level": 3
-  },
-  {
-    "title": "22.7 The Dual-Polarization UWB Dielectric Horn Antenna Design",
-    "level": 3
-  },
-  {
-    "title": "22.8 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 23. Phased Arrays",
-    "level": 2
-  },
-  {
-    "title": "23.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "23.2 Theory of Phased Arrays",
-    "level": 3
-  },
-  {
-    "title": "23.3 Pattern Control",
-    "level": 3
-  },
-  {
-    "title": "23.4 Radiating Element Design",
-    "level": 3
-  },
-  {
-    "title": "23.5 Phased Array Antenna Architectures",
-    "level": 3
-  },
-  {
-    "title": "23.6 Applications",
-    "level": 3
-  },
-  {
-    "title": "23.7 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 24. Array Phase Shifters: Theory and Technology",
-    "level": 2
-  },
-  {
-    "title": "24.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "24.2 Semiconductor",
-    "level": 3
-  },
-  {
-    "title": "24.3 Thin Film Ferroelectric",
-    "level": 3
-  },
-  {
-    "title": "24.4 Micro-Electromechanical Systems",
-    "level": 3
-  },
-  {
-    "title": "24.5 Slow-Wave",
-    "level": 3
-  },
-  {
-    "title": "24.6 Ferrite",
-    "level": 3
-  },
-  {
-    "title": "24.7 Effect of Phase Shifter Behavior on Phased Array Bit Error Rate",
-    "level": 3
-  },
-  {
-    "title": "24.8 Trends",
-    "level": 3
-  },
-  {
-    "title": "24.9 Summary",
-    "level": 3
-  },
-  {
-    "title": "24.10 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 25. Conformal and Low-Profile Arrays",
-    "level": 2
-  },
-  {
-    "title": "25.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "25.2 Fundamental Principles",
-    "level": 3
-  },
-  {
-    "title": "25.3 Antennas and Arrays on Cylinders",
-    "level": 3
-  },
-  {
-    "title": "25.4 Pattern Synthesis for Conformal Arrays",
-    "level": 3
-  },
-  {
-    "title": "25.5 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 26. Millimeter-Wave Antennas",
-    "level": 2
-  },
-  {
-    "title": "26.1 Millimeter-Wave Applications",
-    "level": 3
-  },
-  {
-    "title": "26.2 Types of Millimeter-Wave Antennas",
-    "level": 3
-  },
-  {
-    "title": "26.3 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 27. Terahertz Antennas and Arrays",
-    "level": 2
-  },
-  {
-    "title": "27.1 Terahertz Applications",
-    "level": 3
-  },
-  {
-    "title": "27.2 Quasi-Optical Coupling of Terahertz Radiation",
-    "level": 3
-  },
-  {
-    "title": "27.3 Terahertz Antennas",
-    "level": 3
-  },
-  {
-    "title": "27.4 THz Antenna Arrays",
-    "level": 3
-  },
-  {
-    "title": "27.5 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 28. Nanoantennas",
-    "level": 2
-  },
-  {
-    "title": "28.1 Nanocircuits and Nanoantennas",
-    "level": 3
-  },
-  {
-    "title": "28.2 Metamaterial-Inspired Nanoantennas",
-    "level": 3
-  },
-  {
-    "title": "28.3 Optical Magnetism in Nanoantennas",
-    "level": 3
-  },
-  {
-    "title": "28.4 Nanoantenna Directivity",
-    "level": 3
-  },
-  {
-    "title": "28.5 Active Nanoantennas",
-    "level": 3
-  },
-  {
-    "title": "28.6 Nonlinear Nanoantennas",
-    "level": 3
-  },
-  {
-    "title": "28.7 Enhanced Emission and Quantum Responses with Nanoantennas",
-    "level": 3
-  },
-  {
-    "title": "28.8 Conclusions",
-    "level": 3
-  },
-  {
-    "title": "28.9 Acknowledgments",
-    "level": 3
-  },
-  {
-    "title": "28.10 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 29. Ultra-Wideband Dipole, Monopole, and Loop Arrays",
-    "level": 2
-  },
-  {
-    "title": "29.1 Resistively Loaded Dipole and Monopole Arrays for Ground Penetrating Radar",
-    "level": 3
-  },
-  {
-    "title": "29.2 Cylindrical Dipole Arrays for Airborne Systems",
-    "level": 3
-  },
-  {
-    "title": "29.3 Vector Sensor Array Antennas",
-    "level": 3
-  },
-  {
-    "title": "29.4 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 30. Ultra-Wideband Phased Arrays",
-    "level": 2
-  },
-  {
-    "title": "30.1 Applications of Ultra-Wideband Phased Arrays",
-    "level": 3
-  },
-  {
-    "title": "30.2 Tapered Slot Antenna",
-    "level": 3
-  },
-  {
-    "title": "30.3 Connected and Tightly Coupled Arrays",
-    "level": 3
-  },
-  {
-    "title": "30.4 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 31. Smart Antennas",
-    "level": 2
-  },
-  {
-    "title": "31.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "31.2 Adaptive Beamforming",
-    "level": 3
-  },
-  {
-    "title": "31.3 References",
-    "level": 3
-  },
-  {
-    "title": "Part 3 Applications",
+    "title": "3 Characteristics of microstrip patch antennas and some methods of improving frequency agility and bandwidth — K.F. Lee and J.S. Dahele ",
     "level": 1
   },
   {
-    "title": "Chapter 32. Metamaterial Electronically Scanning Array",
+    "title": "3.1 Introduction ",
     "level": 2
   },
   {
-    "title": "32.1 Background",
-    "level": 3
-  },
-  {
-    "title": "32.2 Theory of MESA Antennas",
-    "level": 3
-  },
-  {
-    "title": "32.3 Realized K-Band MESA: Modeling and Measurements",
-    "level": 3
-  },
-  {
-    "title": "32.4 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 33. Low- and Medium-Frequency Antennas",
+    "title": "3.2 Cavity model for analysing microstrip patch antennas ",
     "level": 2
   },
   {
-    "title": "33.1 Introduction",
+    "title": "3.2.1 Introduction ",
     "level": 3
   },
   {
-    "title": "33.2 Fundamentals of Vertical Monopole Antenna Radiation Properties",
+    "title": "3.2.2 Feed modelling, resonant frequencies and internal fields ",
     "level": 3
   },
   {
-    "title": "33.3 Practical Low and Medium Antenna Structures: Design and Construction Basics",
+    "title": "3.2.3 Radiation field ",
     "level": 3
   },
   {
-    "title": "33.4 Environmental Considerations",
+    "title": "3.2.4 Losses in the cavity ",
     "level": 3
   },
   {
-    "title": "33.5 References",
+    "title": "3.2.5 Input impedance ",
     "level": 3
   },
   {
-    "title": "Chapter 34. HF Antennas",
+    "title": "3.2.6 VSWR bandwidth ",
+    "level": 3
+  },
+  {
+    "title": "3.2.7 Qualitative description of the results predicted by the model ",
+    "level": 3
+  },
+  {
+    "title": "3.3 Basic characteristics of some common patches ",
     "level": 2
   },
   {
-    "title": "34.1 Introduction",
+    "title": "3.3.1 The rectangular patch ",
     "level": 3
   },
   {
-    "title": "34.2 Specifying the Right Antenna for the Job",
+    "title": "3.3.2 The circular patch ",
     "level": 3
   },
   {
-    "title": "34.3 Antennas Mounted Above Ground",
+    "title": "3.3.3 The equitriangular patch ",
     "level": 3
   },
   {
-    "title": "34.4 Major Forms of HF Communications Antennas",
+    "title": "3.3.4 Annular-ring patch ",
     "level": 3
   },
   {
-    "title": "34.5 Other Types of HF Communications Antennas",
+    "title": "3.3.5 Comparison of characteristics of rectangular, circular, equitriangular and annular-ring patches ",
     "level": 3
   },
   {
-    "title": "34.6 Broadband Dipole Curtain Arrays",
+    "title": "3.3.6 Brief mention of other patches ",
     "level": 3
   },
   {
-    "title": "34.7 References",
-    "level": 3
-  },
-  {
-    "title": "34.8 Bibliography",
-    "level": 3
-  },
-  {
-    "title": "Chapter 35. VHF/UHF Antennas",
+    "title": "3.4 Some methods of improving the frequency agility and bandwidth of microstrip patch antennas ",
     "level": 2
   },
   {
-    "title": "35.1 Introduction",
+    "title": "3.4.1 Introduction ",
     "level": 3
   },
   {
-    "title": "35.2 Antennas for the ISM Bands (Typically 433 MHz, 868/915 MHz, and 2.4/5 GHz)",
+    "title": "3.4.2 Some methods of tuning MPAs ",
     "level": 3
   },
   {
-    "title": "35.3 Antennas for Global Navigation Satellite Systems",
+    "title": "3.4.3 Dual-band structures ",
     "level": 3
   },
   {
-    "title": "35.4 Antennas on Printed Circuit Laminates",
+    "title": "3.4.4 Electromagnetic-coupled patch antenna (EMCP) ",
     "level": 3
   },
   {
-    "title": "35.5 Antennas for Point-to-Point and Point-to-Multipoint Services",
-    "level": 3
-  },
-  {
-    "title": "35.6 Baluns",
-    "level": 3
-  },
-  {
-    "title": "35.7 Exposure to Electromagnetic Fields",
-    "level": 3
-  },
-  {
-    "title": "35.8 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 36. Reconfigurable Antennas",
+    "title": "3.5 Summary ",
     "level": 2
   },
   {
-    "title": "36.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "36.2 Reconfigurable Apertures",
-    "level": 3
-  },
-  {
-    "title": "36.3 Reconfigurable Traveling Wave Antennas",
-    "level": 3
-  },
-  {
-    "title": "36.4 Reconfigurable Arrays",
-    "level": 3
-  },
-  {
-    "title": "36.5 Reconfigurable Microstrip Antennas",
-    "level": 3
-  },
-  {
-    "title": "36.6 Reconfigurable Slot Antennas",
-    "level": 3
-  },
-  {
-    "title": "36.7 Reconfigurable Monopole/Dipole Antennas",
-    "level": 3
-  },
-  {
-    "title": "36.8 Concluding Remarks",
-    "level": 3
-  },
-  {
-    "title": "36.9 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 37. Low-Profile Antennas on Engineered Electromagnetic Surfaces",
+    "title": "3.6 Acknowledgments ",
     "level": 2
   },
   {
-    "title": "37.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "37.2 Characterizations and Designs of Electromagnetic Band-Gap Structures",
-    "level": 3
-  },
-  {
-    "title": "37.3 Low-Profile Wire Antennas on EBG Ground Plane",
-    "level": 3
-  },
-  {
-    "title": "37.4 Patch Antennas with Enhanced Performance Using EBG Structures",
-    "level": 3
-  },
-  {
-    "title": "37.5 Impedance and Magneto-Dielectric Substrates for Small Antenna Designs",
-    "level": 3
-  },
-  {
-    "title": "37.6 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 38. Reflectarray Antennas",
+    "title": "3.7 References ",
     "level": 2
   },
   {
-    "title": "38.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "38.2 Analysis and Design Techniques",
-    "level": 3
-  },
-  {
-    "title": "38.3 Techniques for Bandwidth Improvement",
-    "level": 3
-  },
-  {
-    "title": "38.4 Multifrequency Reflectarrays",
-    "level": 3
-  },
-  {
-    "title": "38.5 Contoured Beam Reflectarrays",
-    "level": 3
-  },
-  {
-    "title": "38.6 Beam Scanning Reflectarrays",
-    "level": 3
-  },
-  {
-    "title": "38.7 Recent Developments and Technological Challenges",
-    "level": 3
-  },
-  {
-    "title": "38.8 Summary",
-    "level": 3
-  },
-  {
-    "title": "38.9 Acknowledgments",
-    "level": 3
-  },
-  {
-    "title": "38.10 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 39. Mobile Handset Antennas",
-    "level": 2
-  },
-  {
-    "title": "39.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "39.2 Handset Antenna Types",
-    "level": 3
-  },
-  {
-    "title": "39.3 Design Aspects of Handset Antennas",
-    "level": 3
-  },
-  {
-    "title": "39.4 Fabrication Technologies for Handset Antennas",
-    "level": 3
-  },
-  {
-    "title": "39.5 Active Handset Antennas",
-    "level": 3
-  },
-  {
-    "title": "39.6 Applications",
-    "level": 3
-  },
-  {
-    "title": "39.7 Conclusion and Remarks",
-    "level": 3
-  },
-  {
-    "title": "39.8 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 40. Base Station Antennas",
-    "level": 2
-  },
-  {
-    "title": "40.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "40.2 Base Station Antenna Requirements",
-    "level": 3
-  },
-  {
-    "title": "40.3 Base Station Antenna Radiating Elements",
-    "level": 3
-  },
-  {
-    "title": "40.4 Multibeam Antennas",
-    "level": 3
-  },
-  {
-    "title": "40.5 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 41. Antennas for CubeSats",
-    "level": 2
-  },
-  {
-    "title": "41.1 Traditional CubeSat Antennas",
-    "level": 3
-  },
-  {
-    "title": "41.2 Conformal Integrated Solar Panel Antennas",
-    "level": 3
-  },
-  {
-    "title": "41.3 High-Gain Antennas",
-    "level": 3
-  },
-  {
-    "title": "41.4 Acknowledgment",
-    "level": 3
-  },
-  {
-    "title": "41.5 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 42. 3D Additive Manufacturing of Antennas",
-    "level": 2
-  },
-  {
-    "title": "42.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "42.2 Additive Manufacturing Techniques for Antenna Applications",
-    "level": 3
-  },
-  {
-    "title": "42.3 Additive Manufacturing–Enabled Antennas",
-    "level": 3
-  },
-  {
-    "title": "42.4 Additive Manufacturing of Antenna Arrays and Systems",
-    "level": 3
-  },
-  {
-    "title": "42.5 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 43. Antennas for Medical Applications",
-    "level": 2
-  },
-  {
-    "title": "43.1 Overview",
-    "level": 3
-  },
-  {
-    "title": "43.2 The Environment",
-    "level": 3
-  },
-  {
-    "title": "43.3 Antennas for Medical Imaging",
-    "level": 3
-  },
-  {
-    "title": "43.4 Heating",
-    "level": 3
-  },
-  {
-    "title": "43.5 Biotelemetry",
-    "level": 3
-  },
-  {
-    "title": "43.6 Pulsed Electromagnetic Fields",
-    "level": 3
-  },
-  {
-    "title": "43.7 Sensing",
-    "level": 3
-  },
-  {
-    "title": "43.8 Future Directions",
-    "level": 3
-  },
-  {
-    "title": "43.9 Acknowledgments",
-    "level": 3
-  },
-  {
-    "title": "43.10 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 44. Automobile Antennas",
-    "level": 2
-  },
-  {
-    "title": "44.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "44.2 AM/FM Antennas",
-    "level": 3
-  },
-  {
-    "title": "44.3 FM Diversity Antennas",
-    "level": 3
-  },
-  {
-    "title": "44.4 RKE and TPMS Antennas",
-    "level": 3
-  },
-  {
-    "title": "44.5 Mobile Telephone Antennas",
-    "level": 3
-  },
-  {
-    "title": "44.6 GNSS Antennas",
-    "level": 3
-  },
-  {
-    "title": "44.7 SDARS Antennas",
-    "level": 3
-  },
-  {
-    "title": "44.8 DSRC Antennas",
-    "level": 3
-  },
-  {
-    "title": "44.9 Emerging Technologies (Observed)",
-    "level": 3
-  },
-  {
-    "title": "44.10 Emerging Technologies (Predicted)",
-    "level": 3
-  },
-  {
-    "title": "44.11 Antenna Measurements",
-    "level": 3
-  },
-  {
-    "title": "44.12 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 45. Aircraft Antennas",
-    "level": 2
-  },
-  {
-    "title": "45.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "45.2 Low-Frequency and High-Frequency Antennas",
-    "level": 3
-  },
-  {
-    "title": "45.3 Unidirectional Very-High-Frequency Antennas",
-    "level": 3
-  },
-  {
-    "title": "45.4 Omnidirectional VHF and UHF Antennas",
-    "level": 3
-  },
-  {
-    "title": "45.5 Omnidirectional L-Band Antennas",
-    "level": 3
-  },
-  {
-    "title": "45.6 GPS Antennas",
-    "level": 3
-  },
-  {
-    "title": "45.7 Traffic Collision Avoidance System Antennas",
-    "level": 3
-  },
-  {
-    "title": "45.8 Satellite Communication (SATCOM) Antennas",
-    "level": 3
-  },
-  {
-    "title": "45.9 Low Observable Antennas",
-    "level": 3
-  },
-  {
-    "title": "45.10 Nonmetallic Aircraft Antennas",
-    "level": 3
-  },
-  {
-    "title": "45.11 Small Aircraft Antennas",
-    "level": 3
-  },
-  {
-    "title": "45.12 Radar Antennas",
-    "level": 3
-  },
-  {
-    "title": "45.13 Electronic Warfare",
-    "level": 3
-  },
-  {
-    "title": "45.14 Antenna Performance and Aircraft Interaction",
-    "level": 3
-  },
-  {
-    "title": "45.15 Acknowledgments",
-    "level": 3
-  },
-  {
-    "title": "45.16 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 46. Radiometer Antennas",
-    "level": 2
-  },
-  {
-    "title": "46.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "46.2 Basic Principles",
-    "level": 3
-  },
-  {
-    "title": "46.3 System Principles",
-    "level": 3
-  },
-  {
-    "title": "46.4 Radiometer Antenna Types",
-    "level": 3
-  },
-  {
-    "title": "46.5 Recent Developments and Trends in Radiometry",
-    "level": 3
-  },
-  {
-    "title": "46.6 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 47. Antenna Tracking",
-    "level": 2
-  },
-  {
-    "title": "47.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "47.2 Tracking Requirements",
-    "level": 3
-  },
-  {
-    "title": "47.3 Open Loop Antenna Tracking",
-    "level": 3
-  },
-  {
-    "title": "47.4 Closed Loop Antenna Tracking",
-    "level": 3
-  },
-  {
-    "title": "47.5 Acquisition Issues",
-    "level": 3
-  },
-  {
-    "title": "47.6 Interferometric Systems",
-    "level": 3
-  },
-  {
-    "title": "47.7 Antenna Tracking Evaluation",
-    "level": 3
-  },
-  {
-    "title": "47.8 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 48. Satellite Antennas",
-    "level": 2
-  },
-  {
-    "title": "48.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "48.2 Space Segment Antennas",
-    "level": 3
-  },
-  {
-    "title": "48.3 Ground Segment Antennas",
-    "level": 3
-  },
-  {
-    "title": "48.4 Interference Protection",
-    "level": 3
-  },
-  {
-    "title": "48.5 Satellite Antenna Testing",
-    "level": 3
-  },
-  {
-    "title": "48.6 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 49. Earth Station Antennas",
-    "level": 2
-  },
-  {
-    "title": "49.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "49.2 Single-Beam Earth Station Antennas",
-    "level": 3
-  },
-  {
-    "title": "49.3 Multiple-Beam Earth Station Antennas",
-    "level": 3
-  },
-  {
-    "title": "49.4 Measurement Techniques",
-    "level": 3
-  },
-  {
-    "title": "49.6 Acknowledgment",
-    "level": 3
-  },
-  {
-    "title": "49.7 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 50. Direction Finding Antennas and Systems",
-    "level": 2
-  },
-  {
-    "title": "50.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "50.2 Direction Finding Systems",
-    "level": 3
-  },
-  {
-    "title": "50.3 Direction Finding Algorithms",
-    "level": 3
-  },
-  {
-    "title": "50.4 DF Algorithm Performance",
-    "level": 3
-  },
-  {
-    "title": "50.5 Geolocation Algorithms",
-    "level": 3
-  },
-  {
-    "title": "50.6 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 51. ESM and ECM Antennas",
-    "level": 2
-  },
-  {
-    "title": "51.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "51.2 Communication ESM and ECM System Antennas",
-    "level": 3
-  },
-  {
-    "title": "51.3 Radar ESM and ECM System Antennas",
-    "level": 3
-  },
-  {
-    "title": "51.4 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 52. Radio-Telescope Antennas",
-    "level": 2
-  },
-  {
-    "title": "52.1 Introduction",
-    "level": 3
-  },
-  {
-    "title": "52.2 Single-Aperture Radio Telescopes",
-    "level": 3
-  },
-  {
-    "title": "52.3 The Two-Element Interferometer",
-    "level": 3
-  },
-  {
-    "title": "52.4 Aperture Synthesis",
-    "level": 3
-  },
-  {
-    "title": "52.5 Major Radio Telescopes",
-    "level": 3
-  },
-  {
-    "title": "52.6 Conclusion",
-    "level": 3
-  },
-  {
-    "title": "52.7 Acknowledgment",
-    "level": 3
-  },
-  {
-    "title": "52.8 References",
-    "level": 3
-  },
-  {
-    "title": "52.9 Bibliography",
-    "level": 3
-  },
-  {
-    "title": "Chapter 53. Indoor Antenna Measurements",
-    "level": 2
-  },
-  {
-    "title": "53.1 Facilities",
-    "level": 3
-  },
-  {
-    "title": "53.2 Test Setup and Calibration",
-    "level": 3
-  },
-  {
-    "title": "53.3 Typical Antenna Measurement Properties",
-    "level": 3
-  },
-  {
-    "title": "53.4 Data Analysis Tools",
-    "level": 3
-  },
-  {
-    "title": "53.5 Conclusion",
-    "level": 3
-  },
-  {
-    "title": "53.6 References",
-    "level": 3
-  },
-  {
-    "title": "Part 4 Topics Associated with Antennas",
+    "title": "4 Circular polarisation and bandwidth — M. Haneishi and Y. Suzuki ",
     "level": 1
   },
   {
-    "title": "Chapter 54. Printed Transmission Lines",
+    "title": "4.1 Various types of circularly polarised antenna ",
     "level": 2
   },
   {
-    "title": "54.1 General",
+    "title": "4.1.1 Microstrip patch antennas ",
     "level": 3
   },
   {
-    "title": "54.2 Printed Transmission Lines",
+    "title": "4.1.2 Other types of circularly polarised printed antennas ",
     "level": 3
   },
   {
-    "title": "54.3 List of Symbols",
-    "level": 3
-  },
-  {
-    "title": "54.4 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 55. Impedance Matching, Broadbanding, and Baluns",
+    "title": "4.2 Simple design techniques for singly-fed circularly polarised microstrip antennas ",
     "level": 2
   },
   {
-    "title": "55.1 General Matching Techniques",
+    "title": "4.2.1 Rectangular type ",
     "level": 3
   },
   {
-    "title": "55.2 Impedance Matching with Lumped Elements",
+    "title": "4.2.2 Circular type ",
     "level": 3
   },
   {
-    "title": "55.3 Impedance Matching with Distributed Elements",
-    "level": 3
-  },
-  {
-    "title": "55.4 Combinations of Transformers and Stubs",
-    "level": 3
-  },
-  {
-    "title": "55.5 Tapered Lines",
-    "level": 3
-  },
-  {
-    "title": "55.6 Broadbanding",
-    "level": 3
-  },
-  {
-    "title": "55.7 Baluns",
-    "level": 3
-  },
-  {
-    "title": "55.8 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 56. Propagation",
+    "title": "4.3 More exact treatment for singly-fed circularly polarised microstrip antennas ",
     "level": 2
   },
   {
-    "title": "56.1 Introduction and Overview of Propagation Effects",
+    "title": "4.3.1 Analysis ",
     "level": 3
   },
   {
-    "title": "56.2 Free-Space Propagation",
+    "title": "4.3.2 Conditions for circularly polarised radiation ",
     "level": 3
   },
   {
-    "title": "56.3 Atmospheric Refraction",
+    "title": "4.3.3 Example ",
     "level": 3
   },
   {
-    "title": "56.4 Atmospheric Gas and Rain Attenuation",
-    "level": 3
-  },
-  {
-    "title": "56.5 Empirical Path Loss Models for Line-of-Sight Links",
-    "level": 3
-  },
-  {
-    "title": "56.6 Fading and Multipath",
-    "level": 3
-  },
-  {
-    "title": "56.7 Ionospheric Effects at Microwave Frequencies",
-    "level": 3
-  },
-  {
-    "title": "56.8 Ionosphere and Ground Wave Effects at Frequencies Less Than 50 MHz",
-    "level": 3
-  },
-  {
-    "title": "56.9 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 57. Materials and Design Data",
+    "title": "4.4 Some considerations on mutual coupling ",
     "level": 2
   },
   {
-    "title": "57.1 Properties of Materials",
-    "level": 3
-  },
-  {
-    "title": "57.2 Absorbing Materials",
-    "level": 3
-  },
-  {
-    "title": "57.3 Nonsolid Surfaces",
-    "level": 3
-  },
-  {
-    "title": "57.4 Radio-Frequency Band Designations",
-    "level": 3
-  },
-  {
-    "title": "57.5 Antenna-Pattern Characteristics",
-    "level": 3
-  },
-  {
-    "title": "57.6 Electrically Small Horns",
-    "level": 3
-  },
-  {
-    "title": "57.7 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 58. Frequency Selective Surfaces",
+    "title": "4.5 Wideband techniques ",
     "level": 2
   },
   {
-    "title": "58.1 Introduction",
+    "title": "4.5.1 Design of wideband element ",
     "level": 3
   },
   {
-    "title": "58.2 Single-Layer Surfaces",
+    "title": "4.5.2 Technique using parasitic element ",
     "level": 3
   },
   {
-    "title": "58.3 Multilayer Surfaces",
+    "title": "4.5.3 Technique using paired element ",
     "level": 3
   },
   {
-    "title": "58.4 Three-Dimensional Structures",
-    "level": 3
-  },
-  {
-    "title": "58.5 Active FSSs",
-    "level": 3
-  },
-  {
-    "title": "58.6 Conclusion",
-    "level": 3
-  },
-  {
-    "title": "58.7 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 59. Advanced Huygens’ Metasurfaces for Beam Manipulation and Antenna Applications",
+    "title": "4.6 References ",
     "level": 2
   },
   {
-    "title": "59.1 Introduction",
-    "level": 3
+    "title": "5 Microstrip dipoles — P.B. Katehi, D.R. Jackson and N.G. Alexopoulis ",
+    "level": 1
   },
   {
-    "title": "59.2 Scalar Huygens’ Metasurfaces",
-    "level": 3
-  },
-  {
-    "title": "59.3 Scalar (Omega) Bianisotropic Huygens’ Metasurfaces",
-    "level": 3
-  },
-  {
-    "title": "59.4 Concluding Remarks",
-    "level": 3
-  },
-  {
-    "title": "59.5 References",
-    "level": 3
-  },
-  {
-    "title": "Chapter 60. Computational Electromagnetics for Antennas",
+    "title": "5.1 Introduction ",
     "level": 2
   },
   {
-    "title": "60.1 Introduction",
+    "title": "5.2 Infinitesimal dipole ",
+    "level": 2
+  },
+  {
+    "title": "5.2.1 Analysis ",
     "level": 3
   },
   {
-    "title": "60.2 Electromagnetics for Antenna Engineering",
+    "title": "5.2.2 Substrate effects ",
     "level": 3
   },
   {
-    "title": "60.3 Integral Equation Formulations for Antenna Analysis",
+    "title": "5.2.3 Superstate effects ",
     "level": 3
   },
   {
-    "title": "60.4 MoM and FEM Procedure for Solving Linear Operator Equations",
+    "title": "5.3 Moment-method techniques for planar strip geometries ",
+    "level": 2
+  },
+  {
+    "title": "5.3.1 Basis functions ",
     "level": 3
   },
   {
-    "title": "60.5 Examples of MoM Discretizations of Integral Equations for Antennas",
+    "title": "5.3.2 Reaction between basis functions ",
     "level": 3
   },
   {
-    "title": "60.6 Finite Element Method in Antenna Analysis and Design",
+    "title": "5.3.3 Plane-wave-spectrum method ",
     "level": 3
   },
   {
-    "title": "60.7 Finite-Difference Time-Domain Method for Antennas",
+    "title": "5.3.4 Real-space integration method ",
     "level": 3
   },
   {
-    "title": "60.8 Postprocessing: Evaluation of Antenna Parameters",
+    "title": "5.3.5 Point-dipole approximation ",
     "level": 3
   },
   {
-    "title": "60.9 Parallelization and High-Performance Computing for Antenna Modeling",
+    "title": "5.3.6 Moment-method equations ",
     "level": 3
   },
   {
-    "title": "60.10 Commercial Codes for Antenna Analysis and Design",
+    "title": "5.4 Centre-fed dipoles ",
+    "level": 2
+  },
+  {
+    "title": "5.4.1 Single dipole ",
     "level": 3
   },
   {
-    "title": "60.11 Conclusion",
+    "title": "5.4.2 Mutual impedance ",
     "level": 3
   },
   {
-    "title": "60.12 Acknowledgments",
+    "title": "5.5 EMC dipoles ",
+    "level": 2
+  },
+  {
+    "title": "5.5.1 Methods of analysis ",
     "level": 3
   },
   {
-    "title": "60.13 References",
+    "title": "5.5.2 Single dipole ",
     "level": 3
+  },
+  {
+    "title": "5.5.3 Multiple dipoles ",
+    "level": 3
+  },
+  {
+    "title": "5.6 Finite array of EMC dipoles ",
+    "level": 2
+  },
+  {
+    "title": "5.6.1 Analysis ",
+    "level": 3
+  },
+  {
+    "title": "5.6.2 Calculation of coefficients ",
+    "level": 3
+  },
+  {
+    "title": "5.6.3 Array design ",
+    "level": 3
+  },
+  {
+    "title": "5.7 Conclusions ",
+    "level": 2
+  },
+  {
+    "title": "5.8 References ",
+    "level": 2
+  },
+  {
+    "title": "6 Multilayer and parasitic configurations — D.H. Schaubert ",
+    "level": 1
+  },
+  {
+    "title": "6.1 Introduction ",
+    "level": 2
+  },
+  {
+    "title": "6.2 Stacked elements for dual-frequency or dual polarisation operation ",
+    "level": 2
+  },
+  {
+    "title": "6.2.1 Antennas with separate feeds for each function ",
+    "level": 3
+  },
+  {
+    "title": "6.2.2 Antennas for multiple frequencies and increased bandwidth ",
+    "level": 3
+  },
+  {
+    "title": "6.3 Two-sided aperture-coupled patch ",
+    "level": 2
+  },
+  {
+    "title": "6.4 Parasitic elements on antenna substrate ",
+    "level": 2
+  },
+  {
+    "title": "6.5 Summary ",
+    "level": 2
+  },
+  {
+    "title": "6.6 References ",
+    "level": 2
+  },
+  {
+    "title": "7 Wideband flat dipole and short-circuit microstrip patch elements and arrays — G. Dubost ",
+    "level": 1
+  },
+  {
+    "title": "7.1 Flat dipole elements and arrays ",
+    "level": 2
+  },
+  {
+    "title": "7.1.1 Elementary sources ",
+    "level": 3
+  },
+  {
+    "title": "7.1.2 Array designs: losses and efficiencies ",
+    "level": 3
+  },
+  {
+    "title": "7.2 Short-circuit microstrip patches and arrays ",
+    "level": 2
+  },
+  {
+    "title": "7.2.1 Elementary source ",
+    "level": 3
+  },
+  {
+    "title": "7.2.2 Array designs ",
+    "level": 3
+  },
+  {
+    "title": "7.3 References ",
+    "level": 2
+  },
+  {
+    "title": "8 Numerical analysis of microstrip patch antennas — J.R. Mosig, R.C. Hall and F.E. Gardiol ",
+    "level": 1
+  },
+  {
+    "title": "8.1 Introduction ",
+    "level": 2
+  },
+  {
+    "title": "8.1.1 General description ",
+    "level": 3
+  },
+  {
+    "title": "8.1.2 The integral equation model ",
+    "level": 3
+  },
+  {
+    "title": "8.2 Model based on the electric surface current ",
+    "level": 2
+  },
+  {
+    "title": "8.2.1 Geometry of the model and boundary conditions ",
+    "level": 3
+  },
+  {
+    "title": "8.2.2 Potentials for the diffracted fields ",
+    "level": 3
+  },
+  {
+    "title": "8.2.3 Green's functions ",
+    "level": 3
+  },
+  {
+    "title": "8.2.4 Mixed potential integral equation (MPIE) ",
+    "level": 3
+  },
+  {
+    "title": "8.2.5 Sketch of the proposed technique ",
+    "level": 3
+  },
+  {
+    "title": "8.3 Horizontal electric dipole (HED) in microstrip ",
+    "level": 2
+  },
+  {
+    "title": "8.3.1 The vector potential ",
+    "level": 3
+  },
+  {
+    "title": "8.3.2 Scalar potential and the fields ",
+    "level": 3
+  },
+  {
+    "title": "8.3.3 Surface waves and spectral plane k ",
+    "level": 3
+  },
+  {
+    "title": "8.3.4 Far-field approximations ",
+    "level": 3
+  },
+  {
+    "title": "8.3.5 Radiation resistance and antenna efficiency ",
+    "level": 3
+  },
+  {
+    "title": "8.4 Numerical techniques for Sommerfeld integrals ",
+    "level": 2
+  },
+  {
+    "title": "8.4.1 Numerical integration on the real axis ",
+    "level": 3
+  },
+  {
+    "title": "8.4.2 Integrating oscillating functions over unbounded intervals ",
+    "level": 3
+  },
+  {
+    "title": "8.5 Construction of the Green's functions ",
+    "level": 2
+  },
+  {
+    "title": "8.6 Method of moments ",
+    "level": 2
+  },
+  {
+    "title": "8.6.1 Rooftop (subsectional) — basis functions ",
+    "level": 3
+  },
+  {
+    "title": "8.6.2 Entire domain basis functions ",
+    "level": 3
+  },
+  {
+    "title": "8.7 Excitation and loading ",
+    "level": 2
+  },
+  {
+    "title": "8.7.1 Several microstrip-antenna excitations ",
+    "level": 3
+  },
+  {
+    "title": "8.7.2 Coaxial excitation and input impedance ",
+    "level": 3
+  },
+  {
+    "title": "8.7.3 Multiport analysis ",
+    "level": 3
+  },
+  {
+    "title": "8.8 Single rectangular patch antenna ",
+    "level": 2
+  },
+  {
+    "title": "8.8.1 Entire-domain versus subdomain basis functions ",
+    "level": 3
+  },
+  {
+    "title": "8.8.2 Convergence using subsectional basis functions ",
+    "level": 3
+  },
+  {
+    "title": "8.8.3 Surface currents ",
+    "level": 3
+  },
+  {
+    "title": "8.9 Microstrip arrays ",
+    "level": 2
+  },
+  {
+    "title": "8.9.1 Array modelling ",
+    "level": 3
+  },
+  {
+    "title": "8.9.2 Mutual coupling ",
+    "level": 3
+  },
+  {
+    "title": "8.9.3 Linear array of few patches ",
+    "level": 3
+  },
+  {
+    "title": "8.10 Acknowledgments ",
+    "level": 2
+  },
+  {
+    "title": "8.11 References ",
+    "level": 2
+  },
+  {
+    "title": "9 Multiport network approach for modelling and analysis of microstrip patch antennas and arrays — K.C. Gupta ",
+    "level": 1
+  },
+  {
+    "title": "9.1 Introduction ",
+    "level": 2
+  },
+  {
+    "title": "9.2 Models for microstrip antennas ",
+    "level": 2
+  },
+  {
+    "title": "9.2.1 Transmission-line model ",
+    "level": 3
+  },
+  {
+    "title": "9.2.2 Cavity model ",
+    "level": 3
+  },
+  {
+    "title": "9.2.3 Multiport network model ",
+    "level": 3
+  },
+  {
+    "title": "9.3 Z-matrix characterisation of planar segments ",
+    "level": 2
+  },
+  {
+    "title": "9.3.1 Green's functions ",
+    "level": 3
+  },
+  {
+    "title": "9.3.2 Evaluation of Z-matrix from Green's functions ",
+    "level": 3
+  },
+  {
+    "title": "9.3.3 Z-matrices for segments of arbitrary shape ",
+    "level": 3
+  },
+  {
+    "title": "9.4 Edge-admittance and mutual-coupling networks ",
+    "level": 2
+  },
+  {
+    "title": "9.4.1 Edge-admittance networks ",
+    "level": 3
+  },
+  {
+    "title": "9.4.2 Mutual-coupling network ",
+    "level": 3
+  },
+  {
+    "title": "9.5 Analysis of multiport-network model ",
+    "level": 2
+  },
+  {
+    "title": "9.5.1 Segmentation method ",
+    "level": 3
+  },
+  {
+    "title": "9.5.2 Desegmentation method ",
+    "level": 3
+  },
+  {
+    "title": "9.6 Examples of microstrip antenna structures analysed by multiportnetwork approach ",
+    "level": 2
+  },
+  {
+    "title": "9.6.1 Circularly polarised microstrip patches ",
+    "level": 3
+  },
+  {
+    "title": "9.6.2 Broadband multiresonator microstrip antennas ",
+    "level": 3
+  },
+  {
+    "title": "9.6.3 Multiport microstrip patches and series-fed arrays ",
+    "level": 3
+  },
+  {
+    "title": "9.7 CAD of microstrip patch antennas and arrays ",
+    "level": 2
+  },
+  {
+    "title": "9.8 Appendix: Green's functions for various planar configurations ",
+    "level": 2
+  },
+  {
+    "title": "9.9 Acknowledgments ",
+    "level": 2
+  },
+  {
+    "title": "9.10 References ",
+    "level": 2
+  },
+  {
+    "title": "10 Transmission-line model for rectangular microstrip antennas A. Van de Capelle ",
+    "level": 1
+  },
+  {
+    "title": "10.1 Introduction ",
+    "level": 2
+  },
+  {
+    "title": "10.2 Simple transmission-line model ",
+    "level": 2
+  },
+  {
+    "title": "10.2.1 Description of the transmission line model ",
+    "level": 3
+  },
+  {
+    "title": "10.2.2 Expressions for Gs and Bs ",
+    "level": 3
+  },
+  {
+    "title": "10.2.3 Expressions for the line parameters ",
+    "level": 3
+  },
+  {
+    "title": "10.3 Improved transmission-line model ",
+    "level": 2
+  },
+  {
+    "title": "10.3.1 Description of the improved transmission-line model ",
+    "level": 3
+  },
+  {
+    "title": "10.3.2 Expression for the self-susceptance Bs ",
+    "level": 3
+  },
+  {
+    "title": "10.3.3 Expression for the self-conductance Gs ",
+    "level": 3
+  },
+  {
+    "title": "10.3.4 Expression for the mutual conductance Gm ",
+    "level": 3
+  },
+  {
+    "title": "10.3.5 Expression for the mutual susceptance Bm ",
+    "level": 3
+  },
+  {
+    "title": "10.3.6 Expressions for the line parameters ",
+    "level": 3
+  },
+  {
+    "title": "10.4 Application of the improved transmission-line model ",
+    "level": 2
+  },
+  {
+    "title": "10.4.1 Analysis and design of rectangular microstrip antennas ",
+    "level": 3
+  },
+  {
+    "title": "10.4.2 Comparison with other methods ",
+    "level": 3
+  },
+  {
+    "title": "10.4.3 Comparison with experimental results ",
+    "level": 3
+  },
+  {
+    "title": "10.4.4 Design application ",
+    "level": 3
+  },
+  {
+    "title": "10.5 Transmission-line model for mutual coupling ",
+    "level": 2
+  },
+  {
+    "title": "10.5.1 Description of the model ",
+    "level": 3
+  },
+  {
+    "title": "10.5.2 Calculation of the model parameters ",
+    "level": 3
+  },
+  {
+    "title": "10.5.3 Comparison with other methods ",
+    "level": 3
+  },
+  {
+    "title": "10.6 Acknowledgements ",
+    "level": 2
+  },
+  {
+    "title": "10.7 References ",
+    "level": 2
+  },
+  {
+    "title": "11 Design and technology of low-cost printed antennas — J.P. Daniel, E. Penard and C. Terret ",
+    "level": 1
+  },
+  {
+    "title": "11.1 Introduction ",
+    "level": 2
+  },
+  {
+    "title": "11.2 Analysis of simple patches and slots ",
+    "level": 2
+  },
+  {
+    "title": "11.2.1 Rectangular and circular patches ",
+    "level": 3
+  },
+  {
+    "title": "11.2.2 Conical antennas ",
+    "level": 3
+  },
+  {
+    "title": "11.2.3 Linear and annular slots ",
+    "level": 3
+  },
+  {
+    "title": "11.3 Design of planar printed arrays ",
+    "level": 2
+  },
+  {
+    "title": "11.3.1 Design parameters ",
+    "level": 3
+  },
+  {
+    "title": "11.3.2 Cavity model analysis of mutual coupling ",
+    "level": 3
+  },
+  {
+    "title": "11.3.3 Linear series array of corner-fed square patches ",
+    "level": 3
+  },
+  {
+    "title": "11.3.4 Two-dimensional cross-fed arrays ",
+    "level": 3
+  },
+  {
+    "title": "11.4 Synthesis methods for linear arrays ",
+    "level": 2
+  },
+  {
+    "title": "11.4.1 Relaxation methods ",
+    "level": 3
+  },
+  {
+    "title": "11.4.2 Simplex method ",
+    "level": 3
+  },
+  {
+    "title": "11.4.3 Experimental results ",
+    "level": 3
+  },
+  {
+    "title": "11.5 New low-cost low-loss substrate ",
+    "level": 2
+  },
+  {
+    "title": "11.5.1 Substrate choice ",
+    "level": 3
+  },
+  {
+    "title": "11.5.2 Fabrication procedure ",
+    "level": 3
+  },
+  {
+    "title": "11.5.3 Electrical characteristics ",
+    "level": 3
+  },
+  {
+    "title": "11.5.4 Environmental tests ",
+    "level": 3
+  },
+  {
+    "title": "11.5.5 Examples of printed antennas on polypropylene substrate ",
+    "level": 3
+  },
+  {
+    "title": "11.6 Concluding remarks ",
+    "level": 2
+  },
+  {
+    "title": "11.7 References ",
+    "level": 2
+  },
+  {
+    "title": "12 Analysis and design considerations for printed phased-array antennas D.M. Pozar ",
+    "level": 1
+  },
+  {
+    "title": "12.1 Introduction ",
+    "level": 2
+  },
+  {
+    "title": "12.2 Analysis of some canonical printed phased-array geometries ",
+    "level": 2
+  },
+  {
+    "title": "12.2.1 Some preliminaries ",
+    "level": 3
+  },
+  {
+    "title": "12.2.2 Infinite-planar-array solutions ",
+    "level": 3
+  },
+  {
+    "title": "12.2.3 Finite-array solutions ",
+    "level": 3
+  },
+  {
+    "title": "12.3 Design considerations for printed phased arrays ",
+    "level": 2
+  },
+  {
+    "title": "12.3.1 Introduction ",
+    "level": 3
+  },
+  {
+    "title": "12.3.2 Array architectures ",
+    "level": 3
+  },
+  {
+    "title": "12.4 Conclusion ",
+    "level": 2
+  },
+  {
+    "title": "12.5 Acknowledgments ",
+    "level": 2
+  },
+  {
+    "title": "12.6 References ",
+    "level": 2
+  },
+  {
+    "title": "13 Circularly polarised antenna arrays — K. Ito, T. Teshirogi and S. Nishimura ",
+    "level": 1
+  },
+  {
+    "title": "13.1 Various types of circularly polarised arrays ",
+    "level": 2
+  },
+  {
+    "title": "13.1.1 Arrays of patch radiators ",
+    "level": 3
+  },
+  {
+    "title": "13.1.2 Arrays of composite elements ",
+    "level": 3
+  },
+  {
+    "title": "13.1.3 Travelling-wave arrays ",
+    "level": 3
+  },
+  {
+    "title": "13.1.4 Other types of arrays ",
+    "level": 3
+  },
+  {
+    "title": "13.2 Design of circularly polarised arrays ",
+    "level": 2
+  },
+  {
+    "title": "13.2.1 Arrays of patch radiators ",
+    "level": 3
+  },
+  {
+    "title": "13.2.2 Arrays of composite elements ",
+    "level": 3
+  },
+  {
+    "title": "13.2.3 Design of travelling-wave arrays ",
+    "level": 3
+  },
+  {
+    "title": "13.3 Practical design problems ",
+    "level": 2
+  },
+  {
+    "title": "13.3.1 Mutual coupling ",
+    "level": 3
+  },
+  {
+    "title": "13.3.2 Unwanted radiation ",
+    "level": 3
+  },
+  {
+    "title": "13.3.3 Limitations and trade-offs ",
+    "level": 3
+  },
+  {
+    "title": "13.3.4 Non-planar scanning arrays ",
+    "level": 3
+  },
+  {
+    "title": "13.4 Wideband circularly polarised arrays ",
+    "level": 2
+  },
+  {
+    "title": "13.4.1 Arrays of wideband elements ",
+    "level": 3
+  },
+  {
+    "title": "13.4.2 Arrays of dual-frequency stacked elements ",
+    "level": 3
+  },
+  {
+    "title": "13.4.3 Wideband-array techniques ",
+    "level": 3
+  },
+  {
+    "title": "13.5 References ",
+    "level": 2
   }
 ]
