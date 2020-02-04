@@ -1,253 +1,259 @@
-1 Introduction — J.R. James and P.S. Hall 1
-1.1 Historical development and future prospects 1
-1.2 Fundamental issues and design challenges 3
-1.2.1 Features of microstrip antenna technology 4
-1.2.2 Fundamental problems 7
-1.3 The handbook and advances presented 17
-1.4 Glossary of printed antenna types 24
-1.5 Summary comments 40
-1.6 References 40
-2 Analysis of circular microstrip antennas — L. Shafai and A.A. Kishk 45
-2.1 Introduction 45
-2.2 Formulation of the problem 47
-2.2.1 Matrix formulation 50
-2.2.2 Excitation matrix 58
-2.2.3 Radiation fields 59
-2.3 Application 1: Circular patch antenna 63
-2.3.1 Surface fields 67
-2.3.2 Feed location 67
-2.3.3 Effect of the substrate permittivity 71
-2.3.4 Effect of the substrate thickness 74
-2.3.5 Effect of the ground-plane radius 76
-2.3.6 Effect of the ground-plane thickness 81
-2.3.7 Circular polarisation 83
-2.3.8 Effect of a central shorting pin 85
-2.4 Application 2: Wraparound microstrip antenna 85
-2.5 Application 3: Reflector antenna feeds 96
-2.6 Concluding remarks 107
-2.7 References 108
-3 Characteristics of microstrip patch antennas and some methods of improving frequency agility and bandwidth — K.F. Lee and J.S. Dahele 111
-3.1 Introduction 111
-3.2 Cavity model for analysing microstrip patch antennas 112
-3.2.1 Introduction 112
-3.2.2 Feed modelling, resonant frequencies and internal fields 113
-3.2.3 Radiation field 115
-3.2.4 Losses in the cavity 116
-3.2.5 Input impedance 118
-3.2.6 VSWR bandwidth 118
-3.2.7 Qualitative description of the results predicted by the model 119
-3.3 Basic characteristics of some common patches 120
-3.3.1 The rectangular patch 120
-3.3.2 The circular patch 135
-3.3.3 The equitriangular patch 149
-3.3.4 Annular-ring patch 169
-3.3.5 Comparison of characteristics of rectangular, circular, equitriangular and annular-ring patches 178
-3.3.6 Brief mention of other patches 182
-3.4 Some methods of improving the frequency agility and bandwidth of microstrip patch antennas 187
-3.4.1 Introduction 187
-3.4.2 Some methods of tuning MPAs 189
-3.4.3 Dual-band structures 197
-3.4.4 Electromagnetic-coupled patch antenna (EMCP) 207
-3.5 Summary 214
-3.6 Acknowledgments 214
-3.7 References 214
-4 Circular polarisation and bandwidth — M. Haneishi and Y. Suzuki 219
-4.1 Various types of circularly polarised antenna 219
-4.1.1 Microstrip patch antennas 220
-4.1.2 Other types of circularly polarised printed antennas 222
-4.2 Simple design techniques for singly-fed circularly polarised microstrip antennas 224
-4.2.1 Rectangular type 224
-4.2.2 Circular type 232
-4.3 More exact treatment for singly-fed circularly polarised microstrip antennas 235
-4.3.1 Analysis 236
-4.3.2 Conditions for circularly polarised radiation 241
-4.3.3 Example 244
-4.4 Some considerations on mutual coupling 249
-4.5 Wideband techniques 253
-4.5.1 Design of wideband element 253
-4.5.2 Technique using parasitic element 264
-4.5.3 Technique using paired element 270
-4.6 References 272
-5 Microstrip dipoles — P.B. Katehi, D.R. Jackson and N.G. Alexopoulis 275
-5.1 Introduction 275
-5.2 Infinitesimal dipole 276
-5.2.1 Analysis 276
-5.2.2 Substrate effects 279
-5.2.3 Superstate effects 281
-5.3 Moment-method techniques for planar strip geometries 282
-5.3.1 Basis functions 282
-5.3.2 Reaction between basis functions 284
-5.3.3 Plane-wave-spectrum method 285
-5.3.4 Real-space integration method 286
-5.3.5 Point-dipole approximation 287
-5.3.6 Moment-method equations 287
-5.4 Centre-fed dipoles 287
-5.4.1 Single dipole 287
-5.4.2 Mutual impedance 291
-5.5 EMC dipoles 295
-5.5.1 Methods of analysis 295
-5.5.2 Single dipole 295
-5.5.3 Multiple dipoles 299
-5.6 Finite array of EMC dipoles 301
-5.6.1 Analysis 301
-5.6.2 Calculation of coefficients 302
-5.6.3 Array design 305
-5.7 Conclusions 308
-5.8 References 309
-6 Multilayer and parasitic configurations — D.H. Schaubert 311
-6.1 Introduction 311
-6.2 Stacked elements for dual-frequency or dual polarisation operation 312
-6.2.1 Antennas with separate feeds for each function 313
-6.2.2 Antennas for multiple frequencies and increased bandwidth 320
-6.3 Two-sided aperture-coupled patch 330
-6.4 Parasitic elements on antenna substrate 337
-6.5 Summary 350
-6.6 References 350
-7 Wideband flat dipole and short-circuit microstrip patch elements and arrays — G. Dubost 353
-7.1 Flat dipole elements and arrays 353
-7.1.1 Elementary sources 353
-7.1.2 Array designs: losses and efficiencies 367
-7.2 Short-circuit microstrip patches and arrays 374
-7.2.1 Elementary source 374
-7.2.2 Array designs 378
-7.3 References 391
-8 Numerical analysis of microstrip patch antennas — J.R. Mosig, R.C. Hall and F.E. Gardiol 393
-8.1 Introduction 393
-8.1.1 General description 393
-8.1.2 The integral equation model 394
-8.2 Model based on the electric surface current 395
-8.2.1 Geometry of the model and boundary conditions 395
-8.2.2 Potentials for the diffracted fields 397
-8.2.3 Green's functions 398
-8.2.4 Mixed potential integral equation (MPIE) 400
-8.2.5 Sketch of the proposed technique 401
-8.3 Horizontal electric dipole (HED) in microstrip 403
-8.3.1 The vector potential 403
-8.3.2 Scalar potential and the fields 405
-8.3.3 Surface waves and spectral plane k 406
-8.3.4 Far-field approximations 408
-8.3.5 Radiation resistance and antenna efficiency 413
-8.4 Numerical techniques for Sommerfeld integrals 417
-8.4.1 Numerical integration on the real axis 417
-8.4.2 Integrating oscillating functions over unbounded intervals 420
-8.5 Construction of the Green's functions 421
-8.6 Method of moments 423
-8.6.1 Rooftop (subsectional) — basis functions 423
-8.6.2 Entire domain basis functions 429
-8.7 Excitation and loading 431
-8.7.1 Several microstrip-antenna excitations 431
-8.7.2 Coaxial excitation and input impedance 432
-8.7.3 Multiport analysis 434
-8.8 Single rectangular patch antenna 436
-8.8.1 Entire-domain versus subdomain basis functions 437
-8.8.2 Convergence using subsectional basis functions 440
-8.8.3 Surface currents 441
-8.9 Microstrip arrays 443
-8.9.1 Array modelling 444
-8.9.2 Mutual coupling 445
-8.9.3 Linear array of few patches 449
-8.10 Acknowledgments 452
-8.11 References 452
-9 Multiport network approach for modelling and analysis of microstrip patch antennas and arrays — K.C. Gupta 455
-9.1 Introduction 455
-9.2 Models for microstrip antennas 456
-9.2.1 Transmission-line model 456
-9.2.2 Cavity model 458
-9.2.3 Multiport network model 462
-9.3 Z-matrix characterisation of planar segments 467
-9.3.1 Green's functions 467
-9.3.2 Evaluation of Z-matrix from Green's functions 468
-9.3.3 Z-matrices for segments of arbitrary shape 472
-9.4 Edge-admittance and mutual-coupling networks 475
-9.4.1 Edge-admittance networks 475
-9.4.2 Mutual-coupling network 482
-9.5 Analysis of multiport-network model 4&8
-9.5.1 Segmentation method 488
-9.5.2 Desegmentation method 494
-9.6 Examples of microstrip antenna structures analysed by multiportnetwork approach 499
-9.6.1 Circularly polarised microstrip patches 499
-9.6.2 Broadband multiresonator microstrip antennas 507
-9.6.3 Multiport microstrip patches and series-fed arrays 509
-9.7 CAD of microstrip patch antennas and arrays 517
-9.8 Appendix: Green's functions for various planar configurations 519
-9.9 Acknowledgments 522
-9.10 References 522
-10 Transmission-line model for rectangular microstrip antennas A. Van de Capelle 527
-10.1 Introduction 529
-10.2 Simple transmission-line model 529
-10.2.1 Description of the transmission line model 529
-10.2.2 Expressions for Gs and Bs 533
-10.2.3 Expressions for the line parameters 537
-10.3 Improved transmission-line model 538
-10.3.1 Description of the improved transmission-line model 538
-10.3.2 Expression for the self-susceptance Bs 541
-10.3.3 Expression for the self-conductance Gs 541
-10.3.4 Expression for the mutual conductance Gm 544
-10.3.5 Expression for the mutual susceptance Bm 548
-10.3.6 Expressions for the line parameters 551
-10.4 Application of the improved transmission-line model 553
-10.4.1 Analysis and design of rectangular microstrip antennas 553
-10.4.2 Comparison with other methods 555
-10.4.3 Comparison with experimental results 556
-10.4.4 Design application 557
-10.5 Transmission-line model for mutual coupling 561
-10.5.1 Description of the model 561
-10.5.2 Calculation of the model parameters 570
-10.5.3 Comparison with other methods 573
-10.6 Acknowledgements 577
-10.7 References 577
-11 Design and technology of low-cost printed antennas — J.P. Daniel, E. Penard and C. Terret 579
-11.1 Introduction 579
-11.2 Analysis of simple patches and slots 580
-11.2.1 Rectangular and circular patches 580
-11.2.2 Conical antennas 601
-11.2.3 Linear and annular slots 606
-11.3 Design of planar printed arrays 622
-11.3.1 Design parameters 622
-11.3.2 Cavity model analysis of mutual coupling 631
-11.3.3 Linear series array of corner-fed square patches 643
-11.3.4 Two-dimensional cross-fed arrays 655
-11.4 Synthesis methods for linear arrays 662
-11.4.1 Relaxation methods 663
-11.4.2 Simplex method 667
-11.4.3 Experimental results 673
-11.5 New low-cost low-loss substrate 674
-11.5.1 Substrate choice 674
-11.5.2 Fabrication procedure 678
-11.5.3 Electrical characteristics 679
-11.5.4 Environmental tests 679
-11.5.5 Examples of printed antennas on polypropylene substrate 682
-11.6 Concluding remarks 685
-11.7 References 688
-12 Analysis and design considerations for printed phased-array antennas D.M. Pozar 693
-12.1 Introduction 693
-12.2 Analysis of some canonical printed phased-array geometries 694
-12.2.1 Some preliminaries 695
-12.2.2 Infinite-planar-array solutions 706
-12.2.3 Finite-array solutions 731
-12.3 Design considerations for printed phased arrays 741
-12.3.1 Introduction 741
-12.3.2 Array architectures 745
-12.4 Conclusion 751
-12.5 Acknowledgments 751
-12.6 References 751
-13 Circularly polarised antenna arrays — K. Ito, T. Teshirogi and S. Nishimura 755
-13.1 Various types of circularly polarised arrays 755
-13.1.1 Arrays of patch radiators 755
-13.1.2 Arrays of composite elements 759
-13.1.3 Travelling-wave arrays 762
-13.1.4 Other types of arrays 765
-13.2 Design of circularly polarised arrays 767
-13.2.1 Arrays of patch radiators 767
-13.2.2 Arrays of composite elements 770
-13.2.3 Design of travelling-wave arrays 777
-13.3 Practical design problems 782
-13.3.1 Mutual coupling 782
-13.3.2 Unwanted radiation 787
-13.3.3 Limitations and trade-offs 788
-13.3.4 Non-planar scanning arrays 792
-13.4 Wideband circularly polarised arrays 796
-13.4.1 Arrays of wideband elements 796
-13.4.2 Arrays of dual-frequency stacked elements 802
-13.4.3 Wideband-array techniques 804
-13.5 References 810
+14 Microstrip antenna feeds — R.P. Owens 815
+14.1 Introduction 815
+14.2 Coupling to microstrip patches 817
+14.2.1 Co-planar coupling to a single patch 817
+14.2.2 Series-array co-planar coupling 818
+14.2.3 Probe coupling 822
+14.2.4 Aperture coupling 823
+14.2.5 Electromagnetic coupling 824
+14.3 Parallel and series feed systems 825
+14.3.1 Parallel feeds for one and two dimensions 825
+14.3.2 Series feed for one dimension 832
+14.3.3 Combined feeds 839
+14.3.4 Discontinuity arrays 843
+14.4 Direct-coupled stripline power dividers and combiners 850
+14.4.1 Simple three-port power dividers '50
+14.4.2 Isolated power dividers/combiners 852
+14.4.3 Four-port direct-coupled power dividers 854
+14.5 Other feed systems 857
+14.5.1 Alternative transmission lines 857
+14.5.2 Multiple beam-forming networks 859
+14.6 Acknowledgments 860
+14.7 References 866
+15 Advances in substrate technology — G.R. Traut 871
+15.1 Considerations for substrate selection 871
+15.1.1 Impact of properties of various substrate systems on microstrip antenna performance 871
+15.1.2 Comparative list of available substrates 878
+15.1.3 Selection of metal cladding for performance 879
+15.1.4 Thermal characteristics of PTFE 880
+15.1.5 Anisotropy of relative permittivity 881
+15.2 Measurement of substrate properties 884
+15.2.1 Stripline-resonator test method 886
+15.2.2 Microstrip-resonator test method 893
+15.2.3 Full-sheet-resonance test method 897
+15.2.4 Perturbation cavity method 906
+15.2.5 Tabulated evaluation of methods for measuring relative permittivity and dissipation factor 914
+15.3 Processing laminates into antennas 916
+15.3.1 Handling incoming copper-clad laminates 917
+15.3.2 Handling prior to processing 918
+15.3.3 Safety considerations for PTFE-based substrates 919
+15.3.4 Reducing the effects of etch strain relief 919
+15.3.5 Machining of PTFE-based boards 922
+15.3.6 Bending etched antenna boards 924
+15.3.7 Bonded-board assemblies 926
+15.3.8 Plating-through holes in microstrip antenna boards 934
+15.3.9 Device attachment on microstrip antenna substrates 936
+15.4 Design considerations with selected materials 939
+15.4.1 Environmental effects on antenna substrates 939
+15.4.2 Conductor losses at millimetre-wave frequencies 942
+15.4.3 Multilayer circuit-board technology in microstrip antennas 944
+15.5 Special features and new materials developments 945
+15.5.1 Substrates clad on one side with thick metal 946
+15.5.2 Low thermal coefficient of K in fluoropolymer laminates 947
+15.5.3 Microwave laminates with a resistive layer 947
+15.5.4 Thermoset microwave materials 951
+15.5.5 Low permittivity ceramic—PTFE laminates 953
+15.5.6 Very-low-dielectric-constant substrates 953
+15.6 References 954
+16 Special measurement techniques for printed antennas — E. Levine 957
+16.1 Introduction 957
+16.2 Substrate properties 958
+16.3 Connector characterisation 962
+16.4 Measurements of printed lines and networks 970
+16.4.1 Measurement of printed-line parameters 971
+16.4.2 Measurement of printed networks 976
+16.5 Near-field probing 981
+16.6 Efficiency measurement 991
+16.7 Concluding remarks 994
+16.8 References 995
+17 Computer-aided design of microstrip and triplate circuits — J.F. Zurcher and F.E. Gardiol 1001
+17.1 Introduction, definition of the structure 1001
+17.1.1 Outline 1001
+17.1.2 Microwaves 1001
+17.1.3 Transmission lines for microwaves 1001
+17.1.4 Balanced stripline or triplate 1003
+17.1.5 Microstrip 1004
+17.1.6 Adjustments 1005
+17.1.7 Multiple inhomogeneity 1005
+17.1.8 Measurement problems 1006
+17.2 Basic relationships for uniform tines 1006
+17.2.1 Uniform tines 1006
+17.2.2 Conformal mapping 1008
+17.2.3 Schwartz-Christoffel transform 1011
+17.2.4 Zero-thickness balanced stripline 1011
+17.2.5 Finite-thickness balanced stripline 1011
+17.2.6 Equivalent homogeneous microstrip tine 1012
+17.2.7 Characteristic impedance of microstrip 1013
+17.2.8 Finite-thickness homogeneous microstrip 1014
+17.2.9 Microstrip-line synthesis for b = 0 1015
+17.2.10 Dispersion in microstrip 1015
+17.2.11 Effect of an enclosure 1015
+17.2.12 Attenuation 1016
+17.2.13 Higher-order modes and radiation 1017
+17.3 Discontinuities: bends and junctions 1017
+17.3.1 Definition 1017
+17.3.2 Models 1018
+17.3.3 TEM-line models 1020
+17.3.4 Vanational techniques 1020
+17.3.5 Fourier transform 1020
+17.3.6 Dielectric Green's function 1020
+17.3.7 Integral equations for inductances 1020
+17.3.8 Green's function and integral equation 1023
+17.3.9 Green's function and electrostatic-inductance computation 1023
+17.3.10 TLM (transmission-line-matrix) method 1023
+17.3.11 Waveguide model 1023
+17.4 Technological realisation: Materials and manufacturing process 1023
+17.4.1 Introduction 1023
+17.4.2 Dielectric substrate 1024
+17.4.3 Comment 1024
+17.4.4 Inorganic substrates 1025
+17.4.5 Plastic substrates 1025
+17.4.6 Semiconductor substrates 1027
+17.4.7 Ferrimagnetic substrates 1027
+17.4.8 Metallisation 1027
+17.4.9 Circuit realisation 1028
+17.4.10 Etching 1028
+17.4.11 Metal deposition 1028
+17.4.12 Removal of photoresist 1029
+17.4.13 Under-etching 1030
+17.4.14 Thin and thick film 1031
+17.5 Analysis and synthesis programs 1031
+17.5.1 Introduction 1031
+17.5.2 EEsof: Touchstone 1032
+17.5.3 CCC: The Supercompact Family 1033
+17.5.4 CCC: CADEC + 1033
+17.5.5 Acline 1033
+17.5.6 Thorn '6: Esope 1033
+17.5.7 RCA: Midas 1034
+17.5.8 LINMIC 1034
+17.5.9 High Tech. Toumesol: Micpatch 1035
+17.5.10 Spefco Software: CiAO 1035
+17.5.11 Made-it-associates: Mama 1036
+17.5.12 Ampsa: Multimatch 1036
+17.5.13 Radar systems technology: Analop 1036
+17.5.14 Microkop/Suspend 1036
+17.5.15 Microwave software applications 1036
+17.5.16 Planim 1036
+17.5.17 DGS Associates: S/Filsyn 1037
+17.5.8 Webb Laboratories: Transcad 1037
+17.6 Layouts of circuits and cutting of masks 1037
+17.6.1 Description 1037
+17.6.2 CCC: Autoart 1037
+17.6.3 EFSOF: Micad 1037
+17.6.4 High Tech. Tournesol: Micros 1
+17.6.5 British Telecom: Temcad 1
+17.7 Componenets 1
+17.7.1 Introduction 1
+17.7.2 Discrete components 1
+17.7.3 Mounting procedure 1
+17.7.4 Drilling holes in the dielectric substrate 1
+17.7.5 Deposited components 1
+17.8 Examples 1
+17.8.1 Design of a broadband amplifier 1
+17.8.2 Bandpass filter design 1
+17.8.3 Design of a miniature Doppler radar 1
+18 Resonant microstrip antenna elements and arrays for aerospace applications — A.G. Derneryd 1057
+18.1 Introduction 1057
+18 2 Circular antenna element 1058
+18.3 Dual-band circularly polarised antenna element 1061
+18.4 Monopulse-array antenna 1068
+18.5 Dual-polarised-array antenna 1073
+18.6 Concluding remarks 1077
+18.7 References 1078
+19 Applications in mobile and satellite systems — K. Fujimoto, T. Hori, 1
+19.1 Introduction 1
+19.2 Mobile systems 1 
+19.2.1 Design considerations 1
+19.2.2 Base stations 1
+19.2.3 Wheeled vehicles 1
+19.2.4 Railways 1
+19.2.5 Pedestrian 1
+19.2.6 Radars 1
+19.3 Satellite systems 1
+19.3.1 Design considerations 1
+19.3.2 Direct broadcasting reception 1
+19.3.3 Earth stations 1
+19.3.4 Satellite borne 1
+20 Conical conformal microstrip tracking antenna — P. Newham and G. Morris 1153
+20.1 Introduction 1153
+20.2 Single patch element 1153
+20.2.1 Choice of array element 1153
+20.2.2 Choice of substrate 1154
+20.2.3 Feeding the patch 1155
+20.2.4 Theoretical design method 1155
+20.2.5 Patch design 1158
+20.3 Dual patch element 1161
+20.3.1 Choice of design 1161
+20.3.2 Location of patch phase centre 1161
+20.3.2 Design and optimisation 1162
+20.4 Hybrid feeding network 1163
+20.4.1 Overview 1163
+20.4.2 Hybrid designs 1166
+20.4.3 90° bends 1
+20.4.4 Minimum track distance 1
+20.4.5 Feed-point terminations 1
+20.4.6 Track lengths 1
+20.4.7 Overall design 1
+20.5 Conical antenna array 1
+20.6 Substrate fabrication 1
+20.6.1 Overview 1
+20.6.2 Mask drawing and preparation 1
+20.6.3 Etching 1
+20.6.4 Substrate preparation 1
+20.6.5 Triplate bonding 1
+20.7 Forming the antenna 1
+20.7.1 Bending the substrates 1
+20.7.2 Attachment of components 1
+20.7.3 Final assembly 1
+20.8 Antenna performance 1
+20.8.1 Grating-lobe suppression 1
+20.8.2 Axial ratio 1
+20.8.3 Antenna gain 1
+20.8.4 Tracking slope 1
+20.9 Conclusions and future developments 1
+21 Microstrip field diagnostics — P.G. Frayne 1193
+21.1 Introduction 1193
+21.2 Surface analytical techniques 1194
+21.3 Scanning-network probe 1195
+21.4 Theory of the monopole probe 1197
+21.5 Resonant microstrip discs 1202
+21.6 Resonant microstrip triangles 1209
+21.7 Open-circuited microstriplines 1212
+21.8 Antenna diagnostics 1214
+21.8.1 The rectangular patch 1215
+21.9 Linear element patch array 1217
+21.10 Circularly polarised patch antenna 1218
+21.11 Microstrip travelling-wave antenna 1222
+21.12 Acknowledgments 1224
+21.13 References 1225
+22 Microstrip antennas on a cylindrical surface — E.V. Sohtell 1227
+22.1 Introduction 1227
+22.2 Theoretical models for a patch on a cylinder 1227
+22.2.1 Cavity model of the patch 1228
+22.2.2 Surface-current model 1232
+22.3 Single patch application 1234
+22.3.1 Mechanical design 1234
+22.3.2 Measurements 1234
+22.3.3 Radiation-pattern comparisons 1235
+22.4 Array application 1239
+22.4.1 General 1239
+22.4.2 Theoretical treatment of finite and infinite arrays 1240
+22.4.3 Design of a phased array on C-band 1240
+22.4.4 Measured performance 1243
+22.5 Summary 1253
+22.6 References 1255
+23 Extensions and variations to the microstrip ;A. Henderson and J.R.,
+23.1 Introduction 1257
+23.2 Radiation pattern control 1258
+23.2.1 Reflector feeds 1258
+23.2.2 Spherical dielectric overlays 1267
+23.3 Wide-bandwidth techniques 1273
+23.3.1 Log-periodic structures 1273
+23.3.2 Dichroic dual-function apertures 1282
+23.4 Millimetre-wave hybrid antenna 1285
+23.5 Novel use of materials 1288
+23.5.1 Foam substrates for large direct-broadcast-satellite domestic receiving arrays 1288
+23.5.2 Magnetic materials and beam scanning 1292
+23.5.3 Use of very-high-permittivity substrates in hyperthermia applicators 1293
+23.6 Summary comment 1294
+23.7 References 1295
