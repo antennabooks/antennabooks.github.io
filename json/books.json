@@ -38,9 +38,59 @@
         "page": 25
       },
       {
+        "level": 3,
+        "title": " 1.2.1 Wire Antennas",
+        "page": 25
+      },
+      {
+        "level": 3,
+        "title": " 1.2.2 Aperture Antennas",
+        "page": 25
+      },
+      {
+        "level": 3,
+        "title": " 1.2.3 Microstrip Antennas",
+        "page": 27
+      },
+      {
+        "level": 3,
+        "title": " 1.2.4 Array Antennas",
+        "page": 27
+      },
+      {
+        "level": 3,
+        "title": " 1.2.5 Reflector Antennas",
+        "page": 28
+      },
+      {
+        "level": 3,
+        "title": " 1.2.6 Lens Antennas",
+        "page": 28
+      },
+      {
         "level": 2,
         "title": " 1.3 Radiation Mechanism",
         "page": 29
+      },
+      {
+        "level": 3,
+        "title": " 1.3.1 Single Wire",
+        "page": 29
+      },
+      {
+        "level": 3,
+        "title": " 1.3.2 Two-Wires",
+        "page": 32
+      },
+      {
+        "level": 3,
+        "title": " 1.3.3 Dipole",
+        "page": 35
+      },
+      {
+        "level": 3,
+        "title": " 1.3.4 Computer Animation-Visualization of Radiation Problems",
+        "page": 35
       },
       {
         "level": 2,
@@ -51,6 +101,21 @@
         "level": 2,
         "title": " 1.5 Historical Advancement",
         "page": 40
+      },
+      {
+        "level": 3,
+        "title": " 1.5.1 Antenna Elements",
+        "page": 41
+      },
+      {
+        "level": 3,
+        "title": " 1.5.2 Methods of Analysis",
+        "page": 42
+      },
+      {
+        "level": 3,
+        "title": " 1.5.3 Some Future Challenges",
+        "page": 43
       },
       {
         "level": 2,
@@ -78,6 +143,31 @@
         "page": 47
       },
       {
+        "level": 3,
+        "title": " 2.2.1 Radiation Pattern Lobes",
+        "page": 48
+      },
+      {
+        "level": 3,
+        "title": " 2.2.2 Isotropic, Directional, and Omnidirectional Patterns",
+        "page": 52
+      },
+      {
+        "level": 3,
+        "title": " 2.2.3 Principal Patterns",
+        "page": 52
+      },
+      {
+        "level": 3,
+        "title": " 2.2.4 Field Regions",
+        "page": 53
+      },
+      {
+        "level": 3,
+        "title": " 2.2.5 Radian and Steradian",
+        "page": 55
+      },
+      {
         "level": 2,
         "title": " 2.3 Radiation Power Density",
         "page": 57
@@ -96,6 +186,16 @@
         "level": 2,
         "title": " 2.6 Directivity",
         "page": 63
+      },
+      {
+        "level": 3,
+        "title": " 2.6.1 Directional Patterns",
+        "page": 69
+      },
+      {
+        "level": 3,
+        "title": " 2.6.2 Omnidirectional Patterns",
+        "page": 73
       },
       {
         "level": 2,
@@ -128,6 +228,16 @@
         "page": 88
       },
       {
+        "level": 3,
+        "title": " 2.12.1 Linear, Circular, and Elliptical Polarizations",
+        "page": 90
+      },
+      {
+        "level": 3,
+        "title": " 2.12.2 Polarization Loss Factor and Efficiency",
+        "page": 93
+      },
+      {
         "level": 2,
         "title": " 2.13 Input Impedance",
         "page": 97
@@ -143,6 +253,16 @@
         "page": 103
       },
       {
+        "level": 3,
+        "title": " 2.15.1 Vector Effective Length",
+        "page": 103
+      },
+      {
+        "level": 3,
+        "title": " 2.15.2 Antenna Equivalent Areas",
+        "page": 105
+      },
+      {
         "level": 2,
         "title": " 2.16 Maximum Directivity and Maximum Effective Area",
         "page": 108
@@ -151,6 +271,21 @@
         "level": 2,
         "title": " 2.17 Friis Transmission Equation and Radar Range Equation",
         "page": 110
+      },
+      {
+        "level": 3,
+        "title": " 2.17.1 Friis Transmission Equation",
+        "page": 110
+      },
+      {
+        "level": 3,
+        "title": " 2.17.2 Radar Range Equation",
+        "page": 112
+      },
+      {
+        "level": 3,
+        "title": " 2.17.3 Antenna Radar Cross Section",
+        "page": 114
       },
       {
         "level": 2,
@@ -218,6 +353,16 @@
         "page": 160
       },
       {
+        "level": 3,
+        "title": " 3.8.1 Reciprocity for Two Antennas",
+        "page": 162
+      },
+      {
+        "level": 3,
+        "title": " 3.8.2 Reciprocity for Antenna Radiation Patterns",
+        "page": 163
+      },
+      {
         "level": 2,
         "title": " References",
         "page": 165
@@ -243,6 +388,41 @@
         "page": 167
       },
       {
+        "level": 3,
+        "title": " 4.2.1 Radiated Fields",
+        "page": 167
+      },
+      {
+        "level": 3,
+        "title": " 4.2.2 Power Density and Radiation Resistance",
+        "page": 170
+      },
+      {
+        "level": 3,
+        "title": " 4.2.3 Radian Distance and Radian Sphere",
+        "page": 172
+      },
+      {
+        "level": 3,
+        "title": " 4.2.4 Near-Field (kr ? 1) Region",
+        "page": 173
+      },
+      {
+        "level": 3,
+        "title": " 4.2.5 Intermediate-Field (kr \u0026gt; 1) Region",
+        "page": 174
+      },
+      {
+        "level": 3,
+        "title": " 4.2.6 Far-Field (kr ? 1) Region",
+        "page": 175
+      },
+      {
+        "level": 3,
+        "title": " 4.2.7 Directivity",
+        "page": 176
+      },
+      {
         "level": 2,
         "title": " 4.3 Small Dipole",
         "page": 177
@@ -253,9 +433,54 @@
         "page": 180
       },
       {
+        "level": 3,
+        "title": " 4.4.1 Far-Field (Fraunhofer) Region",
+        "page": 182
+      },
+      {
+        "level": 3,
+        "title": " 4.4.2 Radiating Near-Field (Fresnel) Region",
+        "page": 184
+      },
+      {
+        "level": 3,
+        "title": " 4.4.3 Reactive Near-Field Region",
+        "page": 185
+      },
+      {
         "level": 2,
         "title": " 4.5 Finite Length Dipole",
         "page": 186
+      },
+      {
+        "level": 3,
+        "title": " 4.5.1 Current Distribution",
+        "page": 186
+      },
+      {
+        "level": 3,
+        "title": " 4.5.2 Radiated Fields Element Factor, Space Factor, and Pattern Multiplication",
+        "page": 186
+      },
+      {
+        "level": 3,
+        "title": " 4.5.3 Power Density, Radiation Intensity, and Radiation Resistance",
+        "page": 188
+      },
+      {
+        "level": 3,
+        "title": " 4.5.4 Directivity",
+        "page": 194
+      },
+      {
+        "level": 3,
+        "title": " 4.5.5 Input Resistance",
+        "page": 195
+      },
+      {
+        "level": 3,
+        "title": " 4.5.6 Finite Feed Gap",
+        "page": 197
       },
       {
         "level": 2,
@@ -268,9 +493,59 @@
         "page": 201
       },
       {
+        "level": 3,
+        "title": " 4.7.1 Ground Planes Electric and Magnetic",
+        "page": 202
+      },
+      {
+        "level": 3,
+        "title": " 4.7.2 Image Theory",
+        "page": 204
+      },
+      {
+        "level": 3,
+        "title": " 4.7.3 Vertical Electric Dipole",
+        "page": 205
+      },
+      {
+        "level": 3,
+        "title": " 4.7.4 Approximate Formulas for Rapid Calculations and Design",
+        "page": 213
+      },
+      {
+        "level": 3,
+        "title": " 4.7.5 Mobile Communication Devices and Antennas for Mobile Communication Systems",
+        "page": 214
+      },
+      {
+        "level": 3,
+        "title": " 4.7.6 Horizontal Electric Dipole",
+        "page": 217
+      },
+      {
         "level": 2,
         "title": " 4.8 Ground Effects",
         "page": 225
+      },
+      {
+        "level": 3,
+        "title": " 4.8.1 Vertical Electric Dipole",
+        "page": 226
+      },
+      {
+        "level": 3,
+        "title": " 4.8.2 Horizontal Electric Dipole",
+        "page": 227
+      },
+      {
+        "level": 3,
+        "title": " 4.8.3 PEC, PMC and EBG Surfaces",
+        "page": 229
+      },
+      {
+        "level": 3,
+        "title": " 4.8.4 Earth Curvature",
+        "page": 233
       },
       {
         "level": 2,
@@ -308,14 +583,69 @@
         "page": 258
       },
       {
+        "level": 3,
+        "title": " 5.2.1 Radiated Fields",
+        "page": 258
+      },
+      {
+        "level": 3,
+        "title": " 5.2.2 Small Loop and Infinitesimal Magnetic Dipole",
+        "page": 263
+      },
+      {
+        "level": 3,
+        "title": " 5.2.3 Power Density and Radiation Resistance",
+        "page": 263
+      },
+      {
+        "level": 3,
+        "title": " 5.2.4 Near-Field (kr ? 1) Region",
+        "page": 267
+      },
+      {
+        "level": 3,
+        "title": " 5.2.5 Far-Field (kr ? 1) Region",
+        "page": 267
+      },
+      {
+        "level": 3,
+        "title": " 5.2.6 Radiation Intensity and Directivity",
+        "page": 268
+      },
+      {
+        "level": 3,
+        "title": " 5.2.7 Equivalent Circuit",
+        "page": 269
+      },
+      {
         "level": 2,
         "title": " 5.3 Circular Loop of Constant Current",
         "page": 272
       },
       {
+        "level": 3,
+        "title": " 5.3.1 Radiated Fields",
+        "page": 272
+      },
+      {
+        "level": 3,
+        "title": " 5.3.2 Power Density, Radiation Intensity, Radiation Resistance, and Directivity",
+        "page": 274
+      },
+      {
         "level": 2,
         "title": " 5.4 Circular Loop with Nonuniform Current",
         "page": 281
+      },
+      {
+        "level": 3,
+        "title": " 5.4.1 Arrays",
+        "page": 288
+      },
+      {
+        "level": 3,
+        "title": " 5.4.2 Design Procedure",
+        "page": 289
       },
       {
         "level": 2,
@@ -331,6 +661,16 @@
         "level": 2,
         "title": " 5.7 Ferrite Loop",
         "page": 292
+      },
+      {
+        "level": 3,
+        "title": " 5.7.1 Radiation Resistance",
+        "page": 292
+      },
+      {
+        "level": 3,
+        "title": " 5.7.2 Ferrite-Loaded Receiving Loop",
+        "page": 293
       },
       {
         "level": 2,
@@ -373,9 +713,44 @@
         "page": 315
       },
       {
+        "level": 3,
+        "title": " 6.3.1 Broadside Array",
+        "page": 319
+      },
+      {
+        "level": 3,
+        "title": " 6.3.2 Ordinary End-Fire Array",
+        "page": 321
+      },
+      {
+        "level": 3,
+        "title": " 6.3.3 Phased (Scanning) Array",
+        "page": 324
+      },
+      {
+        "level": 3,
+        "title": " 6.3.4 Hansen-Woodyard End-Fire Array",
+        "page": 326
+      },
+      {
         "level": 2,
         "title": " 6.4 N-Element Linear Array Directivity",
         "page": 334
+      },
+      {
+        "level": 3,
+        "title": " 6.4.1 Broadside Array",
+        "page": 335
+      },
+      {
+        "level": 3,
+        "title": " 6.4.2 Ordinary End-Fire Array",
+        "page": 337
+      },
+      {
+        "level": 3,
+        "title": " 6.4.3 Hansen-Woodyard End-Fire Array",
+        "page": 339
       },
       {
         "level": 2,
@@ -388,6 +763,16 @@
         "page": 341
       },
       {
+        "level": 3,
+        "title": " 6.6.1 N-Elements Along Z-Axis",
+        "page": 341
+      },
+      {
+        "level": 3,
+        "title": " 6.6.2 N-Elements Along X- or Y-Axis",
+        "page": 342
+      },
+      {
         "level": 2,
         "title": " 6.7 Rectangular-to-Polar Graphical Solution",
         "page": 344
@@ -398,14 +783,59 @@
         "page": 345
       },
       {
+        "level": 3,
+        "title": " 6.8.1 Array Factor",
+        "page": 347
+      },
+      {
+        "level": 3,
+        "title": " 6.8.2 Binomial Array",
+        "page": 348
+      },
+      {
+        "level": 3,
+        "title": " 6.8.3 Dolph-Tschebyscheff Array Broadside",
+        "page": 352
+      },
+      {
+        "level": 3,
+        "title": " 6.8.4 Tschebysheff Design Scanning",
+        "page": 366
+      },
+      {
         "level": 2,
         "title": " 6.9 Superdirectivity",
         "page": 367
       },
       {
+        "level": 3,
+        "title": " 6.9.1 Efficiency and Directivity",
+        "page": 368
+      },
+      {
+        "level": 3,
+        "title": " 6.9.2 Designs with Constraints",
+        "page": 368
+      },
+      {
         "level": 2,
         "title": " 6.10 Planar Array",
         "page": 370
+      },
+      {
+        "level": 3,
+        "title": " 6.10.1 Array Factor",
+        "page": 370
+      },
+      {
+        "level": 3,
+        "title": " 6.10.2 Beamwidth",
+        "page": 376
+      },
+      {
+        "level": 3,
+        "title": " 6.10.3 Directivity",
+        "page": 381
       },
       {
         "level": 2,
@@ -415,6 +845,11 @@
       {
         "level": 2,
         "title": " 6.12 Circular Array",
+        "page": 385
+      },
+      {
+        "level": 3,
+        "title": " 6.12.1 Array Factor",
         "page": 385
       },
       {
@@ -448,6 +883,16 @@
         "page": 408
       },
       {
+        "level": 3,
+        "title": " 7.2.1 Line-Source",
+        "page": 408
+      },
+      {
+        "level": 3,
+        "title": " 7.2.2 Discretization of Continuous Sources",
+        "page": 409
+      },
+      {
         "level": 2,
         "title": " 7.3 Schelkunoff Polynomial Method",
         "page": 409
@@ -458,14 +903,39 @@
         "page": 414
       },
       {
+        "level": 3,
+        "title": " 7.4.1 Line-Source",
+        "page": 414
+      },
+      {
+        "level": 3,
+        "title": " 7.4.2 Linear Array",
+        "page": 417
+      },
+      {
         "level": 2,
         "title": " 7.5 Woodward-Lawson Method",
         "page": 420
       },
       {
+        "level": 3,
+        "title": " 7.5.1 Line-Source",
+        "page": 421
+      },
+      {
+        "level": 3,
+        "title": " 7.5.2 Linear Array",
+        "page": 425
+      },
+      {
         "level": 2,
         "title": " 7.6 Taylor Line-Source (Tschebyscheff-Error)",
         "page": 426
+      },
+      {
+        "level": 3,
+        "title": " 7.6.1 Design Procedure",
+        "page": 428
       },
       {
         "level": 2,
@@ -486,6 +956,16 @@
         "level": 2,
         "title": " 7.10 Continuous Aperture Sources",
         "page": 439
+      },
+      {
+        "level": 3,
+        "title": " 7.10.1 Rectangular Aperture",
+        "page": 440
+      },
+      {
+        "level": 3,
+        "title": " 7.10.2 Circular Aperture",
+        "page": 440
       },
       {
         "level": 2,
@@ -518,9 +998,34 @@
         "page": 454
       },
       {
+        "level": 3,
+        "title": " 8.2.1 Electrostatic Charge Distribution",
+        "page": 454
+      },
+      {
+        "level": 3,
+        "title": " 8.2.2 Integral Equation",
+        "page": 461
+      },
+      {
         "level": 2,
         "title": " 8.3 Finite Diameter Wires",
         "page": 461
+      },
+      {
+        "level": 3,
+        "title": " 8.3.1 Pocklington?s Integral Equation",
+        "page": 462
+      },
+      {
+        "level": 3,
+        "title": " 8.3.2 Hall?n?s Integral Equation",
+        "page": 466
+      },
+      {
+        "level": 3,
+        "title": " 8.3.3 Source Modeling",
+        "page": 467
       },
       {
         "level": 2,
@@ -528,9 +1033,29 @@
         "page": 470
       },
       {
+        "level": 3,
+        "title": " 8.4.1 Basis (Expansion) Functions",
+        "page": 471
+      },
+      {
+        "level": 3,
+        "title": " 8.4.2 Weighting (Testing) Functions",
+        "page": 475
+      },
+      {
         "level": 2,
         "title": " 8.5 Self-Impedance",
         "page": 477
+      },
+      {
+        "level": 3,
+        "title": " 8.5.1 Integral Equation-Moment Method",
+        "page": 477
+      },
+      {
+        "level": 3,
+        "title": " 8.5.2 Induced EMF Method",
+        "page": 480
       },
       {
         "level": 2,
@@ -538,9 +1063,44 @@
         "page": 485
       },
       {
+        "level": 3,
+        "title": " 8.6.1 Integral Equation-Moment Method",
+        "page": 487
+      },
+      {
+        "level": 3,
+        "title": " 8.6.2 Induced EMF Method",
+        "page": 489
+      },
+      {
         "level": 2,
         "title": " 8.7 Mutual Coupling in Arrays",
         "page": 496
+      },
+      {
+        "level": 3,
+        "title": " 8.7.1 Coupling in the Transmitting Mode",
+        "page": 496
+      },
+      {
+        "level": 3,
+        "title": " 8.7.2 Coupling in the Receiving Mode",
+        "page": 498
+      },
+      {
+        "level": 3,
+        "title": " 8.7.3 Mutual Coupling on Array Performance",
+        "page": 498
+      },
+      {
+        "level": 3,
+        "title": " 8.7.4 Coupling in an Infinite Regular Array",
+        "page": 498
+      },
+      {
+        "level": 3,
+        "title": " 8.7.5 Active Element Pattern in an Array",
+        "page": 500
       },
       {
         "level": 2,
@@ -573,6 +1133,16 @@
         "page": 509
       },
       {
+        "level": 3,
+        "title": " 9.2.1 Radiated Fields",
+        "page": 509
+      },
+      {
+        "level": 3,
+        "title": " 9.2.2 Input Impedance",
+        "page": 512
+      },
+      {
         "level": 2,
         "title": " 9.3 Triangular Sheet, Flexible and Conformal Bow-Tie, and Wire Simulation",
         "page": 514
@@ -588,6 +1158,31 @@
         "page": 522
       },
       {
+        "level": 3,
+        "title": " 9.5.1 Bandwidth",
+        "page": 523
+      },
+      {
+        "level": 3,
+        "title": " 9.5.2 Input Impedance",
+        "page": 523
+      },
+      {
+        "level": 3,
+        "title": " 9.5.3 Resonance and Ground Plane Simulation",
+        "page": 525
+      },
+      {
+        "level": 3,
+        "title": " 9.5.4 Radiation Patterns",
+        "page": 525
+      },
+      {
+        "level": 3,
+        "title": " 9.5.5 Equivalent Radii",
+        "page": 526
+      },
+      {
         "level": 2,
         "title": " 9.6 Folded Dipole",
         "page": 527
@@ -601,6 +1196,21 @@
         "level": 2,
         "title": " 9.8 Matching Techniques",
         "page": 535
+      },
+      {
+        "level": 3,
+        "title": " 9.8.1 Stub-Matching",
+        "page": 535
+      },
+      {
+        "level": 3,
+        "title": " 9.8.2 Quarter-Wavelength Transformer",
+        "page": 536
+      },
+      {
+        "level": 3,
+        "title": " 9.8.3 Baluns and Transformers",
+        "page": 543
       },
       {
         "level": 2,
@@ -633,9 +1243,44 @@
         "page": 555
       },
       {
+        "level": 3,
+        "title": " 10.2.1 Long Wire",
+        "page": 557
+      },
+      {
+        "level": 3,
+        "title": " 10.2.2 V Antenna",
+        "page": 565
+      },
+      {
+        "level": 3,
+        "title": " 10.2.3 Rhombic Antenna",
+        "page": 570
+      },
+      {
         "level": 2,
         "title": " 10.3 Broadband Antennas",
         "page": 571
+      },
+      {
+        "level": 3,
+        "title": " 10.3.1 Helical Antenna",
+        "page": 571
+      },
+      {
+        "level": 3,
+        "title": " 10.3.2 Electric-Magnetic Dipole",
+        "page": 581
+      },
+      {
+        "level": 3,
+        "title": " 10.3.3 Yagi-Uda Array of Linear Elements",
+        "page": 581
+      },
+      {
+        "level": 3,
+        "title": " 10.3.4 Yagi-Uda Array of Loops",
+        "page": 601
       },
       {
         "level": 2,
@@ -673,9 +1318,34 @@
         "page": 615
       },
       {
+        "level": 3,
+        "title": " 11.3.1 Planar Spiral",
+        "page": 616
+      },
+      {
+        "level": 3,
+        "title": " 11.3.2 Conical Spiral",
+        "page": 620
+      },
+      {
         "level": 2,
         "title": " 11.4 Log-Periodic Antennas",
         "page": 620
+      },
+      {
+        "level": 3,
+        "title": " 11.4.1 Planar and Wire Surfaces",
+        "page": 621
+      },
+      {
+        "level": 3,
+        "title": " 11.4.2 Dipole Array",
+        "page": 624
+      },
+      {
+        "level": 3,
+        "title": " 11.4.3 Design of Dipole Array",
+        "page": 630
       },
       {
         "level": 2,
@@ -686,6 +1356,21 @@
         "level": 2,
         "title": " 11.6 Antenna Miniaturization",
         "page": 641
+      },
+      {
+        "level": 3,
+        "title": " 11.6.1 Monopole Antenna",
+        "page": 642
+      },
+      {
+        "level": 3,
+        "title": " 11.6.2 Patch Antennas",
+        "page": 648
+      },
+      {
+        "level": 3,
+        "title": " 11.6.3 Antenna Miniaturization Using Metamaterials",
+        "page": 648
       },
       {
         "level": 2,
@@ -743,14 +1428,59 @@
         "page": 670
       },
       {
+        "level": 3,
+        "title": " 12.5.1 Uniform Distribution on an Infinite Ground Plane",
+        "page": 672
+      },
+      {
+        "level": 3,
+        "title": " 12.5.2 Uniform Distribution in Space",
+        "page": 683
+      },
+      {
+        "level": 3,
+        "title": " 12.5.3 TE10-Mode Distribution on an Infinite Ground Plane",
+        "page": 685
+      },
+      {
+        "level": 3,
+        "title": " 12.5.4 Beam Efficiency",
+        "page": 688
+      },
+      {
         "level": 2,
         "title": " 12.6 Circular Apertures",
         "page": 689
       },
       {
+        "level": 3,
+        "title": " 12.6.1 Uniform Distribution on an Infinite Ground Plane",
+        "page": 691
+      },
+      {
+        "level": 3,
+        "title": " 12.6.2 TE11-Mode Distribution on an Infinite Ground Plane",
+        "page": 693
+      },
+      {
+        "level": 3,
+        "title": " 12.6.3 Beam Efficiency",
+        "page": 697
+      },
+      {
         "level": 2,
         "title": " 12.7 Design Considerations",
         "page": 697
+      },
+      {
+        "level": 3,
+        "title": " 12.7.1 Rectangular Aperture",
+        "page": 699
+      },
+      {
+        "level": 3,
+        "title": " 12.7.2 Circular Aperture",
+        "page": 700
       },
       {
         "level": 2,
@@ -761,6 +1491,31 @@
         "level": 2,
         "title": " 12.9 Fourier Transforms in Aperture Antenna Theory",
         "page": 706
+      },
+      {
+        "level": 3,
+        "title": " 12.9.1 Fourier Transforms-Spectral Domain",
+        "page": 706
+      },
+      {
+        "level": 3,
+        "title": " 12.9.2 Radiated Fields",
+        "page": 707
+      },
+      {
+        "level": 3,
+        "title": " 12.9.3 Asymptotic Evaluation of Radiated Field",
+        "page": 711
+      },
+      {
+        "level": 3,
+        "title": " 12.9.4 Dielectric-Covered Apertures",
+        "page": 716
+      },
+      {
+        "level": 3,
+        "title": " 12.9.5 Aperture Admittance",
+        "page": 717
       },
       {
         "level": 2,
@@ -798,14 +1553,59 @@
         "page": 741
       },
       {
+        "level": 3,
+        "title": " 13.2.1 Aperture Fields",
+        "page": 741
+      },
+      {
+        "level": 3,
+        "title": " 13.2.2 Radiated Fields",
+        "page": 744
+      },
+      {
+        "level": 3,
+        "title": " 13.2.3 Directivity",
+        "page": 750
+      },
+      {
         "level": 2,
         "title": " 13.3 H-Plane Sectoral Horn",
         "page": 755
       },
       {
+        "level": 3,
+        "title": " 13.3.1 Aperture Fields",
+        "page": 755
+      },
+      {
+        "level": 3,
+        "title": " 13.3.2 Radiated Fields",
+        "page": 756
+      },
+      {
+        "level": 3,
+        "title": " 13.3.3 Directivity",
+        "page": 760
+      },
+      {
         "level": 2,
         "title": " 13.4 Pyramidal Horn",
         "page": 765
+      },
+      {
+        "level": 3,
+        "title": " 13.4.1 Aperture Fields, Equivalent, and Radiated Fields",
+        "page": 766
+      },
+      {
+        "level": 3,
+        "title": " 13.4.2 Directivity",
+        "page": 770
+      },
+      {
+        "level": 3,
+        "title": " 13.4.3 Design Procedure",
+        "page": 776
       },
       {
         "level": 2,
@@ -863,14 +1663,74 @@
         "page": 805
       },
       {
+        "level": 3,
+        "title": " 14.1.1 Basic Characteristics",
+        "page": 806
+      },
+      {
+        "level": 3,
+        "title": " 14.1.2 Feeding Methods",
+        "page": 807
+      },
+      {
+        "level": 3,
+        "title": " 14.1.3 Methods of Analysis",
+        "page": 809
+      },
+      {
         "level": 2,
         "title": " 14.2 Rectangular Patch",
         "page": 810
       },
       {
+        "level": 3,
+        "title": " 14.2.1 Transmission-Line Model",
+        "page": 810
+      },
+      {
+        "level": 3,
+        "title": " 14.2.2 Cavity Model",
+        "page": 820
+      },
+      {
+        "level": 3,
+        "title": " 14.2.3 Directivity",
+        "page": 833
+      },
+      {
         "level": 2,
         "title": " 14.3 Circular Patch",
         "page": 837
+      },
+      {
+        "level": 3,
+        "title": " 14.3.1 Electric and Magnetic Fields?TMzmnp",
+        "page": 838
+      },
+      {
+        "level": 3,
+        "title": " 14.3.2 Resonant Frequencies",
+        "page": 839
+      },
+      {
+        "level": 3,
+        "title": " 14.3.3 Design",
+        "page": 840
+      },
+      {
+        "level": 3,
+        "title": " 14.3.4 Equivalent Current Densities and Fields Radiated",
+        "page": 841
+      },
+      {
+        "level": 3,
+        "title": " 14.3.5 Conductance and Directivity",
+        "page": 843
+      },
+      {
+        "level": 3,
+        "title": " 14.3.6 Resonant Input Resistance",
+        "page": 844
       },
       {
         "level": 2,
@@ -903,9 +1763,54 @@
         "page": 859
       },
       {
+        "level": 3,
+        "title": " 14.9.1 Planar Inverted-F Antenna (PIFA)",
+        "page": 860
+      },
+      {
+        "level": 3,
+        "title": " 14.9.2 Slot Antenna",
+        "page": 863
+      },
+      {
+        "level": 3,
+        "title": " 14.9.3 Inverted-F Antenna (IFA)",
+        "page": 865
+      },
+      {
+        "level": 3,
+        "title": " 14.9.4 Multiband Antennas for Mobile Units",
+        "page": 868
+      },
+      {
         "level": 2,
         "title": " 14.10 Dielectric Resonator Antennas",
         "page": 869
+      },
+      {
+        "level": 3,
+        "title": " 14.10.1 Basic DRA Geometries",
+        "page": 870
+      },
+      {
+        "level": 3,
+        "title": " 14.10.2 Methods of Analysis and Design",
+        "page": 871
+      },
+      {
+        "level": 3,
+        "title": " 14.10.3 Cavity Model Resonant Frequencies (TE and TM Modes)",
+        "page": 872
+      },
+      {
+        "level": 3,
+        "title": " 14.10.4 Hybrid Modes Resonant Frequencies and Quality Factors",
+        "page": 874
+      },
+      {
+        "level": 3,
+        "title": " 14.10.5 Radiated Fields",
+        "page": 877
       },
       {
         "level": 2,
@@ -943,9 +1848,29 @@
         "page": 898
       },
       {
+        "level": 3,
+        "title": " 15.3.1 90? Corner Reflector",
+        "page": 900
+      },
+      {
+        "level": 3,
+        "title": " 15.3.2 Other Corner Reflectors",
+        "page": 902
+      },
+      {
         "level": 2,
         "title": " 15.4 Parabolic Reflector",
         "page": 906
+      },
+      {
+        "level": 3,
+        "title": " 15.4.1 Front-Fed Parabolic Reflector",
+        "page": 909
+      },
+      {
+        "level": 3,
+        "title": " 15.4.2 Cassegrain Reflectors",
+        "page": 937
       },
       {
         "level": 2,
@@ -988,6 +1913,16 @@
         "page": 955
       },
       {
+        "level": 3,
+        "title": " 16.3.1 Omnidirectional Systems",
+        "page": 955
+      },
+      {
+        "level": 3,
+        "title": " 16.3.2 Smart-Antenna Systems",
+        "page": 958
+      },
+      {
         "level": 2,
         "title": " 16.4 Signal Propagation",
         "page": 961
@@ -1008,9 +1943,44 @@
         "page": 965
       },
       {
+        "level": 3,
+        "title": " 16.7.1 Array Design",
+        "page": 965
+      },
+      {
+        "level": 3,
+        "title": " 16.7.2 Linear Array",
+        "page": 966
+      },
+      {
+        "level": 3,
+        "title": " 16.7.3 Planar Array",
+        "page": 967
+      },
+      {
         "level": 2,
         "title": " 16.8 Antenna Beamforming",
         "page": 968
+      },
+      {
+        "level": 3,
+        "title": " 16.8.1 Overview of Direction-Of-Arrival (DOA) Algorithms",
+        "page": 969
+      },
+      {
+        "level": 3,
+        "title": " 16.8.2 Adaptive Beamforming",
+        "page": 972
+      },
+      {
+        "level": 3,
+        "title": " 16.8.3 Mutual Coupling",
+        "page": 975
+      },
+      {
+        "level": 3,
+        "title": " 16.8.4 Optimal Beamforming Techniques",
+        "page": 977
       },
       {
         "level": 2,
@@ -1018,9 +1988,49 @@
         "page": 982
       },
       {
+        "level": 3,
+        "title": " 16.9.1 Overview of Mobile Ad hoc NETworks (MANETs)",
+        "page": 982
+      },
+      {
+        "level": 3,
+        "title": " 16.9.2 MANETs Employing Smart-Antenna Systems",
+        "page": 983
+      },
+      {
         "level": 2,
         "title": " 16.10 Smart-Antenna System Design, Simulation, and Results",
         "page": 986
+      },
+      {
+        "level": 3,
+        "title": " 16.10.1 Design Process",
+        "page": 986
+      },
+      {
+        "level": 3,
+        "title": " 16.10.2 Single Element?Microstrip Patch Design",
+        "page": 987
+      },
+      {
+        "level": 3,
+        "title": " 16.10.3 Rectangular Patch",
+        "page": 987
+      },
+      {
+        "level": 3,
+        "title": " 16.10.4 Array Design",
+        "page": 989
+      },
+      {
+        "level": 3,
+        "title": " 16.10.5 4 ? 4 Planar Array versus 8 ? 8 Planar Array",
+        "page": 991
+      },
+      {
+        "level": 3,
+        "title": " 16.10.6 Adaptive Beamforming",
+        "page": 991
       },
       {
         "level": 2,
@@ -1063,14 +2073,59 @@
         "page": 1004
       },
       {
+        "level": 3,
+        "title": " 17.2.1 Reflection Ranges",
+        "page": 1005
+      },
+      {
+        "level": 3,
+        "title": " 17.2.2 Free-Space Ranges",
+        "page": 1005
+      },
+      {
+        "level": 3,
+        "title": " 17.2.3 Compact Ranges",
+        "page": 1008
+      },
+      {
+        "level": 3,
+        "title": " 17.2.4 Near-Field/Far-Field Methods",
+        "page": 1014
+      },
+      {
         "level": 2,
         "title": " 17.3 Radiation Patterns",
         "page": 1022
       },
       {
+        "level": 3,
+        "title": " 17.3.1 Instrumentation",
+        "page": 1023
+      },
+      {
+        "level": 3,
+        "title": " 17.3.2 Amplitude Pattern",
+        "page": 1025
+      },
+      {
+        "level": 3,
+        "title": " 17.3.3 Phase Measurements",
+        "page": 1025
+      },
+      {
         "level": 2,
         "title": " 17.4 Gain Measurements",
         "page": 1025
+      },
+      {
+        "level": 3,
+        "title": " 17.4.1 Realized-Gain Measurements",
+        "page": 1028
+      },
+      {
+        "level": 3,
+        "title": " 17.4.2 Gain-Transfer (Gain-Comparison) Measurements",
+        "page": 1031
       },
       {
         "level": 2,
@@ -1101,6 +2156,16 @@
         "level": 2,
         "title": " 17.10 Scale Model Measurements",
         "page": 1041
+      },
+      {
+        "level": 3,
+        "title": " 17.10.1 Gain (Amplitude) Measurements, Simulations and Comparisons",
+        "page": 1042
+      },
+      {
+        "level": 3,
+        "title": " 17.10.2 Echo Area (RCS) Measurements, Simulations and Comparisons",
+        "page": 1043
       },
       {
         "level": 2,
@@ -1157,7 +2222,7 @@
         "title": " Index",
         "page": 1087
       }
-    ]
+    ],
   },
   {
     "cover": "https://www.mhprofessional.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/e/temp_6351_1_5705_1_8318_1_20811.jpg",
