@@ -22991,15 +22991,15 @@
     "description": "This book is devoted to describing the theory, design, performance and application of microwave horns and feeds for reflector. The first general treatment of feeds for reflector antennas, it describes design principles and methods of analysis.",
     "chapters": [
       {
-        "title": " Introduction 1",
+        "title": "1 Introduction",
         "level": 1
       },
       {
-        "title": ".1 Preliminary remarks 1",
+        "title": "1.1 Preliminary remarks",
         "level": 2
       },
       {
-        "title": ".2 History of reflector antennas and feeds 1",
+        "title": "1.2 History of reflector antennas and feeds",
         "level": 2
       },
       {
