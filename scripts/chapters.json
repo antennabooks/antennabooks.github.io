@@ -1,6 +1,778 @@
 [
   {
-    "title": "14 Microstrip antenna feeds — R.P. Owens ",
+    "title": " Introduction 1",
+    "level": 1
+  },
+  {
+    "title": ".1 Preliminary remarks 1",
+    "level": 2
+  },
+  {
+    "title": ".2 History of reflector antennas and feeds 1",
+    "level": 2
+  },
+  {
+    "title": "1.3 Performance requirements of feeds and reflectors ",
+    "level": 2
+  },
+  {
+    "title": "1.3.1 Spatial characteristics ",
+    "level": 3
+  },
+  {
+    "title": "1.3.2 Impedance characteristics ",
+    "level": 3
+  },
+  {
+    "title": "1.3.3 Frequency characteristics ",
+    "level": 3
+  },
+  {
+    "title": "1.4 Organisation of the book ",
+    "level": 2
+  },
+  {
+    "title": "1.5 Choice of type of feed ",
+    "level": 2
+  },
+  {
+    "title": "1.6 References ",
+    "level": 2
+  },
+  {
+    "title": "2 Reflector antennas ",
+    "level": 1
+  },
+  {
+    "title": "2.1 Introduction ",
+    "level": 2
+  },
+  {
+    "title": "2.1.1 General remarks ",
+    "level": 3
+  },
+  {
+    "title": "2.1.2 Reflector types ",
+    "level": 3
+  },
+  {
+    "title": "2.1.3 Constraints ",
+    "level": 3
+  },
+  {
+    "title": "2.2 Theory and performance of reflector antennas ",
+    "level": 2
+  },
+  {
+    "title": "2.2.1 The scattered field from a reflector ",
+    "level": 3
+  },
+  {
+    "title": "2.2.2 The aperture-field method ",
+    "level": 3
+  },
+  {
+    "title": "2.2.3 Radiation from a symmetrical paraboloidal reflector ",
+    "level": 3
+  },
+  {
+    "title": "2.2.4 Features of the secondary-radiation pattern ",
+    "level": 3
+  },
+  {
+    "title": "2.2.5 The dual-reflector antenna ",
+    "level": 3
+  },
+  {
+    "title": "2.2.6 The offset-reflector antenna ",
+    "level": 3
+  },
+  {
+    "title": "2.2.7 The dual-offset-reflector antenna ",
+    "level": 3
+  },
+  {
+    "title": "2.2.8 Focal-field analysis ",
+    "level": 3
+  },
+  {
+    "title": "2.2.9 Antenna return loss ",
+    "level": 3
+  },
+  {
+    "title": "2.2.10 Radome-covered reflectors ",
+    "level": 3
+  },
+  {
+    "title": "2.2.11 The effect of reflector surface errors on antenna performance ",
+    "level": 3
+  },
+  {
+    "title": "2.2.12 The effect of positional errors on antenna performance ",
+    "level": 3
+  },
+  {
+    "title": "2.2.13 Analysis and synthesis of shaped-beam antennas ",
+    "level": 3
+  },
+  {
+    "title": "2.2.14 Dual-gridded reflector antennas ",
+    "level": 3
+  },
+  {
+    "title": "2.2.15 Reconfigurable reflector antennas ",
+    "level": 3
+  },
+  {
+    "title": "2.2.16 Dichroic reflectors ",
+    "level": 3
+  },
+  {
+    "title": "2.3 References ",
+    "level": 2
+  },
+  {
+    "title": "3 Radiation from apertures ",
+    "level": 1
+  },
+  {
+    "title": "3.1 Introduction ",
+    "level": 2
+  },
+  {
+    "title": "3.2 Radiation equations from aperture fields ",
+    "level": 2
+  },
+  {
+    "title": "3.3 Radiation characteristics from apertures ",
+    "level": 2
+  },
+  {
+    "title": "3.3.1 Solution of radiation equations ",
+    "level": 3
+  },
+  {
+    "title": "3.3.2 Line-source apertures ",
+    "level": 3
+  },
+  {
+    "title": "3.3.3 Compound aperture distributions ",
+    "level": 3
+  },
+  {
+    "title": "3.3.4 Rectangular apertures ",
+    "level": 3
+  },
+  {
+    "title": "3.3.5 Apertures with phase tapers ",
+    "level": 3
+  },
+  {
+    "title": "3.3.6 Circular apertures ",
+    "level": 3
+  },
+  {
+    "title": "3.3.7 Gaussian aperture distributions ",
+    "level": 3
+  },
+  {
+    "title": "3.4 Directivity of apertures ",
+    "level": 2
+  },
+  {
+    "title": "3.5 Near fields ",
+    "level": 2
+  },
+  {
+    "title": "3.6 References ",
+    "level": 2
+  },
+  {
+    "title": "4 Numerical analysis using cylindrical and spherical waves in horns ",
+    "level": 1
+  },
+  {
+    "title": "4.1 Introduction ",
+    "level": 2
+  },
+  {
+    "title": "4.2 Fundamentals of modal analysis ",
+    "level": 2
+  },
+  {
+    "title": "4.3 Cylindrical-wave analysis ",
+    "level": 2
+  },
+  {
+    "title": "4.4 Spherical-wave analysis ",
+    "level": 2
+  },
+  {
+    "title": "4.5 Principles of modal-matching technique ",
+    "level": 2
+  },
+  {
+    "title": "4.5.1 Scattering matrix of a uniform section ",
+    "level": 3
+  },
+  {
+    "title": "4.5.2 Scattering matrix of a junction ",
+    "level": 3
+  },
+  {
+    "title": "4.6 Modal-matching technique for cylindrical waveguides ",
+    "level": 2
+  },
+  {
+    "title": "4.6.1 Numerical procedure ",
+    "level": 3
+  },
+  {
+    "title": "4.6.2 Number of modes and sections ",
+    "level": 3
+  },
+  {
+    "title": "4.7 Spherical-modal-matching technique for conical waveguides ",
+    "level": 2
+  },
+  {
+    "title": "4.8 References ",
+    "level": 2
+  },
+  {
+    "title": "5 Numerical analysis of small axisymmetric feeds ",
+    "level": 1
+  },
+  {
+    "title": "5.1 Introduction ",
+    "level": 2
+  },
+  {
+    "title": "5.2 Basic formulation ",
+    "level": 2
+  },
+  {
+    "title": "5.3 Moment-method solution ",
+    "level": 2
+  },
+  {
+    "title": "5.3.1 Co-ordinates of bodies of revolution ",
+    "level": 3
+  },
+  {
+    "title": "5.3.2 Application of moment method ",
+    "level": 3
+  },
+  {
+    "title": "5.3.3 Excitation vectors ",
+    "level": 3
+  },
+  {
+    "title": "5.3.4 Computation of the radiation patterns ",
+    "level": 3
+  },
+  {
+    "title": "5.3.5 Different integral-equation formulations ",
+    "level": 3
+  },
+  {
+    "title": "5.3.6 Solution verification ",
+    "level": 3
+  },
+  {
+    "title": "5.4 References ",
+    "level": 2
+  },
+  {
+    "title": "6 Pure-mode horns ",
+    "level": 1
+  },
+  {
+    "title": "6.1 Principles of pure-mode horns ",
+    "level": 2
+  },
+  {
+    "title": "6.2 Fields and modes in cylindrical waveguides ",
+    "level": 2
+  },
+  {
+    "title": "6.3 Conical horns ",
+    "level": 2
+  },
+  {
+    "title": "6.3.1 Radiation patterns ",
+    "level": 3
+  },
+  {
+    "title": "6.3.2 Gain ",
+    "level": 3
+  },
+  {
+    "title": "6.3.3 Optimum designs ",
+    "level": 3
+  },
+  {
+    "title": "6.3.4 Phase centre ",
+    "level": 3
+  },
+  {
+    "title": "6.4 Pyramidal horns ",
+    "level": 2
+  },
+  {
+    "title": "6.4.1 Radiation patterns ",
+    "level": 3
+  },
+  {
+    "title": "6.4.2 Gain ",
+    "level": 3
+  },
+  {
+    "title": "6.4.3 Design of pyramidal horns ",
+    "level": 3
+  },
+  {
+    "title": "6.5 Other shaped-aperture horns ",
+    "level": 2
+  },
+  {
+    "title": "6.6 Wideband ridge-loaded horns ",
+    "level": 2
+  },
+  {
+    "title": "6.6.1 Radiation patterns ",
+    "level": 3
+  },
+  {
+    "title": "6.6.2 Ridge-loaded input section ",
+    "level": 3
+  },
+  {
+    "title": "6.7 References ",
+    "level": 2
+  },
+  {
+    "title": "7 Prime-focus waveguide feeds ",
+    "level": 1
+  },
+  {
+    "title": "7.1 Introduction ",
+    "level": 2
+  },
+  {
+    "title": "7.2 Phase-centre determination ",
+    "level": 2
+  },
+  {
+    "title": "7.3 Circular waveguide feeds ",
+    "level": 2
+  },
+  {
+    "title": "7.4 Circular waveguide with rectangular corrugated flange ",
+    "level": 2
+  },
+  {
+    "title": "7.5 Circular waveguide with trapezoidally corrugated flange ",
+    "level": 2
+  },
+  {
+    "title": "7.6 Phase-error effects ",
+    "level": 2
+  },
+  {
+    "title": "7.7 Coaxial waveguide feeds ",
+    "level": 2
+  },
+  {
+    "title": "7.8 Feeds for deep reflectors ",
+    "level": 2
+  },
+  {
+    "title": "7.9 Dualband feeds ",
+    "level": 2
+  },
+  {
+    "title": "7.10 Small-horn feeds ",
+    "level": 2
+  },
+  {
+    "title": "7.11 References ",
+    "level": 2
+  },
+  {
+    "title": "8 Multimode horns ",
+    "level": 1
+  },
+  {
+    "title": "8.1 Introduction ",
+    "level": 2
+  },
+  {
+    "title": "8.2 Multiple modes in cylindrical waveguides ",
+    "level": 2
+  },
+  {
+    "title": "8.2.1 Circular waveguides ",
+    "level": 3
+  },
+  {
+    "title": "8.2.2 Rectangular waveguides ",
+    "level": 3
+  },
+  {
+    "title": "8.2.3 Other waveguide cross-sections ",
+    "level": 3
+  },
+  {
+    "title": "8.3 Excitation of higher-order modes ",
+    "level": 2
+  },
+  {
+    "title": "8.4 Shaped-pattern horns ",
+    "level": 2
+  },
+  {
+    "title": "8.4.1 Horns for pattern symmetry and low crosspolarisation ",
+    "level": 3
+  },
+  {
+    "title": "8.4.2 Horns for increased aperture efficiency ",
+    "level": 3
+  },
+  {
+    "title": "8.4.3 Matched feed horns for offset reflectors ",
+    "level": 3
+  },
+  {
+    "title": "8.5 Tracking horns ",
+    "level": 2
+  },
+  {
+    "title": "8.6 References ",
+    "level": 2
+  },
+  {
+    "title": "9 Corrugated horns ",
+    "level": 1
+  },
+  {
+    "title": "9.1 Introduction ",
+    "level": 2
+  },
+  {
+    "title": "9.2 Principles of operation of corrugated horns ",
+    "level": 2
+  },
+  {
+    "title": "9.3 Design procedure for corrugated horns ",
+    "level": 2
+  },
+  {
+    "title": "9.4 Analytical techniques for predicting performance ",
+    "level": 2
+  },
+  {
+    "title": "9.4.1 Balanced hybrid model ",
+    "level": 3
+  },
+  {
+    "title": "9.4.2 Impedance techniques: cylindrical ",
+    "level": 3
+  },
+  {
+    "title": "9.4.3 Impedance techniques: spherical ",
+    "level": 3
+  },
+  {
+    "title": "9.4.4 Space-harmonic techniques ",
+    "level": 3
+  },
+  {
+    "title": "9.4.5 Modal-matching techniques: cylindrical ",
+    "level": 3
+  },
+  {
+    "title": "9.4.6 Modal-matching techniques: spherical ",
+    "level": 3
+  },
+  {
+    "title": "9.4.7 Gaussian-beam techniques ",
+    "level": 3
+  },
+  {
+    "title": "9.5 Types of corrugated horn ",
+    "level": 2
+  },
+  {
+    "title": "9.5.1 Standard narrow-flare-angle horns ",
+    "level": 3
+  },
+  {
+    "title": "9.5.2 Small-aperture horns ",
+    "level": 3
+  },
+  {
+    "title": "9.5.3 Millimetre-wave horns ",
+    "level": 3
+  },
+  {
+    "title": "9.5.4 Wide-flare-angle horns ",
+    "level": 3
+  },
+  {
+    "title": "9.5.5 Broadband corrugated horns ",
+    "level": 3
+  },
+  {
+    "title": "9.5.6 Ring-loaded slots ",
+    "level": 3
+  },
+  {
+    "title": "9.5.7 Dual-depth corrugated horns ",
+    "level": 3
+  },
+  {
+    "title": "9.5.8 Profile corrugated horns ",
+    "level": 3
+  },
+  {
+    "title": "9.5.9 Rectangular corrugated horns ",
+    "level": 3
+  },
+  {
+    "title": "9.6 References ",
+    "level": 2
+  },
+  {
+    "title": "10 Dielectric-loaded horns ",
+    "level": 1
+  },
+  {
+    "title": "10.1 Introduction ",
+    "level": 2
+  },
+  {
+    "title": "10.2 Principle of operation ",
+    "level": 2
+  },
+  {
+    "title": "10.3 Prediction using modal-matching technique ",
+    "level": 2
+  },
+  {
+    "title": "10.3.1 Dielectric-filled circular waveguide ",
+    "level": 3
+  },
+  {
+    "title": "10.3.2 Power-coupling integrals ",
+    "level": 3
+  },
+  {
+    "title": "10.4 Design considerations ",
+    "level": 2
+  },
+  {
+    "title": "10.5 Parametric studies on linear horn ",
+    "level": 2
+  },
+  {
+    "title": "10.5.1 Permittivity of dielectric ",
+    "level": 3
+  },
+  {
+    "title": "10.5.2 Variation of aperture diameter ",
+    "level": 3
+  },
+  {
+    "title": "10.5.3 Airgap ",
+    "level": 3
+  },
+  {
+    "title": "10.5.4 Change in flare angle ",
+    "level": 3
+  },
+  {
+    "title": "10.5.5 Design of throat region ",
+    "level": 3
+  },
+  {
+    "title": "10.6 Horn-design examples ",
+    "level": 2
+  },
+  {
+    "title": "10.6.1 Dielectric-foam cone in metal horn ",
+    "level": 3
+  },
+  {
+    "title": "10.6.2 Metallised dual-dielectric cone-loaded horn ",
+    "level": 3
+  },
+  {
+    "title": "10.6.3 Millimetre-wave horns using a solid-dielectric cone ",
+    "level": 3
+  },
+  {
+    "title": "10.6.4 Millimetre-wave horns using two solid dielectrics ",
+    "level": 3
+  },
+  {
+    "title": "10.7 Compact profiled dielectric-loaded horns ",
+    "level": 2
+  },
+  {
+    "title": "10.7.1 Comparison with linear horn ",
+    "level": 3
+  },
+  {
+    "title": "10.7.2 Reduction in length ",
+    "level": 3
+  },
+  {
+    "title": "10.7.3 Influence of shape of profile ",
+    "level": 3
+  },
+  {
+    "title": "10.8 Dielectric losses in a dielectric-loaded conical horn ",
+    "level": 2
+  },
+  {
+    "title": "10.8.1 Perturbation expression for the attenuation coefficient ",
+    "level": 3
+  },
+  {
+    "title": "10.8.2 Losses in dielectric-loaded horn ",
+    "level": 3
+  },
+  {
+    "title": "10.9 Tolerance on relative permittivity of dielectric ",
+    "level": 2
+  },
+  {
+    "title": "10.10 Control of crosspolarisation and efficiency with a lens ",
+    "level": 2
+  },
+  {
+    "title": "10.10.1 Lens profile ",
+    "level": 3
+  },
+  {
+    "title": "10.10.2 Design of lens to improve efficiency ",
+    "level": 3
+  },
+  {
+    "title": "10.10.3 Design of lens to reduce crosspolarisation ",
+    "level": 3
+  },
+  {
+    "title": "10.11 References ",
+    "level": 2
+  },
+  {
+    "title": "11 Lens-corrected horns ",
+    "level": 1
+  },
+  {
+    "title": "11.1 Introduction ",
+    "level": 2
+  },
+  {
+    "title": "11.2 Theory of lens design ",
+    "level": 2
+  },
+  {
+    "title": "11.3 Plastics-foam lenses ",
+    "level": 2
+  },
+  {
+    "title": "11.4 Shape of lens ",
+    "level": 2
+  },
+  {
+    "title": "11.5 Zoned lenses ",
+    "level": 2
+  },
+  {
+    "title": "11.6 Aperture amplitude distribution ",
+    "level": 2
+  },
+  {
+    "title": "11.7 Radiation characteristics ",
+    "level": 2
+  },
+  {
+    "title": "11.8 Experimental lenses ",
+    "level": 2
+  },
+  {
+    "title": "11.9 Uses of lens-corrected horns ",
+    "level": 2
+  },
+  {
+    "title": "11.10 References ",
+    "level": 2
+  },
+  {
+    "title": "12 Dielectric feeds ",
+    "level": 1
+  },
+  {
+    "title": "12.1 Introduction ",
+    "level": 2
+  },
+  {
+    "title": "12.2 Dielectric-rod feed ",
+    "level": 2
+  },
+  {
+    "title": "12.2.1 Dielectric-diameter effect ",
+    "level": 3
+  },
+  {
+    "title": "12.2.2 Dielectric constant ",
+    "level": 3
+  },
+  {
+    "title": "12. Dielectric-rod feed with ring loading 3",
+    "level": 2
+  },
+  {
+    "title": "1.4 Dielectric rod with cavity loading 2",
+    "level": 2
+  },
+  {
+    "title": "1.5 Profiled dielectric rods 2",
+    "level": 2
+  },
+  {
+    "title": "1.6 Waveguides with dielectric rings 2",
+    "level": 2
+  },
+  {
+    "title": "1.7 Dualband feed 2",
+    "level": 2
+  },
+  {
+    "title": "13 Dipole feeds ",
+    "level": 1
+  },
+  {
+    "title": "13.1 Introduction ",
+    "level": 2
+  },
+  {
+    "title": "13. Ring-loaded dipole-disc feed 2",
+    "level": 2
+  },
+  {
+    "title": "13.3 Cone-dipole feed ",
+    "level": 2
+  },
+  {
+    "title": "13.4 Cavity-dipole feed ",
+    "level": 2
+  },
+  {
+    "title": "14 Microstrip and resonator type feeds ",
     "level": 1
   },
   {
@@ -8,1031 +780,87 @@
     "level": 2
   },
   {
-    "title": "14.2 Coupling to microstrip patches ",
+    "title": "14.2 Microstrip-antenna feed ",
     "level": 2
   },
   {
-    "title": "14.2.1 Co-planar coupling to a single patch ",
-    "level": 3
-  },
-  {
-    "title": "14.2.2 Series-array co-planar coupling ",
-    "level": 3
-  },
-  {
-    "title": "14.2.3 Probe coupling ",
-    "level": 3
-  },
-  {
-    "title": "14.2.4 Aperture coupling ",
-    "level": 3
-  },
-  {
-    "title": "14.2.5 Electromagnetic coupling ",
-    "level": 3
-  },
-  {
-    "title": "14.3 Parallel and series feed systems ",
+    "title": "14.3 Effect of mode excitation on the crosspolarisation ",
     "level": 2
   },
   {
-    "title": "14.3.1 Parallel feeds for one and two dimensions ",
-    "level": 3
-  },
-  {
-    "title": "14.3.2 Series feed for one dimension ",
-    "level": 3
-  },
-  {
-    "title": "14.3.3 Combined feeds ",
-    "level": 3
-  },
-  {
-    "title": "14.3.4 Discontinuity arrays ",
-    "level": 3
-  },
-  {
-    "title": "14.4 Direct-coupled stripline power dividers and combiners ",
+    "title": "14.4 Effect of conducting chokes ",
     "level": 2
   },
   {
-    "title": "14.4.1 Simple three-port power dividers ",
-    "level": 3
-  },
-  {
-    "title": "14.4.2 Isolated power dividers/combiners ",
-    "level": 3
-  },
-  {
-    "title": "14.4.3 Four-port direct-coupled power dividers ",
-    "level": 3
-  },
-  {
-    "title": "14.5 Other feed systems ",
+    "title": "14.5 Feed performance with the reflector antenna ",
     "level": 2
   },
   {
-    "title": "14.5.1 Alternative transmission lines ",
-    "level": 3
-  },
-  {
-    "title": "14.5.2 Multiple beam-forming networks ",
-    "level": 3
-  },
-  {
-    "title": "14.6 Acknowledgments ",
+    "title": "14.6 Patch-ring feed ",
     "level": 2
   },
   {
-    "title": "14.7 References ",
+    "title": "14.7 Dielectric-resonator feed ",
     "level": 2
   },
   {
-    "title": "15 Advances in substrate technology — G.R. Traut ",
+    "title": "14.8 References ",
+    "level": 2
+  },
+  {
+    "title": "15 Array feeds ",
     "level": 1
   },
   {
-    "title": "15.1 Considerations for substrate selection ",
+    "title": "15.1 Introduction ",
     "level": 2
   },
   {
-    "title": "15.1.1 Impact of properties of various substrate systems on microstrip antenna performance ",
-    "level": 3
-  },
-  {
-    "title": "15.1.2 Comparative list of available substrates ",
-    "level": 3
-  },
-  {
-    "title": "15.1.3 Selection of metal cladding for performance ",
-    "level": 3
-  },
-  {
-    "title": "15.1.4 Thermal characteristics of PTFE ",
-    "level": 3
-  },
-  {
-    "title": "15.1.5 Anisotropy of relative permittivity ",
-    "level": 3
-  },
-  {
-    "title": "15.2 Measurement of substrate properties ",
+    "title": "15.2 Mutual coupling in an array ",
     "level": 2
   },
   {
-    "title": "15.2.1 Stripline-resonator test method ",
+    "title": "15.2.1 Fundamentals ",
     "level": 3
   },
   {
-    "title": "15.2.2 Microstrip-resonator test method ",
+    "title": "15.2.2 Mutual coupling in an array of conical horns ",
     "level": 3
   },
   {
-    "title": "15.2.3 Full-sheet-resonance test method ",
+    "title": "15.2.3 Mutual-coupling predictions for conical-horn arrays ",
     "level": 3
   },
   {
-    "title": "15.2.4 Perturbation cavity method ",
-    "level": 3
-  },
-  {
-    "title": "15.2.5 Tabulated evaluation of methods for measuring relative permittivity and dissipation factor ",
-    "level": 3
-  },
-  {
-    "title": "15.3 Processing laminates into antennas ",
+    "title": "15.3 Effect of mutual coupling on secondary patterns ",
     "level": 2
   },
   {
-    "title": "15.3.1 Handling incoming copper-clad laminates ",
+    "title": "15.3.1 Prediction methods ",
     "level": 3
   },
   {
-    "title": "15.3.2 Handling prior to processing ",
+    "title": "15.3.2 Predicted primary and secondary patterns ",
     "level": 3
   },
   {
-    "title": "15.3.3 Safety considerations for PTFE-based substrates ",
+    "title": "15.3.3 Effect of mutual coupling on secondary patterns when the array feed is displaced ",
     "level": 3
   },
   {
-    "title": "15.3.4 Reducing the effects of etch strain relief ",
-    "level": 3
-  },
-  {
-    "title": "15.3.5 Machining of PTFE-based boards ",
-    "level": 3
-  },
-  {
-    "title": "15.3.6 Bending etched antenna boards ",
-    "level": 3
-  },
-  {
-    "title": "15.3.7 Bonded-board assemblies ",
-    "level": 3
-  },
-  {
-    "title": "15.3.8 Plating-through holes in microstrip antenna boards ",
-    "level": 3
-  },
-  {
-    "title": "15.3.9 Device attachment on microstrip antenna substrates ",
-    "level": 3
-  },
-  {
-    "title": "15.4 Design considerations with selected materials ",
+    "title": "15.4 Mutual coupling for elements of rectangular and elliptical cross-sections ",
     "level": 2
   },
   {
-    "title": "15.4.1 Environmental effects on antenna substrates ",
-    "level": 3
-  },
-  {
-    "title": "15.4.2 Conductor losses at millimetre-wave frequencies ",
-    "level": 3
-  },
-  {
-    "title": "15.4.3 Multilayer circuit-board technology in microstrip antennas ",
-    "level": 3
-  },
-  {
-    "title": "15.5 Special features and new materials developments ",
+    "title": "15.5 Mutual coupling for a microstrip patch array ",
     "level": 2
-  },
-  {
-    "title": "15.5.1 Substrates clad on one side with thick metal ",
-    "level": 3
-  },
-  {
-    "title": "15.5.2 Low thermal coefficient of K in fluoropolymer laminates ",
-    "level": 3
-  },
-  {
-    "title": "15.5.3 Microwave laminates with a resistive layer ",
-    "level": 3
-  },
-  {
-    "title": "15.5.4 Thermoset microwave materials ",
-    "level": 3
-  },
-  {
-    "title": "15.5.5 Low permittivity ceramic—PTFE laminates ",
-    "level": 3
-  },
-  {
-    "title": "15.5.6 Very-low-dielectric-constant substrates ",
-    "level": 3
   },
   {
     "title": "15.6 References ",
     "level": 2
   },
   {
-    "title": "16 Special measurement techniques for printed antennas — E. Levine ",
-    "level": 1
-  },
-  {
-    "title": "16.1 Introduction ",
-    "level": 2
-  },
-  {
-    "title": "16.2 Substrate properties ",
-    "level": 2
-  },
-  {
-    "title": "16.3 Connector characterisation ",
-    "level": 2
-  },
-  {
-    "title": "16.4 Measurements of printed lines and networks ",
-    "level": 2
-  },
-  {
-    "title": "16.4.1 Measurement of printed-line parameters ",
-    "level": 3
-  },
-  {
-    "title": "16.4.2 Measurement of printed networks ",
-    "level": 3
-  },
-  {
-    "title": "16.5 Near-field probing ",
-    "level": 2
-  },
-  {
-    "title": "16.6 Efficiency measurement ",
-    "level": 2
-  },
-  {
-    "title": "16.7 Concluding remarks ",
-    "level": 2
-  },
-  {
-    "title": "16.8 References ",
-    "level": 2
-  },
-  {
-    "title": "17 Computer-aided design of microstrip and triplate circuits — J.F. Zurcher and F.E. Gardiol ",
-    "level": 1
-  },
-  {
-    "title": "17.1 Introduction, definition of the structure ",
-    "level": 2
-  },
-  {
-    "title": "17.1.1 Outline ",
-    "level": 3
-  },
-  {
-    "title": "17.1.2 Microwaves ",
-    "level": 3
-  },
-  {
-    "title": "17.1.3 Transmission lines for microwaves ",
-    "level": 3
-  },
-  {
-    "title": "17.1.4 Balanced stripline or triplate ",
-    "level": 3
-  },
-  {
-    "title": "17.1.5 Microstrip ",
-    "level": 3
-  },
-  {
-    "title": "17.1.6 Adjustments ",
-    "level": 3
-  },
-  {
-    "title": "17.1.7 Multiple inhomogeneity ",
-    "level": 3
-  },
-  {
-    "title": "17.1.8 Measurement problems ",
-    "level": 3
-  },
-  {
-    "title": "17.2 Basic relationships for uniform tines ",
-    "level": 2
-  },
-  {
-    "title": "17.2.1 Uniform tines ",
-    "level": 3
-  },
-  {
-    "title": "17.2.2 Conformal mapping ",
-    "level": 3
-  },
-  {
-    "title": "17.2.3 Schwartz-Christoffel transform ",
-    "level": 3
-  },
-  {
-    "title": "17.2.4 Zero-thickness balanced stripline ",
-    "level": 3
-  },
-  {
-    "title": "17.2.5 Finite-thickness balanced stripline ",
-    "level": 3
-  },
-  {
-    "title": "17.2.6 Equivalent homogeneous microstrip tine ",
-    "level": 3
-  },
-  {
-    "title": "17.2.7 Characteristic impedance of microstrip ",
-    "level": 3
-  },
-  {
-    "title": "17.2.8 Finite-thickness homogeneous microstrip ",
-    "level": 3
-  },
-  {
-    "title": "17.2.9 Microstrip-line synthesis for b = 0 ",
-    "level": 3
-  },
-  {
-    "title": "17.2.10 Dispersion in microstrip ",
-    "level": 3
-  },
-  {
-    "title": "17.2.11 Effect of an enclosure ",
-    "level": 3
-  },
-  {
-    "title": "17.2.12 Attenuation ",
-    "level": 3
-  },
-  {
-    "title": "17.2.13 Higher-order modes and radiation ",
-    "level": 3
-  },
-  {
-    "title": "17.3 Discontinuities: bends and junctions ",
-    "level": 2
-  },
-  {
-    "title": "17.3.1 Definition ",
-    "level": 3
-  },
-  {
-    "title": "17.3.2 Models ",
-    "level": 3
-  },
-  {
-    "title": "17.3.3 TEM-line models ",
-    "level": 3
-  },
-  {
-    "title": "17.3.4 Vanational techniques ",
-    "level": 3
-  },
-  {
-    "title": "17.3.5 Fourier transform ",
-    "level": 3
-  },
-  {
-    "title": "17.3.6 Dielectric Green's function ",
-    "level": 3
-  },
-  {
-    "title": "17.3.7 Integral equations for inductances ",
-    "level": 3
-  },
-  {
-    "title": "17.3.8 Green's function and integral equation ",
-    "level": 3
-  },
-  {
-    "title": "17.3.9 Green's function and electrostatic-inductance computation ",
-    "level": 3
-  },
-  {
-    "title": "17.3.10 TLM (transmission-line-matrix) method ",
-    "level": 3
-  },
-  {
-    "title": "17.3.11 Waveguide model ",
-    "level": 3
-  },
-  {
-    "title": "17.4 Technological realisation: Materials and manufacturing process ",
-    "level": 2
-  },
-  {
-    "title": "17.4.1 Introduction ",
-    "level": 3
-  },
-  {
-    "title": "17.4.2 Dielectric substrate ",
-    "level": 3
-  },
-  {
-    "title": "17.4.3 Comment ",
-    "level": 3
-  },
-  {
-    "title": "17.4.4 Inorganic substrates ",
-    "level": 3
-  },
-  {
-    "title": "17.4.5 Plastic substrates ",
-    "level": 3
-  },
-  {
-    "title": "17.4.6 Semiconductor substrates ",
-    "level": 3
-  },
-  {
-    "title": "17.4.7 Ferrimagnetic substrates ",
-    "level": 3
-  },
-  {
-    "title": "17.4.8 Metallisation ",
-    "level": 3
-  },
-  {
-    "title": "17.4.9 Circuit realisation ",
-    "level": 3
-  },
-  {
-    "title": "17.4.10 Etching ",
-    "level": 3
-  },
-  {
-    "title": "17.4.11 Metal deposition ",
-    "level": 3
-  },
-  {
-    "title": "17.4.12 Removal of photoresist ",
-    "level": 3
-  },
-  {
-    "title": "17.4.13 Under-etching ",
-    "level": 3
-  },
-  {
-    "title": "17.4.14 Thin and thick film ",
-    "level": 3
-  },
-  {
-    "title": "17.5 Analysis and synthesis programs ",
-    "level": 2
-  },
-  {
-    "title": "17.5.1 Introduction ",
-    "level": 3
-  },
-  {
-    "title": "17.5.2 EEsof: Touchstone ",
-    "level": 3
-  },
-  {
-    "title": "17.5.3 CCC: The Supercompact Family ",
-    "level": 3
-  },
-  {
-    "title": "17.5.4 CCC: CADEC + ",
-    "level": 3
-  },
-  {
-    "title": "17.5.5 Acline ",
-    "level": 3
-  },
-  {
-    "title": "17.5.6 Thorn '6: Esope ",
-    "level": 3
-  },
-  {
-    "title": "17.5.7 RCA: Midas ",
-    "level": 3
-  },
-  {
-    "title": "17.5.8 LINMIC ",
-    "level": 3
-  },
-  {
-    "title": "17.5.9 High Tech. Toumesol: Micpatch ",
-    "level": 3
-  },
-  {
-    "title": "17.5.10 Spefco Software: CiAO ",
-    "level": 3
-  },
-  {
-    "title": "17.5.11 Made-it-associates: Mama ",
-    "level": 3
-  },
-  {
-    "title": "17.5.12 Ampsa: Multimatch ",
-    "level": 3
-  },
-  {
-    "title": "17.5.13 Radar systems technology: Analop ",
-    "level": 3
-  },
-  {
-    "title": "17.5.14 Microkop/Suspend ",
-    "level": 3
-  },
-  {
-    "title": "17.5.15 Microwave software applications ",
-    "level": 3
-  },
-  {
-    "title": "17.5.16 Planim ",
-    "level": 3
-  },
-  {
-    "title": "17.5.17 DGS Associates: S/Filsyn ",
-    "level": 3
-  },
-  {
-    "title": "17.5.8 Webb Laboratories: Transcad ",
-    "level": 3
-  },
-  {
-    "title": "17.6 Layouts of circuits and cutting of masks ",
-    "level": 2
-  },
-  {
-    "title": "17.6.1 Description ",
-    "level": 3
-  },
-  {
-    "title": "17.6.2 CCC: Autoart ",
-    "level": 3
-  },
-  {
-    "title": "17.6.3 EFSOF: Micad ",
-    "level": 3
-  },
-  {
-    "title": "7.6.4 High Tech. Tournesol: Micros 1",
-    "level": 3
-  },
-  {
-    "title": "7.6.5 British Telecom: Temcad 1",
-    "level": 3
-  },
-  {
-    "title": "7.7 Componenets 1",
-    "level": 2
-  },
-  {
-    "title": "7.7.1 Introduction 1",
-    "level": 3
-  },
-  {
-    "title": "7.7.2 Discrete components 1",
-    "level": 3
-  },
-  {
-    "title": "7.7.3 Mounting procedure 1",
-    "level": 3
-  },
-  {
-    "title": "7.7.4 Drilling holes in the dielectric substrate 1",
-    "level": 3
-  },
-  {
-    "title": "7.7.5 Deposited components 1",
-    "level": 3
-  },
-  {
-    "title": "7.8 Examples 1",
-    "level": 2
-  },
-  {
-    "title": "7.8.1 Design of a broadband amplifier 1",
-    "level": 3
-  },
-  {
-    "title": "7.8.2 Bandpass filter design 1",
-    "level": 3
-  },
-  {
-    "title": "7.8.3 Design of a miniature Doppler radar 1",
-    "level": 3
-  },
-  {
-    "title": "18 Resonant microstrip antenna elements and arrays for aerospace applications — A.G. Derneryd ",
-    "level": 1
-  },
-  {
-    "title": "18.1 Introduction ",
-    "level": 2
-  },
-  {
-    "title": "18 2 Circular antenna element ",
-    "level": 1
-  },
-  {
-    "title": "18.3 Dual-band circularly polarised antenna element ",
-    "level": 2
-  },
-  {
-    "title": "18.4 Monopulse-array antenna ",
-    "level": 2
-  },
-  {
-    "title": "18.5 Dual-polarised-array antenna ",
-    "level": 2
-  },
-  {
-    "title": "18.6 Concluding remarks ",
-    "level": 2
-  },
-  {
-    "title": "18.7 References ",
-    "level": 2
-  },
-  {
-    "title": "9 Applications in mobile and satellite systems — K. Fujimoto, T. Hori, 1",
-    "level": 1
-  },
-  {
-    "title": "9.1 Introduction 1",
-    "level": 2
-  },
-  {
-    "title": "19.2 Mobile systems 1 ",
-    "level": 2
-  },
-  {
-    "title": "9.2.1 Design considerations 1",
-    "level": 3
-  },
-  {
-    "title": "9.2.2 Base stations 1",
-    "level": 3
-  },
-  {
-    "title": "9.2.3 Wheeled vehicles 1",
-    "level": 3
-  },
-  {
-    "title": "9.2.4 Railways 1",
-    "level": 3
-  },
-  {
-    "title": "9.2.5 Pedestrian 1",
-    "level": 3
-  },
-  {
-    "title": "9.2.6 Radars 1",
-    "level": 3
-  },
-  {
-    "title": "9.3 Satellite systems 1",
-    "level": 2
-  },
-  {
-    "title": "9.3.1 Design considerations 1",
-    "level": 3
-  },
-  {
-    "title": "9.3.2 Direct broadcasting reception 1",
-    "level": 3
-  },
-  {
-    "title": "9.3.3 Earth stations 1",
-    "level": 3
-  },
-  {
-    "title": "9.3.4 Satellite borne 1",
-    "level": 3
-  },
-  {
-    "title": "20 Conical conformal microstrip tracking antenna — P. Newham and G. Morris ",
-    "level": 1
-  },
-  {
-    "title": "20.1 Introduction ",
-    "level": 2
-  },
-  {
-    "title": "20.2 Single patch element ",
-    "level": 2
-  },
-  {
-    "title": "20.2.1 Choice of array element ",
-    "level": 3
-  },
-  {
-    "title": "20.2.2 Choice of substrate ",
-    "level": 3
-  },
-  {
-    "title": "20.2.3 Feeding the patch ",
-    "level": 3
-  },
-  {
-    "title": "20.2.4 Theoretical design method ",
-    "level": 3
-  },
-  {
-    "title": "20.2.5 Patch design ",
-    "level": 3
-  },
-  {
-    "title": "20.3 Dual patch element ",
-    "level": 2
-  },
-  {
-    "title": "20.3.1 Choice of design ",
-    "level": 3
-  },
-  {
-    "title": "20.3.2 Location of patch phase centre ",
-    "level": 3
-  },
-  {
-    "title": "20.3.2 Design and optimisation ",
-    "level": 3
-  },
-  {
-    "title": "20.4 Hybrid feeding network ",
-    "level": 2
-  },
-  {
-    "title": "20.4.1 Overview ",
-    "level": 3
-  },
-  {
-    "title": "20.4.2 Hybrid designs ",
-    "level": 3
-  },
-  {
-    "title": "20.4.3 90° bends ",
-    "level": 3
-  },
-  {
-    "title": "20.4.4 Minimum track distance ",
-    "level": 3
-  },
-  {
-    "title": "20.4.5 Feed-point terminations ",
-    "level": 3
-  },
-  {
-    "title": "20.4.6 Track lengths ",
-    "level": 3
-  },
-  {
-    "title": "20.4.7 Overall design ",
-    "level": 3
-  },
-  {
-    "title": "20.5 Conical antenna array ",
-    "level": 2
-  },
-  {
-    "title": "20.6 Substrate fabrication ",
-    "level": 2
-  },
-  {
-    "title": "20.6. Overview 1",
-    "level": 3
-  },
-  {
-    "title": "20.6.2 Mask drawing and preparation ",
-    "level": 3
-  },
-  {
-    "title": "20.6.3 Etching ",
-    "level": 3
-  },
-  {
-    "title": "20.6.4 Substrate preparation ",
-    "level": 3
-  },
-  {
-    "title": "20.6.5 Triplate bonding ",
-    "level": 3
-  },
-  {
-    "title": "20.7 Forming the antenna ",
-    "level": 2
-  },
-  {
-    "title": "20.7. Bending the substrates 1",
-    "level": 3
-  },
-  {
-    "title": "20.7.2 Attachment of components ",
-    "level": 3
-  },
-  {
-    "title": "20.7.3 Final assembly ",
-    "level": 3
-  },
-  {
-    "title": "20.8 Antenna performance ",
-    "level": 2
-  },
-  {
-    "title": "20.8. Grating-lobe suppression 1",
-    "level": 3
-  },
-  {
-    "title": "20.8.2 Axial ratio ",
-    "level": 3
-  },
-  {
-    "title": "20.8.3 Antenna gain ",
-    "level": 3
-  },
-  {
-    "title": "20.8.4 Tracking slope ",
-    "level": 3
-  },
-  {
-    "title": "20.9 Conclusions and future developments ",
-    "level": 2
-  },
-  {
-    "title": "21 Microstrip field diagnostics — P.G. Frayne ",
-    "level": 1
-  },
-  {
-    "title": "21.1 Introduction ",
-    "level": 2
-  },
-  {
-    "title": "21.2 Surface analytical techniques ",
-    "level": 2
-  },
-  {
-    "title": "21.3 Scanning-network probe ",
-    "level": 2
-  },
-  {
-    "title": "21.4 Theory of the monopole probe ",
-    "level": 2
-  },
-  {
-    "title": "21.5 Resonant microstrip discs ",
-    "level": 2
-  },
-  {
-    "title": "21.6 Resonant microstrip triangles ",
-    "level": 2
-  },
-  {
-    "title": "21.7 Open-circuited microstriplines ",
-    "level": 2
-  },
-  {
-    "title": "21.8 Antenna diagnostics ",
-    "level": 2
-  },
-  {
-    "title": "21.8.1 The rectangular patch ",
-    "level": 3
-  },
-  {
-    "title": "21.9 Linear element patch array ",
-    "level": 2
-  },
-  {
-    "title": "21.10 Circularly polarised patch antenna ",
-    "level": 2
-  },
-  {
-    "title": "21.11 Microstrip travelling-wave antenna ",
-    "level": 2
-  },
-  {
-    "title": "21.12 Acknowledgments ",
-    "level": 2
-  },
-  {
-    "title": "21.13 References ",
-    "level": 2
-  },
-  {
-    "title": "22 Microstrip antennas on a cylindrical surface — E.V. Sohtell ",
-    "level": 1
-  },
-  {
-    "title": "22.1 Introduction ",
-    "level": 2
-  },
-  {
-    "title": "22.2 Theoretical models for a patch on a cylinder ",
-    "level": 2
-  },
-  {
-    "title": "22.2.1 Cavity model of the patch ",
-    "level": 3
-  },
-  {
-    "title": "22.2.2 Surface-current model ",
-    "level": 3
-  },
-  {
-    "title": "22.3 Single patch application ",
-    "level": 2
-  },
-  {
-    "title": "22.3.1 Mechanical design ",
-    "level": 3
-  },
-  {
-    "title": "22.3.2 Measurements ",
-    "level": 3
-  },
-  {
-    "title": "22.3.3 Radiation-pattern comparisons ",
-    "level": 3
-  },
-  {
-    "title": "22.4 Array application ",
-    "level": 2
-  },
-  {
-    "title": "22.4.1 General ",
-    "level": 3
-  },
-  {
-    "title": "22.4.2 Theoretical treatment of finite and infinite arrays ",
-    "level": 3
-  },
-  {
-    "title": "22.4.3 Design of a phased array on C-band ",
-    "level": 3
-  },
-  {
-    "title": "22.4.4 Measured performance ",
-    "level": 3
-  },
-  {
-    "title": "22.5 Summary ",
-    "level": 2
-  },
-  {
-    "title": "22.6 References ",
-    "level": 2
-  },
-  {
-    "title": "23 Extensions and variations to the microstrip ;A. Henderson and ",
-    "level": 1
-  },
-  {
-    "title": "23.1 Introduction ",
-    "level": 2
-  },
-  {
-    "title": "23.2 Radiation pattern control ",
-    "level": 2
-  },
-  {
-    "title": "23.2.1 Reflector feeds ",
-    "level": 3
-  },
-  {
-    "title": "23.2.2 Spherical dielectric overlays ",
-    "level": 3
-  },
-  {
-    "title": "23.3 Wide-bandwidth techniques ",
-    "level": 2
-  },
-  {
-    "title": "23.3.1 Log-periodic structures ",
-    "level": 3
-  },
-  {
-    "title": "23.3.2 Dichroic dual-function apertures ",
-    "level": 3
-  },
-  {
-    "title": "23.4 Millimetre-wave hybrid antenna ",
-    "level": 2
-  },
-  {
-    "title": "23.5 Novel use of materials ",
-    "level": 2
-  },
-  {
-    "title": "23.5.1 Foam substrates for large direct-broadcast-satellite domestic receiving arrays ",
-    "level": 3
-  },
-  {
-    "title": "23.5.2 Magnetic materials and beam scanning ",
-    "level": 3
-  },
-  {
-    "title": "23.5.3 Use of very-high-permittivity substrates in hyperthermia applicators ",
-    "level": 3
-  },
-  {
-    "title": "23.6 Summary comment ",
-    "level": 2
-  },
-  {
-    "title": "23.7 References ",
+    "title": "15.7 Appendix: Coefficients of the admittance matrix for an array of circular apertures ",
     "level": 2
   }
-]
+]]

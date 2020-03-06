@@ -1,259 +1,216 @@
-14 Microstrip antenna feeds — R.P. Owens 815
-14.1 Introduction 815
-14.2 Coupling to microstrip patches 817
-14.2.1 Co-planar coupling to a single patch 817
-14.2.2 Series-array co-planar coupling 818
-14.2.3 Probe coupling 822
-14.2.4 Aperture coupling 823
-14.2.5 Electromagnetic coupling 824
-14.3 Parallel and series feed systems 825
-14.3.1 Parallel feeds for one and two dimensions 825
-14.3.2 Series feed for one dimension 832
-14.3.3 Combined feeds 839
-14.3.4 Discontinuity arrays 843
-14.4 Direct-coupled stripline power dividers and combiners 850
-14.4.1 Simple three-port power dividers '50
-14.4.2 Isolated power dividers/combiners 852
-14.4.3 Four-port direct-coupled power dividers 854
-14.5 Other feed systems 857
-14.5.1 Alternative transmission lines 857
-14.5.2 Multiple beam-forming networks 859
-14.6 Acknowledgments 860
-14.7 References 866
-15 Advances in substrate technology — G.R. Traut 871
-15.1 Considerations for substrate selection 871
-15.1.1 Impact of properties of various substrate systems on microstrip antenna performance 871
-15.1.2 Comparative list of available substrates 878
-15.1.3 Selection of metal cladding for performance 879
-15.1.4 Thermal characteristics of PTFE 880
-15.1.5 Anisotropy of relative permittivity 881
-15.2 Measurement of substrate properties 884
-15.2.1 Stripline-resonator test method 886
-15.2.2 Microstrip-resonator test method 893
-15.2.3 Full-sheet-resonance test method 897
-15.2.4 Perturbation cavity method 906
-15.2.5 Tabulated evaluation of methods for measuring relative permittivity and dissipation factor 914
-15.3 Processing laminates into antennas 916
-15.3.1 Handling incoming copper-clad laminates 917
-15.3.2 Handling prior to processing 918
-15.3.3 Safety considerations for PTFE-based substrates 919
-15.3.4 Reducing the effects of etch strain relief 919
-15.3.5 Machining of PTFE-based boards 922
-15.3.6 Bending etched antenna boards 924
-15.3.7 Bonded-board assemblies 926
-15.3.8 Plating-through holes in microstrip antenna boards 934
-15.3.9 Device attachment on microstrip antenna substrates 936
-15.4 Design considerations with selected materials 939
-15.4.1 Environmental effects on antenna substrates 939
-15.4.2 Conductor losses at millimetre-wave frequencies 942
-15.4.3 Multilayer circuit-board technology in microstrip antennas 944
-15.5 Special features and new materials developments 945
-15.5.1 Substrates clad on one side with thick metal 946
-15.5.2 Low thermal coefficient of K in fluoropolymer laminates 947
-15.5.3 Microwave laminates with a resistive layer 947
-15.5.4 Thermoset microwave materials 951
-15.5.5 Low permittivity ceramic—PTFE laminates 953
-15.5.6 Very-low-dielectric-constant substrates 953
-15.6 References 954
-16 Special measurement techniques for printed antennas — E. Levine 957
-16.1 Introduction 957
-16.2 Substrate properties 958
-16.3 Connector characterisation 962
-16.4 Measurements of printed lines and networks 970
-16.4.1 Measurement of printed-line parameters 971
-16.4.2 Measurement of printed networks 976
-16.5 Near-field probing 981
-16.6 Efficiency measurement 991
-16.7 Concluding remarks 994
-16.8 References 995
-17 Computer-aided design of microstrip and triplate circuits — J.F. Zurcher and F.E. Gardiol 1001
-17.1 Introduction, definition of the structure 1001
-17.1.1 Outline 1001
-17.1.2 Microwaves 1001
-17.1.3 Transmission lines for microwaves 1001
-17.1.4 Balanced stripline or triplate 1003
-17.1.5 Microstrip 1004
-17.1.6 Adjustments 1005
-17.1.7 Multiple inhomogeneity 1005
-17.1.8 Measurement problems 1006
-17.2 Basic relationships for uniform tines 1006
-17.2.1 Uniform tines 1006
-17.2.2 Conformal mapping 1008
-17.2.3 Schwartz-Christoffel transform 1011
-17.2.4 Zero-thickness balanced stripline 1011
-17.2.5 Finite-thickness balanced stripline 1011
-17.2.6 Equivalent homogeneous microstrip tine 1012
-17.2.7 Characteristic impedance of microstrip 1013
-17.2.8 Finite-thickness homogeneous microstrip 1014
-17.2.9 Microstrip-line synthesis for b = 0 1015
-17.2.10 Dispersion in microstrip 1015
-17.2.11 Effect of an enclosure 1015
-17.2.12 Attenuation 1016
-17.2.13 Higher-order modes and radiation 1017
-17.3 Discontinuities: bends and junctions 1017
-17.3.1 Definition 1017
-17.3.2 Models 1018
-17.3.3 TEM-line models 1020
-17.3.4 Vanational techniques 1020
-17.3.5 Fourier transform 1020
-17.3.6 Dielectric Green's function 1020
-17.3.7 Integral equations for inductances 1020
-17.3.8 Green's function and integral equation 1023
-17.3.9 Green's function and electrostatic-inductance computation 1023
-17.3.10 TLM (transmission-line-matrix) method 1023
-17.3.11 Waveguide model 1023
-17.4 Technological realisation: Materials and manufacturing process 1023
-17.4.1 Introduction 1023
-17.4.2 Dielectric substrate 1024
-17.4.3 Comment 1024
-17.4.4 Inorganic substrates 1025
-17.4.5 Plastic substrates 1025
-17.4.6 Semiconductor substrates 1027
-17.4.7 Ferrimagnetic substrates 1027
-17.4.8 Metallisation 1027
-17.4.9 Circuit realisation 1028
-17.4.10 Etching 1028
-17.4.11 Metal deposition 1028
-17.4.12 Removal of photoresist 1029
-17.4.13 Under-etching 1030
-17.4.14 Thin and thick film 1031
-17.5 Analysis and synthesis programs 1031
-17.5.1 Introduction 1031
-17.5.2 EEsof: Touchstone 1032
-17.5.3 CCC: The Supercompact Family 1033
-17.5.4 CCC: CADEC + 1033
-17.5.5 Acline 1033
-17.5.6 Thorn '6: Esope 1033
-17.5.7 RCA: Midas 1034
-17.5.8 LINMIC 1034
-17.5.9 High Tech. Toumesol: Micpatch 1035
-17.5.10 Spefco Software: CiAO 1035
-17.5.11 Made-it-associates: Mama 1036
-17.5.12 Ampsa: Multimatch 1036
-17.5.13 Radar systems technology: Analop 1036
-17.5.14 Microkop/Suspend 1036
-17.5.15 Microwave software applications 1036
-17.5.16 Planim 1036
-17.5.17 DGS Associates: S/Filsyn 1037
-17.5.8 Webb Laboratories: Transcad 1037
-17.6 Layouts of circuits and cutting of masks 1037
-17.6.1 Description 1037
-17.6.2 CCC: Autoart 1037
-17.6.3 EFSOF: Micad 1037
-17.6.4 High Tech. Tournesol: Micros 1
-17.6.5 British Telecom: Temcad 1
-17.7 Componenets 1
-17.7.1 Introduction 1
-17.7.2 Discrete components 1
-17.7.3 Mounting procedure 1
-17.7.4 Drilling holes in the dielectric substrate 1
-17.7.5 Deposited components 1
-17.8 Examples 1
-17.8.1 Design of a broadband amplifier 1
-17.8.2 Bandpass filter design 1
-17.8.3 Design of a miniature Doppler radar 1
-18 Resonant microstrip antenna elements and arrays for aerospace applications — A.G. Derneryd 1057
-18.1 Introduction 1057
-18 2 Circular antenna element 1058
-18.3 Dual-band circularly polarised antenna element 1061
-18.4 Monopulse-array antenna 1068
-18.5 Dual-polarised-array antenna 1073
-18.6 Concluding remarks 1077
-18.7 References 1078
-19 Applications in mobile and satellite systems — K. Fujimoto, T. Hori, 1
-19.1 Introduction 1
-19.2 Mobile systems 1 
-19.2.1 Design considerations 1
-19.2.2 Base stations 1
-19.2.3 Wheeled vehicles 1
-19.2.4 Railways 1
-19.2.5 Pedestrian 1
-19.2.6 Radars 1
-19.3 Satellite systems 1
-19.3.1 Design considerations 1
-19.3.2 Direct broadcasting reception 1
-19.3.3 Earth stations 1
-19.3.4 Satellite borne 1
-20 Conical conformal microstrip tracking antenna — P. Newham and G. Morris 1153
-20.1 Introduction 1153
-20.2 Single patch element 1153
-20.2.1 Choice of array element 1153
-20.2.2 Choice of substrate 1154
-20.2.3 Feeding the patch 1155
-20.2.4 Theoretical design method 1155
-20.2.5 Patch design 1158
-20.3 Dual patch element 1161
-20.3.1 Choice of design 1161
-20.3.2 Location of patch phase centre 1161
-20.3.2 Design and optimisation 1162
-20.4 Hybrid feeding network 1163
-20.4.1 Overview 1163
-20.4.2 Hybrid designs 1166
-20.4.3 90° bends 1
-20.4.4 Minimum track distance 1
-20.4.5 Feed-point terminations 1
-20.4.6 Track lengths 1
-20.4.7 Overall design 1
-20.5 Conical antenna array 1
-20.6 Substrate fabrication 1
-20.6.1 Overview 1
-20.6.2 Mask drawing and preparation 1
-20.6.3 Etching 1
-20.6.4 Substrate preparation 1
-20.6.5 Triplate bonding 1
-20.7 Forming the antenna 1
-20.7.1 Bending the substrates 1
-20.7.2 Attachment of components 1
-20.7.3 Final assembly 1
-20.8 Antenna performance 1
-20.8.1 Grating-lobe suppression 1
-20.8.2 Axial ratio 1
-20.8.3 Antenna gain 1
-20.8.4 Tracking slope 1
-20.9 Conclusions and future developments 1
-21 Microstrip field diagnostics — P.G. Frayne 1193
-21.1 Introduction 1193
-21.2 Surface analytical techniques 1194
-21.3 Scanning-network probe 1195
-21.4 Theory of the monopole probe 1197
-21.5 Resonant microstrip discs 1202
-21.6 Resonant microstrip triangles 1209
-21.7 Open-circuited microstriplines 1212
-21.8 Antenna diagnostics 1214
-21.8.1 The rectangular patch 1215
-21.9 Linear element patch array 1217
-21.10 Circularly polarised patch antenna 1218
-21.11 Microstrip travelling-wave antenna 1222
-21.12 Acknowledgments 1224
-21.13 References 1225
-22 Microstrip antennas on a cylindrical surface — E.V. Sohtell 1227
-22.1 Introduction 1227
-22.2 Theoretical models for a patch on a cylinder 1227
-22.2.1 Cavity model of the patch 1228
-22.2.2 Surface-current model 1232
-22.3 Single patch application 1234
-22.3.1 Mechanical design 1234
-22.3.2 Measurements 1234
-22.3.3 Radiation-pattern comparisons 1235
-22.4 Array application 1239
-22.4.1 General 1239
-22.4.2 Theoretical treatment of finite and infinite arrays 1240
-22.4.3 Design of a phased array on C-band 1240
-22.4.4 Measured performance 1243
-22.5 Summary 1253
-22.6 References 1255
-23 Extensions and variations to the microstrip ;A. Henderson and J.R.,
-23.1 Introduction 1257
-23.2 Radiation pattern control 1258
-23.2.1 Reflector feeds 1258
-23.2.2 Spherical dielectric overlays 1267
-23.3 Wide-bandwidth techniques 1273
-23.3.1 Log-periodic structures 1273
-23.3.2 Dichroic dual-function apertures 1282
-23.4 Millimetre-wave hybrid antenna 1285
-23.5 Novel use of materials 1288
-23.5.1 Foam substrates for large direct-broadcast-satellite domestic receiving arrays 1288
-23.5.2 Magnetic materials and beam scanning 1292
-23.5.3 Use of very-high-permittivity substrates in hyperthermia applicators 1293
-23.6 Summary comment 1294
-23.7 References 1295
+1 Introduction 1
+1.1 Preliminary remarks 1
+1.2 History of reflector antennas and feeds 1
+1.3 Performance requirements of feeds and reflectors 5
+1.3.1 Spatial characteristics 5
+1.3.2 Impedance characteristics 9
+1.3.3 Frequency characteristics 10
+1.4 Organisation of the book 10
+1.5 Choice of type of feed 14
+1.6 References 15
+2 Reflector antennas 16
+2.1 Introduction 16
+2.1.1 General remarks 16
+2.1.2 Reflector types 16
+2.1.3 Constraints 17
+2.2 Theory and performance of reflector antennas 18
+2.2.1 The scattered field from a reflector 18
+2.2.2 The aperture-field method 22
+2.2.3 Radiation from a symmetrical paraboloidal reflector 22
+2.2.4 Features of the secondary-radiation pattern 24
+2.2.5 The dual-reflector antenna 29
+2.2.6 The offset-reflector antenna 32
+2.2.7 The dual-offset-reflector antenna 40
+2.2.8 Focal-field analysis 46
+2.2.9 Antenna return loss 51
+2.2.10 Radome-covered reflectors 53
+2.2.11 The effect of reflector surface errors on antenna performance 57
+2.2.12 The effect of positional errors on antenna performance 60
+2.2.13 Analysis and synthesis of shaped-beam antennas 61
+2.2.14 Dual-gridded reflector antennas 71
+2.2.15 Reconfigurable reflector antennas 72
+2.2.16 Dichroic reflectors 74
+2.3 References 77
+3 Radiation from apertures 79
+3.1 Introduction 79
+3.2 Radiation equations from aperture fields 80
+3.3 Radiation characteristics from apertures 84
+3.3.1 Solution of radiation equations 84
+3.3.2 Line-source apertures 85
+3.3.3 Compound aperture distributions 87
+3.3.4 Rectangular apertures 89
+3.3.5 Apertures with phase tapers 90
+3.3.6 Circular apertures 92
+3.3.7 Gaussian aperture distributions 95
+3.4 Directivity of apertures 96
+3.5 Near fields 97
+3.6 References 98
+4 Numerical analysis using cylindrical and spherical waves in horns 100
+4.1 Introduction 100
+4.2 Fundamentals of modal analysis 101
+4.3 Cylindrical-wave analysis 102
+4.4 Spherical-wave analysis 105
+4.5 Principles of modal-matching technique 106
+4.5.1 Scattering matrix of a uniform section 110
+4.5.2 Scattering matrix of a junction 110
+4.6 Modal-matching technique for cylindrical waveguides 113
+4.6.1 Numerical procedure 114
+4.6.2 Number of modes and sections 115
+4.7 Spherical-modal-matching technique for conical waveguides 117
+4.8 References 122
+5 Numerical analysis of small axisymmetric feeds 123
+5.1 Introduction 123
+5.2 Basic formulation 125
+5.3 Moment-method solution 129
+5.3.1 Co-ordinates of bodies of revolution 129
+5.3.2 Application of moment method 131
+5.3.3 Excitation vectors 136
+5.3.4 Computation of the radiation patterns 139
+5.3.5 Different integral-equation formulations 143
+5.3.6 Solution verification 145
+5.4 References 148
+6 Pure-mode horns 149
+6.1 Principles of pure-mode horns 149
+6.2 Fields and modes in cylindrical waveguides 150
+6.3 Conical horns 152
+6.3.1 Radiation patterns 154
+6.3.2 Gain 157
+6.3.3 Optimum designs 157
+6.3.4 Phase centre 159
+6.4 Pyramidal horns 160
+6.4.1 Radiation patterns 162
+6.4.2 Gain 165
+6.4.3 Design of pyramidal horns 167
+6.5 Other shaped-aperture horns 168
+6.6 Wideband ridge-loaded horns 172
+6.6.1 Radiation patterns 174
+6.6.2 Ridge-loaded input section 174
+6.7 References 178
+7 Prime-focus waveguide feeds 181
+7.1 Introduction 181
+7.2 Phase-centre determination 182
+7.3 Circular waveguide feeds 185
+7.4 Circular waveguide with rectangular corrugated flange 200
+7.5 Circular waveguide with trapezoidally corrugated flange 203
+7.6 Phase-error effects 208
+7.7 Coaxial waveguide feeds 209
+7.8 Feeds for deep reflectors 218
+7.9 Dualband feeds 222
+7.10 Small-horn feeds 225
+7.11 References 227
+8 Multimode horns 229
+8.1 Introduction 229
+8.2 Multiple modes in cylindrical waveguides 230
+8.2.1 Circular waveguides 232
+8.2.2 Rectangular waveguides 241
+8.2.3 Other waveguide cross-sections 241
+8.3 Excitation of higher-order modes 244
+8.4 Shaped-pattern horns 246
+8.4.1 Horns for pattern symmetry and low crosspolarisation 246
+8.4.2 Horns for increased aperture efficiency 249
+8.4.3 Matched feed horns for offset reflectors 253
+8.5 Tracking horns 253
+8.6 References 255
+9 Corrugated horns 258
+9.1 Introduction 258
+9.2 Principles of operation of corrugated horns 259
+9.3 Design procedure for corrugated horns 261
+9.4 Analytical techniques for predicting performance 265
+9.4.1 Balanced hybrid model 266
+9.4.2 Impedance techniques: cylindrical 266
+9.4.3 Impedance techniques: spherical 271
+9.4.4 Space-harmonic techniques 274
+9.4.5 Modal-matching techniques: cylindrical 275
+9.4.6 Modal-matching techniques: spherical 278
+9.4.7 Gaussian-beam techniques 282
+9.5 Types of corrugated horn 286
+9.5.1 Standard narrow-flare-angle horns 286
+9.5.2 Small-aperture horns 287
+9.5.3 Millimetre-wave horns 287
+9.5.4 Wide-flare-angle horns 288
+9.5.5 Broadband corrugated horns 296
+9.5.6 Ring-loaded slots 298
+9.5.7 Dual-depth corrugated horns 300
+9.5.8 Profile corrugated horns 305
+9.5.9 Rectangular corrugated horns 313
+9.6 References 315
+10 Dielectric-loaded horns 318
+10.1 Introduction 318
+10.2 Principle of operation 321
+10.3 Prediction using modal-matching technique 322
+10.3.1 Dielectric-filled circular waveguide 323
+10.3.2 Power-coupling integrals 328
+10.4 Design considerations 328
+10.5 Parametric studies on linear horn 330
+10.5.1 Permittivity of dielectric 330
+10.5.2 Variation of aperture diameter 331
+10.5.3 Airgap 332
+10.5.4 Change in flare angle 332
+10.5.5 Design of throat region 332
+10.6 Horn-design examples 336
+10.6.1 Dielectric-foam cone in metal horn 337
+10.6.2 Metallised dual-dielectric cone-loaded horn 338
+10.6.3 Millimetre-wave horns using a solid-dielectric cone 342
+10.6.4 Millimetre-wave horns using two solid dielectrics 342
+10.7 Compact profiled dielectric-loaded horns 346
+10.7.1 Comparison with linear horn 347
+10.7.2 Reduction in length 350
+10.7.3 Influence of shape of profile 352
+10.8 Dielectric losses in a dielectric-loaded conical horn 356
+10.8.1 Perturbation expression for the attenuation coefficient 357
+10.8.2 Losses in dielectric-loaded horn 358
+10.9 Tolerance on relative permittivity of dielectric 361
+10.10 Control of crosspolarisation and efficiency with a lens 364
+10.10.1 Lens profile 364
+10.10.2 Design of lens to improve efficiency 365
+10.10.3 Design of lens to reduce crosspolarisation 366
+10.11 References 368
+11 Lens-corrected horns 370
+11.1 Introduction 370
+11.2 Theory of lens design 371
+11.3 Plastics-foam lenses 373
+11.4 Shape of lens 373
+11.5 Zoned lenses 378
+11.6 Aperture amplitude distribution 379
+11.7 Radiation characteristics 383
+11.8 Experimental lenses 387
+11.9 Uses of lens-corrected horns 389
+11.10 References 390
+12 Dielectric feeds 391
+12.1 Introduction 391
+12.2 Dielectric-rod feed 3
+12.2.1 Dielectric-diameter effect 3
+12.2.2 Dielectric constant 3
+12.3 Dielectric-rod feed with ring loading 3
+12.4 Dielectric rod with cavity loading 2
+12.5 Profiled dielectric rods 2
+12.6 Waveguides with dielectric rings 2
+12.7 Dualband feed 2
+13 Dipole feeds 416
+13.1 Introduction 2
+13.2 Ring-loaded dipole-disc feed 2
+13.3 Cone-dipole feed 12
+13.4 Cavity-dipole feed 2
+14 Microstrip and resonator type feeds 427
+14.1 Introduction 427
+14.2 Microstrip-antenna feed 428
+14.3 Effect of mode excitation on the crosspolarisation 431
+14.4 Effect of conducting chokes 432
+14.5 Feed performance with the reflector antenna 434
+14.6 Patch-ring feed 436
+14.7 Dielectric-resonator feed 438
+14.8 References 443
+15 Array feeds 444
+15.1 Introduction 444
+15.2 Mutual coupling in an array 448
+15.2.1 Fundamentals 448
+15.2.2 Mutual coupling in an array of conical horns 448
+15.2.3 Mutual-coupling predictions for conical-horn arrays 452
+15.3 Effect of mutual coupling on secondary patterns 461
+15.3.1 Prediction methods 461
+15.3.2 Predicted primary and secondary patterns 464
+15.3.3 Effect of mutual coupling on secondary patterns when the array feed is displaced 469
+15.4 Mutual coupling for elements of rectangular and elliptical cross-sections 472
+15.5 Mutual coupling for a microstrip patch array 475
+15.6 References 480
+15.7 Appendix: Coefficients of the admittance matrix for an array of circular apertures 480
