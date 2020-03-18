@@ -46,7 +46,7 @@ Antenna Arrays: A Computational Approach
 Randy L. Haupt
 ISBN: 978-0-470-93743-3
 
-Introduction to Antenna Placement and Installation
++ Introduction to Antenna Placement and Installation
 Thereza Macnamara
 ISBN: 978-0-470-68688-1
 

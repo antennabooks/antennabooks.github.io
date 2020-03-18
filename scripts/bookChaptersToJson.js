@@ -58,8 +58,8 @@ readInterface.on('close', function () {
       level = 3
     }
     chapters.push({
-      title: lines[i].replace(lines[i].split(" ").last(), ""),
-      // title: lines[i],
+      // title: lines[i].replace(lines[i].split(" ").last(), ""),
+      title: lines[i],
       level: level
       // level: level + 1
       // title: lines[i+1].split(": ")[1],

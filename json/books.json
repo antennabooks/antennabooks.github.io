@@ -23855,5 +23855,1167 @@
         "level": 2
       }
     ]
+  },
+  {
+    "cover": "https://media.wiley.com/product_data/coverImage300/16/04700198/0470019816.jpg",
+    "title": "Introduction to Antenna Placement and Installation",
+    "author": "Thereza M. Macnamara",
+    "publisher": "Wiley",
+    "granted": true,
+    "publisherSite": "https://www.wiley.com/en-us/Introduction+to+Antenna+Placement+and+Installation-p-9780470019818",
+    "amazonSite": "https://www.amazon.com/DEFAULT_SET-Handbook-Microstrip-Antennas-Electromagnetic/dp/0863411509",
+    "edition": 1,
+    "year": 2010,
+    "description": "The author addresses the different stages in the process of developing an entire antenna layout, as well as covering individual retrofits on existing platforms. She explains the physics of antenna placement qualitatively, thus obviating the requirement to understand complex mathematical equations. \n Provides a reference book & guide written primarily for Antenna and Integration Engineers but which will also be of interest to Systems Engineers and Project Managers \n Includes chapters on aircraft systems using antennas, restrictions & trade-offs, frequency & spatial coverage considerations, effect of other antennas & obstacles, RF interoperability issues associated with radiated emissions, computer modelling software, scaled model & full-scale measurements, comparison between measurements & modelling, as well as ground tests and in-flight measurements \n Describes techniques that can be applied equally to antennas on other structures such as land or sea vehicles and spacecraft \n Illustrated throughout with figures & diagrams as well as a full colour plates",
+    "chapters": [
+      {
+        "title": "Introduction to Antenna Placement and Installation",
+        "level": 1
+      },
+      {
+        "title": "Contents",
+        "level": 1
+      },
+      {
+        "title": "About the Author",
+        "level": 1
+      },
+      {
+        "title": "Preface",
+        "level": 1
+      },
+      {
+        "title": "Series Preface",
+        "level": 1
+      },
+      {
+        "title": "1 Basic Antenna and Propagation Theory",
+        "level": 1
+      },
+      {
+        "title": "1.1 Introduction",
+        "level": 2
+      },
+      {
+        "title": "1.2 Characteristics of Electromagnetic Waves",
+        "level": 2
+      },
+      {
+        "title": "1.2.1 Reflection",
+        "level": 3
+      },
+      {
+        "title": "1.2.2 Refraction",
+        "level": 3
+      },
+      {
+        "title": "1.2.3 Diffraction",
+        "level": 3
+      },
+      {
+        "title": "1.3 Interaction between Two Waves",
+        "level": 2
+      },
+      {
+        "title": "1.3.1 Waveforms in the Time Domain",
+        "level": 3
+      },
+      {
+        "title": "1.3.2 Phasors",
+        "level": 3
+      },
+      {
+        "title": "1.4 Polarization",
+        "level": 2
+      },
+      {
+        "title": "1.4.1 Linear Polarization",
+        "level": 3
+      },
+      {
+        "title": "1.4.2 Circular and Elliptical Polarization",
+        "level": 3
+      },
+      {
+        "title": "1.4.3 Axial Ratio",
+        "level": 3
+      },
+      {
+        "title": "1.4.4 Measurement of Polarization Purity",
+        "level": 3
+      },
+      {
+        "title": "1.5 Characteristics of an Antenna",
+        "level": 2
+      },
+      {
+        "title": "1.5.1 Radiation Patterns",
+        "level": 3
+      },
+      {
+        "title": "1.5.2 Directivity, Gain and Efficiency",
+        "level": 3
+      },
+      {
+        "title": "1.5.3 Electrical and Mechanical Boresight",
+        "level": 3
+      },
+      {
+        "title": "1.5.4 Beamwidth and Gain of the Main Lobe",
+        "level": 3
+      },
+      {
+        "title": "1.5.5 Position and Magnitude of the Lobes",
+        "level": 3
+      },
+      {
+        "title": "1.5.6 Bandwidth",
+        "level": 3
+      },
+      {
+        "title": "1.5.7 Polarization",
+        "level": 3
+      },
+      {
+        "title": "1.5.8 Power Handling",
+        "level": 3
+      },
+      {
+        "title": "1.6 Propagation",
+        "level": 2
+      },
+      {
+        "title": "1.6.1 Power Flux Density",
+        "level": 3
+      },
+      {
+        "title": "1.6.2 Guided Waves",
+        "level": 3
+      },
+      {
+        "title": "1.6.3 Free Space Waves",
+        "level": 3
+      },
+      {
+        "title": "References",
+        "level": 1
+      },
+      {
+        "title": "2 Aircraft Systems Using Antennas",
+        "level": 1
+      },
+      {
+        "title": "2.1 Aircraft Systems",
+        "level": 2
+      },
+      {
+        "title": "2.2 Frequencies of the Most Common Aircraft Systems",
+        "level": 2
+      },
+      {
+        "title": "2.3 Automatic Direction Finding",
+        "level": 2
+      },
+      {
+        "title": "2.4 Distress/SOS",
+        "level": 2
+      },
+      {
+        "title": "2.5 Distance Measuring Equipment",
+        "level": 2
+      },
+      {
+        "title": "2.6 Electronic Counter Measures",
+        "level": 2
+      },
+      {
+        "title": "2.7 Electronic Support Systems",
+        "level": 2
+      },
+      {
+        "title": "2.7.1 Frequency",
+        "level": 3
+      },
+      {
+        "title": "2.7.2 Positional Information",
+        "level": 3
+      },
+      {
+        "title": "2.7.3 DOA from Antenna Position",
+        "level": 3
+      },
+      {
+        "title": "2.7.4 DOA Using Amplitude Comparison",
+        "level": 3
+      },
+      {
+        "title": "2.7.5 DOA Using Phase Comparison",
+        "level": 3
+      },
+      {
+        "title": "2.8 Emergency Locator Transmitter/Emergency Position Indicating Radio Beacon",
+        "level": 2
+      },
+      {
+        "title": "2.9 Global Positioning System",
+        "level": 2
+      },
+      {
+        "title": "2.10 HF",
+        "level": 2
+      },
+      {
+        "title": "2.11 Instrument Landing System",
+        "level": 2
+      },
+      {
+        "title": "2.11.1 ILS Marker",
+        "level": 3
+      },
+      {
+        "title": "2.11.2 ILS Glideslope and Localizer",
+        "level": 3
+      },
+      {
+        "title": "2.12 In-Flight Telephony",
+        "level": 2
+      },
+      {
+        "title": "2.13 Microwave Landing System",
+        "level": 2
+      },
+      {
+        "title": "2.14 Radar",
+        "level": 2
+      },
+      {
+        "title": "2.14.1 Doppler Shift",
+        "level": 3
+      },
+      {
+        "title": "2.14.2 RadAlt",
+        "level": 3
+      },
+      {
+        "title": "2.14.3 Search Radar",
+        "level": 3
+      },
+      {
+        "title": "2.14.4 Weather Radar",
+        "level": 3
+      },
+      {
+        "title": "2.14.5 Synthetic Aperture Radar (SAR)",
+        "level": 3
+      },
+      {
+        "title": "2.14.6 Secondary Surveillance Radar",
+        "level": 3
+      },
+      {
+        "title": "2.15 SatCom Civilian",
+        "level": 2
+      },
+      {
+        "title": "2.15.1 INMARSAT",
+        "level": 3
+      },
+      {
+        "title": "2.15.2 Globalstar",
+        "level": 3
+      },
+      {
+        "title": "2.15.3 Iridium",
+        "level": 3
+      },
+      {
+        "title": "2.15.4 SKYLink",
+        "level": 3
+      },
+      {
+        "title": "2.15.5 Teledesic",
+        "level": 3
+      },
+      {
+        "title": "2.15.6 SatCom Airborne Antennas",
+        "level": 3
+      },
+      {
+        "title": "2.16 Signals Intelligence",
+        "level": 2
+      },
+      {
+        "title": "2.16.1 Communications Intelligence",
+        "level": 3
+      },
+      {
+        "title": "2.16.2 Electronic Intelligence",
+        "level": 3
+      },
+      {
+        "title": "2.17 Tactical Air Navigation",
+        "level": 2
+      },
+      {
+        "title": "2.18 Traffic Collision Avoidance System",
+        "level": 2
+      },
+      {
+        "title": "2.19 Telemetry",
+        "level": 2
+      },
+      {
+        "title": "2.20 UHF",
+        "level": 2
+      },
+      {
+        "title": "2.21 VHF Comms",
+        "level": 2
+      },
+      {
+        "title": "2.22 VHF Omnidirectional Ranging",
+        "level": 2
+      },
+      {
+        "title": "2.23 Equipment Designation",
+        "level": 2
+      },
+      {
+        "title": "References",
+        "level": 1
+      },
+      {
+        "title": "3 The Antenna Siting Process",
+        "level": 1
+      },
+      {
+        "title": "3.1 Introduction",
+        "level": 2
+      },
+      {
+        "title": "3.2 New Antenna Layouts",
+        "level": 2
+      },
+      {
+        "title": "3.3 Optimum Positions for Blades",
+        "level": 2
+      },
+      {
+        "title": "3.4 Design Phase",
+        "level": 2
+      },
+      {
+        "title": "3.4.1 Initial Paper Design Stage",
+        "level": 3
+      },
+      {
+        "title": "3.4.2 Investigative and Computational Modelling Phase",
+        "level": 3
+      },
+      {
+        "title": "3.4.3 Verification and Implementation Phase",
+        "level": 3
+      },
+      {
+        "title": "3.5 Certification and Qualification Phase",
+        "level": 2
+      },
+      {
+        "title": "3.6 Typical Antenna Layouts",
+        "level": 2
+      },
+      {
+        "title": "3.6.1 Small Aircraft",
+        "level": 3
+      },
+      {
+        "title": "3.6.2 Large Aircraft",
+        "level": 3
+      },
+      {
+        "title": "References",
+        "level": 1
+      },
+      {
+        "title": "4 Frequency and Spatial Coverage Considerations",
+        "level": 1
+      },
+      {
+        "title": "4.1 Introduction",
+        "level": 2
+      },
+      {
+        "title": "4.1.1 Standard Ground Planes",
+        "level": 3
+      },
+      {
+        "title": "4.2 Effect of the Structure on the Spatial Characteristics of the Antenna",
+        "level": 2
+      },
+      {
+        "title": "4.2.1 Uninstalled and Installed Patterns",
+        "level": 3
+      },
+      {
+        "title": "4.3 Combination of Two Waves",
+        "level": 2
+      },
+      {
+        "title": "4.3.1 Combination in the Time Domain",
+        "level": 3
+      },
+      {
+        "title": "4.3.2 Combination of Two Waves Using Trigonometry",
+        "level": 3
+      },
+      {
+        "title": "4.4 Measurements on Scaled Test Bodies",
+        "level": 2
+      },
+      {
+        "title": "4.4.1 Fokker 100 Scaled Model Used for Measurements",
+        "level": 3
+      },
+      {
+        "title": "4.4.2 Cylinder Used for Radiation Pattern Measurements",
+        "level": 3
+      },
+      {
+        "title": "4.5 Effect of Frequency on the Radiation Pattern",
+        "level": 2
+      },
+      {
+        "title": "4.6 Effect of Distance from Obstacles",
+        "level": 2
+      },
+      {
+        "title": "4.6.1 Effect of the Physical Distance from Obstacles",
+        "level": 3
+      },
+      {
+        "title": "4.6.2 Effect of the Electrical Distance from Obstacles",
+        "level": 3
+      },
+      {
+        "title": "4.7 Effect of Wings on the Radiation Pattern",
+        "level": 2
+      },
+      {
+        "title": "4.8 Effect of the Curved Ground Plane and the Electrical Dimensions of the Fuselage",
+        "level": 2
+      },
+      {
+        "title": "4.8.1 Effect of the Curved Fuselage on the Roll Plane Patterns",
+        "level": 3
+      },
+      {
+        "title": "4.8.2 Effect of the Curved Nose Cone and Tail on the Pitch Plane Patterns",
+        "level": 3
+      },
+      {
+        "title": "4.9 Radiation Patterns on Cylinders in the Absence of Obstacles",
+        "level": 2
+      },
+      {
+        "title": "References",
+        "level": 1
+      },
+      {
+        "title": "5 Antennas Used on Aircraft",
+        "level": 1
+      },
+      {
+        "title": "5.1 Introduction",
+        "level": 2
+      },
+      {
+        "title": "5.2 Near and Far Fields of an Antenna",
+        "level": 2
+      },
+      {
+        "title": "5.2.1 Far Field for Wire Antennas",
+        "level": 3
+      },
+      {
+        "title": "5.2.2 Far Field for Aperture Antennas",
+        "level": 3
+      },
+      {
+        "title": "5.3 Antennas on Aerostructures",
+        "level": 2
+      },
+      {
+        "title": "5.4 Polar Radiation Patterns",
+        "level": 2
+      },
+      {
+        "title": "5.5 Dipoles",
+        "level": 2
+      },
+      {
+        "title": "5.5.1 Small Dipoles",
+        "level": 3
+      },
+      {
+        "title": "5.5.2 Resonant Dipoles",
+        "level": 3
+      },
+      {
+        "title": "5.5.3 Broadband Dipoles",
+        "level": 3
+      },
+      {
+        "title": "5.5.4 Crossed Dipoles",
+        "level": 3
+      },
+      {
+        "title": "5.5.5 Dipole Arrays",
+        "level": 3
+      },
+      {
+        "title": "5.6 Monopoles",
+        "level": 2
+      },
+      {
+        "title": "5.6.1 Ground Plane Dependence",
+        "level": 3
+      },
+      {
+        "title": "5.6.2 Top Loaded Monopoles",
+        "level": 3
+      },
+      {
+        "title": "5.6.3 Small Monopoles",
+        "level": 3
+      },
+      {
+        "title": "5.6.4 Broadband Monopoles",
+        "level": 3
+      },
+      {
+        "title": "5.6.5 Tuned Monopoles",
+        "level": 3
+      },
+      {
+        "title": "5.6.6 Monopole Arrays",
+        "level": 3
+      },
+      {
+        "title": "5.7 Loops and Notches",
+        "level": 2
+      },
+      {
+        "title": "5.8 Helixes",
+        "level": 2
+      },
+      {
+        "title": "5.9 Flat/Planar Spirals",
+        "level": 2
+      },
+      {
+        "title": "5.10 Patches",
+        "level": 2
+      },
+      {
+        "title": "5.10.1 Patch Arrays",
+        "level": 3
+      },
+      {
+        "title": "5.11 Aperture Antennas",
+        "level": 2
+      },
+      {
+        "title": "5.12 Reflectors",
+        "level": 2
+      },
+      {
+        "title": "5.12.1 Antennas and the Fourier Transform",
+        "level": 3
+      },
+      {
+        "title": "5.13 Waveguide Fed Antennas",
+        "level": 2
+      },
+      {
+        "title": "5.13.1 Waveguide Theory",
+        "level": 3
+      },
+      {
+        "title": "5.13.2 Horns",
+        "level": 3
+      },
+      {
+        "title": "5.13.3 Slotted Waveguide Array Antenna",
+        "level": 3
+      },
+      {
+        "title": "5.13.4 Phased Array Antennas",
+        "level": 3
+      },
+      {
+        "title": "5.14 Model Numbers Used by Different Manufacturers",
+        "level": 2
+      },
+      {
+        "title": "References",
+        "level": 1
+      },
+      {
+        "title": "6 RF Interoperability",
+        "level": 1
+      },
+      {
+        "title": "6.1 Introduction",
+        "level": 2
+      },
+      {
+        "title": "6.2 Coupling between Systems on an Aircraft",
+        "level": 2
+      },
+      {
+        "title": "6.2.1 Conducted Emissions inside the Airframe",
+        "level": 3
+      },
+      {
+        "title": "6.2.2 Radiated Emissions inside the Airframe",
+        "level": 3
+      },
+      {
+        "title": "6.2.3 Radiated Emissions outside the Airframe",
+        "level": 3
+      },
+      {
+        "title": "6.2.4 Conducted Emissions outside the Airframe",
+        "level": 3
+      },
+      {
+        "title": "6.2.5 Radiated Emissions through the Airframe",
+        "level": 3
+      },
+      {
+        "title": "6.2.6 Conducted Emissions through the Airframe",
+        "level": 3
+      },
+      {
+        "title": "6.2.7 Coupling between Systems due to Radiated Emissions Outside the Airframe",
+        "level": 3
+      },
+      {
+        "title": "6.3 Techniques for Achieving RF Interoperability",
+        "level": 2
+      },
+      {
+        "title": "6.3.1 Antenna Placement",
+        "level": 3
+      },
+      {
+        "title": "6.3.2 Time Domain Measures",
+        "level": 3
+      },
+      {
+        "title": "6.3.3 Sidelobe Blanking",
+        "level": 3
+      },
+      {
+        "title": "6.3.4 Receiver Blanking",
+        "level": 3
+      },
+      {
+        "title": "6.3.5 Frequency Filters",
+        "level": 3
+      },
+      {
+        "title": "6.3.6 EM Shielding",
+        "level": 3
+      },
+      {
+        "title": "6.4 Modulation",
+        "level": 2
+      },
+      {
+        "title": "6.4.1 Amplitude Modulation",
+        "level": 3
+      },
+      {
+        "title": "6.4.2 Single Sideband Modulation",
+        "level": 3
+      },
+      {
+        "title": "6.4.3 Frequency Modulation",
+        "level": 3
+      },
+      {
+        "title": "6.4.4 Pulsed Radar",
+        "level": 3
+      },
+      {
+        "title": "6.5 Coupling due to Radiated Emissions through the Antennas",
+        "level": 2
+      },
+      {
+        "title": "6.6 Coupling between Systems with LOS Antennas",
+        "level": 2
+      },
+      {
+        "title": "6.6.1 Spatial Isolation",
+        "level": 3
+      },
+      {
+        "title": "6.6.2 Calculation of Coupling between Systems with LOS Antennas",
+        "level": 3
+      },
+      {
+        "title": "6.6.3 Out-of-Band Coupling",
+        "level": 3
+      },
+      {
+        "title": "6.7 Coupling between Systems for Antennas on Opposite Surfaces of the Fuselage",
+        "level": 2
+      },
+      {
+        "title": "6.7.1 Problems with Estimating Coupling at the Higher Frequencies",
+        "level": 3
+      },
+      {
+        "title": "6.8 Existing Formulas Used for Calculating Coupling between Two Antennas on Opposite Surfaces",
+        "level": 2
+      },
+      {
+        "title": "6.8.1 Bull and Smithers",
+        "level": 3
+      },
+      {
+        "title": "6.8.2 Simple Diffraction",
+        "level": 3
+      },
+      {
+        "title": "6.9 Derivation of an Empirical Formula that Correlates with the Measured Data",
+        "level": 2
+      },
+      {
+        "title": "References",
+        "level": 1
+      },
+      {
+        "title": "7 Computer Modelling Techniques",
+        "level": 1
+      },
+      {
+        "title": "7.1 Introduction",
+        "level": 2
+      },
+      {
+        "title": "7.2 Overview of Computer Modelling",
+        "level": 2
+      },
+      {
+        "title": "7.2.1 Reasons for Computer Modelling of Antennas on Structures",
+        "level": 3
+      },
+      {
+        "title": "7.2.2 Systems Performance Using Antenna Modelling",
+        "level": 3
+      },
+      {
+        "title": "7.2.3 Postdiction",
+        "level": 3
+      },
+      {
+        "title": "7.2.4 Modelling the Exterior Surface",
+        "level": 3
+      },
+      {
+        "title": "7.2.5 Modelling the Antenna",
+        "level": 3
+      },
+      {
+        "title": "7.2.6 The Frequency Gap",
+        "level": 3
+      },
+      {
+        "title": "7.3 Generic Types of Computer Modelling",
+        "level": 2
+      },
+      {
+        "title": "7.3.1 Classification of Generic Forms of Computer Packages",
+        "level": 3
+      },
+      {
+        "title": "7.3.2 Verification of Modelling by Showing Correlation with Measured Data",
+        "level": 3
+      },
+      {
+        "title": "7.4 Method of Moments",
+        "level": 2
+      },
+      {
+        "title": "7.4.1 Enhancements",
+        "level": 3
+      },
+      {
+        "title": "7.4.2 Comparison with Scaled Model Measurements",
+        "level": 3
+      },
+      {
+        "title": "7.4.3 Fast Multipole Method &#8211; BEM with Accelerated Solver",
+        "level": 3
+      },
+      {
+        "title": "7.5 Finite Difference Time Domain",
+        "level": 2
+      },
+      {
+        "title": "7.5.1 Comparison with Measurements",
+        "level": 3
+      },
+      {
+        "title": "7.6 GTD/UTD",
+        "level": 2
+      },
+      {
+        "title": "7.6.1 Geometric Theory of Diffraction",
+        "level": 3
+      },
+      {
+        "title": "7.6.2 Uniform/Unified Theory of Diffraction",
+        "level": 3
+      },
+      {
+        "title": "7.6.3 Creeping Waves Around Cylinders",
+        "level": 3
+      },
+      {
+        "title": "7.6.4 Limitations of GTD/UTD Modelling",
+        "level": 3
+      },
+      {
+        "title": "7.6.5 Geometric Surface Models for GTD/UTD",
+        "level": 3
+      },
+      {
+        "title": "7.6.6 Higher-Order Interactions",
+        "level": 3
+      },
+      {
+        "title": "7.6.7 Comparison of GTD/UTD with Scaled Model Measurements",
+        "level": 3
+      },
+      {
+        "title": "7.7 Physical Optics",
+        "level": 2
+      },
+      {
+        "title": "7.7.1 Comparison with MoM",
+        "level": 3
+      },
+      {
+        "title": "7.8 Hybrid Methods",
+        "level": 2
+      },
+      {
+        "title": "7.8.1 Multi-domain Method",
+        "level": 3
+      },
+      {
+        "title": "7.8.2 Physical Optics and Hybrid MoM/PO",
+        "level": 3
+      },
+      {
+        "title": "7.8.3 Hybrid of MoM and GTD/UTD",
+        "level": 3
+      },
+      {
+        "title": "7.9 Comparison of Predicted Surface Currents",
+        "level": 2
+      },
+      {
+        "title": "7.9.1 Comparison between the Surface Currents on an Airframe using Different Codes",
+        "level": 3
+      },
+      {
+        "title": "7.9.2 Surface Currents on a Simplistic Airframe for Different Meshes",
+        "level": 3
+      },
+      {
+        "title": "7.10 Code-to-code Comparison of Radiation Patterns Predicted on the Simplistic Airframe",
+        "level": 2
+      },
+      {
+        "title": "7.11 Relationship between Number of Unknowns and Surface Area",
+        "level": 2
+      },
+      {
+        "title": "References",
+        "level": 1
+      },
+      {
+        "title": "8 Measurements",
+        "level": 1
+      },
+      {
+        "title": "8.1 Introduction",
+        "level": 2
+      },
+      {
+        "title": "8.2 Positioners",
+        "level": 2
+      },
+      {
+        "title": "8.2.1 Phase Centre Error",
+        "level": 3
+      },
+      {
+        "title": "8.3 Test Facility Antennas",
+        "level": 2
+      },
+      {
+        "title": "8.3.1 Range Antennas",
+        "level": 3
+      },
+      {
+        "title": "8.3.2 Antennas Used in Near-Field Facilities",
+        "level": 3
+      },
+      {
+        "title": "8.3.3 Antennas Used in Compact Ranges",
+        "level": 3
+      },
+      {
+        "title": "8.4 Scaled Models",
+        "level": 2
+      },
+      {
+        "title": "8.4.1 Use of Scaled Models",
+        "level": 3
+      },
+      {
+        "title": "8.4.2 Characteristics of Scaled Models",
+        "level": 3
+      },
+      {
+        "title": "8.5 Scaled Antennas",
+        "level": 2
+      },
+      {
+        "title": "8.5.1 Monopole Antennas",
+        "level": 3
+      },
+      {
+        "title": "8.5.2 Patch Antennas",
+        "level": 3
+      },
+      {
+        "title": "8.6 Absorbers",
+        "level": 2
+      },
+      {
+        "title": "8.6.1 Carbon Loaded Foam RAM",
+        "level": 3
+      },
+      {
+        "title": "8.6.2 Carbon Loaded Fibre Matting",
+        "level": 3
+      },
+      {
+        "title": "8.6.3 Other Types of RAM",
+        "level": 3
+      },
+      {
+        "title": "8.7 Measurement Facilities",
+        "level": 2
+      },
+      {
+        "title": "8.8 Indoor Test Facilities",
+        "level": 2
+      },
+      {
+        "title": "8.9 Anechoic Chambers",
+        "level": 2
+      },
+      {
+        "title": "8.9.1 Quiet Zone",
+        "level": 3
+      },
+      {
+        "title": "8.9.2 Rectangular Chambers",
+        "level": 3
+      },
+      {
+        "title": "8.9.3 Tapered Anechoic Chambers",
+        "level": 3
+      },
+      {
+        "title": "8.10 Compact Ranges",
+        "level": 2
+      },
+      {
+        "title": "8.11 Near-Field Facilities",
+        "level": 2
+      },
+      {
+        "title": "8.11.1 Planar Near-Field Facilities",
+        "level": 3
+      },
+      {
+        "title": "8.11.2 Cylindrical Near-Field Facilities",
+        "level": 3
+      },
+      {
+        "title": "8.11.3 Spherical Near-Field Facilities",
+        "level": 3
+      },
+      {
+        "title": "8.11.4 Advanced Antenna Near-Field Test System",
+        "level": 3
+      },
+      {
+        "title": "8.12 Outdoor Far-Field Ranges",
+        "level": 2
+      },
+      {
+        "title": "8.12.1 Measurement of the Variation of the Field over the Measurement Volume",
+        "level": 3
+      },
+      {
+        "title": "8.12.2 Elevated Ranges",
+        "level": 3
+      },
+      {
+        "title": "8.12.3 Slant Ranges",
+        "level": 3
+      },
+      {
+        "title": "8.12.4 Ground Reflection Ranges",
+        "level": 3
+      },
+      {
+        "title": "8.12.5 Open Area Test Sites (OATS)",
+        "level": 3
+      },
+      {
+        "title": "8.13 Ground Test Measurements",
+        "level": 2
+      },
+      {
+        "title": "8.13.1 Radiation Pattern Measurements",
+        "level": 3
+      },
+      {
+        "title": "8.13.2 Coupling Measurements",
+        "level": 3
+      },
+      {
+        "title": "8.14 In-Flight Measurements for System and Inter-System Testing",
+        "level": 2
+      },
+      {
+        "title": "References",
+        "level": 1
+      },
+      {
+        "title": "9 Reference",
+        "level": 1
+      },
+      {
+        "title": "9.1 Centigrade to Fahrenheit Temperature Conversion",
+        "level": 2
+      },
+      {
+        "title": "9.2 Conductivity of Common Metals",
+        "level": 2
+      },
+      {
+        "title": "9.3 Degrees to Radians and Radians to Degrees",
+        "level": 2
+      },
+      {
+        "title": "9.4 Dielectric Constants and Loss Tangents of Common Materials",
+        "level": 2
+      },
+      {
+        "title": "9.5 Electrochemical Series",
+        "level": 2
+      },
+      {
+        "title": "9.6 Electromagnetic Spectrum and Frequency Bands for Different Nomenclatures",
+        "level": 2
+      },
+      {
+        "title": "9.6.1 EM Spectrum",
+        "level": 3
+      },
+      {
+        "title": "9.6.2 Frequency Bands and Wavelengths for Different Nomenclatures",
+        "level": 3
+      },
+      {
+        "title": "9.7 Formulas",
+        "level": 2
+      },
+      {
+        "title": "9.8 Frequency to Wavelength",
+        "level": 2
+      },
+      {
+        "title": "9.9 Gain in dB and Gain as a Linear Ratio",
+        "level": 2
+      },
+      {
+        "title": "9.10 Greek Alphabet",
+        "level": 2
+      },
+      {
+        "title": "9.11 Imperial to Metric Conversions &#8211; Distance, Area, Volume, Speed",
+        "level": 2
+      },
+      {
+        "title": "9.11.1 Conversion Factors for Lengths/Distances",
+        "level": 3
+      },
+      {
+        "title": "9.11.2 Conversion Factors for Areas",
+        "level": 3
+      },
+      {
+        "title": "9.11.3 Conversion Factors for Volume and Capacity",
+        "level": 3
+      },
+      {
+        "title": "9.11.4 Conversion Factors for Speed",
+        "level": 3
+      },
+      {
+        "title": "9.12 Periodic Table Alphabetically",
+        "level": 2
+      },
+      {
+        "title": "9.13 Polarization Matching Matrix",
+        "level": 2
+      },
+      {
+        "title": "9.14 Power in dBm and Power in Watts",
+        "level": 2
+      },
+      {
+        "title": "9.15 Preferred SI Scientific Prefixes",
+        "level": 2
+      },
+      {
+        "title": "9.16 Terms and Definitions",
+        "level": 2
+      },
+      {
+        "title": "9.17 VSWR to Return Loss",
+        "level": 2
+      },
+      {
+        "title": "Appendix: Abbreviations and Acronyms",
+        "level": 1
+      },
+      {
+        "title": "Index",
+        "level": 1
+      }
+    ]
   }
 ]
